@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 48,
+  "translation": "και στη Διβών και στο Νεβώ και στο Βετ-Διβλατάιμ",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "και στη"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "Διβών"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "και στο"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Νεβώ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "και στο"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Βετ"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "Διβλατάιμ"
+    }
+  ],
+  "timestamp": "2026-09-03T05:11:51.398502413Z",
+  "model": "glm-5.3"
+}

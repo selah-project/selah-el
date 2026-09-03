@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 109,
+  "translation": "Ορίσε πάνω του έναν άνομο, και σατάν ας σταθεί στα δεξιά του.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Ορίσε"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "πάνω του"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "έναν άνομο"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "και σατάν"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ας σταθεί"
+    },
+    {
+      "surface": "על",
+      "gloss": "στα"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "δεξιά του"
+    }
+  ],
+  "timestamp": "2026-09-03T08:29:12.130152146Z",
+  "model": "glm-5.3"
+}

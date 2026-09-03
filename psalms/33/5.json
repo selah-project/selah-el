@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 33,
+  "translation": "Αγαπάει δικαιοσύνη και κρίση· ο χέσεδ του Γιαχβέ γέμισε τη γη.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Αγαπάει"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "δικαιοσύνη"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "και κρίση"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "χέσεδ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "γέμισε"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "τη γη"
+    }
+  ],
+  "timestamp": "2026-09-03T11:26:48.511375600Z",
+  "model": "glm-5.3"
+}

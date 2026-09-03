@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 27,
+  "translation": "Μην καυχάσαι την ημέρα του αύριο, γιατί δεν ξέρεις τι θα γεννήσει μια ημέρα.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Μην"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "καυχάσαι"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "την ημέρα"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "του αύριο"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ξέρεις"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "θα γεννήσει"
+    },
+    {
+      "surface": "יום",
+      "gloss": "μια ημέρα"
+    }
+  ],
+  "timestamp": "2026-09-03T08:58:46.342589602Z",
+  "model": "glm-5.3"
+}

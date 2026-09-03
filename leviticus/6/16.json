@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και κάθε μινχά κοέν ολόκληρη θα είναι· δεν θα τρώγεται.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "και κάθε"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "μινχά"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "κοέν"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ολόκληρη"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "θα είναι"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "θα τρώγεται"
+    }
+  ],
+  "timestamp": "2026-09-03T00:05:31.835709462Z",
+  "model": "glm-5.3"
+}

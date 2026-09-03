@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 9:29",
+  "book": "job",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Εγώ θα κριθώ ένοχος· γιατί αυτό; μάταια κοπιάζω.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Εγώ"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "θα κριθώ ένοχος"
+    },
+    {
+      "surface": "למה",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "זה",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "μάταια"
+    },
+    {
+      "surface": "איגע",
+      "gloss": "κοπιάζω"
+    }
+  ],
+  "timestamp": "2026-09-03T09:06:30.284513225Z",
+  "model": "glm-5.3"
+}

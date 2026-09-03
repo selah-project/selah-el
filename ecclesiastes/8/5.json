@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Όποιος φυλάει εντολή δεν θα γνωρίσει κακό πράγμα· και καιρό και κρίση γνωρίζει η καρδιά του σοφού.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Όποιος φυλάει"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "εντολή"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "θα γνωρίσει"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "πράγμα"
+    },
+    {
+      "surface": "רע",
+      "gloss": "κακό"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "και καιρό"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "και κρίση"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "γνωρίζει"
+    },
+    {
+      "surface": "לב",
+      "gloss": "η καρδιά"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "του σοφού"
+    }
+  ],
+  "timestamp": "2026-09-03T09:41:31.316881642Z",
+  "model": "glm-5.3"
+}

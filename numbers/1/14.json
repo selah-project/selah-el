@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Για τον Γκαντ· Ελιασάφ γιος του Δεουέλ.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "Για τον Γκαντ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Ελιασάφ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "του Δεουέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:18:03.132575604Z",
+  "model": "glm-5.3"
+}

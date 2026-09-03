@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Και έκανε το κακό, γιατί δεν ετοίμασε την καρδιά του να ζητάει ⟨את⟩ τον Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Και έκανε"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "το κακό"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ετοίμασε"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "την καρδιά του"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "να ζητάει"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Γιαχβέ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "τον Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T11:01:01.610767980Z",
+  "model": "glm-5.3"
+}

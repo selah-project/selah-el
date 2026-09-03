@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Πληγή και ντροπή θα βρει, και ο διασυρμός του δεν θα σβηστεί.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "Πληγή"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "και ντροπή"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "θα βρει"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "και ο διασυρμός του"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "θα σβηστεί"
+    }
+  ],
+  "timestamp": "2026-09-03T08:45:27.743512841Z",
+  "model": "glm-5.3"
+}

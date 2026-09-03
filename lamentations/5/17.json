@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Γι' αυτό έγινε άρρωστη η καρδιά μας· γι' αυτά σκοτείνιασαν τα μάτια μας.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Γι'"
+    },
+    {
+      "surface": "זה",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "היה",
+      "gloss": "έγινε"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "άρρωστη"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "η καρδιά μας"
+    },
+    {
+      "surface": "על",
+      "gloss": "γι'"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "αυτά"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "σκοτείνιασαν"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "τα μάτια μας"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:04.859632408Z",
+  "model": "glm-5.3"
+}

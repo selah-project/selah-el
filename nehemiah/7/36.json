@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 7:36",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι γιοι του Γιριχο, τριακόσιοι σαράντα και πέντε.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Γιριχο"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "τριακόσιοι"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(εκατοντάδες)"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "σαράντα"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "και πέντε"
+    }
+  ],
+  "timestamp": "2026-09-03T10:16:58.262492639Z",
+  "model": "glm-5.3"
+}

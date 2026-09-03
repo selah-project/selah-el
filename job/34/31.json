@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "el",
+  "chapter": 34,
+  "translation": "Γιατί προς τον Ελ έχει πει: Ύψωσα, δεν θα βλάψω.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "אל",
+      "gloss": "τον Ελ"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "έχει πει"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "Ύψωσα"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אחבל",
+      "gloss": "θα βλάψω"
+    }
+  ],
+  "timestamp": "2026-09-03T09:20:50.431631674Z",
+  "model": "glm-5.3"
+}

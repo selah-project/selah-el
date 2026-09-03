@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Γιοι του Ελάμ: χίλιοι διακόσιοι πενήντα τέσσερα.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Ελάμ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "χίλιοι"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "διακόσιοι"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "πενήντα"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "τέσσερα"
+    }
+  ],
+  "timestamp": "2026-09-03T10:17:14.920412205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "οι επικεφαλείς του λαού: Φαρός, Φαχατ-Μοάβ, Ελάμ, Ζαττού, Βανί,",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "οι επικεφαλείς"
+    },
+    {
+      "surface": "העם",
+      "gloss": "του λαού"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Φαρός"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Φαχατ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Μοάβ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Ελάμ"
+    },
+    {
+      "surface": "ζתוא",
+      "gloss": "Ζαττού"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Βανί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:20:50.632242836Z",
+  "model": "glm-5.3"
+}

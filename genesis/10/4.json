@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Και γιοι του Γιαβάν: Ελισά και Ταρσίς, Κιτίμ και Δοδανίμ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και γιοι"
+    },
+    {
+      "surface": "יון",
+      "gloss": "του Γιαβάν"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Ελισά"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "και Ταρσίς"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Κιτίμ"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "και Δοδανίμ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:22:26.471789779Z",
+  "model": "glm-5.3"
+}

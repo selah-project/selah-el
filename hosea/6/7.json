@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 6:7",
+  "book": "hosea",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Κι αυτοί σαν τον Αδάμ παράβηκαν συνθήκη· εκεί με πρόδωσαν.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "Κι αυτοί"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "σαν τον Αδάμ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "παράβηκαν"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "συνθήκη"
+    },
+    {
+      "surface": "שם",
+      "gloss": "εκεί"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "με πρόδωσαν"
+    },
+    {
+      "surface": "בי",
+      "gloss": "με"
+    }
+  ],
+  "timestamp": "2026-09-03T06:01:36.525361975Z",
+  "model": "glm-5.3"
+}

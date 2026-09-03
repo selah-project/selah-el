@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "και όχι θα μαρτυρήσεις κατά του συντρόφου σου μαρτυρία ψεύτικη.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "και όχι"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "θα μαρτυρήσεις"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "κατά του συντρόφου σου"
+    },
+    {
+      "surface": "עד",
+      "gloss": "μαρτυρία"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ψεύτικη"
+    }
+  ],
+  "timestamp": "2026-09-03T00:43:28.940927854Z",
+  "model": "glm-5.3"
+}

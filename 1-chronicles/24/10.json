@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "στον Χακότς ο έβδομος, στον Αβίγια ο όγδοος.",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "στον Χακότς"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ο έβδομος"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "στον Αβίγια"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ο όγδοος"
+    }
+  ],
+  "timestamp": "2026-09-03T10:44:43.845216918Z",
+  "model": "glm-5.3"
+}

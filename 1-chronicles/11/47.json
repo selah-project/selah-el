@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Ελιέλ, και ο Οβέδ, και ο Γιαασιέλ ο Μετσοβαί,",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "Ελιέλ"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "και ο Οβέδ"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "και ο Γιαασιέλ"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "ο Μετσοβαί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:34:25.713736906Z",
+  "model": "glm-5.3"
+}

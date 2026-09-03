@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Μαχαραΐ ο Νετοφαθί, Χελέδ γιος Βαανά ο Νετοφωνί.",
+  "tokens": [
+    {
+      "surface": "מַהְרַי",
+      "gloss": "Μαχαραΐ"
+    },
+    {
+      "surface": "הַנְּטֹפָתִי",
+      "gloss": "ο Νετοφαθί"
+    },
+    {
+      "surface": "חֵלֶד",
+      "gloss": "Χελέδ"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "בַּעֲנָה",
+      "gloss": "Βαανά"
+    },
+    {
+      "surface": "הַנְּטוֹפָתִי",
+      "gloss": "ο Νετοφωνί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:35:27.229575230Z",
+  "model": "glm-5.3"
+}

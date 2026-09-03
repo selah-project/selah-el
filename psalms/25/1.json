@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 25,
+  "translation": "Του Δαβίδ. Προς εσένα, Γιαχβέ, την ψυχή μου σηκώνω.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Του Δαβίδ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Προς εσένα"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "την ψυχή μου"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "σηκώνω"
+    }
+  ],
+  "timestamp": "2026-09-03T07:50:33.008308721Z",
+  "model": "glm-5.3"
+}

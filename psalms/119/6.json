@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 119,
+  "translation": "Τότε δεν θα ντραπώ, όταν κοιτάζω προς όλα τα εντάλματά σου.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Τότε"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "θα ντραπώ"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "όταν κοιτάζω"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "τα εντάλματά σου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:31:37.425199871Z",
+  "model": "glm-5.3"
+}

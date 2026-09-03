@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Γυναίκα χάριτος κρατά τιμή, και βίαιοι κρατούν πλούτο.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "γυναίκα"
+    },
+    {
+      "surface": "חן",
+      "gloss": "χάριτος"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "κρατά"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "τιμή"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "και βίαιοι"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "κρατούν"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "πλούτο"
+    }
+  ],
+  "timestamp": "2026-09-03T08:49:26.940898418Z",
+  "model": "glm-5.3"
+}

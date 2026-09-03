@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "και Βετ-Χααραβά, και Τσεμαραίμ, και Βετ-Ελ.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "και Βετ"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Χααραβά"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "και Τσεμαραίμ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "και Βετ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ελ"
+    }
+  ],
+  "timestamp": "2026-09-03T01:12:31.196969635Z",
+  "model": "glm-5.3"
+}

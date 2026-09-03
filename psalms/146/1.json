@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 146,
+  "translation": "Αινείτε τον Γιαχ· αίνεσε, ψυχή μου, ⟨את⟩ τον Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Αινείτε"
+    },
+    {
+      "surface": "יה",
+      "gloss": "τον Γιαχ"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "αίνεσε"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ψυχή μου"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Γιαχβέ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "τον Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T12:42:39.863772705Z",
+  "model": "glm-5.3"
+}

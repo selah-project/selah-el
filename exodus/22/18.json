@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Όποιος κοιμάται με ζώο θάνατο θα θανατωθεί.",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "Όποιος"
+    },
+    {
+      "surface": "שֹׁכֵ֥ב",
+      "gloss": "κοιμάται"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "με"
+    },
+    {
+      "surface": "בְּהֵמָ֖ה",
+      "gloss": "ζώο"
+    },
+    {
+      "surface": "מ֥וֹת",
+      "gloss": "θάνατο"
+    },
+    {
+      "surface": "יוּמָֽת",
+      "gloss": "θα θανατωθεί"
+    }
+  ],
+  "timestamp": "2026-09-02T23:53:26.917411336Z",
+  "model": "glm-5.3"
+}

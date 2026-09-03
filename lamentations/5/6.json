@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Στη Μιτσράιμ δώσαμε χέρι, στον Ασούρ, για να χορτάσουμε ψωμί.",
+  "tokens": [
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Στη Μιτσράιμ"
+    },
+    {
+      "surface": "נָתַנּוּ",
+      "gloss": "δώσαμε"
+    },
+    {
+      "surface": "יָד",
+      "gloss": "χέρι"
+    },
+    {
+      "surface": "אַשּׁוּר",
+      "gloss": "στον Ασούρ"
+    },
+    {
+      "surface": "לִשְׂבֹּעַ",
+      "gloss": "για να χορτάσουμε"
+    },
+    {
+      "surface": "לָחֶם",
+      "gloss": "ψωμί"
+    }
+  ],
+  "timestamp": "2026-09-03T12:44:20.398596249Z",
+  "model": "glm-5.3"
+}

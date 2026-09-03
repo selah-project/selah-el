@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Στη νύχτα εκείνη εμφανίστηκε ο Ελοχίμ στον Σελομό και του είπε: Ζήτα τι να σου δώσω.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "Στη νύχτα"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "εκείνη"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "εμφανίστηκε"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ο Ελοχίμ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "στον Σελομό"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "και είπε"
+    },
+    {
+      "surface": "לו",
+      "gloss": "του"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Ζήτα"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "να δώσω"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σου"
+    }
+  ],
+  "timestamp": "2026-09-03T10:51:38.229137751Z",
+  "model": "glm-5.3"
+}

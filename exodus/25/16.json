@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 25,
+  "translation": "Και θα βάλεις στην κιβωτό ⟨את⟩ την μαρτυρία που θα δώσω σε εσένα.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Και θα βάλεις"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στην"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "κιβωτό"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "την μαρτυρία"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "την μαρτυρία"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "θα δώσω"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "σε εσένα"
+    }
+  ],
+  "timestamp": "2026-09-02T23:55:03.587242066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "Και το μάτι σου δεν θα λυπηθεί· ζωή για ζωή, μάτι για μάτι, δόντι για δόντι, χέρι για χέρι, πόδι για πόδι.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "θα λυπηθεί"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "το μάτι σου"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ζωή"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "για ζωή"
+    },
+    {
+      "surface": "עין",
+      "gloss": "μάτι"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "για μάτι"
+    },
+    {
+      "surface": "שן",
+      "gloss": "δόντι"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "για δόντι"
+    },
+    {
+      "surface": "יד",
+      "gloss": "χέρι"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "για χέρι"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "πόδι"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "για πόδι"
+    }
+  ],
+  "timestamp": "2026-09-03T00:50:46.258468837Z",
+  "model": "glm-5.3"
+}

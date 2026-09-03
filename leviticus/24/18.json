@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Και όποιος χτυπά ψυχή ζώου θα την αποζημιώσει — ψυχή αντί ψυχής.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Και όποιος χτυπά"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ψυχή"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ζώου"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "θα την αποζημιώσει"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ψυχή"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "αντί"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ψυχής"
+    }
+  ],
+  "timestamp": "2026-09-03T00:15:48.320306045Z",
+  "model": "glm-5.3"
+}

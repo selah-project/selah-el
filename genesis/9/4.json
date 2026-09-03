@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Μόνο κρέας — όσο στη νεφές του είναι το αίμα του — δεν θα το φάτε.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "μόνο"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "κρέας"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "στη ζωή του"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "το αίμα του"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "θα φάτε"
+    }
+  ],
+  "timestamp": "2026-09-02T23:22:35.790773911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 17,
+  "translation": "Και έκανε ο Μοσέ όπως διέταξε ο Γιαχβέ ⟨את⟩· έτσι έκανε.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Και έκανε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "όπως"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "διέταξε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "αυτόν"
+    },
+    {
+      "surface": "כן",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "έκανε"
+    }
+  ],
+  "timestamp": "2026-09-03T00:30:04.453968568Z",
+  "model": "glm-5.3"
+}

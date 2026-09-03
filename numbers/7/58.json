@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Έναν τράγο από τα κατσίκια, για θυσία αμαρτίας.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "τράγος"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "κατσικιών"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "για θυσία αμαρτίας"
+    }
+  ],
+  "timestamp": "2026-09-03T06:43:51.112191268Z",
+  "model": "glm-5.3"
+}

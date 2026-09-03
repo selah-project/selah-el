@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "και ⟨את⟩ Εβάλ και ⟨את⟩ Αβιμαέλ και ⟨את⟩ Σεβά.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Εβάλ"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Εβάλ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Αβιμαέλ"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Αβιμαέλ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Σεβά"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Σεβά"
+    }
+  ],
+  "timestamp": "2026-09-03T11:36:38.208743497Z",
+  "model": "glm-5.3"
+}

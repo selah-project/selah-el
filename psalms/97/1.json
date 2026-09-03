@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 97,
+  "translation": "Γιαχβέ βασίλεψε· ας αγάλλεται η γη, ας χαίρουν νησιά πολλά.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "βασίλεψε"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ας αγάλλεται"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "η γη"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ας χαίρουν"
+    },
+    {
+      "surface": "איים",
+      "gloss": "νησιά"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "πολλά"
+    }
+  ],
+  "timestamp": "2026-09-03T08:22:57.546502254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "και ήταν βράδυ, και ήταν πρωί — ημέρα τέταρτη.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "και ήταν"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "βράδυ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "και ήταν"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "πρωί"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ημέρα"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "τέταρτη"
+    }
+  ],
+  "timestamp": "2026-09-02T23:19:21.409514040Z",
+  "model": "glm-5.3"
+}

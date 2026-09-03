@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 74,
+  "translation": "Εσύ έσχισες πηγή και χείμαρρο· εσύ ξεράσες ισχυρά ποτάμια.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Εσύ"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "έσχισες"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "πηγή"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "και χείμαρρο"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "ξεράσες"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ποτάμια"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ισχυρά"
+    }
+  ],
+  "timestamp": "2026-09-03T08:13:33.405352145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Θυμήσου, Γιαχβέ, τι έγινε σε μας· κοίτα και δες ⟨את⟩ τη ντροπή μας.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Θυμήσου"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "היה",
+      "gloss": "έγινε"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "σε μας"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "κοίτα"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "και δες"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τη ντροπή μας"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "τη ντροπή μας"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:22.183322514Z",
+  "model": "glm-5.3"
+}

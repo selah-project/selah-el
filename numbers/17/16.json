@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 17:16",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 17,
+  "translation": "και μίλησε ο Γιαχβέ στον Μοσέ λέγοντας:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "και μίλησε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Μοσέ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:28:53.660542513Z",
+  "model": "glm-5.3"
+}

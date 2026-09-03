@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 50,
+  "translation": "Φωνή πολέμου στη γη και μεγάλο συντρίμμι.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Φωνή"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "πολέμου"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "στη γη"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "και συντρίμμι"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "μεγάλο"
+    }
+  ],
+  "timestamp": "2026-09-03T05:12:43.748084262Z",
+  "model": "glm-5.3"
+}

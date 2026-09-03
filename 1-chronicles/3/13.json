@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 3:13",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Αχαζ ο γιος του, Χιζκιαχού ο γιος του, Μενασσέ ο γιος του.",
+  "tokens": [
+    {
+      "surface": "אחז",
+      "gloss": "Αχαζ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Χιζκιαχού"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Μενασσέ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:27:33.656200807Z",
+  "model": "glm-5.3"
+}

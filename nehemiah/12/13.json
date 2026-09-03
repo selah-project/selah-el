@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "του Έζρα ⟨αντίπερος⟩ Μεσουλάμ· του Αμαργιά, Γιεοχανάν",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "του Έζρα"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Μεσουλάμ"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "του Αμαργιά"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Γιεοχανάν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:21:14.495634003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Και ήταν όλη η γη γλώσσα μία και λόγια ένα.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και ήταν"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "η γη"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "γλώσσα"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "μία"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "και λόγια"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ένα"
+    }
+  ],
+  "timestamp": "2026-09-02T23:23:56.494491622Z",
+  "model": "glm-5.3"
+}

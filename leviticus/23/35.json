@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Στην πρώτη μέρα ⟨θα είναι⟩ ιερή σύναξη· καμιά δουλειά εργασίας δεν θα κάνετε.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Στην"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "πρώτη μέρα"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "σύναξη"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ιερή"
+    },
+    {
+      "surface": "כל",
+      "gloss": "καμιά"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "δουλειά"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "εργασίας"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "θα κάνετε"
+    }
+  ],
+  "timestamp": "2026-09-03T00:15:39.587654041Z",
+  "model": "glm-5.3"
+}

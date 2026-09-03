@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "el",
+  "chapter": 40,
+  "translation": "Και απάντησε ο Ιώβ ⟨את⟩ τον Γιαχβέ και είπε·",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Και απάντησε"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ο Ιώβ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Γιαχβέ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "τον Γιαχβέ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "και είπε"
+    }
+  ],
+  "timestamp": "2026-09-03T09:22:54.652117488Z",
+  "model": "glm-5.3"
+}

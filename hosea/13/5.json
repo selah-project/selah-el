@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Εγώ σε γνώρισα στην έρημο, στη γη της ξερασιάς.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Εγώ"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "σε γνώρισα"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "στην έρημο"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "στη γη"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "της ξερασιάς"
+    }
+  ],
+  "timestamp": "2026-09-03T07:07:41.138785539Z",
+  "model": "glm-5.3"
+}

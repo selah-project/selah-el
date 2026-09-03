@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Δεν φωνάζει η σοφία; και η σύνεση δίνει τη φωνή της;",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "η σοφία"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "φωνάζει"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "και η σύνεση"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "δίνει"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "τη φωνή της"
+    }
+  ],
+  "timestamp": "2026-09-03T08:46:52.500812856Z",
+  "model": "glm-5.3"
+}

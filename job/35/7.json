@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "el",
+  "chapter": 35,
+  "translation": "Αν έγινες δίκαιος, τι του δίνεις; ή τι από το χέρι σου θα πάρει;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Αν"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "έγινες δίκαιος"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "δίνεις"
+    },
+    {
+      "surface": "לו",
+      "gloss": "σε αυτόν"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "από το χέρι σου"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "θα πάρει"
+    }
+  ],
+  "timestamp": "2026-09-03T09:21:05.348018817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Και έχτισε ο Σελομό ⟨את⟩ Γκέζερ και ⟨את⟩ Βεθ Χορόν την κάτω,",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Και έχτισε"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ο Σελομό"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Γκέζερ"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Γκέζερ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Βεθ Χορόν"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Βεθ"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Χορόν"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "την κάτω"
+    }
+  ],
+  "timestamp": "2026-09-03T02:52:07.404330148Z",
+  "model": "glm-5.3"
+}

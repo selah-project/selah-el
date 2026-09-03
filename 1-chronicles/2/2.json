@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Δαν, Γιοσέφ και Βινιαμίν, Ναφταλί, Γαδ και Ασέρ.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Δαν"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Γιοσέφ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "και Βινιαμίν"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Ναφταλί"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Γαδ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "και Ασέρ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:27:09.083571407Z",
+  "model": "glm-5.3"
+}

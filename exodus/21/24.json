@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "μάτι αντί για μάτι, δόντι αντί για δόντι, χέρι αντί για χέρι, πόδι αντί για πόδι.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "μάτι"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "αντί για"
+    },
+    {
+      "surface": "עין",
+      "gloss": "μάτι"
+    },
+    {
+      "surface": "שן",
+      "gloss": "δόντι"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "αντί για"
+    },
+    {
+      "surface": "שן",
+      "gloss": "δόντι"
+    },
+    {
+      "surface": "יד",
+      "gloss": "χέρι"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "αντί για"
+    },
+    {
+      "surface": "יד",
+      "gloss": "χέρι"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "πόδι"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "αντί για"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "πόδι"
+    }
+  ],
+  "timestamp": "2026-09-02T23:52:31.503396374Z",
+  "model": "glm-5.3"
+}

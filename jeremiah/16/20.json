@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 16,
+  "translation": "Θα κάνει ο άνθρωπος για τον εαυτό του θεούς, κι αυτοί όχι θεοί;",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Θα κάνει"
+    },
+    {
+      "surface": "לו",
+      "gloss": "για τον εαυτό του"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ο άνθρωπος"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "θεούς"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "κι αυτοί"
+    },
+    {
+      "surface": "לא",
+      "gloss": "όχι"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "θεοί"
+    }
+  ],
+  "timestamp": "2026-09-03T04:44:21.879194473Z",
+  "model": "glm-5.3"
+}

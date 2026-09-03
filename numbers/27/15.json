@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 27,
+  "translation": "Και μίλησε ο Μοσέ στον Γιαχβέ λέγοντας:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Και μίλησε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:36:26.570398289Z",
+  "model": "glm-5.3"
+}

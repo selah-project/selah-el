@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι άντρες του Βετ-Λέχεμ και της Νετοφά: εκατό ογδόντα οκτώ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Οι άντρες"
+    },
+    {
+      "surface": "בית",
+      "gloss": "του Βετ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Λέχεμ"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "και της Νετοφά"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "εκατό"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ογδόντα"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "οκτώ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:16:54.791032986Z",
+  "model": "glm-5.3"
+}

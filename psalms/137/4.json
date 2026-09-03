@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 137,
+  "translation": "Πώς να τραγουδήσουμε ⟨את⟩ τραγούδι του Γιαχβέ επάνω σε γη ξένη;",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Πώς"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "να τραγουδήσουμε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τραγούδι"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "τραγούδι"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "על",
+      "gloss": "επάνω σε"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "γη"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ξένη"
+    }
+  ],
+  "timestamp": "2026-09-03T08:37:31.593505846Z",
+  "model": "glm-5.3"
+}

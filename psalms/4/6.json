@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Θυσιάστε θυσίες δικαιοσύνης και ελπίστε στον Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Θυσιάστε"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "θυσίες"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "δικαιοσύνης"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "και ελπίστε"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T07:41:23.239736230Z",
+  "model": "glm-5.3"
+}

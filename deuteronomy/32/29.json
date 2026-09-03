@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 32:29",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 32,
+  "translation": "Αχ, να ήταν σοφοί, να καταλάβαιναν αυτό, να εννοούσαν το τέλος τους!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Αχ"
+    },
+    {
+      "surface": "חכמו",
+      "gloss": "να ήταν σοφοί"
+    },
+    {
+      "surface": "ישכילו",
+      "gloss": "να καταλάβαιναν"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "να εννοούσαν"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "το τέλος τους"
+    }
+  ],
+  "timestamp": "2026-09-03T00:58:37.023398463Z",
+  "model": "glm-5.3"
+}

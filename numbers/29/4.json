@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 29,
+  "translation": "και ένα δέκατο για το ένα αρνί, για τα επτά αρνιά·",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "και ένα δέκατο"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "για το αρνί"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "το ένα"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "για τα επτά"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "αρνιά"
+    }
+  ],
+  "timestamp": "2026-09-03T00:36:18.490018223Z",
+  "model": "glm-5.3"
+}

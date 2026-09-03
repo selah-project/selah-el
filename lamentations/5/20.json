@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Γιατί στον αιώνα θα μας ξεχάσεις; Θα μας εγκαταλείψεις σε μήκος ημερών;",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "στον αιώνα"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "θα μας ξεχάσεις"
+    },
+    {
+      "surface": "תעזבנου",
+      "gloss": "Θα μας εγκαταλείψεις"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "σε μήκος"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ημερών"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:04.860241544Z",
+  "model": "glm-5.3"
+}

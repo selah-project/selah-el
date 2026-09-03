@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Οι γιοι του Μαγκβίς, εκατόν πενήντα έξι.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "του Μαγκβίς"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "εκατόν"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "πενήντα"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "έξι"
+    }
+  ],
+  "timestamp": "2026-09-03T10:03:56.301206808Z",
+  "model": "glm-5.3"
+}

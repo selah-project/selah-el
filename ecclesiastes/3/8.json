@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Καιρός να αγαπάς και καιρός να μισείς· καιρός για πόλεμο και καιρός για ειρήνη.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Καιρός"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "να αγαπάς"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "και καιρός"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "να μισείς"
+    },
+    {
+      "surface": "עת",
+      "gloss": "καιρός"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "για πόλεμο"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "και καιρός"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "για ειρήνη"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:49.304954343Z",
+  "model": "glm-5.3"
+}

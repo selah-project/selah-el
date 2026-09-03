@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "⟨את⟩ αυτό θα φάτε από όλα όσα είναι στα νερά· όλα όσα έχουν πτερύγιο και λέπι θα φάτε.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "αυτό"
+    },
+    {
+      "surface": "זה",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "θα φάτε"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "από όλα"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "όσα"
+    },
+    {
+      "surface": "במים",
+      "gloss": "στα νερά"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "όσα"
+    },
+    {
+      "surface": "לו",
+      "gloss": "σε αυτό"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "πτερύγιο"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "και λέπι"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "θα φάτε"
+    }
+  ],
+  "timestamp": "2026-09-03T00:48:17.863835267Z",
+  "model": "glm-5.3"
+}

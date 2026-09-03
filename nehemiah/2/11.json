@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Και ήρθα προς τη Γιερουσαλάιμ και ήμουν εκεί τρεις ημέρες.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "και ήρθα"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "τη Γιερουσαλάιμ"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "και ήμουν"
+    },
+    {
+      "surface": "שם",
+      "gloss": "εκεί"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ημέρες"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "τρεις"
+    }
+  ],
+  "timestamp": "2026-09-03T10:14:05.800575611Z",
+  "model": "glm-5.3"
+}

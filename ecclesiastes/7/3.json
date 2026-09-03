@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Καλύτερη η λύπη από το γέλιο, γιατί με κακό πρόσωπο καλυτερεύει η καρδιά.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Καλύτερη"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "η λύπη"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "από το γέλιο"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "με κακό"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "πρόσωπο"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "καλυτερεύει"
+    },
+    {
+      "surface": "לב",
+      "gloss": "η καρδιά"
+    }
+  ],
+  "timestamp": "2026-09-03T09:40:57.372897989Z",
+  "model": "glm-5.3"
+}

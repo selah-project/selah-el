@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Οργίστηκε ο Γιαχβέ με τους πατέρες σας —οργή.",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "Οργίστηκε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "על",
+      "gloss": "με"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "τους πατέρες σας"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "οργή"
+    }
+  ],
+  "timestamp": "2026-09-03T07:32:01.458257503Z",
+  "model": "glm-5.3"
+}

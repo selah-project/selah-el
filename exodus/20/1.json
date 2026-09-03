@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 20,
+  "translation": "Και μίλησε ο Ελοχίμ ⟨את⟩ όλα τα λόγια αυτά, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Και μίλησε"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ο Ελοχίμ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "όλα τα λόγια αυτά"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "τα λόγια"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "αυτά"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-02T23:51:26.590181761Z",
+  "model": "glm-5.3"
+}

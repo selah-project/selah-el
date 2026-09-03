@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Η ευλογία του Γιαχβέ αυτή πλουτίζει, και δεν προσθέτει πόνο μαζί της.",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "Η ευλογία"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "αυτή"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "πλουτίζει"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "προσθέτει"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "πόνο"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "μαζί της"
+    }
+  ],
+  "timestamp": "2026-09-03T08:47:25.820594038Z",
+  "model": "glm-5.3"
+}

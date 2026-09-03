@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 9:22",
+  "book": "job",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Ένα είναι· γι' αυτό είπα: τον άμωμο και τον άνομο εξοντώνει.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Ένα"
+    },
+    {
+      "surface": "היא",
+      "gloss": "είναι"
+    },
+    {
+      "surface": "על",
+      "gloss": "γι'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "είπα"
+    },
+    {
+      "surface": "תם",
+      "gloss": "τον άμωμο"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "και τον άνομο"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "αυτός"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "εξοντώνει"
+    }
+  ],
+  "timestamp": "2026-09-03T09:06:16.121288685Z",
+  "model": "glm-5.3"
+}

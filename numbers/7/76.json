@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "τράγος των αιγών ένας, για προσφορά αμαρτίας.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "τράγος"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "των αιγών"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "για προσφορά αμαρτίας"
+    }
+  ],
+  "timestamp": "2026-09-03T06:44:09.500055948Z",
+  "model": "glm-5.3"
+}

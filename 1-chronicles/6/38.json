@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Τσαντόκ, ο γιος του· Αχιμαάτς, ο γιος του.",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "Τσαντόκ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Αχιμαάτς"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:47.966086954Z",
+  "model": "glm-5.3"
+}

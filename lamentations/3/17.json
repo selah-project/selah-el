@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Και απομάκρυνε από την ειρήνη την ψυχή μου· ξέχασα το καλό.",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "Και απομάκρυνε"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "από την ειρήνη"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "την ψυχή μου"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "ξέχασα"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "το καλό"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:49.121644711Z",
+  "model": "glm-5.3"
+}

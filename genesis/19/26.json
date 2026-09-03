@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 19:26",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "Κοίταξε η γυναίκα του από πίσω του, κι έγινε στήλη αλατιού.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "Κοίταξε"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "η γυναίκα του"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "από πίσω του"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "κι έγινε"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "στήλη"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "αλατιού"
+    }
+  ],
+  "timestamp": "2026-09-02T23:26:13.455399918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 26,
+  "translation": "Ασήμι από σκωρίες απλωμένο πάνω σε οστράκο — χείλη φλογερά και καρδιά κακή.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "Ασήμι"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "από σκωρίες"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "απλωμένο"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "σε οστράκο"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "χείλη"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "φλογερά"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "και καρδιά"
+    },
+    {
+      "surface": "רע",
+      "gloss": "κακή"
+    }
+  ],
+  "timestamp": "2026-09-03T11:30:20.683911392Z",
+  "model": "glm-5.3"
+}

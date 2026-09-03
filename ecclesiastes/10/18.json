@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Με αμέλεια βουλιάζει η στέγη, και με αδράνεια χεριών λέζει το σπίτι.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "Με αμέλεια"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "βουλιάζει"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "η στέγη"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "και με αδράνεια"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "χεριών"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "λέζει"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "το σπίτι"
+    }
+  ],
+  "timestamp": "2026-09-03T09:42:48.413019216Z",
+  "model": "glm-5.3"
+}

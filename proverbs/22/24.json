@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Μην κάνεις παρέα ⟨את⟩ τον οργισμένο και ⟨את⟩ άνθρωπο θυμού να μην πηγαίνεις·",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Μην"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "κάνεις παρέα"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον οργισμένο"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "τον"
+    },
+    {
+      "surface": "אף",
+      "gloss": "οργισμένο"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "άνθρωπο"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "θυμού"
+    },
+    {
+      "surface": "לא",
+      "gloss": "να μην"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "πηγαίνεις"
+    }
+  ],
+  "timestamp": "2026-09-03T11:30:20.687467372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 28,
+  "translation": "Ευλογημένος Γιαχβέ, γιατί άκουσε τη φωνή των ικεσιών μου.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ευλογημένος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "άκουσε"
+    },
+    {
+      "surface": "קול",
+      "gloss": "τη φωνή"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "των ικεσιών μου"
+    }
+  ],
+  "timestamp": "2026-09-03T07:51:37.391858687Z",
+  "model": "glm-5.3"
+}

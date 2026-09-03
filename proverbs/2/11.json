@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Η σύνεση θα σε φυλάει, η διάκριση θα σε προστατεύει.",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "Η σύνεση"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "θα σε φυλάει"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "πάνω σου"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "η διάκριση"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "θα σε προστατεύει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:42:16.660121040Z",
+  "model": "glm-5.3"
+}

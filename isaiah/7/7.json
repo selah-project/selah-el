@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Έτσι είπε Αδωνάι Γιαχβέ: δεν θα στηριχτεί και δεν θα γίνει.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Έτσι"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Αδωνάι"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "θα στηριχτεί"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "θα γίνει"
+    }
+  ],
+  "timestamp": "2026-09-03T03:47:26.592702552Z",
+  "model": "glm-5.3"
+}

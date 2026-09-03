@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 31,
+  "translation": "και βοοειδές κοπάδι δύο και εβδομήντα χιλιάδες",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "και βόδια"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "δύο"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "και εβδομήντα"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "χιλιάδες"
+    }
+  ],
+  "timestamp": "2026-09-03T00:37:41.336997951Z",
+  "model": "glm-5.3"
+}

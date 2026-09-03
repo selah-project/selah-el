@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Γιατί δεν ξέρει τι θα γίνει· γιατί όταν γίνει, ποιος θα του αναγγείλει;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ξέρει"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "θα γίνει"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "όταν"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "γίνει"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ποιος"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "θα αναγγείλει"
+    },
+    {
+      "surface": "לו",
+      "gloss": "του"
+    }
+  ],
+  "timestamp": "2026-09-03T09:41:31.317258327Z",
+  "model": "glm-5.3"
+}

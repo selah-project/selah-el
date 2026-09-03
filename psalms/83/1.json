@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 83,
+  "translation": "Τραγούδι, ψαλμός του Ασάφ.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Τραγούδι"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ψαλμός"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "του Ασάφ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:17:06.399638313Z",
+  "model": "glm-5.3"
+}

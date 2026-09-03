@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 20:7",
+  "book": "judges",
+  "lang": "el",
+  "chapter": 20,
+  "translation": "Ιδού, όλοι εσείς γιοι του Ισραέλ· δώστε για σας λόγο και γνώμη εδώ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ιδού"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "όλοι εσείς"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "του Ισραέλ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "δώστε"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "για σας"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγο"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "και γνώμη"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "εδώ"
+    }
+  ],
+  "timestamp": "2026-09-03T01:38:30.638174790Z",
+  "model": "glm-5.3"
+}

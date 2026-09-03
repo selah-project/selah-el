@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 37,
+  "translation": "Και έγινε λόγος του Γιαχβέ προς τον Ιρμεγιαχού τον ναβί, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και έγινε"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "τον Ιρμεγιαχού"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "τον ναβί"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T05:03:20.646775228Z",
+  "model": "glm-5.3"
+}

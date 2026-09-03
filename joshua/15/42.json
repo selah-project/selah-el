@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 15:42",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Λιβνά, και Ετέρ, και Ασάν",
+  "tokens": [
+    {
+      "surface": "לבנה",
+      "gloss": "Λιβνά"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "και Ετέρ"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "και Ασάν"
+    }
+  ],
+  "timestamp": "2026-09-03T01:11:36.357800719Z",
+  "model": "glm-5.3"
+}

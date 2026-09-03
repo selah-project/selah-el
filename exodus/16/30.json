@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 16,
+  "translation": "Και ξεκούρασε ο λαός την ημέρα την έβδομη.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "Και ξεκούρασε"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ο λαός"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "την ημέρα"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "την έβδομη"
+    }
+  ],
+  "timestamp": "2026-09-02T23:50:58.303084256Z",
+  "model": "glm-5.3"
+}

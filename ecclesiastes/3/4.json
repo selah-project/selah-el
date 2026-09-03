@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "ώρα να κλάψεις, και ώρα να γελάσεις· ώρα θρήνου, και ώρα χορού·",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ώρα"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "να κλάψεις"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "και ώρα"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "να γελάσεις"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ώρα"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "θρήνου"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "και ώρα"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "χορού"
+    }
+  ],
+  "timestamp": "2026-09-03T09:37:57.216791323Z",
+  "model": "glm-5.3"
+}

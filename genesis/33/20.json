@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 33,
+  "translation": "Και έστησε εκεί βωμό, και τον ονόμασε Ελ Ελοχίμ Ισραέλ.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "Και έστησε"
+    },
+    {
+      "surface": "שם",
+      "gloss": "εκεί"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "βωμό"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "και τον ονόμασε"
+    },
+    {
+      "surface": "לו",
+      "gloss": "αυτόν"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ελ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ελοχίμ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ισραέλ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:34:45.024517227Z",
+  "model": "glm-5.3"
+}

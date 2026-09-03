@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "και Χανανιά και Ελάμ και Αντοθιά.",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "και Χανανιά"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "και Ελάμ"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "και Αντοθιά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:33:06.214194218Z",
+  "model": "glm-5.3"
+}

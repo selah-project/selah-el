@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 130,
+  "translation": "Αν ανομίες φυλάξεις, Γιαχ, Αδωνάι, ποιος θα σταθεί;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Αν"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "ανομίες"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "φυλάξεις"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Γιαχ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Αδωνάι"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ποιος"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "θα σταθεί"
+    }
+  ],
+  "timestamp": "2026-09-03T08:36:18.885572026Z",
+  "model": "glm-5.3"
+}

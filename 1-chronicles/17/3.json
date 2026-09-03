@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 17,
+  "translation": "Και ήταν την ίδια νύχτα, και ήταν λόγος του Ελοχίμ προς τον Ναταν, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και ήταν"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "τη νύχτα"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "εκείνη"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "και ήταν"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "του Ελοχίμ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "τον Ναταν"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T10:42:23.754824772Z",
+  "model": "glm-5.3"
+}

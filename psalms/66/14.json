@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 66,
+  "translation": "που άνοιξαν τα χείλη μου και είπε το στόμα μου στη στεναχώρια μου.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "άνοιξαν"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "τα χείλη μου"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "και είπε"
+    },
+    {
+      "surface": "פי",
+      "gloss": "το στόμα μου"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "στη στεναχώρια"
+    },
+    {
+      "surface": "לי",
+      "gloss": "μου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:08:01.793518869Z",
+  "model": "glm-5.3"
+}

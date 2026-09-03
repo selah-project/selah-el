@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Προσευχή του Χαβακούκ του ναβί, επί Σιγκαγιόθ.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Προσευχή"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "του Χαβακούκ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "του ναβί"
+    },
+    {
+      "surface": "על",
+      "gloss": "επί"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "Σιγκαγιόθ"
+    }
+  ],
+  "timestamp": "2026-09-03T07:29:51.723708500Z",
+  "model": "glm-5.3"
+}

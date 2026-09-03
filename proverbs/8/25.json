@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Πριν βυθιστούν τα βουνά, πριν από τους λόφους γεννήθηκα.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Πριν"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "τα βουνά"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "βυθιστούν"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "πριν από"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "τους λόφους"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "γεννήθηκα"
+    }
+  ],
+  "timestamp": "2026-09-03T08:47:08.277132286Z",
+  "model": "glm-5.3"
+}

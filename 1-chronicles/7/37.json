@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Βετσέρ και Χοντ και Σαμά και Σιλσά και Γιτράν και Βεερά.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "Βετσέρ"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "και Χοντ"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "και Σαμά"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "και Σιλσά"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "και Γιτράν"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "και Βεερά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:32:12.026408395Z",
+  "model": "glm-5.3"
+}

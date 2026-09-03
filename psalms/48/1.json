@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 48,
+  "translation": "Τραγούδι, μίζμορ στους γιους του Κοράχ.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Τραγούδι"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "μίζμορ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "στους γιους"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "του Κοράχ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:01:11.423778773Z",
+  "model": "glm-5.3"
+}

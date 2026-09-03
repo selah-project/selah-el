@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Οι γιοι του Νεβό, πενήντα δύο.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "του Νεβό"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "πενήντα"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "δύο"
+    }
+  ],
+  "timestamp": "2026-09-03T10:03:56.300952704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 49,
+  "translation": "Και να ζει ακόμα στον αιώνα — δεν θα δει το λάκκο.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Και να ζει"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ακόμα"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "στον αιώνα"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "θα δει"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "το λάκκο"
+    }
+  ],
+  "timestamp": "2026-09-03T08:00:34.188198886Z",
+  "model": "glm-5.3"
+}

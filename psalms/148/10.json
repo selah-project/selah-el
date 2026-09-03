@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 148,
+  "translation": "το θηρίο και όλα τα κτήνη, το ερπετό και το φτερωτό πτηνό,",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "το θηρίο"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "και όλα"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "τα κτήνη"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "το ερπετό"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "και το πτηνό"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "το φτερωτό"
+    }
+  ],
+  "timestamp": "2026-09-03T11:28:08.337866204Z",
+  "model": "glm-5.3"
+}

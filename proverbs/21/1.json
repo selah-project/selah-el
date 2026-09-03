@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Ρυακιών νερά ⟨είναι⟩ η καρδιά ενός βασιλιά στο χέρι του Γιαχβέ· προς ό,τι θέλει, τη γέρνει.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "Ρυακιών"
+    },
+    {
+      "surface": "מים",
+      "gloss": "νερά"
+    },
+    {
+      "surface": "לב",
+      "gloss": "η καρδιά"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ενός βασιλιά"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "στο χέρι"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "על",
+      "gloss": "προς"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ό,τι"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "θέλει"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "τη γέρνει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:54:03.588071564Z",
+  "model": "glm-5.3"
+}

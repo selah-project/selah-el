@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 26,
+  "translation": "Και ονόμασε ⟨את⟩ αυτήν Σιβά· γι' αυτό το όνομα της πόλης ⟨είναι⟩ Βερ-Σεβά, ως αυτή την ημέρα.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Και ονόμασε"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ αυτήν",
+      "marks": "Σιβά"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "Σιβά"
+    },
+    {
+      "surface": "על",
+      "gloss": "γι'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "שם",
+      "gloss": "το όνομα"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "της πόλης"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Βερ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Σεβά"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ως"
+    },
+    {
+      "surface": "היום",
+      "gloss": "την ημέρα"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "αυτή"
+    }
+  ],
+  "timestamp": "2026-09-02T23:30:04.331494992Z",
+  "model": "glm-5.3"
+}

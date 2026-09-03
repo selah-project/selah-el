@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Όσο ο βασιλιάς ήταν στο συμπόσιό του, το νάρδο μου έδινε το άρωμά του.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "όσο"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "ο βασιλιάς"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "στο συμπόσιό του"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "το νάρδο μου"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "έδινε"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "το άρωμά του"
+    }
+  ],
+  "timestamp": "2026-09-03T09:24:38.951308930Z",
+  "model": "glm-5.3"
+}

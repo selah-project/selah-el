@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 36,
+  "translation": "Και αυτές οι γενιές του Εσάβ, πατέρα του Εδόμ, στο βουνό Σείρ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Και αυτές"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "γενιές"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "του Εσάβ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "πατέρα"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "του Εδόμ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "στο βουνό"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Σείρ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:35:05.653529328Z",
+  "model": "glm-5.3"
+}

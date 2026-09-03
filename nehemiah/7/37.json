@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι γιοι του Λωδ, του Χαδίδ και του Ονο: εφτακόσιοι είκοσι ένας.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "לד",
+      "gloss": "του Λωδ"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "του Χαδίδ"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "και του Ονο"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "εφτά"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εκατοντάδες"
+    },
+    {
+      "surface": "וועשרים",
+      "gloss": "και είκοσι"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "και ένας"
+    }
+  ],
+  "timestamp": "2026-09-03T10:17:28.298664340Z",
+  "model": "glm-5.3"
+}

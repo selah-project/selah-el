@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 46,
+  "translation": "Ό,τι ήταν λόγος του Γιαχβέ προς τον Γιρμεγιάχου τον ναβί για τα γκοΐμ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ό,τι"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ήταν"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Γιρμεγιάχου"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "τον ναβί"
+    },
+    {
+      "surface": "על",
+      "gloss": "για"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "τα γκοΐμ"
+    }
+  ],
+  "timestamp": "2026-09-03T05:09:05.505124636Z",
+  "model": "glm-5.3"
+}

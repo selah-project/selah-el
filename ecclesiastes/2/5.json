@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Έκανα για μένα κήπους και φαρντέσια, και φύτεψα σε αυτά δέντρο κάθε καρπού.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Έκανα"
+    },
+    {
+      "surface": "לי",
+      "gloss": "για μένα"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "κήπους"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "και φαρντέσια"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "και φύτεψα"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "σε αυτά"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "δέντρο"
+    },
+    {
+      "surface": "כל",
+      "gloss": "κάθε"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "καρπού"
+    }
+  ],
+  "timestamp": "2026-09-03T09:37:46.711009914Z",
+  "model": "glm-5.3"
+}

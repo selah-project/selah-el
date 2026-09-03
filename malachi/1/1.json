@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Βάρος του λόγου του Γιαχβέ στον Ισραέλ, με το χέρι του Μαλάχι.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Βάρος"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγου"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ισραέλ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "με το χέρι"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Μαλάχι"
+    }
+  ],
+  "timestamp": "2026-09-03T12:59:08.847207298Z",
+  "model": "glm-5.3"
+}

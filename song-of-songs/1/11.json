@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Περιδέραια από χρυσάφι θα σου φτιάξουμε, μαζί με κουμπιά του ασημιού.",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "περιδέραια"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "από χρυσάφι"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "θα φτιάξουμε"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σου"
+    },
+    {
+      "surface": "עם",
+      "gloss": "μαζί με"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "κουμπιά"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "του ασημιού"
+    }
+  ],
+  "timestamp": "2026-09-03T09:24:38.951196895Z",
+  "model": "glm-5.3"
+}

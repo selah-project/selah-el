@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 91,
+  "translation": "Δεν θα τύχει σε εσένα κακό και πληγή δεν θα πλησιάσει τη σκηνή σου.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "θα τύχει"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "σε εσένα"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "κακό"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "και πληγή"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "θα πλησιάσει"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "τη σκηνή σου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:20:43.208972177Z",
+  "model": "glm-5.3"
+}

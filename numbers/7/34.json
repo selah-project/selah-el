@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "ένα τράγο των αιγών, για την προσφορά αμαρτίας·",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "τράγο"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "των αιγών"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "για την προσφορά αμαρτίας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:22:49.482298830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "και Ιβχάρ και Ελισαμά και Ελιφέλετ,",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "και Ιβχάρ"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "και Ελισαμά"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "και Ελιφέλετ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:27:20.961226890Z",
+  "model": "glm-5.3"
+}

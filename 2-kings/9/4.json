@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Και πήγε ο νέος, ο νέος ο ναβί, Ραμότ Γιλάντ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Και πήγε"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ο νέος"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ο νέος"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ο ναβί"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ραμότ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Γιλάντ"
+    }
+  ],
+  "timestamp": "2026-09-03T03:20:32.514263811Z",
+  "model": "glm-5.3"
+}

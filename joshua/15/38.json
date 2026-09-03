@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "και Ντιλάν και ΧαΜιτσπέ και Γιοκτεέλ",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "και Ντιλάν"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "και ΧαΜιτσπέ"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "και Γιοκτεέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T01:11:25.640727949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 50,
+  "translation": "Θα καλέσει τους ουρανούς απ' πάνω και τη γη, να κρίνει τον λαό του.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Θα καλέσει"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στους"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ουρανούς"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "απ' πάνω"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "και στη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "γη"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "να κρίνει"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "τον λαό του"
+    }
+  ],
+  "timestamp": "2026-09-03T11:27:03.692394907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Όποιος είναι απλός — ας στραφεί εδώ· σ' εκείνον που στερείται καρδιάς, εκείνη του λέει:",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "όποιος"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "απλός"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ας στραφεί"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "εδώ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "στερείται"
+    },
+    {
+      "surface": "לב",
+      "gloss": "καρδιάς"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "εκείνη λέει"
+    },
+    {
+      "surface": "לו",
+      "gloss": "του"
+    }
+  ],
+  "timestamp": "2026-09-03T11:30:01.798576833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και οι γιοι του Κεχάτ: Αμράμ, Ιτσχάρ, Χεβρόν και Ουζιέλ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και οι γιοι"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "του Κεχάτ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Αμράμ"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "Ιτσχάρ"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "και Χεβρόν"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "και Ουζιέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:37.873467944Z",
+  "model": "glm-5.3"
+}

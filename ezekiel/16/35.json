@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 16,
+  "translation": "Γι' αυτό, πόρνη, άκου τον λόγο του Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Γι' αυτό"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "πόρνη"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "άκου"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "τον λόγο"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T05:29:36.155278442Z",
+  "model": "glm-5.3"
+}

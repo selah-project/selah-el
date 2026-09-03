@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 16:24",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 16,
+  "translation": "και έχτισες για σένα θόλο και έφτιαξες για σένα υψηλό τόπο σε κάθε πλατεία",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": ""
+    },
+    {
+      "surface": "ותבני",
+      "gloss": "και έχτισες"
+    },
+    {
+      "surface": "לך",
+      "gloss": "για σένα"
+    },
+    {
+      "surface": "גב",
+      "gloss": "θόλο"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "και έφτιαξες"
+    },
+    {
+      "surface": "לך",
+      "gloss": "για σένα"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "υψηλό τόπο"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "σε κάθε"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "πλατεία"
+    }
+  ],
+  "timestamp": "2026-09-03T05:28:17.047168697Z",
+  "model": "glm-5.3"
+}

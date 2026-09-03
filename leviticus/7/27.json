@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Κάθε ψυχή που θα φάει οποιοδήποτε αίμα — και θα κοπεί εκείνη η ψυχή από τον λαό της.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Κάθε"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ψυχή"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "θα φάει"
+    },
+    {
+      "surface": "כל",
+      "gloss": "οποιοδήποτε"
+    },
+    {
+      "surface": "דם",
+      "gloss": "αίμα"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "και θα κοπεί"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "η ψυχή"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "εκείνη"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "από τον λαό της"
+    }
+  ],
+  "timestamp": "2026-09-03T00:06:08.048374674Z",
+  "model": "glm-5.3"
+}

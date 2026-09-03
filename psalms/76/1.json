@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 76,
+  "translation": "Στον μαέστρο, με εγχόρδα· μίζμορ του Ασάφ, τραγούδι.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον μαέστρο"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "με εγχόρδα"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "μίζμορ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "του Ασάφ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "τραγούδι"
+    }
+  ],
+  "timestamp": "2026-09-03T08:11:50.090680106Z",
+  "model": "glm-5.3"
+}

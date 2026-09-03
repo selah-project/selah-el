@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Γιατί, ιδού, ο χειμώνας πέρασε, η βροχή έφυγε, πήγε μόνο της.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ιδού"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "ο χειμώνας"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "πέρασε"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "η βροχή"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "έφυγε"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "πήγε"
+    },
+    {
+      "surface": "לו",
+      "gloss": "μόνο της"
+    }
+  ],
+  "timestamp": "2026-09-03T09:25:42.344565600Z",
+  "model": "glm-5.3"
+}

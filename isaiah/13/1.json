@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Βάρος Βαβέλ, που είδε ο Γεσαγιάχου, γιος του Αμοτς.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Βάρος"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Βαβέλ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "είδε"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ο Γεσαγιάχου"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "του Αμοτς"
+    }
+  ],
+  "timestamp": "2026-09-03T03:54:36.661688560Z",
+  "model": "glm-5.3"
+}

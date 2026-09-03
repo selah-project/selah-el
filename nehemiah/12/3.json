@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Σεκανιά, Ρεχούμ, Μερεμότ.",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "Σεκανιά"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "Ρεχούμ"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "Μερεμότ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:21:34.840782732Z",
+  "model": "glm-5.3"
+}

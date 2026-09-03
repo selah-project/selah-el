@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Μη μετακινήσεις όριο αρχαίο, και στους αγρούς των ορφανών μη μπεις.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Μη"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "μετακινήσεις"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "όριο"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "αρχαίο"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "και στους αγρούς"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "των ορφανών"
+    },
+    {
+      "surface": "אל",
+      "gloss": "μη"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "μπεις"
+    }
+  ],
+  "timestamp": "2026-09-03T08:55:16.096509256Z",
+  "model": "glm-5.3"
+}

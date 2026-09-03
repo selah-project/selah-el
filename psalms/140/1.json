@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 140,
+  "translation": "Στον προϊστάμενο. Ψαλμός του Δαβίδ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον προϊστάμενο"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ψαλμός"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "του Δαβίδ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:38:58.724930386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Και οι γιοι του Χαμ: Κους και Μιτσράιμ και Φουτ και Κενανάν.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και οι γιοι"
+    },
+    {
+      "surface": "חם",
+      "gloss": "του Χαμ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Κους"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "και Μιτσράιμ"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "και Φουτ"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "και Κενανάν"
+    }
+  ],
+  "timestamp": "2026-09-02T23:22:26.709964233Z",
+  "model": "glm-5.3"
+}

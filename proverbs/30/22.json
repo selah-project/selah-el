@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "για έναν δούλο όταν βασιλεύει, και για έναν ανόητο όταν χορταίνει ψωμί,",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "για"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "έναν δούλο"
+    },
+    {
+      "surface": "כי",
+      "gloss": "όταν"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "βασιλεύει"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "και έναν ανόητο"
+    },
+    {
+      "surface": "כי",
+      "gloss": "όταν"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "χορταίνει"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ψωμί"
+    }
+  ],
+  "timestamp": "2026-09-03T09:00:32.428620860Z",
+  "model": "glm-5.3"
+}

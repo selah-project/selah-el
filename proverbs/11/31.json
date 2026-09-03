@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 11:31",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Ιδού, ο δίκαιος στη γη ανταμείβεται·πόσο μάλλον ο ασεβής και ο αμαρτωλός!",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ιδού"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ο δίκαιος"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "στη γη"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ανταμείβεται"
+    },
+    {
+      "surface": "אף",
+      "gloss": "πόσο"
+    },
+    {
+      "surface": "כי",
+      "gloss": "μάλλον"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ο ασεβής"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "και ο αμαρτωλός"
+    }
+  ],
+  "timestamp": "2026-09-03T08:48:54.938561618Z",
+  "model": "glm-5.3"
+}

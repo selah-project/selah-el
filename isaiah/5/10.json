@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Γιατί δέκα ζεύγη αμπελιού θα κάνουν ένα βαθ, και σπόρος ενός χομέρ θα κάνει ένα εφά.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "δέκα"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "ζεύγη"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "αμπελιού"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "θα κάνουν"
+    },
+    {
+      "surface": "בת",
+      "gloss": "βαθ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "και σπόρος"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "χομέρ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "θα κάνει"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "εφά"
+    }
+  ],
+  "timestamp": "2026-09-03T03:48:23.966581618Z",
+  "model": "glm-5.3"
+}

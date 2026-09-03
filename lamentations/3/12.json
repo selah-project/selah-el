@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Έντασε το τόξο του και με όρισε ως στόχο για το βέλος.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Έντασε"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "το τόξο του"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "και με όρισε"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "ως στόχο"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "για το βέλος"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:28.522500487Z",
+  "model": "glm-5.3"
+}

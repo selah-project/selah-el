@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 26,
+  "translation": "Δεν κάθισα με άντρες του ψέματος, και με τους κρυφούς δεν θα μπω.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "κάθισα"
+    },
+    {
+      "surface": "עם",
+      "gloss": "με"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "άντρες"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "του ψέματος"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "και με"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "τους κρυφούς"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "θα μπω"
+    }
+  ],
+  "timestamp": "2026-09-03T07:51:17.695413873Z",
+  "model": "glm-5.3"
+}

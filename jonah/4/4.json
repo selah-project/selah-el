@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Και είπε Γιαχβέ: Έκανες καλά που θύμωσες;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "Έκανες καλά"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "θύμωσες"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σε"
+    }
+  ],
+  "timestamp": "2026-09-03T07:18:42.670291106Z",
+  "model": "glm-5.3"
+}

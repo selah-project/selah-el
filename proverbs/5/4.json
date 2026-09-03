@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "και το τέλος της πικρό όπως αψιθιά, κοφτερό όπως δίκοπο σπαθί.",
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "και το τέλος της"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "πικρό"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "όπως αψιθιά"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "κοφτερό"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "όπως σπαθί"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "δίκοπο"
+    }
+  ],
+  "timestamp": "2026-09-03T08:44:18.906016644Z",
+  "model": "glm-5.3"
+}

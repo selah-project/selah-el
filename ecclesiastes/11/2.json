@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Δώσε μερίδιο στα επτά και ακόμα στα οκτώ, γιατί δεν ξέρεις τι κακό θα γίνει πάνω στη γη.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Δώσε"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "μερίδιο"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "στα επτά"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "και ακόμα"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "στα οκτώ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ξέρεις"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "θα γίνει"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "κακό"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "στη γη"
+    }
+  ],
+  "timestamp": "2026-09-03T09:42:45.745562474Z",
+  "model": "glm-5.3"
+}

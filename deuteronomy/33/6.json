@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 33,
+  "translation": "Να ζει ο Ρεουμπέν και να μη πεθάνει, και να είναι οι άντρες του σε αριθμό.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "Να ζει"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ο Ρεουμπέν"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "και να μην"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "πεθάνει"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "και να είναι"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "οι άντρες του"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "σε αριθμό"
+    }
+  ],
+  "timestamp": "2026-09-03T00:59:41.051672635Z",
+  "model": "glm-5.3"
+}

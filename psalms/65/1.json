@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 65,
+  "translation": "Για τον μαέστρο. Μιζμόρ του Δαβίδ. Τραγούδι.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Για τον μαέστρο"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Μιζμόρ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "του Δαβίδ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Τραγούδι"
+    }
+  ],
+  "timestamp": "2026-09-03T08:07:14.559463226Z",
+  "model": "glm-5.3"
+}

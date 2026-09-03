@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 31:5",
+  "book": "job",
+  "lang": "el",
+  "chapter": 31,
+  "translation": "Αν περπάτησα με ματαιότητα, και έσπευσε σε απάτη το πόδι μου —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Αν"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "περπάτησα"
+    },
+    {
+      "surface": "עם",
+      "gloss": "με"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ματαιότητα"
+    },
+    {
+      "surface": "ותחש",
+      "gloss": "και έσπευσε"
+    },
+    {
+      "surface": "על",
+      "gloss": "σε"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "απάτη"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "το πόδι μου"
+    }
+  ],
+  "timestamp": "2026-09-03T09:17:11.190913998Z",
+  "model": "glm-5.3"
+}

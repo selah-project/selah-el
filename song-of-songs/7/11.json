@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Εγώ ⟨είμαι⟩ του αγαπημένου μου, και πάνω μου ο πόθος του.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Εγώ"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "του αγαπημένου μου"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "και πάνω μου"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "ο πόθος του"
+    }
+  ],
+  "timestamp": "2026-09-03T09:28:33.454387740Z",
+  "model": "glm-5.3"
+}

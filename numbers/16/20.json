@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 16,
+  "translation": "και μίλησε ο Γιαχβέ στον Μοσέ και στον Αχαρόν, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "και μίλησε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Μοσέ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "και στον"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Αχαρόν"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:29:48.443825447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Έκανε ο Νοέ σύμφωνα με όλα όσα τον διέταξε ο Ελοχίμ — έτσι έκανε.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Έκανε"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ο Νοέ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "σύμφωνα με όλα"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "όσα"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "διέταξε"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ αυτόν"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ο Ελοχίμ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "έκανε"
+    }
+  ],
+  "timestamp": "2026-09-02T23:20:52.061585677Z",
+  "model": "glm-5.3"
+}

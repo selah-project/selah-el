@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "και Γεδώρ, και Αχιό, και Ζαχαρία, και Μικλώτ.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "και Γεδώρ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "και Αχιό"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "και Ζαχαρία"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "και Μικλώτ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:34:45.253780776Z",
+  "model": "glm-5.3"
+}

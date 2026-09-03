@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Αμών ο γιος του, Γιοσιαχού ο γιος του.",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "Αμών"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Γιοσιαχού"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:27:33.656412024Z",
+  "model": "glm-5.3"
+}

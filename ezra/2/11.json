@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Οι γιοι του Βεβάι, εξακόσιοι είκοσι τρεις.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "του Βεβάι"
+    },
+    {
+      "surface": "שש",
+      "gloss": "έξι"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εκατοντάδες"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "είκοσι"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "και τρεις"
+    }
+  ],
+  "timestamp": "2026-09-03T10:01:55.859327802Z",
+  "model": "glm-5.3"
+}

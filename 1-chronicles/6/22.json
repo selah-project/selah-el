@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "γιος Ταχάτ, γιος Ασίρ, γιος Εβιάσαφ, γιος Κοράχ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "Ταχάτ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Ασίρ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "Εβιάσαφ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Κοράχ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:43.441793628Z",
+  "model": "glm-5.3"
+}

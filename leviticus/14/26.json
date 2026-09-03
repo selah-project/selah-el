@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "και από το λάδι θα χύσει ο κοέν πάνω στην παλάμη του κοέν, την αριστερή.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "και από"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "το λάδι"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "θα χύσει"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ο κοέν"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω στην"
+    },
+    {
+      "surface": "כף",
+      "gloss": "παλάμη"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "του κοέν"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "την αριστερή"
+    }
+  ],
+  "timestamp": "2026-09-03T00:10:31.971738194Z",
+  "model": "glm-5.3"
+}

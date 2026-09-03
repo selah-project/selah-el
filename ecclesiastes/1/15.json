@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Το στραβό δεν μπορεί να ισιωθεί, και αυτό που λείπει δεν μπορεί να μετρηθεί.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "Το στραβό"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "μπορεί"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "να ισιωθεί"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "και αυτό που λείπει"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "μπορεί"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "να μετρηθεί"
+    }
+  ],
+  "timestamp": "2026-09-03T09:37:14.325263187Z",
+  "model": "glm-5.3"
+}

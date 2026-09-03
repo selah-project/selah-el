@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Και είπε ο Ιρμεγιαχού σε αυτούς: Έτσι θα πείτε στον Τσιντκιαχού:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ο Ιρμεγιαχού"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "σε αυτούς"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Έτσι"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "θα πείτε"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Τσιντκιαχού"
+    }
+  ],
+  "timestamp": "2026-09-03T04:50:06.671870551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 25,
+  "translation": "Γι' αυτό έτσι είπε Γιαχβέ Τσεβαότ: Επειδή δεν ακούσατε ⟨את⟩ τους λόγους μου,",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "γι' αυτό"
+    },
+    {
+      "surface": "כה",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Τσεβαότ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "επειδή"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ακούσατε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τους λόγους μου"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "τους λόγους μου"
+    }
+  ],
+  "timestamp": "2026-09-03T04:51:05.155961965Z",
+  "model": "glm-5.3"
+}

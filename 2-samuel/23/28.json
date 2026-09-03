@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Τσαλμόν ο Αχοχί, Μαχαράι ο Νετοφατί.",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "Τσαλμόν"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "ο Αχοχί"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "Μαχαράι"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "ο Νετοφατί"
+    }
+  ],
+  "timestamp": "2026-09-03T02:36:09.073164806Z",
+  "model": "glm-5.3"
+}

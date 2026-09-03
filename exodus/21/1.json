@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Και αυτοί είναι οι νόμοι που θα θέσεις μπροστά τους.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Και αυτοί"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "είναι οι νόμοι"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "θα θέσεις"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "μπροστά τους"
+    }
+  ],
+  "timestamp": "2026-09-02T23:53:35.370023006Z",
+  "model": "glm-5.3"
+}

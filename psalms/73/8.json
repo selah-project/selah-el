@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 73,
+  "translation": "Χλεύαζουν και μιλούν με κακία απάτης· από ψηλά μιλούν.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "Χλεύαζουν"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "και μιλούν"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "με κακία"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "απάτης"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "από ψηλά"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "μιλούν"
+    }
+  ],
+  "timestamp": "2026-09-03T08:12:06.099503730Z",
+  "model": "glm-5.3"
+}

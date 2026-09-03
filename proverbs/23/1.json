@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Όταν καθίσεις να φας ⟨את⟩ με άρχοντα, κατάλαβε καλά ⟨את⟩ τι έχεις μπροστά σου·",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Όταν"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "καθίσεις"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "να φας"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ με"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "άρχοντα"
+    },
+    {
+      "surface": "בין",
+      "gloss": "κατάλαβε"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "καλά"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ τι"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "μπροστά σου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:56:09.646749085Z",
+  "model": "glm-5.3"
+}

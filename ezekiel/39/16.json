@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 39:16",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 39,
+  "translation": "Και επίσης όνομα πόλης Αμονά· και θα καθαρίσουν τη γη.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Και επίσης"
+    },
+    {
+      "surface": "שם",
+      "gloss": "όνομα"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "πόλης"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "Αμονά"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "και θα καθαρίσουν"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "τη γη"
+    }
+  ],
+  "timestamp": "2026-09-03T05:49:57.823908899Z",
+  "model": "glm-5.3"
+}

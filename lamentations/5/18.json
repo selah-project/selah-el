@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Στο βουνό Τσιόν, που έρημωσε — τσακάλια περπατούν πάνω του.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Στο"
+    },
+    {
+      "surface": "הר",
+      "gloss": "βουνό"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Τσιόν"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "που έρημωσε"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "τσακάλια"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "περπατούν"
+    },
+    {
+      "surface": "בו",
+      "gloss": "πάνω του"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:04.859914380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 17,
+  "translation": "Δόλιος η καρδιά πάνω απ' όλα, και ανίατο ⟨είναι⟩ — ποιος να το γνωρίσει;",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "Δόλιος"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "η καρδιά"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "πάνω απ' όλα"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "και ανίατο"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ποιος"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "να το γνωρίσει"
+    }
+  ],
+  "timestamp": "2026-09-03T04:44:52.082744982Z",
+  "model": "glm-5.3"
+}

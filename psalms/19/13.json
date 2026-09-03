@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "Λάθη — ποιος θα τα καταλάβει; Από τα κρυφά καθάρισέ με.",
+  "tokens": [
+    {
+      "surface": "שגיאות",
+      "gloss": "Λάθη"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ποιος"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "θα καταλάβει"
+    },
+    {
+      "surface": "מנסתרות",
+      "gloss": "Από τα κρυφά"
+    },
+    {
+      "surface": "נקני",
+      "gloss": "καθάρισέ με"
+    }
+  ],
+  "timestamp": "2026-09-03T07:46:39.463625718Z",
+  "model": "glm-5.3"
+}

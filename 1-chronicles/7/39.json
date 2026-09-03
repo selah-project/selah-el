@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Και οι γιοι του Ουλά: Αράχ και Χανιέλ και Ριτσιά.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και οι γιοι"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "του Ουλά"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Αράχ"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "και Χανιέλ"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "και Ριτσιά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:32:12.026737305Z",
+  "model": "glm-5.3"
+}

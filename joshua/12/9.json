@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "ο βασιλιάς της Ιεριχώ, ένας· ο βασιλιάς του Χαΐ, που είναι δίπλα στο Μπετ Ελ, ένας·",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ο βασιλιάς"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "της Ιεριχώ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ο βασιλιάς"
+    },
+    {
+      "surface": "העי",
+      "gloss": "του Χαΐ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "δίπλα"
+    },
+    {
+      "surface": "בית",
+      "gloss": "στο Μπετ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ελ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    }
+  ],
+  "timestamp": "2026-09-03T01:07:31.800200320Z",
+  "model": "glm-5.3"
+}

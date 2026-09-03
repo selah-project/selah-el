@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Και πήρε άλλο δρόμο, και δεν γύρισε στον δρόμο που ήρθε απ' αυτόν, προς τη Βεθ-Ελ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Και πήρε"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "δρόμο"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "άλλο"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "שב",
+      "gloss": "γύρισε"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "στον δρόμο"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ήρθε"
+    },
+    {
+      "surface": "בה",
+      "gloss": "απ' αυτόν"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Βεθ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ελ"
+    }
+  ],
+  "timestamp": "2026-09-03T02:56:27.457527823Z",
+  "model": "glm-5.3"
+}

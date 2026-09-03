@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "Και δεν έμαθα σοφία, και γνώση των αγίων ξέρω.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Και δεν"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "έμαθα"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "σοφία"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "και γνώση"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "των αγίων"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ξέρω"
+    }
+  ],
+  "timestamp": "2026-09-03T09:00:32.084314616Z",
+  "model": "glm-5.3"
+}

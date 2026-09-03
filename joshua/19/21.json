@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "και Ρεμέτ, και Εν Γανίμ, και Εν Χαντά, και Βεθ Πατσές.",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "και Ρεμέτ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "και Εν"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Γανίμ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "και Εν"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "Χαντά"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "και Βεθ"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "Πατσές"
+    }
+  ],
+  "timestamp": "2026-09-03T01:14:08.417475156Z",
+  "model": "glm-5.3"
+}

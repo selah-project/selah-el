@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Και είπαν τα δέντρα στη συκιά: Έλα, εσύ, βασίλεψε πάνω μας.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Και είπαν"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "τα δέντρα"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "στη συκιά"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Έλα"
+    },
+    {
+      "surface": "את",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "βασίλεψε"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "πάνω μας"
+    }
+  ],
+  "timestamp": "2026-09-03T01:26:11.374392057Z",
+  "model": "glm-5.3"
+}

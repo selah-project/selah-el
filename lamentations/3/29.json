@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Ας βάλει στο χώμα το στόμα του — μήπως υπάρχει ελπίδα.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Ας βάλει"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "στο χώμα"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "το στόμα του"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "μήπως"
+    },
+    {
+      "surface": "יש",
+      "gloss": "υπάρχει"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ελπίδα"
+    }
+  ],
+  "timestamp": "2026-09-03T09:33:12.235134677Z",
+  "model": "glm-5.3"
+}

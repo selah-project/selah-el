@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Γιατί το όνειρο έρχεται με πλήθος ασχολιών, και η φωνή του ανόητου με πλήθος λόγια.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "בא",
+      "gloss": "έρχεται"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "το όνειρο"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "με πλήθος"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "ασχολιών"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "και η φωνή"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "του ανόητου"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "με πλήθος"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "λόγια"
+    }
+  ],
+  "timestamp": "2026-09-03T09:41:43.472240178Z",
+  "model": "glm-5.3"
+}

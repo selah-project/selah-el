@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 8:4",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Και να — εκεί η δόξα του Ελοχίμ του Ισραέλ, όπως η όψη που είδα στην κοιλάδα.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Και να"
+    },
+    {
+      "surface": "שם",
+      "gloss": "εκεί"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "η δόξα"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "του Ελοχίμ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "του Ισραέλ"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "όπως η όψη"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "είδα"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "στην κοιλάδα"
+    }
+  ],
+  "timestamp": "2026-09-03T05:22:24.493021505Z",
+  "model": "glm-5.3"
+}

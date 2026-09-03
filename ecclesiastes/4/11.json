@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Κι αν κοιμηθούν δύο, ζεστασιά θα έχουν· και για τον έναν, πώς θα ζεσταθεί;",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Κι"
+    },
+    {
+      "surface": "אם",
+      "gloss": "αν"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "κοιμηθούν"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "δύο"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ζεστασιά"
+    },
+    {
+      "surface": "להם",
+      "gloss": "θα έχουν"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "και για τον έναν"
+    },
+    {
+      "surface": "איך",
+      "gloss": "πώς"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "θα ζεσταθεί"
+    }
+  ],
+  "timestamp": "2026-09-03T09:37:47.115846569Z",
+  "model": "glm-5.3"
+}

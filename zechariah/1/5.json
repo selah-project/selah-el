@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Οι πατέρες σας — πού είναι; Και οι προφήτες, στον αιώνα θα ζουν;",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "Οι πατέρες σας"
+    },
+    {
+      "surface": "איה",
+      "gloss": "πού"
+    },
+    {
+      "surface": "הם",
+      "gloss": "είναι"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "Και οι προφήτες"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "στον αιώνα"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "θα ζουν"
+    }
+  ],
+  "timestamp": "2026-09-03T07:34:05.205646100Z",
+  "model": "glm-5.3"
+}

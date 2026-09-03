@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 55,
+  "translation": "Για τον μαέστρο, με έγχορδα. Μασκίλ του Δαβίδ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Για τον μαέστρο"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "με έγχορδα"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Μασκίλ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "του Δαβίδ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:04:30.764755837Z",
+  "model": "glm-5.3"
+}

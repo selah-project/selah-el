@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 82,
+  "translation": "Εγώ είπα: θεοί είστε εσείς, και γιοι του Ελιόν όλοι εσείς.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Εγώ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "είπα"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "θεοί"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "είστε εσείς"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "και γιοι"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "του Ελιόν"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "όλοι εσείς"
+    }
+  ],
+  "timestamp": "2026-09-03T11:27:52.668444912Z",
+  "model": "glm-5.3"
+}

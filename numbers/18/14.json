@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "Κάθε χέρεμ στο Ισραέλ δικό σου θα είναι.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Κάθε"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "χέρεμ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "στο Ισραέλ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "δικό σου"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "θα είναι"
+    }
+  ],
+  "timestamp": "2026-09-03T00:30:31.701732893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Και απέκτησαν γιους ο Βελά: τον Αδάρ, και τον Γερά, και τον Αβιχούν.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Και απέκτησαν"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "γιους"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "ο Βελά"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "τον Αδάρ"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "και τον Γερά"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "και τον Αβιχούν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:32:57.484324968Z",
+  "model": "glm-5.3"
+}

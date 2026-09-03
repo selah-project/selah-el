@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Σεμαγιά, και Γιογιαρίβ, Γιαδαγιά.",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "Σεμαγιά"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "και Γιογιαρίβ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Γιαδαγιά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:22:04.607253086Z",
+  "model": "glm-5.3"
+}

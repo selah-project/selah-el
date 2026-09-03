@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 46:19",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 46,
+  "translation": "Γιοι της Ραχέλ, γυναίκας του Γιαακόβ: Γιοσέφ και Βινιαμίν.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "της Ραχέλ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "γυναίκας"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "του Γιαακόβ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Γιοσέφ"
+    },
+    {
+      "surface": "ובנימין",
+      "gloss": "και Βινιαμίν"
+    }
+  ],
+  "timestamp": "2026-09-02T23:41:10.930357025Z",
+  "model": "glm-5.3"
+}

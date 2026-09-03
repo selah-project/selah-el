@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Και έδωσε ο Δαβίδ στον Αρναν για τον τόπο σέκελ χρυσού, βάρος εξακοσίων.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Και έδωσε"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ο Δαβίδ"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "στον Αρναν"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "για τον τόπο"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "σέκελ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "χρυσού"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "βάρος"
+    },
+    {
+      "surface": "שש",
+      "gloss": "έξι"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εκατοστά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:45:03.080682634Z",
+  "model": "glm-5.3"
+}

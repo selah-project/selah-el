@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Και είπα: Αχά, Αδωνάι Γιαχβέ! Να, δεν ξέρω να μιλήσω, γιατί νέος ⟨είμαι⟩ εγώ.",
+  "tokens": [
+    {
+      "surface": "ואμר",
+      "gloss": "Και είπα"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Αχά"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Αδωνάι"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Να"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ξέρω"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "να μιλήσω"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "נער",
+      "gloss": "νέος"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "εγώ"
+    }
+  ],
+  "timestamp": "2026-09-03T04:32:47.526393188Z",
+  "model": "glm-5.3"
+}

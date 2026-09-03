@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 28,
+  "translation": "Ευλογημένος εσύ στο να μπαίνεις και ευλογημένος εσύ στο να βγαίνεις.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ευλογημένος"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "στο να μπαίνεις"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "και ευλογημένος"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "στο να βγαίνεις"
+    }
+  ],
+  "timestamp": "2026-09-03T00:55:51.178409735Z",
+  "model": "glm-5.3"
+}

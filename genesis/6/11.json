@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και διεφθάρη η γη μπροστά στον Ελοχίμ, και γέμισε η γη βία.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "Και διεφθάρη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "η γη"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "μπροστά στον"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Ελοχίμ"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "και γέμισε"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "η γη"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "βία"
+    }
+  ],
+  "timestamp": "2026-09-02T23:21:21.086821664Z",
+  "model": "glm-5.3"
+}

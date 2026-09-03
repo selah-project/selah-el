@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Δεν θα αροτριάς με βόδι και με γάιδαρο μαζί.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "θα αροτριάς"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "με βόδι"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "και με γάιδαρο"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "μαζί"
+    }
+  ],
+  "timestamp": "2026-09-03T00:51:17.422958273Z",
+  "model": "glm-5.3"
+}

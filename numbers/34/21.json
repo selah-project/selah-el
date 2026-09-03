@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 34,
+  "translation": "Για τη φυλή του Βινιαμίν, Ελιδάντ γιος του Κισλόν.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "για τη φυλή"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "του Βινιαμίν"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "Ελιδάντ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "του Κισλόν"
+    }
+  ],
+  "timestamp": "2026-09-03T00:39:46.645356384Z",
+  "model": "glm-5.3"
+}

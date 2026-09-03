@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Στον Ζβουλούν: ο Ελιαβ, γιος του Χελόν.",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "Στον Ζβουλούν"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ο Ελιαβ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "του Χελόν"
+    }
+  ],
+  "timestamp": "2026-09-03T00:17:45.726345495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Η σοφία δίνει δύναμη στον σοφό περισσότερο από δέκα ισχυρούς που ήταν στην πόλη.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "Η σοφία"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "δίνει δύναμη"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "στον σοφό"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "περισσότερο από δέκα"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "ισχυρούς"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ήταν"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "στην πόλη"
+    }
+  ],
+  "timestamp": "2026-09-03T09:40:23.259404135Z",
+  "model": "glm-5.3"
+}

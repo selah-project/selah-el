@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 39,
+  "translation": "Έμεινα σιωπηλός, δεν άνοιξα το στόμα μου, γιατί εσύ ⟨το⟩ έκανες.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Έμεινα σιωπηλός"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "άνοιξα"
+    },
+    {
+      "surface": "פי",
+      "gloss": "το στόμα μου"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "έκανες"
+    }
+  ],
+  "timestamp": "2026-09-03T07:56:53.838562384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Αχί, γιος του Αβντιέλ, γιου του Γουνί, ⟨ήταν⟩ κεφάλι στον οίκο των πατέρων τους.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Αχί"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "του Αβντιέλ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιου"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "του Γουνί"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "κεφάλι"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "στον οίκο"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "των πατέρων τους"
+    }
+  ],
+  "timestamp": "2026-09-03T10:29:29.775683801Z",
+  "model": "glm-5.3"
+}

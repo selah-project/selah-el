@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 10:8",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Μεσουλάμ, Αβιά, Μιγιάμιν.",
+  "tokens": [
+    {
+      "surface": "משלם",
+      "gloss": "Μεσουλάμ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Αβιά"
+    },
+    {
+      "surface": "מימן",
+      "gloss": "Μιγιάμιν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:19:50.014282997Z",
+  "model": "glm-5.3"
+}

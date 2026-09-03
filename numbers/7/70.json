@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "ένα τράγο των κατσικών, για προσφορά αμαρτίας·",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ένα τράγο"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "των κατσικών"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "για προσφορά αμαρτίας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:24:32.259310998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Και μίλησε ο Γιαχβέ στον Γαδ, τον οραματιστή του Δαβίδ, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Και μίλησε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Γαδ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "τον οραματιστή"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "του Δαβίδ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T10:42:55.869544218Z",
+  "model": "glm-5.3"
+}

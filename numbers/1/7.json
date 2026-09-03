@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Του Γιεχουντά, Ναχσόν γιος Αμιναντάβ.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "Του Γιεχουντά"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Ναχσόν"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Αμιναντάβ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:17:59.046233216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Αχ, Τσιόν, γλίτωσε, εσύ που κάθισες ⟨σαν⟩ κόρη της Βαβέλ.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Αχ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Τσιόν"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "γλίτωσε"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "εσύ που κάθισες"
+    },
+    {
+      "surface": "בת",
+      "gloss": "κόρη"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "της Βαβέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T12:38:00.423151915Z",
+  "model": "glm-5.3"
+}

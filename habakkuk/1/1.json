@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Το φορτίο που είδε ο Χαβάκουκ ο ναβί.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "Το φορτίο"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "είδε"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "ο Χαβάκουκ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ο ναβί"
+    }
+  ],
+  "timestamp": "2026-09-03T07:25:49.409822130Z",
+  "model": "glm-5.3"
+}

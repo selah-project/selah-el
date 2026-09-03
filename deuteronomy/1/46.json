@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Και μένατε στο Καντές πολλές μέρες, όσες μέρες είχατε μείνει ⟨εκεί⟩.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "Και μένατε"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "στο Καντές"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "μέρες"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "πολλές"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "όσες μέρες"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "είχατε μείνει ⟨εκεί⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T00:41:03.522097443Z",
+  "model": "glm-5.3"
+}

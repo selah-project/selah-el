@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Όσο στη γνώση σας — ξέρω κι εγώ· δεν υστερώ εγώ από εσάς.",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "Όσο στη γνώση σας"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ξέρω"
+    },
+    {
+      "surface": "גם",
+      "gloss": "κι"
+    },
+    {
+      "surface": "אני",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "υστερώ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "από εσάς"
+    }
+  ],
+  "timestamp": "2026-09-03T09:07:58.210908157Z",
+  "model": "glm-5.3"
+}

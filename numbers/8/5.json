@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 8:5",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Και μίλησε ο Γιαχβέ προς τον Μοσέ λέγοντας:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Και μίλησε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "משה",
+      "gloss": "τον Μοσέ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:24:51.220805270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Ως πότε, τεμπέλη, θα κοιμάσαι· ως πότε θα σηκωθείς ⟨από⟩ τον ύπνο σου;",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ως"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "πότε"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "τεμπέλη"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "θα κοιμάσαι"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "πότε"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "θα σηκωθείς"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "τον ύπνο σου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:45:26.083338067Z",
+  "model": "glm-5.3"
+}

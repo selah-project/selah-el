@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Και γιος του Σαμάι ⟨ήταν⟩ ο Μαόν, και ο Μαόν ⟨ήταν⟩ πατέρας του Βετ-Τσουρ.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Και γιος"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "του Σαμάι"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ο Μαόν"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "και ο Μαόν"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "πατέρας"
+    },
+    {
+      "surface": "בית",
+      "gloss": "του Βετ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Τσουρ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:27:32.137826859Z",
+  "model": "glm-5.3"
+}

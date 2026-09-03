@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Και ο Μοσέ, άνθρωπος του Ελοχίμ — οι γιοι του ονομάστηκαν στη φυλή του Λεβί.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Και ο Μοσέ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "άνθρωπος"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "του Ελοχίμ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "οι γιοι του"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ονομάστηκαν"
+    },
+    {
+      "surface": "על",
+      "gloss": "στη"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "φυλή"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "του Λεβί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:45:37.479322168Z",
+  "model": "glm-5.3"
+}

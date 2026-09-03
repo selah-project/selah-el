@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Γιτούρ, Ναφές και Κεντεμά· αυτοί είναι οι γιοι του Ισμαέλ.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "Γιτούρ"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Ναφές"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "και Κεντεμά"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "αυτοί"
+    },
+    {
+      "surface": "הם",
+      "gloss": "είναι"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "του Ισμαέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:24:34.820381514Z",
+  "model": "glm-5.3"
+}

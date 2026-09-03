@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Και τους είπε: Ακόμα τρεις μέρες, και γυρίστε σε μένα. Και πήγε ο λαός.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και τους είπε"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "τους"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Ακόμα"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "τρεις"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "μέρες"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "και γυρίστε"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "σε μένα"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "Και πήγε"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ο λαός"
+    }
+  ],
+  "timestamp": "2026-09-03T10:58:42.453398915Z",
+  "model": "glm-5.3"
+}

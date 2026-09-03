@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 72,
+  "translation": "Τελείωσαν οι προσευχές του Δαβίδ, γιου του Ισάι.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "τελείωσαν"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "οι προσευχές"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "του Δαβίδ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιου"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "του Ισάι"
+    }
+  ],
+  "timestamp": "2026-09-03T08:11:54.079950404Z",
+  "model": "glm-5.3"
+}

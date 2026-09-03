@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Γιατί στον τόπο που εξόρισαν ⟨את⟩ αυτόν, εκεί θα πεθάνει, και ⟨את⟩ τη γη αυτή δεν θα δει πια.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "στον τόπο"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "εξόρισαν"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ αυτόν",
+      "marks": "τον Σαλλούμ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "εκεί"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "θα πεθάνει"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "τη γη"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "αυτή"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "θα δει"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "πια"
+    }
+  ],
+  "timestamp": "2026-09-03T04:48:42.958163004Z",
+  "model": "glm-5.3"
+}

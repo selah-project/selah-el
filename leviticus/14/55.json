@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "και για τσεράατ του ρούχου και για το σπίτι,",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "και για τσεράατ"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "του ρούχου"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "και για το σπίτι"
+    }
+  ],
+  "timestamp": "2026-09-03T00:09:42.170111370Z",
+  "model": "glm-5.3"
+}

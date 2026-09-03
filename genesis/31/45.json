@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 31,
+  "translation": "Και πήρε ο Γιαακόβ πέτρα και τη σήκωσε ⟨ως⟩ στήλη.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Και πήρε"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ο Γιαακόβ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "πέτρα"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "και τη σήκωσε"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "στήλη"
+    }
+  ],
+  "timestamp": "2026-09-02T23:34:26.732772172Z",
+  "model": "glm-5.3"
+}

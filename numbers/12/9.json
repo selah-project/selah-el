@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Και ξέσπασε η οργή του Γιαχβέ εναντίον τους, και έφυγε.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Και ξέσπασε"
+    },
+    {
+      "surface": "אף",
+      "gloss": "η οργή"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "εναντίον τους"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "και έφυγε"
+    }
+  ],
+  "timestamp": "2026-09-03T06:42:48.687733719Z",
+  "model": "glm-5.3"
+}

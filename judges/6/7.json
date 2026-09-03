@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και έγινε, όταν φώναξαν οι γιοι του Ισραέλ στον Γιαχβέ εξ αιτίας του Μιδιάμ,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και έγινε"
+    },
+    {
+      "surface": "כי",
+      "gloss": "όταν"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "φώναξαν"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "του Ισραέλ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "על",
+      "gloss": "εξ αιτίας"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "του"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Μιδιάμ"
+    }
+  ],
+  "timestamp": "2026-09-03T12:12:28.993872334Z",
+  "model": "glm-5.3"
+}

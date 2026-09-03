@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Και είπε ο Ελοχίμ στον Νόαχ και στους γιους του μαζί του, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ο Ελοχίμ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Νόαχ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "και στους"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "γιους του"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ μαζί του"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας:"
+    }
+  ],
+  "timestamp": "2026-09-02T23:21:13.454259214Z",
+  "model": "glm-5.3"
+}

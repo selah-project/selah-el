@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "ώρα να γεννηθείς, και ώρα να πεθάνεις· ώρα να φυτέψεις, και ώρα να ξεριζώσεις το φυτεμένο·",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ώρα"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "να γεννηθείς"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "και ώρα"
+    },
+    {
+      "surface": "למות",
+      "gloss": "να πεθάνεις"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ώρα"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "να φυτέψεις"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "και ώρα"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "να ξεριζώσεις"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "το φυτεμένο"
+    }
+  ],
+  "timestamp": "2026-09-03T09:37:57.216513891Z",
+  "model": "glm-5.3"
+}

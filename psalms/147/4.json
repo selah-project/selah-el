@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 147,
+  "translation": "Μετρά τον αριθμό των αστέρων, σε όλα τους λέει ονόματα.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Μετρά"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "τον αριθμό"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "των αστέρων"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "σε όλα τους"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ονόματα"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "λέει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:41:00.233435999Z",
+  "model": "glm-5.3"
+}

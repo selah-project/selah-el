@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 27,
+  "translation": "«Και τώρα, γιο μου, άκουσε τη φωνή μου, σε ό,τι εγώ ⟨את⟩ σου εντελλομαι».",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Και τώρα"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιο μου"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "άκουσε"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "τη φωνή μου"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "σε ό,τι"
+    },
+    {
+      "surface": "אני",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "εντελλομαι"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ σου"
+    }
+  ],
+  "timestamp": "2026-09-02T23:30:24.927508252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 17,
+  "translation": "Σε κάθε καιρό αγαπά ο φίλος, και αδερφός για ανάγκη γεννιέται.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "σε κάθε"
+    },
+    {
+      "surface": "עת",
+      "gloss": "καιρό"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "αγαπά"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ο φίλος"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "και αδερφός"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "για ανάγκη"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "γεννιέται"
+    }
+  ],
+  "timestamp": "2026-09-03T08:51:57.933613542Z",
+  "model": "glm-5.3"
+}

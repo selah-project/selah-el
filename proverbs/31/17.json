@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 31:17",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 31,
+  "translation": "Έζωσε με δύναμη τη μέση της και δυνατώνει τα χέρια της.",
+  "tokens": [
+    {
+      "surface": "חגרה",
+      "gloss": "Έζωσε"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "με δύναμη"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "τη μέση της"
+    },
+    {
+      "surface": "ותאמץ",
+      "gloss": "και δυνατώνει"
+    },
+    {
+      "surface": "זרעותיה",
+      "gloss": "τα χέρια της"
+    }
+  ],
+  "timestamp": "2026-09-03T09:01:03.497335959Z",
+  "model": "glm-5.3"
+}

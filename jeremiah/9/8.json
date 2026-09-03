@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 9:8",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Γι' αυτά να μην τα επισκεφθώ με κρίση; λέει ο Γιαχβέ· ή σε έθνος σαν αυτό να μην εκδικηθεί η ψυχή μου;",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "γι'"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "αυτά"
+    },
+    {
+      "surface": "לא",
+      "gloss": "να μην"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "τα επισκεφθώ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "σε αυτούς"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "λέει"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ή"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "σε έθνος"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "σαν αυτό"
+    },
+    {
+      "surface": "לא",
+      "gloss": "να μην"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "εκδικηθεί"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "η ψυχή μου"
+    }
+  ],
+  "timestamp": "2026-09-03T04:39:33.880951092Z",
+  "model": "glm-5.3"
+}

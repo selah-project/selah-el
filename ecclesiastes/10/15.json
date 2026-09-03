@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Ο κόπος των αφρόνων τους εξαντλεί, που δεν ξέρει να πάει στην πόλη.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "Ο κόπος"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "των αφρόνων"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "τους εξαντλεί"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ξέρει"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "να πάει"
+    },
+    {
+      "surface": "אל",
+      "gloss": "σε"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "πόλη"
+    }
+  ],
+  "timestamp": "2026-09-03T09:40:23.057163346Z",
+  "model": "glm-5.3"
+}

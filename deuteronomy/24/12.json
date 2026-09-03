@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Και αν είναι φτωχός άνθρωπος, δεν θα κοιμηθείς με το ενέχυρό του.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Και αν"
+    },
+    {
+      "surface": "איש",
+      "gloss": "άνθρωπος"
+    },
+    {
+      "surface": "עני",
+      "gloss": "φτωχός"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "είναι"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "θα κοιμηθείς"
+    },
+    {
+      "surface": "בעבטο",
+      "gloss": "με το ενέχυρό του"
+    }
+  ],
+  "timestamp": "2026-09-03T00:53:22.704737238Z",
+  "model": "glm-5.3"
+}

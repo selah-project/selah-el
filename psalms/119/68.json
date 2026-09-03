@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 119,
+  "translation": "Καλός ⟨είσαι⟩ εσύ και αγαθοποιείς· δίδαξέ me τα νόμιμά σου.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Καλός"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "και αγαθοποιείς"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "δίδαξέ me"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "τα νόμιμά σου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:32:25.630719155Z",
+  "model": "glm-5.3"
+}

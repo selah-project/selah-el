@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 37,
+  "translation": "Και είπε: Τους αδελφούς μου ⟨את⟩ ψάχνω· πες μου λοιπόν πού βόσκουν.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Τους αδελφούς μου"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Τους αδελφούς μου"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ψάχνω"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "πες"
+    },
+    {
+      "surface": "נא",
+      "gloss": "λοιπόν"
+    },
+    {
+      "surface": "לי",
+      "gloss": "μου"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "πους"
+    },
+    {
+      "surface": "הם",
+      "gloss": "εκείνοι"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "βόσκουν"
+    }
+  ],
+  "timestamp": "2026-09-02T23:36:21.594795588Z",
+  "model": "glm-5.3"
+}

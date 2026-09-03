@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "και ο αδερφός του ο Ασάφ, που στεκόταν στα δεξιά του· Ασάφ, γιος Βερεκιάχ, γιος Σιμεά.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "και ο αδερφός του"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Ασάφ"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "που στεκόταν"
+    },
+    {
+      "surface": "על",
+      "gloss": "στα"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "δεξιά του"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Ασάφ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "Βερεκιάχ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Σιμεά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:43.442136647Z",
+  "model": "glm-5.3"
+}

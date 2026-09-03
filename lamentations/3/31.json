@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Γιατί δεν απορρίπτει στον αιώνα ο Αδωνάι.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "απορρίπτει"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "στον αιώνα"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ο Αδωνάι"
+    }
+  ],
+  "timestamp": "2026-09-03T09:33:12.235562839Z",
+  "model": "glm-5.3"
+}

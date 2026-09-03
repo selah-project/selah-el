@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 20,
+  "translation": "Αυτί που ακούει και μάτι που βλέπει — ο Γιαχβέ έκανε και τα δύο.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "Αυτί"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "που ακούει"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "και μάτι"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "που βλέπει"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "έκανε"
+    },
+    {
+      "surface": "גם",
+      "gloss": "και"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "τα δύο"
+    }
+  ],
+  "timestamp": "2026-09-03T08:52:36.705763880Z",
+  "model": "glm-5.3"
+}

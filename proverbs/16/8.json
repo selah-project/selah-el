@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 16,
+  "translation": "Καλύτερο λίγο με δικαιοσύνη παρά αφθονία εσόδων χωρίς δίκαιο.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Καλύτερο"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "λίγο"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "με δικαιοσύνη"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "παρά αφθονία"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "εσόδων"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "χωρίς"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "δίκαιο"
+    }
+  ],
+  "timestamp": "2026-09-03T08:51:47.824952499Z",
+  "model": "glm-5.3"
+}

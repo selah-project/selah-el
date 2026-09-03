@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Αγαθό μάτι — αυτός θα ευλογηθεί, γιατί έδωσε από τον άρτο του στον φτωχό.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Αγαθό"
+    },
+    {
+      "surface": "עין",
+      "gloss": "μάτι"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "αυτός"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "θα ευλογηθεί"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "έδωσε"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "από τον άρτο του"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "στον φτωχό"
+    }
+  ],
+  "timestamp": "2026-09-03T08:54:56.184203705Z",
+  "model": "glm-5.3"
+}

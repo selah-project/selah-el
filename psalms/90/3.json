@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 90,
+  "translation": "Γυρίζεις τον θνητό σε σύντριμμα και λες: Γυρίστε, γιοι του Αδάμ.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Γυρίζεις"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "τον θνητό"
+    },
+    {
+      "surface": "עד",
+      "gloss": "σε"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "σύντριμμα"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "και λες"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Γυρίστε"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "του Αδάμ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:21:40.900056058Z",
+  "model": "glm-5.3"
+}

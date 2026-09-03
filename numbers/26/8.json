@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 26,
+  "translation": "Και γιοι του Παλού: ο Ελιαβ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και γιοι"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "του Παλού"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ο Ελιαβ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:34:14.483584969Z",
+  "model": "glm-5.3"
+}

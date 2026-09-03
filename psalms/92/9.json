@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 92,
+  "translation": "Και εσύ, σε ύψος για τον αιώνα, Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Και εσύ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "σε ύψος"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "για τον αιώνα"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:20:34.691280651Z",
+  "model": "glm-5.3"
+}

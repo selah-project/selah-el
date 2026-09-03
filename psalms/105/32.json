@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 105,
+  "translation": "Έδωσε τις βροχές τους χαλάζι, φωτιά φλογών στη γη τους.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Έδωσε"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "τις βροχές τους"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "χαλάζι"
+    },
+    {
+      "surface": "אש",
+      "gloss": "φωτιά"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "φλογών"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "στη γη τους"
+    }
+  ],
+  "timestamp": "2026-09-03T08:27:02.259435598Z",
+  "model": "glm-5.3"
+}

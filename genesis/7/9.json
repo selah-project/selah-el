@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Δύο δύο ήρθαν στον Νόαχ, στην κιβωτό, αρσενικό και θηλυκό, όπως διέταξε ο Ελοχίμ ⟨את⟩ τον Νόαχ.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "Δύο"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "δύο"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ήρθαν"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Νόαχ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στην"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "κιβωτό"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "αρσενικό"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "και θηλυκό"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "όπως"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "διέταξε"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ο Ελοχίμ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Νόαχ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Νόαχ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:21:26.466418442Z",
+  "model": "glm-5.3"
+}

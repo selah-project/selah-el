@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Τρεις φορές θα εορτάζεις σε εμένα μέσα στον χρόνο.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Τρεις"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "φορές"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "θα εορτάζεις"
+    },
+    {
+      "surface": "לי",
+      "gloss": "σε εμένα"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "μέσα στον χρόνο"
+    }
+  ],
+  "timestamp": "2026-09-02T23:53:22.682628157Z",
+  "model": "glm-5.3"
+}

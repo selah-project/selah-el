@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Και είπαν όλα τα δέντρα προς το βάτο: Έλα, εσύ, βασίλεψε πάνω μας.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Και είπαν"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "τα δέντρα"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "το βάτο"
+    },
+    {
+      "surface": "לך",
+      "gloss": "έλα"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "βασίλεψε"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "πάνω μας"
+    }
+  ],
+  "timestamp": "2026-09-03T01:27:18.255051857Z",
+  "model": "glm-5.3"
+}

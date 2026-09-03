@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Μην φας ⟨את⟩ ψωμί κάποιου με κακό μάτι, και μην επιθυμήσεις τα προσφάγιά του.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "μην"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "φας"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ψωμί"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ψωμί"
+    },
+    {
+      "surface": "רע",
+      "gloss": "κακό"
+    },
+    {
+      "surface": "עין",
+      "gloss": "μάτι"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "και μην"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "επιθυμήσεις"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "τα προσφάγιά του"
+    }
+  ],
+  "timestamp": "2026-09-03T08:55:53.957221999Z",
+  "model": "glm-5.3"
+}

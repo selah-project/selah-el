@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 42,
+  "translation": "Και έκλεισε ⟨את⟩ αυτούς σε φύλαξη τρεις μέρες.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "και έκλεισε"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "αυτούς"
+    },
+    {
+      "surface": "אל",
+      "gloss": "σε"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "φύλαξη"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "τρεις"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "μέρες"
+    }
+  ],
+  "timestamp": "2026-09-02T23:39:22.120733367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Πήγαινε στο μυρμήγκι, οκνηρέ· δες τους δρόμους του και γίνε σοφός.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Πήγαινε"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στο"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "μυρμήγκι"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "οκνηρέ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "δες"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "τους δρόμους του"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "και γίνε σοφός"
+    }
+  ],
+  "timestamp": "2026-09-03T08:45:35.818596116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Μη γίνεις δίκαιος υπερβολικά, και μη φαίνεσαι σοφός περισσότερο — γιατί να αφανιστείς;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Μη"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "γίνεις"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "δίκαιος"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "υπερβολικά"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "και μη"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "φαίνεσαι σοφός"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "περισσότερο"
+    },
+    {
+      "surface": "למה",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "να αφανιστείς"
+    }
+  ],
+  "timestamp": "2026-09-03T09:39:41.434332216Z",
+  "model": "glm-5.3"
+}

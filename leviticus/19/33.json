@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "Και αν παροικεί ⟨את⟩ εσάς γκερ στη γη σας, δεν θα τον καταπιέζετε ⟨את⟩ αυτόν.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Και αν"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "παροικεί"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ εσάς"
+    },
+    {
+      "surface": "גר",
+      "gloss": "γκερ"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "στη γη σας"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "θα καταπιέζετε"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "αυτόν (τον γκερ)"
+    }
+  ],
+  "timestamp": "2026-09-03T00:14:24.894426706Z",
+  "model": "glm-5.3"
+}

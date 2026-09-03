@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Τσαμπί χέννας είναι ο αγαπημένος μου για μένα, στους αμπελώνες του Εν-Γεντί.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "Τσαμπί"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "χέννας"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ο αγαπημένος μου"
+    },
+    {
+      "surface": "לי",
+      "gloss": "για μένα"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "στους αμπελώνες"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Εν"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "-Γεντί"
+    }
+  ],
+  "timestamp": "2026-09-03T09:25:07.400157559Z",
+  "model": "glm-5.3"
+}

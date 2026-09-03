@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Και είπε: Έτσι λέει ο Γιαχβέ: Κάντε το ρέμα αυτό λάκκους, λάκκους.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Έτσι"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "λέει"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Κάντε"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "το ρέμα"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "λάκκους"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "λάκκους"
+    }
+  ],
+  "timestamp": "2026-09-03T03:14:06.720293157Z",
+  "model": "glm-5.3"
+}

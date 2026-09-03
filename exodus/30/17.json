@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 30:17",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "Και μίλησε ο Γιαχβέ προς τον Μοσέ λέγοντας:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Και μίλησε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "משה",
+      "gloss": "τον Μοσέ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-02T23:57:17.736753375Z",
+  "model": "glm-5.3"
+}

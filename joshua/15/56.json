@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "και Γιζρεέλ, και Γιοκδεάμ, και Ζανουάχ",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "και Γιζρεέλ"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "και Γιοκδεάμ"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "και Ζανουάχ"
+    }
+  ],
+  "timestamp": "2026-09-03T01:11:45.097086809Z",
+  "model": "glm-5.3"
+}

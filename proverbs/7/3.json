@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Δέσε τις πάνω στα δάχτυλά σου, γράψε τις στην πλάκα της καρδιάς σου.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "Δέσε τις"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "τα δάχτυλά σου"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "γράψε τις"
+    },
+    {
+      "surface": "על",
+      "gloss": "στην"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "πλάκα"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "της καρδιάς σου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:46:33.816268206Z",
+  "model": "glm-5.3"
+}

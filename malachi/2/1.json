@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Και τώρα, προς εσάς η εντολή αυτή, οι κοέν.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Και τώρα"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "προς εσάς"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "η εντολή"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "αυτή"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "οι κοέν"
+    }
+  ],
+  "timestamp": "2026-09-03T07:40:19.554189327Z",
+  "model": "glm-5.3"
+}

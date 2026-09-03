@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "numbers 7:74",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "κουτάλα μία, δέκα ⟨σέκελ⟩ χρυσού, γεμάτη θυμίαμα.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "κουτάλα"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "μία"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "δέκα"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "χρυσού"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "γεμάτη"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "θυμίαμα"
+    }
+  ],
+  "timestamp": "2026-09-03T06:44:09.499063562Z",
+  "model": "glm-5.3"
+}

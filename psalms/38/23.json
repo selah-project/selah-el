@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 38,
+  "translation": "Σπεύσε σε βοήθειά μου, Αδωνάι, η σωτηρία μου.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "Σπεύσε"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "σε βοήθειά μου"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Αδωνάι"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "η σωτηρία μου"
+    }
+  ],
+  "timestamp": "2026-09-03T07:56:04.185572221Z",
+  "model": "glm-5.3"
+}

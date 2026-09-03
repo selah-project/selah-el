@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 28,
+  "translation": "Και έγινε λόγος του Γιαχβέ προς εμένα, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και έγινε"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "προς εμένα"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T05:40:04.333300647Z",
+  "model": "glm-5.3"
+}

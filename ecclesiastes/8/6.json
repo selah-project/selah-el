@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Γιατί για κάθε θέλημα υπάρχει καιρός και κρίση· γιατί το κακό του ανθρώπου είναι μεγάλο πάνω του.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "για κάθε"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "θέλημα"
+    },
+    {
+      "surface": "יש",
+      "gloss": "υπάρχει"
+    },
+    {
+      "surface": "עת",
+      "gloss": "καιρός"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "και κρίση"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "το κακό"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ο άνθρωπος"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "μεγάλο"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "πάνω του"
+    }
+  ],
+  "timestamp": "2026-09-03T09:41:31.317132672Z",
+  "model": "glm-5.3"
+}

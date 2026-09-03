@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "και ⟨את⟩ τη Δαγιά, και ⟨את⟩ την Αγιά, κατά το είδος της.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "τη Δαγιά"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "τη Δαγιά"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "την Αγιά"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "την Αγιά"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "κατά το είδος της"
+    }
+  ],
+  "timestamp": "2026-09-03T00:07:11.012802218Z",
+  "model": "glm-5.3"
+}

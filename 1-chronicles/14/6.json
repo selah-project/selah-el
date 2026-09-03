@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "και Νογκάχ, και Νεφέγ, και Γιαφιά",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "και Νογκάχ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "και Νεφέγ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "και Γιαφιά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:37:35.975421117Z",
+  "model": "glm-5.3"
+}

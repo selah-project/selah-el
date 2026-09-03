@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "Και είπε ο Γιαχβέ σε μένα: μην προσεύχεσαι υπέρ του λαού αυτού για καλό.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "σε μένα"
+    },
+    {
+      "surface": "אל",
+      "gloss": "μην"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "προσεύχεσαι"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "υπέρ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "του λαού"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "αυτού"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "για καλό"
+    }
+  ],
+  "timestamp": "2026-09-03T04:44:25.422684989Z",
+  "model": "glm-5.3"
+}

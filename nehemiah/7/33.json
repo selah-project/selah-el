@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι άντρες του άλλου Νεβο, πενήντα και δύο.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "οι άντρες"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Νεβο"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "άλλου"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "πενήντα"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "και δύο"
+    }
+  ],
+  "timestamp": "2026-09-03T10:16:58.262013138Z",
+  "model": "glm-5.3"
+}

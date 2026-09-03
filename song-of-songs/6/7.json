@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Σαν φέτα ροδιού ο κρόταφός σου, από πίσω από τη μαντίλα σου.",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "Σαν φέτα"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "ροδιού"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "ο κρόταφός σου"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "από πίσω από"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "τη μαντίλα σου"
+    }
+  ],
+  "timestamp": "2026-09-03T09:29:18.923692809Z",
+  "model": "glm-5.3"
+}

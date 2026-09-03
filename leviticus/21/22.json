@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Τον άρτο του Ελοχίμ του, από τα αγιότατα και από τα άγια, θα φάει.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Τον άρτο"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "του Ελοχίμ του"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "από τα αγιότατα"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "άγια"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "και από"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "τα άγια"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "θα φάει"
+    }
+  ],
+  "timestamp": "2026-09-03T00:13:54.485306550Z",
+  "model": "glm-5.3"
+}

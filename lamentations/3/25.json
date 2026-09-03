@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Αγαθός ⟨είναι⟩ ο Γιαχβέ σε όσους τον περιμένουν, στην ψυχή που τον ζητά.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Αγαθός"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "σε όσους τον περιμένουν"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "στην ψυχή"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "τον ζητά"
+    }
+  ],
+  "timestamp": "2026-09-03T09:33:26.446105643Z",
+  "model": "glm-5.3"
+}

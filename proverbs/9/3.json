@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Έστειλε τις υπηρέτριές της· φωνάζει πάνω στα ύψη της πόλης·",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "έστειλε"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "τις υπηρέτριές της"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "φωνάζει"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "στα"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "ύψη"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "της πόλης"
+    }
+  ],
+  "timestamp": "2026-09-03T11:30:47.977995664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Χουραΐ από τα ρυάκια του Γαάς, Αβιέλ ο Αραβαθί.",
+  "tokens": [
+    {
+      "surface": "חוּרַי",
+      "gloss": "Χουραΐ"
+    },
+    {
+      "surface": "מִנַּחֲלֵי",
+      "gloss": "από τα ρυάκια"
+    },
+    {
+      "surface": "גַּעַשׁ",
+      "gloss": "του Γαάς"
+    },
+    {
+      "surface": "אֲבִיאֵל",
+      "gloss": "Αβιέλ"
+    },
+    {
+      "surface": "הָעַרְבָתִי",
+      "gloss": "ο Αραβαθί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:35:27.229913010Z",
+  "model": "glm-5.3"
+}

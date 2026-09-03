@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 114,
+  "translation": "Η θάλασσα είδε και έτρεξε· ο Γιαρντέν γύρισε προς τα πίσω.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "Η θάλασσα"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "είδε"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "και έτρεξε"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ο Γιαρντέν"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "γύρισε"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "προς τα πίσω"
+    }
+  ],
+  "timestamp": "2026-09-03T08:30:11.433767919Z",
+  "model": "glm-5.3"
+}

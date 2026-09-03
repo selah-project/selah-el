@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "και Ελτολάντ, και Βετούλ, και Χορμά.",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "και Ελτολάντ"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "και Βετούλ"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "και Χορμά"
+    }
+  ],
+  "timestamp": "2026-09-03T01:14:05.964390396Z",
+  "model": "glm-5.3"
+}

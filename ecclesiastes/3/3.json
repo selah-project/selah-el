@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "ώρα να σκοτώσεις, και ώρα να γιατρέψεις· ώρα να γκρεμίσεις, και ώρα να χτίσεις·",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ώρα"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "να σκοτώσεις"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "και ώρα"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "να γιατρέψεις"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ώρα"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "να γκρεμίσεις"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "και ώρα"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "να χτίσεις"
+    }
+  ],
+  "timestamp": "2026-09-03T09:37:57.216655540Z",
+  "model": "glm-5.3"
+}

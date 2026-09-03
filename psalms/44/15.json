@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 44,
+  "translation": "Μας κάνεις παροιμία στα έθνη, κούνημα κεφαλιού στους λαούς.",
+  "tokens": [
+    {
+      "surface": "תשימנου",
+      "gloss": "Μας κάνεις"
+    },
+    {
+      "surface": "משל",
+      "gloss": "παροιμία"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "στα έθνη"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "κούνημα"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "κεφαλιού"
+    },
+    {
+      "surface": "בל",
+      "gloss": "στους"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "λαούς"
+    }
+  ],
+  "timestamp": "2026-09-03T08:00:10.339318895Z",
+  "model": "glm-5.3"
+}

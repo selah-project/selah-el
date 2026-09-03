@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "ο βασιλιάς της Εγκλόν, ένας· ο βασιλιάς της Γκέζερ, ένας·",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ο βασιλιάς"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "της Εγκλόν"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ο βασιλιάς"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "της Γκέζερ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    }
+  ],
+  "timestamp": "2026-09-03T01:07:31.800764545Z",
+  "model": "glm-5.3"
+}

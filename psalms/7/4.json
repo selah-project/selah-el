@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Γιαχβέ Ελοχίμ μου, αν έκανα αυτό, αν υπάρχει αδικία στα χέρια μου",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ελοχίμ μου"
+    },
+    {
+      "surface": "אם",
+      "gloss": "αν"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "έκανα"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "אם",
+      "gloss": "αν"
+    },
+    {
+      "surface": "יש",
+      "gloss": "υπάρχει"
+    },
+    {
+      "surface": "עול",
+      "gloss": "αδικία"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "στα χέρια μου"
+    }
+  ],
+  "timestamp": "2026-09-03T07:42:23.334220911Z",
+  "model": "glm-5.3"
+}

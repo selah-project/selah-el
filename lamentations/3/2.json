@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "⟨את⟩ Εμένα οδήγησε και με έκανε να περπατώ σε σκοτάδι, και όχι φως.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ εμένα",
+      "marks": "οδήγησε"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "οδήγησε"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "και με έκανε να περπατώ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "σε σκοτάδι"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και όχι"
+    },
+    {
+      "surface": "אור",
+      "gloss": "φως"
+    }
+  ],
+  "timestamp": "2026-09-03T09:33:30.057086133Z",
+  "model": "glm-5.3"
+}

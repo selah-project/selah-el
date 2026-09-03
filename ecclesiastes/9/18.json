@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Καλύτερη η σοφία από εργαλεία πολέμου· κι ένας αμαρτωλός θα χάσει πολύ καλό.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Καλύτερη"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "η σοφία"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "από εργαλεία"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "πολέμου"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "κι ένας αμαρτωλός"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "θα χάσει"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "καλό"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "πολύ"
+    }
+  ],
+  "timestamp": "2026-09-03T09:38:44.715912906Z",
+  "model": "glm-5.3"
+}

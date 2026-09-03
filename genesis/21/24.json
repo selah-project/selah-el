@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Και είπε ο Αβραχάμ: εγώ, θα ορκιστώ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ο Αβραχάμ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "θα ορκιστώ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:27:48.536684311Z",
+  "model": "glm-5.3"
+}

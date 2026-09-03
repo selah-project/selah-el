@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 16,
+  "translation": "Και είπε ο Μοσέ προς αυτούς: κανείς ας μην αφήσει από αυτό μέχρι το πρωί.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "προς αυτούς"
+    },
+    {
+      "surface": "איש",
+      "gloss": "κανείς"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ας μην"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "αφήσει"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "από αυτό"
+    },
+    {
+      "surface": "עד",
+      "gloss": "μέχρι"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "το πρωί"
+    }
+  ],
+  "timestamp": "2026-09-02T23:50:18.254809536Z",
+  "model": "glm-5.3"
+}

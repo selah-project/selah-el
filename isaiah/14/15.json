@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "Όμως στο Σεόλ θα κατεβείς, στα βάθη του λάκκου.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Όμως"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στο"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Σεόλ"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "θα κατεβείς"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στα"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "βάθη"
+    },
+    {
+      "surface": "בור",
+      "gloss": "του λάκκου"
+    }
+  ],
+  "timestamp": "2026-09-03T03:53:22.493766800Z",
+  "model": "glm-5.3"
+}

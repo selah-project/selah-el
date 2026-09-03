@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Και είπε ο Μοσέ: Έτσι μίλησες· δεν θα προσθέσω πια να δω το πρόσωπό σου.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Έτσι"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "μίλησες"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "θα προσθέσω"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "πια"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "να δω"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "το πρόσωπό σου"
+    }
+  ],
+  "timestamp": "2026-09-02T23:46:19.536511202Z",
+  "model": "glm-5.3"
+}

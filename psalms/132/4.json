@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 132,
+  "translation": "αν δώσω ύπνο στα μάτια μου, στα βλέφαρά μου νύστα —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "αν"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "δώσω"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ύπνο"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "στα μάτια μου"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "στα βλέφαρά μου"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "νύστα"
+    }
+  ],
+  "timestamp": "2026-09-03T08:35:20.890571325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "ή άντρας που θα υπάρχει σε αυτόν σπασμένο πόδι ή σπασμένο χέρι.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "איש",
+      "gloss": "άντρας"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "θα υπάρχει"
+    },
+    {
+      "surface": "בו",
+      "gloss": "σε αυτόν"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "σπασμένο"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "πόδι"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "σπασμένο"
+    },
+    {
+      "surface": "יד",
+      "gloss": "χέρι"
+    }
+  ],
+  "timestamp": "2026-09-03T00:13:47.512629325Z",
+  "model": "glm-5.3"
+}

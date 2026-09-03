@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 26:23",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 26,
+  "translation": "Και αν με αυτά δεν παιδευτείτε από εμένα, και περπατήσετε μαζί μου εχθρικά.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Και αν"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "με αυτά"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תוסרו",
+      "gloss": "παιδευτείτε"
+    },
+    {
+      "surface": "לי",
+      "gloss": "από εμένα"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "και περπατήσετε"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "μαζί μου"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "εχθρικά"
+    }
+  ],
+  "timestamp": "2026-09-03T00:19:28.091473479Z",
+  "model": "glm-5.3"
+}

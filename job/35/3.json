@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 35:3",
+  "book": "job",
+  "lang": "el",
+  "chapter": 35,
+  "translation": "ότι λες: «Τι ωφελεί εσένα; τι κερδίζω εγώ από την αμαρτία μου;»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ότι"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "λες"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ωφελεί"
+    },
+    {
+      "surface": "לך",
+      "gloss": "εσένα"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "אעיל",
+      "gloss": "κερδίζω εγώ"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "από την αμαρτία μου"
+    }
+  ],
+  "timestamp": "2026-09-03T09:19:42.102874579Z",
+  "model": "glm-5.3"
+}

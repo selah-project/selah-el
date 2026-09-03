@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Και έζησε ο Πελέγκ τριάντα χρόνια, και γέννησε ⟨את⟩ τον Ρεού.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Και έζησε"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ο Πελέγκ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "τριάντα"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "χρόνια"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "και γέννησε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Ρεού"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "τον Ρεού"
+    }
+  ],
+  "timestamp": "2026-09-02T23:23:23.861596032Z",
+  "model": "glm-5.3"
+}

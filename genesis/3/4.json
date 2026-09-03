@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Και είπε ο όφις προς τη γυναίκα: Όχι — θάνατο δεν θα πεθάνετε·",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ο όφις"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "τη γυναίκα"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Όχι"
+    },
+    {
+      "surface": "מות",
+      "gloss": "θάνατο"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "δεν θα πεθάνετε"
+    }
+  ],
+  "timestamp": "2026-09-02T23:20:30.587967169Z",
+  "model": "glm-5.3"
+}

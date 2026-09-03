@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "και η νεφές μου ταράχτηκε πολύ· και εσύ, Γιαχβέ, — έως πότε;",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "και η νεφές μου"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "ταράχτηκε"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "πολύ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και εσύ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "έως"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "πότε"
+    }
+  ],
+  "timestamp": "2026-09-03T07:41:03.289464960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Ακόμα κι όταν φωνάζω και ουρλιάζω, έχει κλείσει την προσευχή μου.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ακόμα"
+    },
+    {
+      "surface": "כי",
+      "gloss": "κι όταν"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "φωνάζω"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "και ουρλιάζω"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "έχει κλείσει"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "την προσευχή μου"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:14.974663544Z",
+  "model": "glm-5.3"
+}

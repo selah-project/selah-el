@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Γιγάλ γιος Νατάν από Τσοβά, Βανί ο Γαντί,",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "Γιγάλ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Νατάν"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "από Τσοβά"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Βανί"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "ο Γαντί"
+    }
+  ],
+  "timestamp": "2026-09-03T02:36:26.069225014Z",
+  "model": "glm-5.3"
+}

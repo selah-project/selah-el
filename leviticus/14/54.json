@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "Αυτή ⟨είναι⟩ η Τορά για κάθε πληγή της τσεράατ και για τον νατέκ.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Αυτή"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "η Τορά"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "για κάθε"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "πληγή"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "της τσεράατ"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "και για τον νατέκ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:09:42.169995982Z",
+  "model": "glm-5.3"
+}

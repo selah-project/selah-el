@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Και φώναξε ο Σμουέλ ⟨את⟩ τον λαό στον Γιαχβέ στη Μιτσπά.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Και φώναξε"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ο Σμουέλ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον λαό"
+    },
+    {
+      "surface": "העם",
+      "gloss": "τον λαό"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "στη Μιτσπά"
+    }
+  ],
+  "timestamp": "2026-09-03T01:48:21.533373129Z",
+  "model": "glm-5.3"
+}

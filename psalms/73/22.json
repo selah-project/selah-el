@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 73,
+  "translation": "Κι εγώ αγροίκος και δεν γνώριζα· κτήνος ήμουν μαζί σου.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Κι εγώ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "αγροίκος"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "γνώριζα"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "κτήνος"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ήμουν"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "μαζί σου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:12:46.175630605Z",
+  "model": "glm-5.3"
+}

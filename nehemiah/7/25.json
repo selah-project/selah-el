@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι γιοι του Γιβεόν: ενενήντα πέντε.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "του Γιβεόν"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ενενήντα"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "πέντε"
+    }
+  ],
+  "timestamp": "2026-09-03T10:16:54.790756811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 21:14",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Δώρο κρυφά καταπραΰνει τον θυμό, και δωροδοκία στον κόρφο θυμό σφοδρό.",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "Δώρο"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "κρυφά"
+    },
+    {
+      "surface": "יכפה",
+      "gloss": "καταπραΰνει"
+    },
+    {
+      "surface": "אף",
+      "gloss": "τον θυμό"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "και δωροδοκία"
+    },
+    {
+      "surface": "בחק",
+      "gloss": "στον κόρφο"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "θυμό"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "σφοδρό"
+    }
+  ],
+  "timestamp": "2026-09-03T08:53:06.589945074Z",
+  "model": "glm-5.3"
+}

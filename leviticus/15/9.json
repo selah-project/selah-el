@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Και κάθε σέλα που θα ιππεύσει πάνω της ο ζαβ θα μολυνθεί.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Και κάθε"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "σέλα"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "θα ιππεύσει"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "πάνω της"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ο ζαβ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "θα μολυνθεί"
+    }
+  ],
+  "timestamp": "2026-09-03T00:11:29.296039149Z",
+  "model": "glm-5.3"
+}

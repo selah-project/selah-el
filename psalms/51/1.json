@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 51,
+  "translation": "Στον μαέστρο· μασμόρ του Δαβίδ,",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον μαέστρο"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "μασμόρ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "του Δαβίδ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:02:51.577194755Z",
+  "model": "glm-5.3"
+}

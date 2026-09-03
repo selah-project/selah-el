@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Με τη ζωή μας φέρνουμε το ψωμί μας, εξαιτίας του σπαθιού της ερήμου.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "Με τη ζωή μας"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "φέρνουμε"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "το ψωμί μας"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "εξαιτίας"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "του σπαθιού"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "της ερήμου"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:23.680282084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 4:33",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Άκουσε ποτέ λαός φωνή του Ελοχίμ να μιλάει από μέσα από τη φωτιά, όπως άκουσες εσύ, και έζησε;",
+  "tokens": [
+    {
+      "surface": "השמע",
+      "gloss": "Άκουσε ποτέ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "λαός"
+    },
+    {
+      "surface": "קול",
+      "gloss": "φωνή"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "του Ελοχίμ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "να μιλάει"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "από μέσα από"
+    },
+    {
+      "surface": "האש",
+      "gloss": "τη φωτιά"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "όπως"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "άκουσες"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "και έζησε"
+    }
+  ],
+  "timestamp": "2026-09-03T00:45:09.446499667Z",
+  "model": "glm-5.3"
+}

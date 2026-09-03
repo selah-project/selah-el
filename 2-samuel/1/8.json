@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Και μου είπε: Ποιος είσαι; και του είπα: Αμαληκίτης είμαι.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "לי",
+      "gloss": "μου"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ποιος"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "είσαι"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "και είπα"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "του"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Αμαληκίτης"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "είμαι"
+    }
+  ],
+  "timestamp": "2026-09-03T06:49:58.977182161Z",
+  "model": "glm-5.3"
+}

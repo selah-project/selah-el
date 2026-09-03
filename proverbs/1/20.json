@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Η Σοφία έξω κράζει δυνατά, στις πλατείες δίνει τη φωνή της·",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Η Σοφία"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "έξω"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "κράζει δυνατά"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "στις πλατείες"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "δίνει"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "τη φωνή της"
+    }
+  ],
+  "timestamp": "2026-09-03T08:42:28.158085241Z",
+  "model": "glm-5.3"
+}

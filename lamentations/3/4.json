@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Έκανε να παλιώσει η σάρκα μου και το δέρμα μου· έσπασε τα κόκαλά μου.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "Έκανε να παλιώσει"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "η σάρκα μου"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "και το δέρμα μου"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "έσπασε"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "τα κόκαλά μου"
+    }
+  ],
+  "timestamp": "2026-09-03T09:33:30.057375510Z",
+  "model": "glm-5.3"
+}

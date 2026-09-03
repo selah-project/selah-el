@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 100,
+  "translation": "Ψαλμός ευχαριστίας. Αλαλάξτε στον Γιαχβέ, όλη η γη.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Ψαλμός"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "ευχαριστίας"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Αλαλάξτε"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "στον Γιαχβέ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "η γη"
+    }
+  ],
+  "timestamp": "2026-09-03T08:24:55.702679554Z",
+  "model": "glm-5.3"
+}

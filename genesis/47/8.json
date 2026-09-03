@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 47,
+  "translation": "Και είπε ο Παρό στον Γιαακόβ: πόσες είναι οι μέρες των χρόνων της ζωής σου;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ο Παρό"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Γιαακόβ"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "πόσες"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "οι μέρες"
+    },
+    {
+      "surface": "שני",
+      "gloss": "των χρόνων"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "της ζωής σου"
+    }
+  ],
+  "timestamp": "2026-09-02T23:41:54.113788Z",
+  "model": "glm-5.3"
+}

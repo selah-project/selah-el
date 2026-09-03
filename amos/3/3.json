@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Θα περπατήσουν δύο μαζί, αν δεν έχουν συναντηθεί;",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Θα περπατήσουν"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "δύο"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "μαζί"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אם",
+      "gloss": "αν"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "έχουν συναντηθεί"
+    }
+  ],
+  "timestamp": "2026-09-03T07:11:10.186237360Z",
+  "model": "glm-5.3"
+}

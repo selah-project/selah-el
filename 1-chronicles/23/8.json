@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Γιοι του Λαδάν: επικεφαλής ⟨ο⟩ Γιεχιέλ, και ο Ζετάμ και ο Ιωέλ — τρεις.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "του Λαδάν"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "επικεφαλής"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "ο Γιεχιέλ"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "και ο Ζετάμ"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "και ο Ιωέλ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "τρεις"
+    }
+  ],
+  "timestamp": "2026-09-03T10:44:48.318098712Z",
+  "model": "glm-5.3"
+}

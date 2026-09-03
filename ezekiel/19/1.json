@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "Και εσύ σήκωσε θρήνο για τους άρχοντες του Ισραέλ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Και εσύ"
+    },
+    {
+      "surface": "שא",
+      "gloss": "σήκωσε"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "θρήνο"
+    },
+    {
+      "surface": "אל",
+      "gloss": "για"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "τους άρχοντες"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "του Ισραέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T05:30:30.394774549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "και ⟨את⟩ Παρσανταδά και ⟨את⟩ Δαλφόν και ⟨את⟩ Ασφατά,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Παρσανταδά"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "Παρσανταδά"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Δαλφόν"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "Δαλφόν"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Ασφατά"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "Ασφατά"
+    }
+  ],
+  "timestamp": "2026-09-03T09:46:37.419561024Z",
+  "model": "glm-5.3"
+}

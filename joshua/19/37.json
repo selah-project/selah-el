@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "και Κεντές και Εντρέι και Εν-Χατσόρ.",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "και Κεντές"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "και Εντρέι"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "και Εν"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Χατσόρ"
+    }
+  ],
+  "timestamp": "2026-09-03T01:14:02.865239149Z",
+  "model": "glm-5.3"
+}

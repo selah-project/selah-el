@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 37,
+  "translation": "Και είπε σ' αυτούς: Ακούστε τώρα αυτό το όνειρο που όνειρευτηκα.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "σ' αυτούς"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Ακούστε"
+    },
+    {
+      "surface": "נא",
+      "gloss": "τώρα"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "το όνειρο"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ονειρευτηκα"
+    }
+  ],
+  "timestamp": "2026-09-02T23:36:30.941043838Z",
+  "model": "glm-5.3"
+}

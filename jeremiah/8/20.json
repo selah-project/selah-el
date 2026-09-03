@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Πέρασε ο θερισμός, τελείωσε το καλοκαίρι, και εμείς δεν σωθήκαμε.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "Πέρασε"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ο θερισμός"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "τελείωσε"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "το καλοκαίρι"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "και εμείς"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "σωθήκαμε"
+    }
+  ],
+  "timestamp": "2026-09-03T04:40:18.340661367Z",
+  "model": "glm-5.3"
+}

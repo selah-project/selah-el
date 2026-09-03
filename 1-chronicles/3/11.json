@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Γιοράμ γιος του, Αχαζγιάχου γιος του, Γιοάς γιος του.",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "Γιοράμ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "γιος του"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Αχαζγιάχου"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "γιος του"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Γιοάς"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "γιος του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:27:04.956772095Z",
+  "model": "glm-5.3"
+}

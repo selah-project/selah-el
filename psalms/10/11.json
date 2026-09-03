@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Είπε στην καρδιά του: ο Ελ ξέχασε· έκρυψε το πρόσωπό του, δεν βλέπει ποτέ.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Είπε"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "στην καρδιά του"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "ξέχασε"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ο Ελ"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "έκρυψε"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "το πρόσωπό του"
+    },
+    {
+      "surface": "בל",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "βλέπει"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ποτέ"
+    }
+  ],
+  "timestamp": "2026-09-03T12:38:12.132982916Z",
+  "model": "glm-5.3"
+}

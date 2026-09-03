@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Τι κέρδος έχει ο εργαζόμενος σε αυτό που αυτός κοπιάζει;",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Τι"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "κέρδος"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "ο εργαζόμενος"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "σε αυτό που"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "αυτός"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "κοπιάζει"
+    }
+  ],
+  "timestamp": "2026-09-03T09:37:20.866876386Z",
+  "model": "glm-5.3"
+}

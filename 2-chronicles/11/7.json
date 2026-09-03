@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "και ⟨את⟩ το Μπαίτ Τσουρ και ⟨את⟩ το Σόχο και ⟨את⟩ το Αντουλάμ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "το Μπαίτ Τσουρ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Μπαίτ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Τσουρ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "το Σόχο"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Σόχο"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "το Αρντουλάμ"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Αρντουλάμ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:55:26.012256046Z",
+  "model": "glm-5.3"
+}

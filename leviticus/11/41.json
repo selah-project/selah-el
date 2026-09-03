@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Και κάθε σερνόμενο που σέρνεται πάνω στη γη βδέλυγμα ⟨είναι⟩· δεν θα φαγωθεί.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Και κάθε"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "σερνόμενο"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "που σέρνεται"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "στη γη"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "βδέλυγμα"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "θα φαγωθεί"
+    }
+  ],
+  "timestamp": "2026-09-03T00:07:51.881464373Z",
+  "model": "glm-5.3"
+}

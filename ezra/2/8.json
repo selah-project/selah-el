@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Οι γιοι του Ζατού: εννιακόσιοι σαράντα πέντε.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "του Ζατού"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "εννιά"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εκατοντάδες"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "και σαράντα"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "και πέντε"
+    }
+  ],
+  "timestamp": "2026-09-03T10:00:31.961943852Z",
+  "model": "glm-5.3"
+}

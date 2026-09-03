@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "γιοι του Νετσίχ, γιοι του Χατίφα.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "του Νετσίχ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "του Χατίφα"
+    }
+  ],
+  "timestamp": "2026-09-03T10:04:37.167641601Z",
+  "model": "glm-5.3"
+}

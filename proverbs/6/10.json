@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Λίγο ύπνος, λίγη νύστα, λίγο αγκάλιασμα των χεριών για ύπνο·",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "Λίγο"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ύπνος"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "λίγη"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "νύστα"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "λίγο"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "αγκάλιασμα"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "των χεριών"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "για ύπνο"
+    }
+  ],
+  "timestamp": "2026-09-03T08:45:26.083576315Z",
+  "model": "glm-5.3"
+}

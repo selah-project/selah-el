@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 27,
+  "translation": "Και έφερε ο Μοσέ ⟨את⟩ τη δίκη τους μπροστά στον Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Και έφερε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τη δίκη τους"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "τη δίκη τους"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "μπροστά στον"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:36:26.120907738Z",
+  "model": "glm-5.3"
+}

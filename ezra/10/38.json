@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "και Βανάι, και Βιννούι, Σιμεΐ,",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "και Βανάι"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "και Βιννούι"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Σιμεΐ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:08:33.244565723Z",
+  "model": "glm-5.3"
+}

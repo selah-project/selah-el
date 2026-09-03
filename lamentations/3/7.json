@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Τείχισε γύρω μου, και δεν βγαίνω· έκανε βαριά τη χάλκινη αλυσίδα μου.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "Τείχισε"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "γύρω μου"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "βγαίνω"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "έκανε βαριά"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "τη χάλκινη αλυσίδα μου"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:14.974547318Z",
+  "model": "glm-5.3"
+}

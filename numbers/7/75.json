@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "numbers 7:75",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "μοσχάρι ένα, γιο βοοειδών, κριάρι ένα, αρνί ένα, γιο ενός χρόνου, για ολοκαύτωμα.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "μοσχάρι"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιο"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "βοοειδών"
+    },
+    {
+      "surface": "איל",
+      "gloss": "κριάρι"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "αρνί"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιο"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ενός χρόνου"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "για ολοκαύτωμα"
+    }
+  ],
+  "timestamp": "2026-09-03T06:44:09.499569114Z",
+  "model": "glm-5.3"
+}

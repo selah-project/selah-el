@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 17,
+  "translation": "Γεννάει κέσιλ θλίψη για τον εαυτό του, και δεν θα χαρεί πατέρας νάβαλ.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "Γεννάει"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "κέσιλ"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "θλίψη"
+    },
+    {
+      "surface": "לו",
+      "gloss": "για τον εαυτό του"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "θα χαρεί"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "πατέρας"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "νάβαλ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:50:50.325229892Z",
+  "model": "glm-5.3"
+}

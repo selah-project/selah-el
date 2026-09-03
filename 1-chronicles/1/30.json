@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Μίσμα, και Ντούμα, Μασά, Χαντάντ, και Τεμά.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "Μίσμα"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "και Ντούμα"
+    },
+    {
+      "surface": "משא",
+      "gloss": "Μασά"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "Χαντάντ"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "και Τεμά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:24:34.820264241Z",
+  "model": "glm-5.3"
+}

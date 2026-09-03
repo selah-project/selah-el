@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 34,
+  "translation": "Και είπαν: σαν πόρνη να κάνει ⟨את⟩ την αδελφή μας;",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Και είπαν"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "σαν πόρνη"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "να κάνει"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "την αδελφή μας"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "την αδελφή μας"
+    }
+  ],
+  "timestamp": "2026-09-02T23:35:23.412293257Z",
+  "model": "glm-5.3"
+}

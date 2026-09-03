@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 48,
+  "translation": "και στην Κιριατάιμ και στο Βετ-Γαμούλ και στο Βετ-Μεόν",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "και στην"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Κιριατάιμ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "και στο"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Βετ"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "Γαμούλ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "και στο"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Βετ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Μεόν"
+    }
+  ],
+  "timestamp": "2026-09-03T05:11:51.399058046Z",
+  "model": "glm-5.3"
+}

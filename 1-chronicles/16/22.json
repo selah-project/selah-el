@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 16:22",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 16,
+  "translation": "Μην αγγίξετε τους Μασίαχ μου, και στους ναβί μου μη βλάψετε.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Μην"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "αγγίξετε"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "τους Μασίαχ μου"
+    },
+    {
+      "surface": "ובנביאי",
+      "gloss": "και στους ναβί μου"
+    },
+    {
+      "surface": "אל",
+      "gloss": "μη"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "βλάψετε"
+    }
+  ],
+  "timestamp": "2026-09-03T10:40:38.374403366Z",
+  "model": "glm-5.3"
+}

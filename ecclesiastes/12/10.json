@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Ζήτησε ο Κοχέλετ να βρει λόγια αρεσκείας, και γραμμένο ⟨είναι⟩ ευθύτητα, λόγια αλήθειας.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "Ζήτησε"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ο Κοχέλετ"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "να βρει"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "λόγια"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "αρεσκείας"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "και γραμμένο"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ευθύτητα"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "λόγια"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "αλήθειας"
+    }
+  ],
+  "timestamp": "2026-09-03T09:42:38.625067345Z",
+  "model": "glm-5.3"
+}

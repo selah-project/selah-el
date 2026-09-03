@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "γιος Αβισούα, γιος Πινχάς, γιος Ελεαζάρ, γιος Αχαρόν ο κοέν, ο αρχηγός —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Αβισούα"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Πινχάς"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Ελεαζάρ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Αχαρόν"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ο κοέν"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ο αρχηγός"
+    }
+  ],
+  "timestamp": "2026-09-03T10:10:33.629382532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 109,
+  "translation": "Ας είναι οι γιοι του ορφανοί, και η γυναίκα του χήρα.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Ας είναι"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "οι γιοι του"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ορφανοί"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "και η γυναίκα του"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "χήρα"
+    }
+  ],
+  "timestamp": "2026-09-03T08:29:04.563027848Z",
+  "model": "glm-5.3"
+}

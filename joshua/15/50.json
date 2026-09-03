@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 15:50",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "και Αναβ, και Εσθεμοά, και Ανίμ.",
+  "tokens": [
+    {
+      "surface": "וענב",
+      "gloss": "και Αναβ"
+    },
+    {
+      "surface": "ואשתמה",
+      "gloss": "και Εσθεμοά"
+    },
+    {
+      "surface": "וענים",
+      "gloss": "και Ανίμ"
+    }
+  ],
+  "timestamp": "2026-09-03T01:11:40.011157906Z",
+  "model": "glm-5.3"
+}

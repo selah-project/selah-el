@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "γιος του Εταν, γιος του Ζιμά, γιος του Σιμί",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "του Εταν"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "του Ζιμά"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "του Σιμί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:44.299348978Z",
+  "model": "glm-5.3"
+}

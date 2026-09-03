@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Γιοι του Χάμ: Κους και Μιτσράιμ, Πουτ και Χαναάν.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Χάμ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Κους"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "και Μιτσράιμ"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "Πουτ"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "και Χαναάν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:25:04.536680112Z",
+  "model": "glm-5.3"
+}

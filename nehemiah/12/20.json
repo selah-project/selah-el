@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "του Σαλλάι, Καλλάι· του Αμοκ, Εβέρ.",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "του Σαλλάι"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "Καλλάι"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "του Αμοκ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Εβέρ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:22:16.102914272Z",
+  "model": "glm-5.3"
+}

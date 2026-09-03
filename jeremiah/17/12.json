@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 17,
+  "translation": "Θρόνος δόξας, ψηλά από την αρχή, ο τόπος του αγιαστηρίου μας.",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "Θρόνος"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "δόξας"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ψηλά"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "από την αρχή"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ο τόπος"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "του αγιαστηρίου μας"
+    }
+  ],
+  "timestamp": "2026-09-03T04:44:52.083331208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 7:44",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "μία λαβίδα χρυσή, βάρους δέκα, γεμάτη θυμίαμα·",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "λαβίδα"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "μία"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "δέκα"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "χρυσή"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "γεμάτη"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "θυμίαμα"
+    }
+  ],
+  "timestamp": "2026-09-03T00:23:54.295505661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Έχτισε ενάντιά μου και περικύκλωσε με δηλητήριο και ταλαιπωρία.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "Έχτισε"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ενάντιά μου"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "και περικύκλωσε"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "δηλητήριο"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "και ταλαιπωρία"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:14.974245299Z",
+  "model": "glm-5.3"
+}

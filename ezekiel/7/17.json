@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Όλα τα χέρια θα μαλακίζουν, και όλα τα γόνατα θα πάνε νερό.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Όλα"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "τα χέρια"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "θα μαλακίζουν"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "και όλα"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "τα γόνατα"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "θα πάνε"
+    },
+    {
+      "surface": "מים",
+      "gloss": "νερό"
+    }
+  ],
+  "timestamp": "2026-09-03T05:20:39.613532124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 35:14",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 35,
+  "translation": "Έτσι είπε ο Αδωνάι Γιαχβέ: όπως χαίρει όλη η γη, ερήμωση θα κάνω σε εσένα.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Έτσι"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ο Αδωνάι"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "כשמח",
+      "gloss": "όπως χαίρει"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "η γη"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ερήμωση"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "θα κάνω"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σε εσένα"
+    }
+  ],
+  "timestamp": "2026-09-03T05:47:55.484624215Z",
+  "model": "glm-5.3"
+}

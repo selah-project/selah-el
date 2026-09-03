@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "και έμεινε έγκυος η Βιλά, και γέννησε στον Γιαακόβ γιο.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "και έμεινε έγκυος"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "η Βιλά"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "και γέννησε"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "στον Γιαακόβ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιο"
+    }
+  ],
+  "timestamp": "2026-09-02T23:32:01.126081402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 40,
+  "translation": "Τότε είπα: Να, ήρθα· σε πάπυρο βιβλίου είναι γραμμένο για μένα.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Τότε"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "είπα"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Να"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ήρθα"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "σε πάπυρο"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "βιβλίου"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "είναι γραμμένο"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "για μένα"
+    }
+  ],
+  "timestamp": "2026-09-03T07:59:07.851414661Z",
+  "model": "glm-5.3"
+}

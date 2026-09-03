@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Γιοέλ ο αρχηγός, και Σαφάμ ο δεύτερος, και Γιαανί και Σαφάτ στο Βασάν.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Γιοέλ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ο αρχηγός"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "και Σαφάμ"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "ο δεύτερος"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "και Γιαανί"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "και Σαφάτ"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "στο Βασάν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:28:59.963771561Z",
+  "model": "glm-5.3"
+}

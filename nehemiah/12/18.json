@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 12:18",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "του Βιλγά, Σαμμουά· του Σεμαγιά, Γιεχοντάν.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "του Βιλγά"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Σαμμουά"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "του Σεμαγιά"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Γιεχοντάν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:22:16.102688177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Έτσι θα πεις στον ναβί: τι σου απάντησε ο Γιαχβέ, και τι είπε ο Γιαχβέ;",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Έτσι"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "θα πεις"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "τον ναβί"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "σου απάντησε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "και τι"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T04:51:56.550971071Z",
+  "model": "glm-5.3"
+}

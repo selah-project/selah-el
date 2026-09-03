@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 37,
+  "translation": "Ο Αδωνάι θα γελάει μαζί του, γιατί είδε ότι έρχεται η μέρα του.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Ο Αδωνάι"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "θα γελάει"
+    },
+    {
+      "surface": "לו",
+      "gloss": "μαζί του"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "είδε"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ότι"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "έρχεται"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "η μέρα του"
+    }
+  ],
+  "timestamp": "2026-09-03T07:56:00.905732339Z",
+  "model": "glm-5.3"
+}

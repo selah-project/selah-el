@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 24:4",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Και έγινε λόγος του Γιαχβέ προς εμένα, για να πει:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και έγινε"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "προς εμένα"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "για να πει"
+    }
+  ],
+  "timestamp": "2026-09-03T12:26:35.471638905Z",
+  "model": "glm-5.3"
+}

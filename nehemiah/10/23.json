@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Πελατγιά, Χανάν, Αναγιά,",
+  "tokens": [
+    {
+      "surface": "פלטיה",
+      "gloss": "Πελατγιά"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Χανάν"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "Αναγιά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:19:40.100796388Z",
+  "model": "glm-5.3"
+}

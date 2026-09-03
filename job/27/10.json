@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "el",
+  "chapter": 27,
+  "translation": "Στον Σαδδάι θα τρυφά; τον Ελοά θα φωνάζει σε κάθε καιρό;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Άραγε"
+    },
+    {
+      "surface": "על",
+      "gloss": "σε"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "τον Σαδδάι"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "θα τρυφά"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "θα φωνάζει"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "τον Ελοά"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "σε κάθε"
+    },
+    {
+      "surface": "עת",
+      "gloss": "καιρό"
+    }
+  ],
+  "timestamp": "2026-09-03T09:14:28.905153917Z",
+  "model": "glm-5.3"
+}

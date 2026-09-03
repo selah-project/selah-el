@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Και είπε: ⟨Εγώ⟩ είμαι δούλος του Αβραχάμ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "δούλος"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "του Αβραχάμ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Εγώ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:29:05.077617414Z",
+  "model": "glm-5.3"
+}

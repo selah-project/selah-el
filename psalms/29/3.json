@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 29,
+  "translation": "Φωνή Γιαχβέ πάνω στα νερά· ο Ελ της δόξας βροντοκοπά· Γιαχβέ πάνω σε νερά πολλά.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Φωνή"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "המים",
+      "gloss": "στα νερά"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ο Ελ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "της δόξας"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "βροντοκοπά"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "מים",
+      "gloss": "σε νερά"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "πολλά"
+    }
+  ],
+  "timestamp": "2026-09-03T07:50:46.321172402Z",
+  "model": "glm-5.3"
+}

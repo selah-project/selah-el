@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "και στο βουνό: Σαμίρ και Γιατίρ και Σόχα·",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "και στο βουνό"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "Σαμίρ"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "και Γιατίρ"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "και Σόχα"
+    }
+  ],
+  "timestamp": "2026-09-03T01:11:50.514353600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Και εσύ, πήγαινε ως το τέλος· και θα αναπαυθείς και θα σταθείς στον κλήρο σου στο τέλος των ημερών.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Και εσύ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "πήγαινε"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "ως το τέλος"
+    },
+    {
+      "surface": "VTNUCH",
+      "gloss": "και θα αναπαυθείς"
+    },
+    {
+      "surface": "VTEMD",
+      "gloss": "και θα σταθείς"
+    },
+    {
+      "surface": "LGRLCh",
+      "gloss": "στον κλήρο σου"
+    },
+    {
+      "surface": "LQTS",
+      "gloss": "στο τέλος"
+    },
+    {
+      "surface": "HIMIN",
+      "gloss": "των ημερών"
+    }
+  ],
+  "timestamp": "2026-09-03T10:00:18.141180624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Χανάν γιος του Μααχά, και ο Γιοσαφάτ ο Μιθνί,",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "Χανάν"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "του Μααχά"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "και ο Γιοσαφάτ"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "ο Μιθνί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:34:15.704872620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 47,
+  "translation": "Στον μαέστρο· στους γιους του Κοράχ· ψαλμός.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον μαέστρο"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "στους γιους"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "του Κοράχ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ψαλμός"
+    }
+  ],
+  "timestamp": "2026-09-03T08:01:26.290595227Z",
+  "model": "glm-5.3"
+}

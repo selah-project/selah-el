@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Γνώρισα ότι δεν υπάρχει καλό σε αυτούς, παρά μόνο να χαίρονται και να κάνουν καλό στη ζωή τους.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Γνώρισα"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ότι"
+    },
+    {
+      "surface": "אין",
+      "gloss": "δεν υπάρχει"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "καλό"
+    },
+    {
+      "surface": "בם",
+      "gloss": "σε αυτούς"
+    },
+    {
+      "surface": "כי",
+      "gloss": "παρά"
+    },
+    {
+      "surface": "אם",
+      "gloss": "μόνο"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "να χαίρονται"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "και να κάνουν"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "καλό"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "στη ζωή τους"
+    }
+  ],
+  "timestamp": "2026-09-03T09:37:20.867422870Z",
+  "model": "glm-5.3"
+}

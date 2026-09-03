@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Γιατί ποιος θα φάει, και ποιος θα βιαστεί, εκτός από μένα;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ποιος"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "θα φάει"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "και ποιος"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "θα βιαστεί"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "εκτός"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "από μένα"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:49.540725395Z",
+  "model": "glm-5.3"
+}

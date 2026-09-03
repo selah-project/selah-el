@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 12:14",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "ο βασιλιάς του Χορμά, ένας· ο βασιλιάς του Αράντ, ένας·",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ο βασιλιάς"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "του Χορμά"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ο βασιλιάς"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "του Αράντ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    }
+  ],
+  "timestamp": "2026-09-03T01:07:55.285736291Z",
+  "model": "glm-5.3"
+}

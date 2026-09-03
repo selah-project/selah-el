@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Και αυτή η γραφή που γράφτηκε: Μενέ, Μενέ, Τεκέλ, και Φαρσίν.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "Και αυτή"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "η γραφή"
+    },
+    {
+      "surface": "די",
+      "gloss": "που"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "γράφηκε"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Μενέ"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Μενέ"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "Τεκέλ"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "και Φαρσίν"
+    }
+  ],
+  "timestamp": "2026-09-03T09:55:59.319912200Z",
+  "model": "glm-5.3"
+}

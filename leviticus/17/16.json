@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 17,
+  "translation": "Και αν δεν πλύνει και τη σάρκα του δεν λουστεί, θα σηκώσει την ανομία του.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Και αν"
+    },
+    {
+      "surface": "לא",
+      "gloss": "όχι"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "πλύνει"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "και τη σάρκα του"
+    },
+    {
+      "surface": "לא",
+      "gloss": "όχι"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "λουστεί"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "και θα σηκώσει"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "την ανομία του"
+    }
+  ],
+  "timestamp": "2026-09-03T00:12:21.347424341Z",
+  "model": "glm-5.3"
+}

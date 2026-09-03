@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Ας κάθεται μόνος και ας σωπά, γιατί το επέβαλε πάνω του.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ας κάθεται"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "μόνος"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "και ας σωπά"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "το επέβαλε"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "πάνω του"
+    }
+  ],
+  "timestamp": "2026-09-03T09:33:26.446562164Z",
+  "model": "glm-5.3"
+}

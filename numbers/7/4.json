@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Και είπε Γιαχβέ προς τον Μοσέ, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς τον"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Μοσέ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T06:42:11.366788944Z",
+  "model": "glm-5.3"
+}

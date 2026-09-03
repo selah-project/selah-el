@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 81,
+  "translation": "Στον μαέστρο, επί της Γιτίτ, του Ασάφ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον μαέστρο"
+    },
+    {
+      "surface": "על",
+      "gloss": "επί"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "της Γιτίτ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "του Ασάφ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:16:42.542363388Z",
+  "model": "glm-5.3"
+}

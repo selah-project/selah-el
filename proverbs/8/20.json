@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Σε δρόμο δικαιοσύνης περπατώ, μέσα σε μονοπάτια κρίσης.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "Σε δρόμο"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "δικαιοσύνης"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "περπατώ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "μέσα σε"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "μονοπάτια"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "κρίσης"
+    }
+  ],
+  "timestamp": "2026-09-03T08:47:03.741571056Z",
+  "model": "glm-5.3"
+}

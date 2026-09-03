@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και έγινε λόγος του Γιαχβέ προς τον Σελομό, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και έγινε"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "τον Σελομό"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T02:44:55.203184310Z",
+  "model": "glm-5.3"
+}

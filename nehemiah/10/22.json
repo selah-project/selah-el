@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Μεσεζαβέλ, Τσαντόκ, Γιαδουά,",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "Μεσεζαβέλ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Τσαντόκ"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Γιαδουά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:19:40.100678556Z",
+  "model": "glm-5.3"
+}

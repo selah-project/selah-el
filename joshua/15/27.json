@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "και Χατσάρ-Γαντά, και Χεσμόν, και Βετ-Παλέτ,",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "και Χατσάρ"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "Γαντά"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "και Χεσμόν"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "και Βετ"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "Παλέτ"
+    }
+  ],
+  "timestamp": "2026-09-03T01:11:56.729907125Z",
+  "model": "glm-5.3"
+}

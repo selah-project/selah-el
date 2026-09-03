@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Χετσρό ο Καρμελί, Φααράι ο Αρβί,",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "Χετσρό"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ο Καρμελί"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "Φααράι"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "ο Αρβί"
+    }
+  ],
+  "timestamp": "2026-09-03T02:36:26.068472554Z",
+  "model": "glm-5.3"
+}

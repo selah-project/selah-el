@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 20:22",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 20,
+  "translation": "Μη πεις: Θα ανταποδώσω κακό· περίμενε τον Γιαχβέ, και θα σε σώσει.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Μη"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "πεις"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "Θα ανταποδώσω"
+    },
+    {
+      "surface": "רע",
+      "gloss": "κακό"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "περίμενε"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "τον Γιαχβέ"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "και θα σώσει"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σε"
+    }
+  ],
+  "timestamp": "2026-09-03T08:52:47.095121244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 28:29",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 28,
+  "translation": "δέκατο, δέκατο για το ένα αρνί, για τα επτά αρνιά.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "δέκατο"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "δέκατο"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "για το αρνί"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "το ένα"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "για τα επτά"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "τα αρνιά"
+    }
+  ],
+  "timestamp": "2026-09-03T00:35:59.105825056Z",
+  "model": "glm-5.3"
+}

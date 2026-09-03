@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "Και χτύπησε ⟨את⟩ τη Μωάβ, και έγινε η Μωάβ δούλοι στον Δαβίδ, φέροντες δώρο.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Και χτύπησε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τη Μωάβ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "τη Μωάβ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "και έγινε"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "η Μωάβ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "δούλοι"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "στον Δαβίδ"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "φέροντες"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "δώρο"
+    }
+  ],
+  "timestamp": "2026-09-03T10:41:43.627420965Z",
+  "model": "glm-5.3"
+}

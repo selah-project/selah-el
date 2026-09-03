@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Από τη φυλή του Γιεχουντά, Κάλεβ γιος του Γιφουνέ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "Από τη φυλή"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "του Γιεχουντά"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Κάλεβ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "του Γιφουνέ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:26:14.245550233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 26,
+  "translation": "Και έκανε ⟨γι⟩ αυτούς συμπόσιο, και έφαγαν και ήπιαν.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "και έκανε"
+    },
+    {
+      "surface": "להם",
+      "gloss": "γι αυτούς"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "συμπόσιο"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "και έφαγαν"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "και ήπιαν"
+    }
+  ],
+  "timestamp": "2026-09-02T23:30:25.135226994Z",
+  "model": "glm-5.3"
+}

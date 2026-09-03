@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Οι γιοί του Αζμαβέτ, σαράντα δύο.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοί"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Αζμαβέτ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "σαράντα"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "δύο"
+    }
+  ],
+  "timestamp": "2026-09-03T10:00:21.289623222Z",
+  "model": "glm-5.3"
+}

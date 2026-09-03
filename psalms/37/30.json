@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 37,
+  "translation": "Στόμα δικαίου μελετά σοφία και η γλώσσα του θα μιλά κρίση.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Στόμα"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "δικαίου"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "μελετά"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "σοφία"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "και η γλώσσα του"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "θα μιλά"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "κρίση"
+    }
+  ],
+  "timestamp": "2026-09-03T07:57:16.372034907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "και Δανά, και Κιργιάτ Σανά — αυτή ⟨είναι⟩ η Δεβίρ.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "και Δανά"
+    },
+    {
+      "surface": "וקרית סנה",
+      "gloss": "και Κιργιάτ Σανά"
+    },
+    {
+      "surface": "היא",
+      "gloss": "αυτή"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "η Δεβίρ"
+    }
+  ],
+  "timestamp": "2026-09-03T01:11:40.010828368Z",
+  "model": "glm-5.3"
+}

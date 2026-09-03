@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 115,
+  "translation": "Γιατί να λένε τα έθνη: πού είναι άραγε ο θεός τους;",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "να λένε"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "τα έθνη"
+    },
+    {
+      "surface": "איה",
+      "gloss": "πού είναι"
+    },
+    {
+      "surface": "נא",
+      "gloss": "άραγε"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ο θεός τους"
+    }
+  ],
+  "timestamp": "2026-09-03T08:30:41.132354065Z",
+  "model": "glm-5.3"
+}

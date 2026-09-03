@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Δεν κάλεσες από τώρα σε μένα: «Πατέρα μου, εσύ είσαι ο φίλος της νιότης μου»;",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "από τώρα"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "κάλεσες"
+    },
+    {
+      "surface": "לי",
+      "gloss": "σε μένα"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Πατέρα μου"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "φίλο"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "της νιότης μου"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    }
+  ],
+  "timestamp": "2026-09-03T04:34:06.877116102Z",
+  "model": "glm-5.3"
+}

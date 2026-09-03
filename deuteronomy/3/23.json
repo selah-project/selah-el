@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Και ικέτεψα τον Γιαχβέ εκείνον τον καιρό, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "Και ικέτεψα"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "τον Γιαχβέ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "στον καιρό"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "εκείνον"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:41:38.117382247Z",
+  "model": "glm-5.3"
+}

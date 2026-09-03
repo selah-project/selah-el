@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 25:18",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 25,
+  "translation": "Ο ενδέκατος ο Αζαρέλ, οι γιοι του και οι αδέρφοι του — δώδεκα.",
+  "tokens": [
+    {
+      "surface": "עשתי",
+      "gloss": "Ο ενδέκατος"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(ενδέκατος)"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "ο Αζαρέλ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "οι γιοι του"
+    },
+    {
+      "surface": "וְאחיו",
+      "gloss": "και οι αδέρφοι του"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "δώδεκα"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-03T10:45:32.607549725Z",
+  "model": "glm-5.3"
+}

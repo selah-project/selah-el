@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "και οι γιοι του Βερία: Χεβέρ και Μαλκιέλ· αυτός ⟨ήταν⟩ πατέρας του Βιρζότ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "και οι γιοι"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Βερία"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "Χεβέρ"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "Μαλκιέλ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "αυτός"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "πατέρας"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "Βιρζότ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:33:07.628742807Z",
+  "model": "glm-5.3"
+}

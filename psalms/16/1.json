@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 16,
+  "translation": "Μικτάμ του Δαβίδ. Φύλαξέ με, Ελ, γιατί κατέφυγα σε εσένα.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Μικτάμ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "του Δαβίδ"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "φύλαξέ με"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ελ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "κατέφυγα"
+    },
+    {
+      "surface": "בך",
+      "gloss": "σε εσένα"
+    }
+  ],
+  "timestamp": "2026-09-03T07:45:46.656721669Z",
+  "model": "glm-5.3"
+}

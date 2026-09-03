@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Μην μαλώνεις με έναν άνθρωπο αδικαιολόγητα, αν δεν σου ανταπέδωσε κακό.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Μην"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "μαλώνεις"
+    },
+    {
+      "surface": "עם",
+      "gloss": "με"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "έναν άνθρωπο"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "αδικαιολόγητα"
+    },
+    {
+      "surface": "אם",
+      "gloss": "αν"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "σου ανταπέδωσε"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "κακό"
+    }
+  ],
+  "timestamp": "2026-09-03T08:44:24.317144107Z",
+  "model": "glm-5.3"
+}

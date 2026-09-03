@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 21:20",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "ή καμπούρης ή νάνος ή θολή κηλίδα στο μάτι του ή με ψωρίαση ή με λέϊχορας· ή συντετριμμένος στους όρχεις.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "גבן",
+      "gloss": "καμπούρης"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "דק",
+      "gloss": "νάνος"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "תבלל",
+      "gloss": "θολή κηλίδα"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "στο μάτι του"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "με ψωρίαση"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "ילפת",
+      "gloss": "με λέϊχορας"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "συντετριμμένος"
+    },
+    {
+      "surface": "אשך",
+      "gloss": "στους όρχεις"
+    }
+  ],
+  "timestamp": "2026-09-03T00:13:47.512871972Z",
+  "model": "glm-5.3"
+}

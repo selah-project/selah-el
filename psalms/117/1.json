@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 117,
+  "translation": "Αινέστε ⟨את⟩ Γιαχβέ, όλα τα έθνη· να τον υμνήσετε, όλοι οι λαοί.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Αινέστε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Γιαχβέ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "τα έθνη"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "να τον υμνήσετε"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλοι"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "οι λαοί"
+    }
+  ],
+  "timestamp": "2026-09-03T12:41:25.815704074Z",
+  "model": "glm-5.3"
+}

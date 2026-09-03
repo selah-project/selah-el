@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "και Γιαχατσά και Κεδεμότ και Μεφαάτ,",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "και Γιαχατσά"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "και Κεδεμότ"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "και Μεφαάτ"
+    }
+  ],
+  "timestamp": "2026-09-03T01:08:28.568823521Z",
+  "model": "glm-5.3"
+}

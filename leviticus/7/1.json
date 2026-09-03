@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Και αυτή είναι τορά του ασαμ· άγιον αγίων είναι.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Και αυτή"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "τορά"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "του ασαμ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "άγιον"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "αγίων"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "είναι"
+    }
+  ],
+  "timestamp": "2026-09-03T00:06:00.263434370Z",
+  "model": "glm-5.3"
+}

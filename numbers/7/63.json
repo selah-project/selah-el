@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "numbers 7:63",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Έναν ταύρο, έναν, γιο της αγέλης· έναν κριό, έναν· ένα αρνί, έναν, γιο του χρόνου του, για ολά.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ταύρο"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "έναν"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιο"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "της αγέλης"
+    },
+    {
+      "surface": "איל",
+      "gloss": "κριό"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "έναν"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "αρνί"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "έναν"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιο"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "του χρόνου του"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "για ολά"
+    }
+  ],
+  "timestamp": "2026-09-03T00:24:27.986251781Z",
+  "model": "glm-5.3"
+}

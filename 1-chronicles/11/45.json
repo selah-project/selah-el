@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Γιεντιαέλ γιος του Σιμρί, και Γιοχά ο αδελφός του, ο Τιτσί",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "Γιεντιαέλ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "του Σιμρί"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "και Γιοχά"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ο αδελφός του"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "ο Τιτσί"
+    }
+  ],
+  "timestamp": "2026-09-03T12:48:46.830274786Z",
+  "model": "glm-5.3"
+}

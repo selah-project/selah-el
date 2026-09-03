@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Τραγούδι των τραγουδιών, που είναι του Σελομό.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Τραγούδι"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "των τραγουδιών"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "είναι του Σελομό"
+    }
+  ],
+  "timestamp": "2026-09-03T09:25:22.847351036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "Να — ημέρα έρχεται για τον Γιαχβέ, και μοιράστηκε η λεία σου μέσα σου.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Να"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ημέρα"
+    },
+    {
+      "surface": "בא",
+      "gloss": "έρχεται"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "για τον Γιαχβέ"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "και μοιράστηκε"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "η λεία σου"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "μέσα σου"
+    }
+  ],
+  "timestamp": "2026-09-03T07:37:07.636786190Z",
+  "model": "glm-5.3"
+}

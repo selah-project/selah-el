@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι γιοι του Ατερ, του Χιζκιγιά: ενενήντα και οκτώ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "του Ατερ"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "του Χιζκιγιά"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ενενήντα"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "και οκτώ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:16:56.799079747Z",
+  "model": "glm-5.3"
+}

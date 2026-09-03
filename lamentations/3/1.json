@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Εγώ ⟨είμαι⟩ ο άνδρας που είδε αθλιότητα στο ραβδί της οργής του.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Εγώ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ο άνδρας"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "είδε"
+    },
+    {
+      "surface": "עני",
+      "gloss": "αθλιότητα"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "στο ραβδί"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "της οργής του"
+    }
+  ],
+  "timestamp": "2026-09-03T09:33:30.056834753Z",
+  "model": "glm-5.3"
+}

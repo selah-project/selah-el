@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 12:1",
+  "book": "job",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Και απάντησε ο Αϊόβ και είπε:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Και απάντησε"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ο Αϊόβ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "και είπε"
+    }
+  ],
+  "timestamp": "2026-09-03T11:29:31.768203788Z",
+  "model": "glm-5.3"
+}

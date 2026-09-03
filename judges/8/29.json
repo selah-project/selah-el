@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Και πήγε ο Γιρβάλ γιος του Γιοάς και κάθισε στο σπίτι του.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Και πήγε"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "ο Γιρβάλ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "του Γιοάς"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "και κάθισε"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "στο σπίτι του"
+    }
+  ],
+  "timestamp": "2026-09-03T01:26:55.069665778Z",
+  "model": "glm-5.3"
+}

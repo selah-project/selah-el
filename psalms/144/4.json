@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 144,
+  "translation": "Ο άνθρωπος μοιάζει με πνοή· οι μέρες του σαν σκιά που περνά.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Ο άνθρωπος"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "με πνοή"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "μοιάζει"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "οι μέρες του"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "σαν σκιά"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "που περνά"
+    }
+  ],
+  "timestamp": "2026-09-03T08:41:04.132554380Z",
+  "model": "glm-5.3"
+}

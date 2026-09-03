@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Άντρες Μιχμάς: εκατό είκοσι δύο.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "άντρες"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "Μιχμάς"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "εκατό"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "και είκοσι"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "και δύο"
+    }
+  ],
+  "timestamp": "2026-09-03T10:17:14.862687986Z",
+  "model": "glm-5.3"
+}

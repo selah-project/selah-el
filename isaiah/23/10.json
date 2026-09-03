@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Πέρνα τη γη σου σαν τον Νείλο, κόρη Ταρσίς· δεν υπάρχει πια ζώνη.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Πέρνα"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "τη γη σου"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "σαν τον Νείλο"
+    },
+    {
+      "surface": "בת",
+      "gloss": "κόρη"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Ταρσίς"
+    },
+    {
+      "surface": "אין",
+      "gloss": "δεν υπάρχει"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "ζώνη"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "πια"
+    }
+  ],
+  "timestamp": "2026-09-03T03:59:58.504590547Z",
+  "model": "glm-5.3"
+}

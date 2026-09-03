@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Οι γιοι του Σιμόν: Νεμουέλ, και ο Γιαμίν, ο Γιαρίβ, ο Ζεράχ, ο Σαούλ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "του Σιμόν"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "Νεμουέλ"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "και ο Γιαμίν"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ο Γιαρίβ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ο Ζεράχ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ο Σαούλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:28:56.799048768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και είπε: Σήκωσέ το· και άπλωσε το χέρι του και το πήρε.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "και είπε"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Σήκωσε"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σου"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "και άπλωσε"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "το χέρι του"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "και το πήρε"
+    }
+  ],
+  "timestamp": "2026-09-03T03:15:55.990144516Z",
+  "model": "glm-5.3"
+}

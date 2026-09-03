@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 86,
+  "translation": "Δείξε χάρη σε μένα, Αδωνάι, γιατί σε σένα φωνάζω όλη την ημέρα.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Δείξε χάρη σε μένα"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Αδωνάι"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "σε σένα"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "φωνάζω"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλη"
+    },
+    {
+      "surface": "היום",
+      "gloss": "την ημέρα"
+    }
+  ],
+  "timestamp": "2026-09-03T08:18:51.488583148Z",
+  "model": "glm-5.3"
+}

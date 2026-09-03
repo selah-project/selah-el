@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Στον Μπινιαμίν: ο Αβιντάν, γιος του Γκντονί.",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "Στον Μπινιαμίν"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "ο Αβιντάν"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "του Γκντονί"
+    }
+  ],
+  "timestamp": "2026-09-03T00:17:45.726927946Z",
+  "model": "glm-5.3"
+}

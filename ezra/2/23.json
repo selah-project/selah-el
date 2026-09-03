@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Οι άνδρες του Ανατότ, εκατό είκοσι οκτώ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Οι άνδρες"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Ανατότ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "εκατό"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "είκοσι"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "οκτώ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:00:21.289522503Z",
+  "model": "glm-5.3"
+}

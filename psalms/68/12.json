@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 68,
+  "translation": "Ο Αδωνάι δίνει λόγο· οι αγγελιοφόρες είναι στρατός μεγάλος.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Ο Αδωνάι"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "δίνει"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "λόγο"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "οι αγγελιοφόρες"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "στρατός"
+    },
+    {
+      "surface": "רב",
+      "gloss": "μεγάλος"
+    }
+  ],
+  "timestamp": "2026-09-03T08:08:54.781301490Z",
+  "model": "glm-5.3"
+}

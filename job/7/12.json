@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Θάλασσα είμαι εγώ, ή τανίν, που βάζεις πάνω μου φρουρά;",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "θάλασσα"
+    },
+    {
+      "surface": "אני",
+      "gloss": "είμαι εγώ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ή"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "τανίν"
+    },
+    {
+      "surface": "כי",
+      "gloss": "που"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "βάζεις"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "πάνω μου"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "φρουρά"
+    }
+  ],
+  "timestamp": "2026-09-03T09:03:29.484058911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 28,
+  "translation": "Ευλογημένος εσύ στην πόλη, και ευλογημένος εσύ στο χωράφι.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ευλογημένος"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "στην πόλη"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "και ευλογημένος"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "στο χωράφι"
+    }
+  ],
+  "timestamp": "2026-09-03T00:56:22.848317486Z",
+  "model": "glm-5.3"
+}

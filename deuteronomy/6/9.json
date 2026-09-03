@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και θα τα γράψεις στις μεζουζότ του σπιτιού σου και στις πύλες σου.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "Και θα τα γράψεις"
+    },
+    {
+      "surface": "על",
+      "gloss": "σε"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "μεζουζότ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "του σπιτιού σου"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "και στις πύλες σου"
+    }
+  ],
+  "timestamp": "2026-09-03T00:44:01.155006072Z",
+  "model": "glm-5.3"
+}

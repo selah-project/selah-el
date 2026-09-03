@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Και γιοι του Σεμέρ: Αχι, και Ρογκά, Γιεχουββά, και Αράμ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και γιοι"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "του Σεμέρ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Αχι"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "και Ρογκά"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "Γιεχουββά"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "και Αράμ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:36.293185521Z",
+  "model": "glm-5.3"
+}

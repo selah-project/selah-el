@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Επιθυμεί ο ασεβής δίχτυ των κακών, και η ρίζα των δικαίων θα δίνει.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "Επιθυμεί"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ο ασεβής"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "δίχτυ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "των κακών"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "και η ρίζα"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "των δικαίων"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "θα δίνει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:47:36.551304060Z",
+  "model": "glm-5.3"
+}

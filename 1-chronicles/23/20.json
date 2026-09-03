@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Οι γιοι του Οζιέλ: Μικά ο επικεφαλής και Γισί ο δεύτερος.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "עזיאλ",
+      "gloss": "του Οζιέλ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Μικά"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ο επικεφαλής"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "και Γισί"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ο δεύτερος"
+    }
+  ],
+  "timestamp": "2026-09-03T10:46:08.499103488Z",
+  "model": "glm-5.3"
+}

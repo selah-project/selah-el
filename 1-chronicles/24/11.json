@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "στον Γεσούα ο ένατος, στον Σεχανίγια ο δέκατος.",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "στον Γεσούα"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "ο ένατος"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "στον Σεχανίγια"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "ο δέκατος"
+    }
+  ],
+  "timestamp": "2026-09-03T10:44:43.845345018Z",
+  "model": "glm-5.3"
+}

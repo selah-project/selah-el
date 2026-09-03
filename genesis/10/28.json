@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "και ⟨את⟩ Οβάλ και ⟨את⟩ Αβιμαέλ και ⟨את⟩ Σεβά.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Οβάλ"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Οβάλ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Αβιμαέλ"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Αβιμαέλ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Σεβά"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Σεβά"
+    }
+  ],
+  "timestamp": "2026-09-03T06:39:51.275298834Z",
+  "model": "glm-5.3"
+}

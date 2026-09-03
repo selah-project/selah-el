@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 107,
+  "translation": "Γιατί έσπασε πόρτες από χαλκό και έκοψε μπάρες σιδερένιες.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "έσπασε"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "πόρτες"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "από χαλκό"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "και μπάρες"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "σιδερένιες"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "έκοψε"
+    }
+  ],
+  "timestamp": "2026-09-03T08:28:13.233571772Z",
+  "model": "glm-5.3"
+}

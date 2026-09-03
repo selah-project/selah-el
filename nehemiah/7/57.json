@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "nehemiah 7:57",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Γιοι των υπηρετών του Σελομό: γιοι Σοτάι, γιοι Σοφέρετ, γιοι Φεριδά.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "των υπηρετών"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "του Σελομό"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "סוטי",
+      "gloss": "Σοτάι"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "סופרת",
+      "gloss": "Σοφέρετ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "פרידא",
+      "gloss": "Φεριδά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:18:18.208690194Z",
+  "model": "glm-5.3"
+}

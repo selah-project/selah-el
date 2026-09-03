@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 28,
+  "translation": "Και θα φτιάξεις πλεκτές θήκες από χρυσάφι.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Και θα φτιάξεις"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "πλεκτές θήκες"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "από χρυσάφι"
+    }
+  ],
+  "timestamp": "2026-09-03T06:42:49.219475096Z",
+  "model": "glm-5.3"
+}

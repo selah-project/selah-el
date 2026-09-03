@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 56,
+  "translation": "Όλα τα θηρία του χωραφιού, ελάτε να φάτε, όλα τα θηρία του δάσους.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Όλα"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "τα θηρία"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "του χωραφιού"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "ελάτε"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "να φάτε"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "τα θηρία"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "του δάσους"
+    }
+  ],
+  "timestamp": "2026-09-03T04:24:30.581161761Z",
+  "model": "glm-5.3"
+}

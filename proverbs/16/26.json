@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 16,
+  "translation": "Νεφές κοπιαστική κοπιάζει για εκείνον, γιατί το στόμα του τον πιέζει.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "νεφές"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "κοπιαστική"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "κοπιάζει"
+    },
+    {
+      "surface": "לו",
+      "gloss": "για εκείνον"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "πιέζει"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "αυτόν"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "το στόμα του"
+    }
+  ],
+  "timestamp": "2026-09-03T08:50:49.124214155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 27:6",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 27,
+  "translation": "Και είπε Γιαχβέ στον Μοσέ λέγοντας:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "משה",
+      "gloss": "τον Μοσέ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:36:26.121153320Z",
+  "model": "glm-5.3"
+}

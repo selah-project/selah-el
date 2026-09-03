@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 69,
+  "translation": "Σώσε με, Ελοχίμ, γιατί ήρθαν νερά ως τη ⟨ψυχή⟩ μου·",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Σώσε με"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Ελοχίμ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ήρθαν"
+    },
+    {
+      "surface": "מים",
+      "gloss": "νερά"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ως"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "τη ψυχή"
+    }
+  ],
+  "timestamp": "2026-09-03T08:10:31.556366453Z",
+  "model": "glm-5.3"
+}

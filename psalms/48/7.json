@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 48,
+  "translation": "Τρέμουλο τους έπιασε εκεί, πόνος σαν της γεννούσας.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "Τρέμουλο"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "τους έπιασε"
+    },
+    {
+      "surface": "שם",
+      "gloss": "εκεί"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "πόνος"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "σαν της γεννούσας"
+    }
+  ],
+  "timestamp": "2026-09-03T08:00:33.681204623Z",
+  "model": "glm-5.3"
+}

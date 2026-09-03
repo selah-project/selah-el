@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 32,
+  "translation": "Φαρμάκι δρακόντων ⟨είναι⟩ το κρασί τους, και κεφάλι ασπίδων θανατηφόρο.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "Φαρμάκι"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "δρακόντων"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "το κρασί τους"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "και κεφάλι"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "ασπίδων"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "θανατηφόρο"
+    }
+  ],
+  "timestamp": "2026-09-03T00:59:16.241536211Z",
+  "model": "glm-5.3"
+}

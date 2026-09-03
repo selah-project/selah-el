@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "Και είπε: Όχι, παρακαλώ, αδέρφια μου, μην κάνετε κακό.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "και είπε"
+    },
+    {
+      "surface": "אל",
+      "gloss": "μην"
+    },
+    {
+      "surface": "נא",
+      "gloss": "παρακαλώ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "αδέρφια μου"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "κάνετε κακό"
+    }
+  ],
+  "timestamp": "2026-09-02T23:25:47.223569537Z",
+  "model": "glm-5.3"
+}

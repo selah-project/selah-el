@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "και Ιβχάρ και Ελισουά και Ναφέγ και Γιαφιά.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "και Ιβχάρ"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "και Ελισουά"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "και Ναφέγ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "και Γιαφιά"
+    }
+  ],
+  "timestamp": "2026-09-03T02:14:58.364550558Z",
+  "model": "glm-5.3"
+}

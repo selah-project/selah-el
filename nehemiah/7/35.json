@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι γιοι του Χαριμ, τριακόσιοι και είκοσι.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Χαριμ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "τριακόσιοι"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(εκατοντάδες)"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "και είκοσι"
+    }
+  ],
+  "timestamp": "2026-09-03T10:16:58.262374318Z",
+  "model": "glm-5.3"
+}

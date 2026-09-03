@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 115,
+  "translation": "Στόμα έχουν και δεν μιλούν· μάτια έχουν και δεν βλέπουν.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "στόμα"
+    },
+    {
+      "surface": "להם",
+      "gloss": "έχουν"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "μιλούν"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "μάτια"
+    },
+    {
+      "surface": "להם",
+      "gloss": "έχουν"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "βλέπουν"
+    }
+  ],
+  "timestamp": "2026-09-03T08:31:04.941426719Z",
+  "model": "glm-5.3"
+}

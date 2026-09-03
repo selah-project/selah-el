@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 31:25",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 31,
+  "translation": "Και είπε Γιαχβέ στον Μοσέ να πει:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Μοσέ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "να πει"
+    }
+  ],
+  "timestamp": "2026-09-03T00:38:10.367559510Z",
+  "model": "glm-5.3"
+}

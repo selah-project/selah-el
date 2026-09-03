@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Και ο Σελάχ έζησε τριάντα χρόνια, και γέννησε ⟨את⟩ τον Εβέρ.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Και ο Σελάχ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "έζησε"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "τριάντα"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "χρόνια"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "και γέννησε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Εβέρ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "τον Εβέρ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:23:17.758822588Z",
+  "model": "glm-5.3"
+}

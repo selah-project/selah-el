@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Σκέπασες ⟨τον εαυτό σου⟩ με σύννεφο, από το να περάσει προσευχή.",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "Σκέπασες"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "με σύννεφο"
+    },
+    {
+      "surface": "לך",
+      "gloss": "τον εαυτό σου"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "από το να περάσει"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "προσευχή"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:16.024375117Z",
+  "model": "glm-5.3"
+}

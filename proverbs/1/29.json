@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 1:29",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Γι' αυτό, επειδή μίσησαν τη γνώση, και τον φόβο του Γιαχβέ δεν τον διάλεξαν —",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "γι' αυτό"
+    },
+    {
+      "surface": "כי",
+      "gloss": "επειδή"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "μίσησαν"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "τη γνώση"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "και τον φόβο"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "διάλεξαν"
+    }
+  ],
+  "timestamp": "2026-09-03T08:42:24.125455031Z",
+  "model": "glm-5.3"
+}

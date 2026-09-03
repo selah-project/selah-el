@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και αποκρίθηκα και είπα στον άγγελο που μιλούσε μέσα μου: Τι είναι αυτά, Αδωνάι μου;",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "και αποκρίθηκα"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "και είπα"
+    },
+    {
+      "surface": "אל",
+      "gloss": "σε"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "τον άγγελο"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "που μιλούσε"
+    },
+    {
+      "surface": "בי",
+      "gloss": "μέσα μου"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "αυτά"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Αδωνάι μου"
+    }
+  ],
+  "timestamp": "2026-09-03T07:34:33.705246771Z",
+  "model": "glm-5.3"
+}

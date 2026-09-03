@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 49,
+  "translation": "Στον μαέστρο· για τους γιους του Κοράχ· μελός.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον μαέστρο"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "για τους γιους"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "του Κοράχ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "μελός"
+    }
+  ],
+  "timestamp": "2026-09-03T08:00:47.987396135Z",
+  "model": "glm-5.3"
+}

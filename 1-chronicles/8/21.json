@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "και Αδαγιά και Βεραγιά και Σιμράτ, γιοι του Σιμί.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "και Αδαγιά"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "και Βεραγιά"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "και Σιμράτ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "του Σιμί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:33:06.213641797Z",
+  "model": "glm-5.3"
+}

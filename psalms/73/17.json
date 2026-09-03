@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 73,
+  "translation": "Ωσπου να έρθω στα αγιαστήρια του Ελ — κατάλαβα το τέλος τους.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ωσπου"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "να έρθω"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στα"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "αγιαστήρια"
+    },
+    {
+      "surface": "אל",
+      "gloss": "του Ελ"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "κατάλαβα"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "το τέλος τους"
+    }
+  ],
+  "timestamp": "2026-09-03T08:13:04.224421121Z",
+  "model": "glm-5.3"
+}

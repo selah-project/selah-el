@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "και βάλε μαχαίρι στον λαιμό σου, αν είσαι άντρας με μεγάλη όρεξη.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "και βάλε"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "μαχαίρι"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "στον λαιμό σου"
+    },
+    {
+      "surface": "אם",
+      "gloss": "αν"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "άντρας με"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "μεγάλη όρεξη"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "είσαι"
+    }
+  ],
+  "timestamp": "2026-09-03T08:56:09.646972386Z",
+  "model": "glm-5.3"
+}

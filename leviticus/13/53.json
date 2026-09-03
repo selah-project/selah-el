@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 13:53",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Και αν δει ο κοέν και ιδού δεν απλώθηκε η πληγή στο ρούχο ή στη στημόν ή στο μύτο ή σε κάθε σκεύος από δέρμα,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Και αν"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "δει"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ο κοέν"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "και ιδού"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "απλώθηκε"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "η πληγή"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "στο ρούχο"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "στη στημόν"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "στο μύτο"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "σε κάθε"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "σκεύος"
+    },
+    {
+      "surface": "עור",
+      "gloss": "δέρμα"
+    }
+  ],
+  "timestamp": "2026-09-03T00:10:49.292997693Z",
+  "model": "glm-5.3"
+}

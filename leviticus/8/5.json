@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Και είπε ο Μοσέ στην εδα: Αυτό είναι το πράγμα που ενέτειλε ο Γιαχβέ να γίνει.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στην"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "εδα"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Αυτό"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "το πράγμα"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ενέτειλε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "να γίνει"
+    }
+  ],
+  "timestamp": "2026-09-03T00:07:46.048315231Z",
+  "model": "glm-5.3"
+}

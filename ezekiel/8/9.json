@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Και είπε σε μένα· έλα και δες ⟨את⟩ τις αηδίες τις κακές που αυτοί κάνουν εδώ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "σε μένα"
+    },
+    {
+      "surface": "בא",
+      "gloss": "έλα"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "και δες"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τις αηδίες τις κακές"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "τις αηδίες"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "τις κακές"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "הם",
+      "gloss": "αυτοί"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "κάνουν"
+    },
+    {
+      "surface": "פה",
+      "gloss": "εδώ"
+    }
+  ],
+  "timestamp": "2026-09-03T05:22:03.446311637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Και εκείνος του είπε: Δεν θα έρθω, αλλά στη δική μου γη και στη δική μου γενιά θα πάω.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "του"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "θα έρθω"
+    },
+    {
+      "surface": "כי",
+      "gloss": "αλλά"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στη"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "δική μου γη"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "και στη"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "δική μου γενιά"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "θα πάω"
+    }
+  ],
+  "timestamp": "2026-09-03T00:25:53.216640817Z",
+  "model": "glm-5.3"
+}

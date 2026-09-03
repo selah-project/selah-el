@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Γιοι του Ιμέρ: χίλιοι πενήντα δύο.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "του Ιμέρ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "χίλιοι"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "πενήντα"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "δύο"
+    }
+  ],
+  "timestamp": "2026-09-03T10:03:55.158605996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Στον αρχιμουσικό· ψαλμός του Δαβίδ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον αρχιμουσικό"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ψαλμός"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "του Δαβίδ"
+    }
+  ],
+  "timestamp": "2026-09-03T07:48:41.402727544Z",
+  "model": "glm-5.3"
+}

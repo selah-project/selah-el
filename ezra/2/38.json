@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 2:38",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Γιοι του Πασχούρ: χίλιοι διακόσιοι σαράντα επτά.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "του Πασχούρ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "χίλιοι"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "διακόσιοι"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "σαράντα"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "επτά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:03:55.158842149Z",
+  "model": "glm-5.3"
+}

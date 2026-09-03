@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "και θα σφάξει ⟨את⟩ το ένα πουλί σε δοχείο από πηλό πάνω σε ζωντανό νερό.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "και θα σφάξει"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "το ένα πουλί"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "το πουλί"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "το ένα"
+    },
+    {
+      "surface": "אל",
+      "gloss": "σε"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "δοχείο"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "από πηλό"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "מים",
+      "gloss": "νερό"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ζωντανό"
+    }
+  ],
+  "timestamp": "2026-09-03T00:09:14.865233171Z",
+  "model": "glm-5.3"
+}

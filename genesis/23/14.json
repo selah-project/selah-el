@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Και αποκρίθηκε ο Εφρόν ⟨את⟩ τον Αβραχάμ, λέγοντας του:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Και αποκρίθηκε"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "ο Εφρόν"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Αβραχάμ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "τον Αβραχάμ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    },
+    {
+      "surface": "לו",
+      "gloss": "του"
+    }
+  ],
+  "timestamp": "2026-09-02T23:27:24.951482298Z",
+  "model": "glm-5.3"
+}

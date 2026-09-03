@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 37:5",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 37,
+  "translation": "Έτσι είπε ο Αδωνάι Γιαχβέ στα κόκαλα αυτά: Να, εγώ φέρνω σε εσάς πνοή και θα ζήσετε.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Έτσι"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Αδωνάι"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "לעצמות",
+      "gloss": "στα κόκαλα"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "αυτά"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Να"
+    },
+    {
+      "surface": "אני",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "φέρνω"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "σε εσάς"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "πνοή"
+    },
+    {
+      "surface": "וחייתם",
+      "gloss": "και θα ζήσετε"
+    }
+  ],
+  "timestamp": "2026-09-03T05:48:59.388768618Z",
+  "model": "glm-5.3"
+}

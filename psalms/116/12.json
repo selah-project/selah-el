@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 116,
+  "translation": "Τι να επιστρέψω στον Γιαχβέ, για όλα τα δώρα του πάνω μου;",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Τι"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "να επιστρέψω"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "στον Γιαχβέ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "τα δώρα του"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "πάνω μου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:30:40.158469311Z",
+  "model": "glm-5.3"
+}

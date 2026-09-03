@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "και φέρνει ο κοέν ο Μασίαχ από το αίμα του ταύρου στη σκηνή του μοαδ.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "και φέρνει"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ο κοέν"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "ο Μασίαχ"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "από το αίμα"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "του ταύρου"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στη"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "σκηνή"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "του μοαδ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:05:31.035004389Z",
+  "model": "glm-5.3"
+}

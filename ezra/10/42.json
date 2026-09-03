@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Σαλούμ, Αμαριά, Γιοσέφ.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "Σαλούμ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Αμαριά"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Γιοσέφ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:09:39.775206639Z",
+  "model": "glm-5.3"
+}

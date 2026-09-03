@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 32,
+  "translation": "επειδή από απέναντι θα δεις ⟨את⟩ τη γη, και εκεί δεν θα μπεις στη γη που εγώ δίνω στους γιους του Ισραέλ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "επειδή"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "από απέναντι"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "θα δεις"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τη γη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "τη γη"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "και εκεί"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "θα μπεις"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "γη"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "אני",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "δίνω"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "στους γιους του"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ισραέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T06:47:35.453129068Z",
+  "model": "glm-5.3"
+}

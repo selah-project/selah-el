@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Άκουσε, Ισραέλ: Γιαχβέ ο Ελοχίμ μας, Γιαχβέ ⟨είναι⟩ ένας",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Άκουσε"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ισραέλ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ο Ελοχίμ μας"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:45:25.298058074Z",
+  "model": "glm-5.3"
+}

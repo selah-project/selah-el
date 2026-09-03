@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Και απάντησαν οι γιοι του Χετ ⟨את⟩ τον Αβραχάμ λέγοντας του:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Και απάντησαν"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "חת",
+      "gloss": "του Χετ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Αβραχάμ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "τον Αβραχάμ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    },
+    {
+      "surface": "לו",
+      "gloss": "του"
+    }
+  ],
+  "timestamp": "2026-09-02T23:28:17.812589041Z",
+  "model": "glm-5.3"
+}

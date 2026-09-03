@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 28,
+  "translation": "Επικατάρατος ⟨είναι⟩ ο κάλαθός σου και το ζυμάριό σου.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Επικατάρατος"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "ο κάλαθός σου"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "και το ζυμάριό σου"
+    }
+  ],
+  "timestamp": "2026-09-03T00:56:39.477570788Z",
+  "model": "glm-5.3"
+}

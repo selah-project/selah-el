@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "και Μιχαέλ και Ισπά και Ιωχά, γιοι του Βεριά.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "και Μιχαέλ"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "και Ισπά"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "και Ιωχά"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "του Βεριά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:32:35.553878265Z",
+  "model": "glm-5.3"
+}

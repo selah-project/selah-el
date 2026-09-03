@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οδοί του Σεόλ το σπίτι της, καταβαίνουν στα δωμάτια του θανάτου.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "Οδοί"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "του Σεόλ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "το σπίτι της"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "καταβαίνουν"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στα"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "δωμάτια"
+    },
+    {
+      "surface": "מות",
+      "gloss": "του θανάτου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:44:57.165341324Z",
+  "model": "glm-5.3"
+}

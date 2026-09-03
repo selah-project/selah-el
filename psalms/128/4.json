@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 128,
+  "translation": "Ιδού, ότι έτσι θα ευλογηθεί ο άντρας που φοβάται τον Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ιδού"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ότι"
+    },
+    {
+      "surface": "כן",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "θα ευλογηθεί"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ο άντρας"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "φοβάται"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "τον Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:34:57.039766635Z",
+  "model": "glm-5.3"
+}

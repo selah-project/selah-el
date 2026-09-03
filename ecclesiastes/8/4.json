@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Όπου είναι λόγος βασιλιά, εξουσία· και ποιος θα πει σε αυτόν: τι κάνεις;",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "Όπου"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "βασιλιά"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "εξουσία"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "και ποιος"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "θα πει"
+    },
+    {
+      "surface": "לו",
+      "gloss": "σε αυτόν"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "κάνεις"
+    }
+  ],
+  "timestamp": "2026-09-03T09:40:34.987182649Z",
+  "model": "glm-5.3"
+}

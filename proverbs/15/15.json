@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Όλες οι μέρες του φτωχού είναι κακές, και η καλή καρδιά ⟨έχει⟩ συμπόσιο διαρκές.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Όλες"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "οι μέρες"
+    },
+    {
+      "surface": "עני",
+      "gloss": "του φτωχού"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "κακές"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "και η καλή"
+    },
+    {
+      "surface": "לב",
+      "gloss": "καρδιά"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "συμπόσιο"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "διαρκές"
+    }
+  ],
+  "timestamp": "2026-09-03T08:50:28.401016522Z",
+  "model": "glm-5.3"
+}

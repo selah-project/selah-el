@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "και Χατσάρ Σουάλ, και Βαλά, και Ατσέμ.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "και Χατσάρ"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Σουάλ"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "και Βαλά"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "και Ατσέμ"
+    }
+  ],
+  "timestamp": "2026-09-03T01:14:05.964282971Z",
+  "model": "glm-5.3"
+}

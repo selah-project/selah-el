@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Ελκανάχ, οι γιοι του: Τσοφάι ο γιος του, και Ναχάτ ο γιος του.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Ελκανάχ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "οι γιοι του"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "του Ελκανάχ"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "Τσοφάι"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "και Ναχάτ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:30:55.707467398Z",
+  "model": "glm-5.3"
+}

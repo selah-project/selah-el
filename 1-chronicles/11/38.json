@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Ιοέλ ο αδελφός του Νατάν, Μιβχάρ γιος του Αγρίτη.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Ιοέλ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ο αδελφός"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "του Νατάν"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "Μιβχάρ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "του Αγρίτη"
+    }
+  ],
+  "timestamp": "2026-09-03T10:33:41.244109589Z",
+  "model": "glm-5.3"
+}

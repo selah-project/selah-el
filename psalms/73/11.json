@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 73,
+  "translation": "Και λένε: Πώς θα ξέρει ο Ελ, και υπάρχει γνώση στον Ελιόν;",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Και λένε"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Πώς"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "θα ξέρει"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ο Ελ"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "και υπάρχει"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "γνώση"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "στον Ελιόν"
+    }
+  ],
+  "timestamp": "2026-09-03T08:11:47.188012488Z",
+  "model": "glm-5.3"
+}

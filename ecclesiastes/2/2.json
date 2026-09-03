@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Για το γέλιο είπα: τρέλα· και για τη χαρά: τι κάνει αυτό;",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Για το γέλιο"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "είπα"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "τρέλα"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "και για τη χαρά"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "זה",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "κάνει"
+    }
+  ],
+  "timestamp": "2026-09-03T11:33:14.440551085Z",
+  "model": "glm-5.3"
+}

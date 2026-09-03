@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "και στο Ιεσουά, και στη Μολαντά, και στο Βεθ-Παλέτ.",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "και στο Ιεσουά"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "και στη Μολαντά"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "και στο Βεθ"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "Παλέτ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:20:32.638795635Z",
+  "model": "glm-5.3"
+}

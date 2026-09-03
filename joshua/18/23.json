@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "και οι Αβίμ, και η Φαρά, και η Οφρά.",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "και οι Αβίμ"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "και η Φαρά"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "και η Οφρά"
+    }
+  ],
+  "timestamp": "2026-09-03T01:12:31.197099830Z",
+  "model": "glm-5.3"
+}

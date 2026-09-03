@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "Και είπε ο Γιαχβέ: Συγχώρεσα, κατά τον λόγο σου.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "Συγχώρεσα"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "κατά τον λόγο σου"
+    }
+  ],
+  "timestamp": "2026-09-03T00:27:04.414666046Z",
+  "model": "glm-5.3"
+}

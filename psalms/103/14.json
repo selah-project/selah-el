@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 103,
+  "translation": "Γιατί εκείνος ξέρει την πλάση μας, θυμάται ότι χώμα είμαστε εμείς.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "εκείνος"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ξέρει"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "την πλάση μας"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "θυμάται"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ότι"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "χώμα"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "εμείς"
+    }
+  ],
+  "timestamp": "2026-09-03T08:24:11.200455293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Λόγος του Γιαχβέ που έγινε προς τον Γιοέλ, γιο του Πετουέλ.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "היה",
+      "gloss": "έγινε"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "τον Γιοέλ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιο"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "του Πετουέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T07:10:53.067444077Z",
+  "model": "glm-5.3"
+}

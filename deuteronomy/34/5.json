@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 34,
+  "translation": "Και πέθανε εκεί ο Μοσέ, δούλος του Γιαχβέ, στη γη του Μοάβ, κατά το στόμα του Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Και πέθανε"
+    },
+    {
+      "surface": "שם",
+      "gloss": "εκεί"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "δούλος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "στη γη"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "του Μοάβ"
+    },
+    {
+      "surface": "על",
+      "gloss": "κατά"
+    },
+    {
+      "surface": "פי",
+      "gloss": "το στόμα"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T01:00:15.335191011Z",
+  "model": "glm-5.3"
+}

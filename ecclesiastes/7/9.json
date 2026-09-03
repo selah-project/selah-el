@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Μην βιάζεσαι στο πνεύμα σου να θυμώσεις, γιατί ο θυμός στον κόρφο των κεφάλων ηρεμεί.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Μην"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "βιάζεσαι"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "στο πνεύμα σου"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "να θυμώσεις"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ο θυμός"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "στον κόρφο"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "των κεφάλων"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ηρεμεί"
+    }
+  ],
+  "timestamp": "2026-09-03T11:33:01.316426805Z",
+  "model": "glm-5.3"
+}

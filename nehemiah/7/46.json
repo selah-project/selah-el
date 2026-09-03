@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι Νετινίμ: οι γιοι Τσιχά, οι γιοι Χασουφά, οι γιοι Ταβαότ.",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "Οι Νετινίμ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "Τσιχά"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "Χασουφά"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "Ταβαότ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:17:15.789846838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Γη, γη, γη, άκουσε τον λόγο του Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Γη"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "γη"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "γη"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "άκουσε"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "τον λόγο"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T04:46:17.197441292Z",
+  "model": "glm-5.3"
+}

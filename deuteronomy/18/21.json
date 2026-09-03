@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "Και αν πεις στην καρδιά σου: Πώς θα γνωρίσουμε ⟨את⟩ τον λόγο που δεν τον μίλησε ο Γιαχβέ;",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Και αν"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "πεις"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "στην καρδιά σου"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Πώς"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "θα γνωρίσουμε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον λόγο"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "τον λόγο"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "τον μίλησε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:50:56.480712908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Αγαθό ⟨είναι⟩ για τον άντρα ότι σηκώνει ζεύγος στα νιάτα του.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Αγαθό"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "για τον άντρα"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ότι"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "σηκώνει"
+    },
+    {
+      "surface": "על",
+      "gloss": "ζεύγος"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "στα νιάτα του"
+    }
+  ],
+  "timestamp": "2026-09-03T09:33:26.446451037Z",
+  "model": "glm-5.3"
+}

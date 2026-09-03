@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "και ⟨את⟩ Αδοραΐμ και ⟨את⟩ Λακίς και ⟨את⟩ Αζεκά",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Αδοραΐμ"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Αδοραΐμ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Λακίς"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Λακίς"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Αζεκά"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Αζεκά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:55:47.684258523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 34:23",
+  "book": "job",
+  "lang": "el",
+  "chapter": 34,
+  "translation": "Γιατί δεν βάζει άλλο πάνω σε άνθρωπο να πάει προς τον Ελ στη δίκη.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "איש",
+      "gloss": "σε άνθρωπο"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "βάζει"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "άλλο"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "να πάει"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "אל",
+      "gloss": "τον Ελ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "στη δίκη"
+    }
+  ],
+  "timestamp": "2026-09-03T12:44:11.965524087Z",
+  "model": "glm-5.3"
+}

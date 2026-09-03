@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Οζιά ο Ασετραθί, Σαμά και Γιεουέλ γιοι του Χοτάμ ο Αροερί.",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "Οζιά"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "ο Ασετραθί"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Σαμά"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "και Γιεουέλ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "του Χοτάμ"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "ο Αροερί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:34:15.705073849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 1:27",
+  "book": "2-samuel",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Πώς έπεσαν οι ισχυροί και χάθηκαν τα όπλα του πολέμου!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Πώς"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "έπεσαν"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "οι ισχυροί"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "και χάθηκαν"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "τα όπλα"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "του πολέμου"
+    }
+  ],
+  "timestamp": "2026-09-03T02:10:53.038770220Z",
+  "model": "glm-5.3"
+}

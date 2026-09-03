@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 119,
+  "translation": "Λιώνει η ψυχή μου από πόθο για τις κρίσεις σου σε κάθε καιρό.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "Λιώνει"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "η ψυχή μου"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "από πόθο"
+    },
+    {
+      "surface": "אל",
+      "gloss": "για"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "τις κρίσεις σου"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "σε κάθε"
+    },
+    {
+      "surface": "עת",
+      "gloss": "καιρό"
+    }
+  ],
+  "timestamp": "2026-09-03T08:32:03.541827499Z",
+  "model": "glm-5.3"
+}

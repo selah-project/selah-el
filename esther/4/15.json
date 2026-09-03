@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Και είπε η Εστέρ να απαντήσουν στον Μορδοκαίο:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "η Εστέρ"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "να απαντήσουν"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Μορδοκαίο"
+    }
+  ],
+  "timestamp": "2026-09-03T09:44:04.577687139Z",
+  "model": "glm-5.3"
+}

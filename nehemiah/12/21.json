@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Του Χιλκίγια, ο Χασαβγιά· του Γιδαγιά, ο Νετανέλ.",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "Του Χιλκίγια"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ο Χασαβγιά"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "του Γιδαγιά"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ο Νετανέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T11:36:00.225636334Z",
+  "model": "glm-5.3"
+}

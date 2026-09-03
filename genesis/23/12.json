@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "και υποκύπησε ο Αβραχάμ μπροστά στον λαό της γης.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "και υποκύπησε"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ο Αβραχάμ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "μπροστά στον"
+    },
+    {
+      "surface": "עם",
+      "gloss": "λαό"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "της γης"
+    }
+  ],
+  "timestamp": "2026-09-02T23:27:29.556246090Z",
+  "model": "glm-5.3"
+}

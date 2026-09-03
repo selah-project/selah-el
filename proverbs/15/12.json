@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 15:12",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Ο ειρωνευτής δεν αγαπά να τον διορθώνουν· στους σοφούς δεν θα πάει.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "αγαπά"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ο ειρωνευτής"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "να τον διορθώνουν"
+    },
+    {
+      "surface": "לו",
+      "gloss": "τον"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στους"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "σοφούς"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "θα πάει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:50:25.938613063Z",
+  "model": "glm-5.3"
+}

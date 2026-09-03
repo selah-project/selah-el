@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Τρεις αυτοί οι γιοι του Νοχ, και από αυτούς σκορπίστηκε όλη η γη.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "Τρεις"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "αυτοί"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "נח",
+      "gloss": "του Νοχ"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "και από αυτούς"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "σκορπίστηκε"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "η γη"
+    }
+  ],
+  "timestamp": "2026-09-02T23:21:45.029566126Z",
+  "model": "glm-5.3"
+}

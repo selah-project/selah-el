@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Θα θυμάμαι, ναι θα θυμάμαι, και ταπεινώνεται μέσα μου η ψυχή μου.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Θα θυμάμαι"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "ναι θα θυμάμαι"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "και ταπεινώνεται"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "μέσα μου"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "η ψυχή μου"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:49.122176876Z",
+  "model": "glm-5.3"
+}

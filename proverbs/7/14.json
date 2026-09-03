@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 7:14",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Θυσίες σελαμίμ έχω πάνω μου· σήμερα εξόφλησα τις ευχές μου.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "θυσίες"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "σελαμίμ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "πάνω μου"
+    },
+    {
+      "surface": "היום",
+      "gloss": "σήμερα"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "εξόφλησα"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "τις ευχές μου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:45:09.005838114Z",
+  "model": "glm-5.3"
+}

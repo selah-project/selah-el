@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι γιοι του Γαζζάμ, οι γιοι του Ουζζά, οι γιοι του Φασεάχ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "του Γαζζάμ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "του Ουζζά"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "του Φασεάχ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:17:07.483647408Z",
+  "model": "glm-5.3"
+}

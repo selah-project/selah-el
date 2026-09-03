@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 36:16",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 36,
+  "translation": "Και έγινε λόγος του Γιαχβέ προς εμένα, για να πει:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και έγινε"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "προς εμένα"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "για να πει"
+    }
+  ],
+  "timestamp": "2026-09-03T05:47:57.278650625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 28,
+  "translation": "Βιάζεται για πλούτο ο άντρας με το κακό μάτι, και δεν ξέρει ότι έλλειψη θα τον βρει.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "βιάζεται"
+    },
+    {
+      "surface": "להון",
+      "gloss": "για πλούτο"
+    },
+    {
+      "surface": "איש",
+      "gloss": "άντρας"
+    },
+    {
+      "surface": "רע",
+      "gloss": "κακό"
+    },
+    {
+      "surface": "עין",
+      "gloss": "μάτι"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ξέρει"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ότι"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "έλλειψη"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "θα τον βρει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:59:36.277349472Z",
+  "model": "glm-5.3"
+}

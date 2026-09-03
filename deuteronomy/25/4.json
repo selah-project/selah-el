@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 25,
+  "translation": "Να μη φιμώνεις βόδι στο αλώνισμά του.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Να μη"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "φιμώνεις"
+    },
+    {
+      "surface": "שור",
+      "gloss": "βόδι"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "στο αλώνισμά του"
+    }
+  ],
+  "timestamp": "2026-09-03T00:53:33.936797008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Θα τη σπάσεις ⟨את⟩ σε κομμάτια και θα χύσεις πάνω της λάδι· μινχά είναι.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "Θα τη σπάσεις"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "σε κομμάτια"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "σε κομμάτια"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "και θα χύσεις"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "πάνω της"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "λάδι"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "μινχά"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "είναι"
+    }
+  ],
+  "timestamp": "2026-09-03T00:03:29.303765566Z",
+  "model": "glm-5.3"
+}

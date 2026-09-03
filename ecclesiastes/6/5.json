@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Ακόμα και τον ήλιο δεν είδε και δεν έμαρε τίποτα· ανάπαυση έχει ο ένας περισσότερο από τον άλλον.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ακόμα"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "τον ήλιο"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "είδε"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "έμαρε"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ανάπαυση"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "στον ένα"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "από τον άλλον"
+    }
+  ],
+  "timestamp": "2026-09-03T09:40:25.177981351Z",
+  "model": "glm-5.3"
+}

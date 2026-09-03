@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 33:28",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 33,
+  "translation": "Και σιπήσαν από Ταράχ και στρατοπέδευσαν στο Μιτκά.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "σιπήσαν"
+    },
+    {
+      "surface": "מתרח",
+      "gloss": "από Ταράχ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "στρατοπέδευσαν"
+    },
+    {
+      "surface": "במתקה",
+      "gloss": "στο Μιτκά"
+    }
+  ],
+  "timestamp": "2026-09-03T00:39:13.931743901Z",
+  "model": "glm-5.3"
+}

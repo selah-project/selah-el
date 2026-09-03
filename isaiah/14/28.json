@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "Στο έτος του θανάτου του βασιλιά Αχαζ έγινε αυτό το βάρος.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Στο έτος"
+    },
+    {
+      "surface": "מות",
+      "gloss": "του θανάτου"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "του βασιλιά"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Αχαζ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "έγινε"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "το βάρος"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "αυτό"
+    }
+  ],
+  "timestamp": "2026-09-03T03:54:19.153008343Z",
+  "model": "glm-5.3"
+}

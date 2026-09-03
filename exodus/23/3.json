@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Και ⟨τον⟩ φτωχό να μην τον ευνοήσεις στη δίκη του.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "και ⟨τον⟩ φτωχό"
+    },
+    {
+      "surface": "לא",
+      "gloss": "να μην"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "τον ευνοήσεις"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "στη δίκη του"
+    }
+  ],
+  "timestamp": "2026-09-02T23:53:15.794328567Z",
+  "model": "glm-5.3"
+}

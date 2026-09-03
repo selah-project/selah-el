@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "και Σαμσεράι, και Σαχαργιά, και Αταλγιά.",
+  "tokens": [
+    {
+      "surface": "וושמשרי",
+      "gloss": "και Σαμσεράι"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "και Σαχαργιά"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "και Αταλγιά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:33:28.170293928Z",
+  "model": "glm-5.3"
+}

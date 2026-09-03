@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Και είπε Γιαχβέ στον άγγελο, και επέστρεψε το σπαθί του στη θηκή του.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "στον άγγελο"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "και επέστρεψε"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "το σπαθί του"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στη"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "θηκή του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:45:03.081119039Z",
+  "model": "glm-5.3"
+}

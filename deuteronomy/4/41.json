@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Τότε ξεχώρισε ο Μοσέ τρεις πόλεις πέρα από τον Γιαρντέν, προς την ανατολή του ήλιου.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Τότε"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "ξεχώρισε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "τρεις"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "πόλεις"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "πέρα από"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "τον Γιαρντέν"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "προς την ανατολή"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "του ήλιου"
+    }
+  ],
+  "timestamp": "2026-09-03T00:44:18.574373005Z",
+  "model": "glm-5.3"
+}

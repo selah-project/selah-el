@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 44,
+  "translation": "Κάθε πτώμα και θηριοπαγές, από το πουλί και από το ζώο, δεν θα φάνε οι κοέν.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Κάθε"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "πτώμα"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "και θηριοπαγές"
+    },
+    {
+      "surface": "מן",
+      "gloss": "από"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "το πουλί"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "και από"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "το ζώο"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "θα φάνε"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "οι κοέν"
+    }
+  ],
+  "timestamp": "2026-09-03T05:56:07.614680973Z",
+  "model": "glm-5.3"
+}

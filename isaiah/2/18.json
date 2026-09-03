@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Και τα είδωλα εντελώς θα εξαφανιστούν.",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "και τα είδωλα"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "εντελώς"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "θα εξαφανιστούν"
+    }
+  ],
+  "timestamp": "2026-09-03T03:43:22.742611820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Το μάτι μου κυλάει και δεν σταματά, χωρίς διάλειμμα.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Το μάτι μου"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "κυλάει"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "σταματά"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "χωρίς"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "διάλειμμα"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:11.790060663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Ιδού, όμορφος είσαι, αγαπημένε μου, και γλυκός· ναι, η κλίνη μας είναι καταπράσινη.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "Ιδού"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "όμορφος"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "αγαπημένε μου"
+    },
+    {
+      "surface": "אף",
+      "gloss": "και"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "γλυκός"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ναι"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "η κλίνη μας"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "καταπράσινη"
+    }
+  ],
+  "timestamp": "2026-09-03T09:25:07.400387426Z",
+  "model": "glm-5.3"
+}

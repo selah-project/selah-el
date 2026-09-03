@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 28,
+  "translation": "Μόνο άκουσε τώρα αυτόν τον λόγο που εγώ μιλάω στα αυτιά σου και στα αυτιά όλου του λαού:",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Μόνο"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "άκουσε"
+    },
+    {
+      "surface": "נא",
+      "gloss": "τώρα"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "αυτόν τον λόγο"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "αυτόν"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "μιλάω"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "στα αυτιά σου"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "και στα αυτιά"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλου"
+    },
+    {
+      "surface": "העם",
+      "gloss": "του λαού"
+    }
+  ],
+  "timestamp": "2026-09-03T04:56:00.161669604Z",
+  "model": "glm-5.3"
+}

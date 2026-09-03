@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "και ⟨את⟩ την Γκατ και ⟨את⟩ την Μαρεσά και ⟨את⟩ το Ζιφ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "την Γκατ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Γκατ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "την Μαρεσά"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Μαρεσά"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "το Ζιφ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Ζιφ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:55:26.012384635Z",
+  "model": "glm-5.3"
+}

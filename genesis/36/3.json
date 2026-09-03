@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 36,
+  "translation": "και ⟨את⟩ τη Βοσμάτ, κόρη του Ισμαέλ, αδελφή του Νεβαϊότ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "τη Βοσμάτ"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "τη Βοσμάτ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "κόρη"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "του Ισμαέλ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "αδελφή"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "του Νεβαϊότ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:35:26.136629247Z",
+  "model": "glm-5.3"
+}

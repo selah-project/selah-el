@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 36,
+  "translation": "Στον μαέστρο· του δούλου του Γιαχβέ, του Δαβίδ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον μαέστρο"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "του δούλου"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "του Δαβίδ"
+    }
+  ],
+  "timestamp": "2026-09-03T12:39:14.115833467Z",
+  "model": "glm-5.3"
+}

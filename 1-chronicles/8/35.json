@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Και οι γιοι του Μιχά ⟨ήταν⟩ ο Πιτόν και ο Μελέκ και ο Τααρέ και ο Αχαζ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "και οι γιοι"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "του Μιχά"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "ο Πιτόν"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "και ο Μελέκ"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "και ο Τααρέ"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "και ο Αχαζ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:34:13.887222991Z",
+  "model": "glm-5.3"
+}

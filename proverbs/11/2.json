@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Ήρθε αλαζονεία και ήρθε ντροπή· ⟨את⟩ και με τους ταπεινούς σοφία.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "ήρθε"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "αλαζονεία"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "και ήρθε"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ντροπή"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ και με"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "τους ταπεινούς"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "σοφία"
+    }
+  ],
+  "timestamp": "2026-09-03T08:49:14.022196086Z",
+  "model": "glm-5.3"
+}

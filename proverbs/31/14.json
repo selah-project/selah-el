@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 31,
+  "translation": "Ήταν σαν πλοία του εμπόρου· από μακριά φέρνει το ψωμί της.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ήταν"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "σαν πλοία"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "του εμπόρου"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "από μακριά"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "φέρνει"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "το ψωμί της"
+    }
+  ],
+  "timestamp": "2026-09-03T09:01:01.703985793Z",
+  "model": "glm-5.3"
+}

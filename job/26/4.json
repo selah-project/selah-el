@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "el",
+  "chapter": 26,
+  "translation": "⟨את⟩ ποιον ανάγγειλες λόγια; και πνοή ποιου βγήκε από σένα;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ποιον"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ποιον"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "ανάγγειλες"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "λόγια"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "και πνοή"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ποιου"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "βγήκε"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "από σένα"
+    }
+  ],
+  "timestamp": "2026-09-03T09:15:01.222355131Z",
+  "model": "glm-5.3"
+}

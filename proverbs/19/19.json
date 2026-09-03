@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "Σκληρός σε θυμό θα σηκώσει ποινή, γιατί αν τον σώσεις, θα προσθέσεις κι άλλο.",
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "Σκληρός"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "σε θυμό"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "θα σηκώσει"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "ποινή"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "אם",
+      "gloss": "αν"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "τον σώσεις"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "κι άλλο"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "θα προσθέσεις"
+    }
+  ],
+  "timestamp": "2026-09-03T08:54:07.759796144Z",
+  "model": "glm-5.3"
+}

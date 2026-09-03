@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Και δύο ελιές πάνω της, μία από δεξιά της σφαίρας και μία από αριστερά της.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "Και δύο"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "ελιές"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "πάνω της"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "μία"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "από δεξιά"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "της σφαίρας"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "και μία"
+    },
+    {
+      "surface": "על",
+      "gloss": "σε"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "τα αριστερά της"
+    }
+  ],
+  "timestamp": "2026-09-03T07:32:53.915365260Z",
+  "model": "glm-5.3"
+}

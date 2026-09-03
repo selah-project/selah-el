@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 20:2",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 20,
+  "translation": "Και έγινε λόγος του Γιαχβέ προς εμένα, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και έγινε"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "προς εμένα"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T05:32:57.113326874Z",
+  "model": "glm-5.3"
+}

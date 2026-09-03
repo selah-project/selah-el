@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "το να αδικηθεί άνθρωπος στη δίκη του — Αδωνάι δεν το είδε.",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "το να αδικηθεί"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "άνθρωπο"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "στη δίκη του"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Αδωνάι"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "είδε"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:39.355419759Z",
+  "model": "glm-5.3"
+}

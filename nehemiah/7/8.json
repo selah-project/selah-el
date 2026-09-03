@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "γιοι του Παρός, δύο χιλιάδες εκατό εβδομήντα δύο·",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "του Παρός"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "δύο χιλιάδες"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "εκατό"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "και εβδομήντα"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "και δύο"
+    }
+  ],
+  "timestamp": "2026-09-03T10:17:55.192416680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Γιατί ταράχθηκαν τα έθνη και οι λαοί μελετούν κενό;",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "ταράχθηκαν"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "τα έθνη"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "και οι λαοί"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "μελετούν"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "κενό"
+    }
+  ],
+  "timestamp": "2026-09-03T07:42:05.124493545Z",
+  "model": "glm-5.3"
+}

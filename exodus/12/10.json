@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Και δεν θα αφήσετε τίποτα από αυτό μέχρι το πρωί· και ό,τι μείνει από αυτό μέχρι το πρωί στη φωτιά θα το κάψετε.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Και δεν"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "θα αφήσετε"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "από αυτό"
+    },
+    {
+      "surface": "עד",
+      "gloss": "μέχρι"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "πρωί"
+    },
+    {
+      "surface": " vandalism",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-02T23:47:51.046047189Z",
+  "model": "glm-5.3"
+}

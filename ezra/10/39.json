@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "και Σελεμιάχ, και Νατάν, και Αδαγιάχ,",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "και Σελεμιάχ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "και Νατάν"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "και Αδαγιάχ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:08:33.244703112Z",
+  "model": "glm-5.3"
+}

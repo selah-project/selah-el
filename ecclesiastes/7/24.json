@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Μακριό είναι ό,τι υπήρξε, και βαθύ, βαθύ — ποιος μπορεί να το βρει;",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Μακριό"
+    },
+    {
+      "surface": "מה",
+      "gloss": "—"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ό,τι υπήρξε"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "και βαθύ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "βαθύ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ποιος"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "μπορεί να το βρει"
+    }
+  ],
+  "timestamp": "2026-09-03T11:33:35.519955523Z",
+  "model": "glm-5.3"
+}

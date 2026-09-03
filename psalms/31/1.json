@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 31,
+  "translation": "Στον αρχηγό· μίζμορ του Δαβίδ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον αρχηγό"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "μίζμορ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "του Δαβίδ"
+    }
+  ],
+  "timestamp": "2026-09-03T07:52:26.663686932Z",
+  "model": "glm-5.3"
+}

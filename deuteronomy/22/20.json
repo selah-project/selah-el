@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Και αν αλήθεια ήταν αυτός ο λόγος — δεν βρέθηκαν τεκμήρια παρθενίας για την κοπέλα —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Και αν"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "αλήθεια"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ήταν"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ο λόγος"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "αυτός"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "βρέθηκαν"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "τεκμήρια παρθενίας"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "για την κοπέλα"
+    }
+  ],
+  "timestamp": "2026-09-03T00:53:38.296950441Z",
+  "model": "glm-5.3"
+}

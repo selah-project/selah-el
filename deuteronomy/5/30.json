@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Πήγαινε, πες σε αυτούς: Γυρίστε πίσω για εσάς, στις σκηνές σας.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Πήγαινε"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "πες"
+    },
+    {
+      "surface": "להם",
+      "gloss": "σε αυτούς"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Γυρίστε πίσω"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "για εσάς"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "στις σκηνές σας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:44:03.227461185Z",
+  "model": "glm-5.3"
+}

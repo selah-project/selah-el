@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 115,
+  "translation": "Τα είδωλά τους ασήμι και χρυσάρι, έργο χεριών ανθρώπου.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Τα είδωλά τους"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ασήμι"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "και χρυσάρι"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "έργο"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "χεριών"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ανθρώπου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:30:41.132646515Z",
+  "model": "glm-5.3"
+}

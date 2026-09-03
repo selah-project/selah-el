@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 83,
+  "translation": "Καταστράφηκαν στο Ενδορ, έγιναν κοπριά για τη γη.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "Καταστράφηκαν"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "στο"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Ενδορ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "έγιναν"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "κοπριά"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "για τη γη"
+    }
+  ],
+  "timestamp": "2026-09-03T08:17:43.941854836Z",
+  "model": "glm-5.3"
+}

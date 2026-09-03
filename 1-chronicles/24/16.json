@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Στον Πταχιά τον δέκατο ένατο, στον Γιεχεσκέλ τον εικοστό.",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "Στον Πταχιά"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ένατος"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "δέκατος"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "στον Γιεχεσκέλ"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "εικοστό"
+    }
+  ],
+  "timestamp": "2026-09-03T10:44:55.612343951Z",
+  "model": "glm-5.3"
+}

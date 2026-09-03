@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "⟨את⟩ κάθε Ορέβ, κατά το είδος του.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "κάθε Ορέβ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "κάθε"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Ορέβ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "κατά το είδος του"
+    }
+  ],
+  "timestamp": "2026-09-03T00:07:11.012914183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Απορριμμένο ασήμι φώναξαν για εκείνους, γιατί τους απέρριψε ο Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ασήμι"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "Απορριμμένο"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "φώναξαν"
+    },
+    {
+      "surface": "להם",
+      "gloss": "για εκείνους"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "απέρριψε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "τους"
+    }
+  ],
+  "timestamp": "2026-09-03T04:34:05.930576075Z",
+  "model": "glm-5.3"
+}

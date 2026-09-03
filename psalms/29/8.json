@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 29,
+  "translation": "Φωνή του Γιαχβέ σείει την έρημο· σείει ο Γιαχβέ την έρημο του Κάδες.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Φωνή"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "σείει"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "την έρημο"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "σείει"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "την έρημο"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "του Κάδες"
+    }
+  ],
+  "timestamp": "2026-09-03T07:50:45.631094428Z",
+  "model": "glm-5.3"
+}

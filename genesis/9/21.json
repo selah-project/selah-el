@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Και ήπιε από το κρασί και μέθυσσε, και γδύθηκε μέσα στη σκηνή του.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "και ήπιε"
+    },
+    {
+      "surface": "מן",
+      "gloss": "από"
+    },
+    {
+      "surface": "היין",
+      "gloss": "το κρασί"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "και μέθυσσε"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "και γδύθηκε"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "μέσα στη"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "σκηνή του"
+    }
+  ],
+  "timestamp": "2026-09-02T23:21:51.208870484Z",
+  "model": "glm-5.3"
+}

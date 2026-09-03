@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 148,
+  "translation": "τα βουνά και όλες οι λόφοι, δέντρα με φρούτα και όλα τα κέδρα·",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "τα βουνά"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "και όλες"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "οι λόφοι"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "δέντρα"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "με φρούτα"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "και όλα"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "τα κέδρα"
+    }
+  ],
+  "timestamp": "2026-09-03T12:42:30.429423950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Γιατί λέει: Δεν ⟨είναι⟩ οι άρχοντές μου μαζί βασιλιάδες;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "λέει"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "οι άρχοντές μου"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "μαζί"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "βασιλιάδες"
+    }
+  ],
+  "timestamp": "2026-09-03T03:52:17.392456762Z",
+  "model": "glm-5.3"
+}

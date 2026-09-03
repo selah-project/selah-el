@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Όλα αυτά τα δοκίμασα με τη σοφία· είπα: Θα γίνω σοφός, κι εκείνη μακριά από μένα.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Όλα"
+    },
+    {
+      "surface": "זה",
+      "gloss": "αυτά"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "δοκίμασα"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "με τη σοφία"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "είπα"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "Θα γίνω σοφός"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "κι εκείνη"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "μακριά"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "από μένα"
+    }
+  ],
+  "timestamp": "2026-09-03T11:33:35.519690733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 10:12",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Μιχά, Ρεχόβ, Χασαβιά,",
+  "tokens": [
+    {
+      "surface": "מִיכָ֥א",
+      "gloss": "Μιχά"
+    },
+    {
+      "surface": "רְח֖וֹב",
+      "gloss": "Ρεχόβ"
+    },
+    {
+      "surface": "חֲשַׁבְיָֽה",
+      "gloss": "Χασαβιά"
+    }
+  ],
+  "timestamp": "2026-09-03T11:47:24.323063805Z",
+  "model": "glm-5.3"
+}

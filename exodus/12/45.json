@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Μετοίκος και μισθωτός δεν θα φάει από αυτό.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "Μετοίκος"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "και μισθωτός"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "θα φάει"
+    },
+    {
+      "surface": "בו",
+      "gloss": "από αυτό"
+    }
+  ],
+  "timestamp": "2026-09-02T23:48:48.369342376Z",
+  "model": "glm-5.3"
+}

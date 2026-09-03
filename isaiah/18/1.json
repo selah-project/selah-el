@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "Αη, χώρα συριγμού φτερών, που βρίσκεται πέρα από τους ποταμούς του Κους.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Αη"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "χώρα"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "συριγμού"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "φτερών"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "πέρα από"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "τους ποταμούς"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "του Κους"
+    }
+  ],
+  "timestamp": "2026-09-03T03:58:40.112254223Z",
+  "model": "glm-5.3"
+}

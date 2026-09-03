@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "και έσφαξε· και έρρανε ο Μοσέ ⟨את⟩ το αίμα πάνω στο θυσιαστήριο, ολόγυρα.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "και έσφαξε"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "και έρρανε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "το αίμα"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "το αίμα"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "το θυσιαστήριο"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ολόγυρα"
+    }
+  ],
+  "timestamp": "2026-09-03T00:07:56.412658350Z",
+  "model": "glm-5.3"
+}

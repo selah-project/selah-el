@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Σε εσάς, άντρες, φωνάζω, και η φωνή μου προς τους γιους του ανθρώπου",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "Σε εσάς"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "άντρες"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "φωνάζω"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "και η φωνή μου"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "בני",
+      "gloss": "τους γιους"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "του ανθρώπου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:46:52.501556166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 36,
+  "translation": "Και κατοίκησε ο Εσαβ στο βουνό Σεΐρ· ο Εσαβ, αυτός ⟨είναι⟩ ο Εδόμ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Και κατοίκησε"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ο Εσαβ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "στο βουνό"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Σεΐρ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ο Εσαβ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "αυτός"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ο Εδόμ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:35:30.063691243Z",
+  "model": "glm-5.3"
+}

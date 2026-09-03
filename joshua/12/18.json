@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 12:18",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "βασιλιάς του Αφέκ, ένας· βασιλιάς του Σαρών, ένας·",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "βασιλιάς"
+    },
+    {
+      "surface": "אפק",
+      "gloss": "Αφέκ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "βασιλιάς"
+    },
+    {
+      "surface": "לשרון",
+      "gloss": "Σαρών"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    }
+  ],
+  "timestamp": "2026-09-03T01:07:53.186825892Z",
+  "model": "glm-5.3"
+}

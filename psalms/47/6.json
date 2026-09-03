@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 47,
+  "translation": "Ανέβηκε ο Ελοχίμ με σαλπagμό, Γιαχβέ με φωνή κέρατος.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Ανέβηκε"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ο Ελοχίμ"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "με σαλπagμό"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "με φωνή"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "κέρατος"
+    }
+  ],
+  "timestamp": "2026-09-03T11:26:19.100479976Z",
+  "model": "glm-5.3"
+}

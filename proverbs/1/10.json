@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Γιε μου, αν σε δελεάσουν αμαρτωλοί, μην αποδεχτείς.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιε μου"
+    },
+    {
+      "surface": "אם",
+      "gloss": "αν"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "σε δελεάσουν"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "αμαρτωλοί"
+    },
+    {
+      "surface": "אל",
+      "gloss": "μην"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "αποδεχτείς"
+    }
+  ],
+  "timestamp": "2026-09-03T08:41:45.119328916Z",
+  "model": "glm-5.3"
+}

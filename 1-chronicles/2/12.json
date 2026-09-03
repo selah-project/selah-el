@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Και ο Βοάζ γέννησε ⟨את⟩ τον Οβέντ, και ο Οβέντ γέννησε ⟨את⟩ τον Ισάι.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Και ο Βοάζ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "γέννησε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Οβέντ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "τον Οβέντ"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "και ο Οβέντ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "γέννησε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Ισάι"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "τον Ισάι"
+    }
+  ],
+  "timestamp": "2026-09-03T10:25:22.771220299Z",
+  "model": "glm-5.3"
+}

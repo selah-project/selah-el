@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Σκέψεις δικαίων ⟨είναι⟩ κρίση· μηχανεύματα ασεβών ⟨είναι⟩ απάτη.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "σκέψεις"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "δικαίων"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "κρίση"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "μηχανεύματα"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ασεβών"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "απάτη"
+    }
+  ],
+  "timestamp": "2026-09-03T08:48:17.557978697Z",
+  "model": "glm-5.3"
+}

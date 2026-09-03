@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Για τη Ναφταλί· Αχιρά γιος του Εϊνάν.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "Για τη Ναφταλί"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Αχιρά"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "του Εϊνάν"
+    }
+  ],
+  "timestamp": "2026-09-03T00:18:03.132688057Z",
+  "model": "glm-5.3"
+}

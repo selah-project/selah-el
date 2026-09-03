@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Και έγινε η βροχή πάνω στη γη σαράντα μέρες και σαράντα νύχτες.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και έγινε"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "η βροχή"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "στη γη"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "σαράντα"
+    },
+    {
+      "surface": "יום",
+      "gloss": "μέρες"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "και σαράντα"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "νύχτες"
+    }
+  ],
+  "timestamp": "2026-09-02T23:21:26.467001735Z",
+  "model": "glm-5.3"
+}

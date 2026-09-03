@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Σταμάτησε η χαρά της καρδιάς μας· αναποδογύρισε σε πένθος ο χορός μας.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Σταμάτησε"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "η χαρά"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "της καρδιάς μας"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "αναποδογύρισε"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "σε πένθος"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "ο χορός μας"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:09.033994387Z",
+  "model": "glm-5.3"
+}

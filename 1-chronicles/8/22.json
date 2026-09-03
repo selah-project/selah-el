@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "και Ισφάν και Εβέρ και Ελιέλ.",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "και Ισφάν"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "και Εβέρ"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "και Ελιέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:33:06.213880255Z",
+  "model": "glm-5.3"
+}

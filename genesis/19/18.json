@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 19:18",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "Και ο Λοτ τους είπε: Όχι, σε παρακαλώ, Αδωνάι·",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ο Λοτ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "σε αυτούς"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Όχι"
+    },
+    {
+      "surface": "נא",
+      "gloss": "σε παρακαλώ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Αδωνάι"
+    }
+  ],
+  "timestamp": "2026-09-02T23:26:28.558269041Z",
+  "model": "glm-5.3"
+}

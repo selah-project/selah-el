@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Ή αν γυρίσει πίσω η σάρκα η ζωντανή και αλλάξει σε άσπρο, και να έρθει στον κοέν.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "כי",
+      "gloss": "αν"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "γυρίσει πίσω"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "η σάρκα"
+    },
+    {
+      "surface": "החי",
+      "gloss": "η ζωντανή"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "και αλλάξει"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "σε άσπρο"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "και να έρθει"
+    },
+    {
+      "surface": "אל",
+      "gloss": "σε"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "τον κοέν"
+    }
+  ],
+  "timestamp": "2026-09-03T00:09:10.691159620Z",
+  "model": "glm-5.3"
+}

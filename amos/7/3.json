@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Μετανόησε ο Γιαχβέ γι' αυτό· δεν θα γίνει, είπε ο Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "Μετανόησε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "על",
+      "gloss": "γι'"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "θα γίνει"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T07:16:06.970080859Z",
+  "model": "glm-5.3"
+}

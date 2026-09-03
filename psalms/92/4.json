@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 92,
+  "translation": "Με δεκάχορδο και με νάβελ, με χιγκάγιον σε κινόρ.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Με"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "δεκάχορδο"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "και με"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "νάβελ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "με"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "χιγκάγιον"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "σε κινόρ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:20:42.119187032Z",
+  "model": "glm-5.3"
+}

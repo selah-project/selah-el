@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "Και γέννησε η Ζιλπά, η σκλάβα της Λέα, στον Γιαακόβ έναν γιο.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Και γέννησε"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "η Ζιλπά"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "η σκλάβα"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "της Λέα"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "στον Γιαακόβ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "έναν γιο"
+    }
+  ],
+  "timestamp": "2026-09-02T23:30:47.397328916Z",
+  "model": "glm-5.3"
+}

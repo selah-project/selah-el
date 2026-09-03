@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Γιοι του Σεμ: Εϊλάμ και Ασούρ και Αρφακσάδ και Λουντ και Αράμ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "שם",
+      "gloss": "του Σεμ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Εϊλάμ"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "και Ασούρ"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "και Αρφακσάδ"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "και Λουντ"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "και Αράμ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:22:58.180095893Z",
+  "model": "glm-5.3"
+}

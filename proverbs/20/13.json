@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 20,
+  "translation": "Μην αγαπάς τον ύπνο, μην φτωχύνεις· άνοιξε τα μάτια σου, χόρτασε με ψωμί.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Μην"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "αγαπάς"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "τον ύπνο"
+    },
+    {
+      "surface": "פן",
+      "gloss": "μην"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "φτωχύνεις"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "άνοιξε"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "τα μάτια σου"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "χόρτασε"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "με ψωμί"
+    }
+  ],
+  "timestamp": "2026-09-03T08:53:26.950188048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Χαρίφ, Ανατότ, Νοβάι.",
+  "tokens": [
+    {
+      "surface": "חריף",
+      "gloss": "Χαρίφ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Ανατότ"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "Νοβάι"
+    }
+  ],
+  "timestamp": "2026-09-03T10:20:18.021686030Z",
+  "model": "glm-5.3"
+}

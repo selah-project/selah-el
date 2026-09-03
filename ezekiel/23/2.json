@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Γιος ανθρώπου: δύο γυναίκες, κόρες μητέρας μίας, υπήρξαν —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Γιος"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ανθρώπου"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "δύο"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "γυναίκες"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "κόρες"
+    },
+    {
+      "surface": "אם",
+      "gloss": "μητέρας"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "μίας"
+    },
+    {
+      "surface": "היו",
+      "gloss": "υπήρξαν"
+    }
+  ],
+  "timestamp": "2026-09-03T05:37:01.385803422Z",
+  "model": "glm-5.3"
+}

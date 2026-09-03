@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Στην έρημο: Βετ-χα-Αραβά, Μιντίν και Σεχαχά·",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "Στην έρημο"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Βετ"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "χα-Αραβά"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Μιντίν"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "και Σεχαχά"
+    }
+  ],
+  "timestamp": "2026-09-03T01:12:36.159457131Z",
+  "model": "glm-5.3"
+}

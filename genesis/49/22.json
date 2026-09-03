@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 49,
+  "translation": "Γιος καρποφόρος ο Γιοσέφ, γιος καρποφόρος πάνω σε πηγή· κόρες πατούν πάνω σε τοίχο.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "καρποφόρος"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ο Γιοσέφ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "καρποφόρος"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "עין",
+      "gloss": "πηγή"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "κόρες"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "πατούν"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "שור",
+      "gloss": "τοίχο"
+    }
+  ],
+  "timestamp": "2026-09-02T23:42:41.300590015Z",
+  "model": "glm-5.3"
+}

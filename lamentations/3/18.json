@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Και είπα: Χάθηκε η αντοχή μου και η ελπίδα μου από τον Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Και είπα"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "Χάθηκε"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "η αντοχή μου"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "και η ελπίδα μου"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "από τον Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:49.121872273Z",
+  "model": "glm-5.3"
+}

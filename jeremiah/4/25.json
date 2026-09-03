@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Είδα, και ιδού, δεν υπήρχε άνθρωπος, και όλα τα πτηνά των ουρανών έφυγαν.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Είδα"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "και ιδού"
+    },
+    {
+      "surface": "אין",
+      "gloss": "δεν υπήρχε"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "άνθρωπος"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "και όλα"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "τα πτηνά"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "των ουρανών"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "έφυγαν"
+    }
+  ],
+  "timestamp": "2026-09-03T04:34:19.396624060Z",
+  "model": "glm-5.3"
+}

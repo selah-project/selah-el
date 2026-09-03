@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 26,
+  "translation": "Και αν δεν ακούσετε σε εμένα, και δεν κάνετε ⟨את⟩ όλες τις εντολές αυτές,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Και αν"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ακούσετε"
+    },
+    {
+      "surface": "לי",
+      "gloss": "σε εμένα"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "κάνετε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "όλες τις εντολές αυτές"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλες"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "τις εντολές"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "αυτές"
+    }
+  ],
+  "timestamp": "2026-09-03T00:17:33.484904292Z",
+  "model": "glm-5.3"
+}

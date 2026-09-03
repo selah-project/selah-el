@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Και γιος του αδερφού του, του Ελέμ: Τσοφάχ, και Ιμνά, και Σελές, και Αμάλ.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Και γιος"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "του Ελέμ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "του αδερφού του"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "Τσοφάχ"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "και Ιμνά"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "και Σελές"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "και Αμάλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:36.293311735Z",
+  "model": "glm-5.3"
+}

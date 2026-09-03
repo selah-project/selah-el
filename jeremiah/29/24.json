@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 29,
+  "translation": "Και για τον Σεμαγιάχου τον Νεχλαμί θα πεις, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Και για"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "τον Σεμαγιάχου"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "τον Νεχλαμί"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "θα πεις"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T04:55:51.962305910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Τη δωδέκατη ημέρα, ο αρχηγός των γιων του Ναφταλί, Αχιρά γιος του Εινάν.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "την ημέρα"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "δύο"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "δέκα"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ημέρα"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ο αρχηγός"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "των γιων"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "του Ναφταλί"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Αχιρά"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "του Εινάν"
+    }
+  ],
+  "timestamp": "2026-09-03T00:24:43.714060766Z",
+  "model": "glm-5.3"
+}

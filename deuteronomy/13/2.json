@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Όταν αναστηθεί ανάμεσά σου προφήτης ή ονειροπόλος ονείρου, και δώσει σε εσένα σημάδι ή τέρας,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Όταν"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "αναστηθεί"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ανάμεσά σου"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "προφήτης"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "ονειροπόλος"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ονείρου"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "και δώσει"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "σε εσένα"
+    },
+    {
+      "surface": "אות",
+      "gloss": "σημάδι"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "τέρας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:50:05.697871844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Ένα τραγάρι των αιγών, ένα, για χατάτ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "τραγάρι"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "των αιγών"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "για χατάτ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:24:27.986386306Z",
+  "model": "glm-5.3"
+}

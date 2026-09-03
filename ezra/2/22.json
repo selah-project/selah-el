@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Οι άνδρες του Νετοφά, πενήντα έξι.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Οι άνδρες"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "Νετοφά"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "πενήντα"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "έξι"
+    }
+  ],
+  "timestamp": "2026-09-03T10:00:21.289422831Z",
+  "model": "glm-5.3"
+}

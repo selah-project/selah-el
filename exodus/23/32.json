@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Δεν θα κόψεις σε αυτούς και στους θεούς τους συνθήκη.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "θα κόψεις"
+    },
+    {
+      "surface": "להם",
+      "gloss": "σε αυτούς"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "και στους θεούς τους"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "συνθήκη"
+    }
+  ],
+  "timestamp": "2026-09-02T23:53:35.172363996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "βασιλιάς του Ταπούαχ, ένας· βασιλιάς του Χέφερ, ένας·",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "βασιλιάς"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "Ταπούαχ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "βασιλιάς"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Χέφερ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    }
+  ],
+  "timestamp": "2026-09-03T01:07:53.186560753Z",
+  "model": "glm-5.3"
+}

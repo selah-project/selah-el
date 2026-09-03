@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Γιατί τα θεμέλια γκρεμίζονται — ο δίκαιος τι έχει κάνει;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "τα θεμέλια"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "γκρεμίζονται"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ο δίκαιος"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "έχει κάνει"
+    }
+  ],
+  "timestamp": "2026-09-03T07:46:06.064857003Z",
+  "model": "glm-5.3"
+}

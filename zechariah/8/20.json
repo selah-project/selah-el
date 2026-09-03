@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Έτσι είπε Γιαχβέ Τσεβαότ: ακόμα ότι θα έρθουν λαοί και κάτοικοι πόλεων πολλών,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Έτσι"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Τσεβαότ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ακόμα"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ότι"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "θα έρθουν"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "λαοί"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "και κάτοικοι"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "πόλεων"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "πολλών"
+    }
+  ],
+  "timestamp": "2026-09-03T07:35:08.207565089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Σαν κρίνο ανάμεσα στα αγκάθια, έτσι η αγαπημένη μου ανάμεσα στις κόρες.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "Σαν κρίνο"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ανάμεσα"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "στα αγκάθια"
+    },
+    {
+      "surface": "כן",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "η αγαπημένη μου"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ανάμεσα"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "στις κόρες"
+    }
+  ],
+  "timestamp": "2026-09-03T09:25:45.981314570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 31,
+  "translation": "Κι εγώ σε σένα κατέφυγα, Γιαχβέ· είπα: Ελοχίμ μου εσύ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Κι εγώ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "σε σένα"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "κατέφυγα"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "είπα"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ελοχίμ μου"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    }
+  ],
+  "timestamp": "2026-09-03T07:53:23.139928117Z",
+  "model": "glm-5.3"
+}

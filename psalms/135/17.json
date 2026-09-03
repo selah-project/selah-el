@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 135,
+  "translation": "Αυτιά έχουν και δεν ακούγουν· ούτε υπάρχει πνοή στο στόμα τους.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "αυτιά"
+    },
+    {
+      "surface": "להם",
+      "gloss": "έχουν"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "ακούγουν"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ούτε"
+    },
+    {
+      "surface": "אין",
+      "gloss": ""
+    },
+    {
+      "surface": "יש",
+      "gloss": "υπάρχει"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "πνοή"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "στο στόμα τους"
+    }
+  ],
+  "timestamp": "2026-09-03T11:28:25.391312710Z",
+  "model": "glm-5.3"
+}

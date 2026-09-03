@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Πλημμύρισαν νερά πάνω στο κεφάλι μου· είπα: Αποκόφτηκα.",
+  "tokens": [
+    {
+      "surface": "צָֽפוּ",
+      "gloss": "Πλημμύρισαν"
+    },
+    {
+      "surface": "מַ֥יִם",
+      "gloss": "νερά"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "רֹאשִׁ֖י",
+      "gloss": "στο κεφάλι μου"
+    },
+    {
+      "surface": "אָמַ֥רְתִּי",
+      "gloss": "είπα"
+    },
+    {
+      "surface": "נִגְזָֽרְתִּי",
+      "gloss": "Αποκόφτηκα"
+    }
+  ],
+  "timestamp": "2026-09-03T09:33:27.578842811Z",
+  "model": "glm-5.3"
+}

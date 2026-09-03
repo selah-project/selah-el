@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "και γιοι του Ζεράχ: Ζιμρί και Ετάν και Χεϊμάν και Καλκόλ και Δαρά· όλοι τους πέντε.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "και γιοι"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Ζεράχ"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Ζιμρί"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "και Ετάν"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "και Χεϊμάν"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "και Καλκόλ"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "και Δαρά"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "όλοι τους"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "πέντε"
+    }
+  ],
+  "timestamp": "2026-09-03T10:25:28.493298770Z",
+  "model": "glm-5.3"
+}

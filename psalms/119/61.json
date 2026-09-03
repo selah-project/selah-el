@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 119,
+  "translation": "Σχοινιά ασεβών με τύλιξαν· την Τορά σου δεν ξέχασα.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "Σχοινιά"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ασεβών"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "με τύλιξαν"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "την Τορά σου"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ξέχασα"
+    }
+  ],
+  "timestamp": "2026-09-03T08:33:46.585122425Z",
+  "model": "glm-5.3"
+}

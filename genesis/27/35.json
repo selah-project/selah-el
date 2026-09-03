@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 27:35",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 27,
+  "translation": "Και είπε: Ήρθε ο αδελφός σου με δόλο και πήρε την ευλογία σου.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Ήρθε"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ο αδελφός σου"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "με δόλο"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "και πήρε"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "την ευλογία σου"
+    }
+  ],
+  "timestamp": "2026-09-02T23:31:56.527899307Z",
+  "model": "glm-5.3"
+}

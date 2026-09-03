@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 148,
+  "translation": "νέοι και επίσης παρθένες, γέροντες μαζί με νεαρούς",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "νέοι"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "και επίσης"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "παρθένες"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "γέροντες"
+    },
+    {
+      "surface": "עם",
+      "gloss": "μαζί με"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "νεαρούς"
+    }
+  ],
+  "timestamp": "2026-09-03T11:29:42.680984961Z",
+  "model": "glm-5.3"
+}

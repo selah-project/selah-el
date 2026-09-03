@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "«Ποιος είναι αφελής; ας στραφεί εδώ» — και σε όποιον στερείται καρδιάς, του λέει:",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ποιος"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "αφελής"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ας στραφεί"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "εδώ"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "και στερείται"
+    },
+    {
+      "surface": "לב",
+      "gloss": "καρδιάς"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "και του λέει"
+    },
+    {
+      "surface": "לו",
+      "gloss": "του"
+    }
+  ],
+  "timestamp": "2026-09-03T08:46:15.087376451Z",
+  "model": "glm-5.3"
+}

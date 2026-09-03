@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 84,
+  "translation": "Στον μαέστρο, επί τη Γκιτίτ· στους γιους του Κοραχ, ψαλμός.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον μαέστρο"
+    },
+    {
+      "surface": "על",
+      "gloss": "επί"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "τη Γκιτίτ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "στους γιους"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "του Κοραχ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ψαλμός"
+    }
+  ],
+  "timestamp": "2026-09-03T08:19:04.308798716Z",
+  "model": "glm-5.3"
+}

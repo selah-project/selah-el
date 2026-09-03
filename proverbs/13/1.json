@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Γιος σοφός — παιδεία πατέρα· και ο χλευαστής δεν ακούει έλεγχο.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Γιος"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "σοφός"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "παιδεία"
+    },
+    {
+      "surface": "אב",
+      "gloss": "πατέρα"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "και ο χλευαστής"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ακούει"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "έλεγχο"
+    }
+  ],
+  "timestamp": "2026-09-03T08:49:38.930263660Z",
+  "model": "glm-5.3"
+}

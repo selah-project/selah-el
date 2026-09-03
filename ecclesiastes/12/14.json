@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Γιατί ο Ελοχίμ θα φέρει ⟨את⟩ κάθε έργο σε κρίση, πάνω σε κάθε κρυμμένο πράγμα, είτε καλό είτε κακό.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "κάθε έργο"
+    },
+    {
+      "surface": "כל",
+      "gloss": "κάθε"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "έργο"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ο Ελοχίμ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "θα φέρει"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "σε κρίση"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "כל",
+      "gloss": "κάθε"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "κρυμμένο πράγμα"
+    },
+    {
+      "surface": "אם",
+      "gloss": "είτε"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "καλό"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "και είτε"
+    },
+    {
+      "surface": "רע",
+      "gloss": "κακό"
+    }
+  ],
+  "timestamp": "2026-09-03T09:42:17.132621854Z",
+  "model": "glm-5.3"
+}

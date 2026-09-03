@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 7:9",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Γιοι του Σεφατγιά: τριακόσιοι εβδομήντα δύο.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Σεφατγιά"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "τριακόσιοι"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "τριακόσιοι"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "εβδομήντα"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "δύο"
+    }
+  ],
+  "timestamp": "2026-09-03T12:45:32.311091418Z",
+  "model": "glm-5.3"
+}

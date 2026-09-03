@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "Μερίδα σαν μερίδα θα τρώνε, εκτός από τα πουλήματά του πάνω στους πατέρες.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "Μερίδα"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "σαν μερίδα"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "θα τρώνε"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "εκτός από"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "τα πουλήματά του"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "τους πατέρες"
+    }
+  ],
+  "timestamp": "2026-09-03T00:51:12.322417742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 6:37",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Μεραγιόθ, ο γιος του· Αμαργιά, ο γιος του· Αχιτούμπ, ο γιος του.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Μεραγιόθ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Αμαργιά"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Αχιτούμπ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:47.965775856Z",
+  "model": "glm-5.3"
+}

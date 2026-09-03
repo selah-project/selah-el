@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Αυτό ξαναφέρω στην καρδιά μου· γι' αυτό ελπίζω.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Αυτό"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ξαναφέρω"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στην"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "καρδιά μου"
+    },
+    {
+      "surface": "על",
+      "gloss": "γι'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "ελπίζω"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:45.033695419Z",
+  "model": "glm-5.3"
+}

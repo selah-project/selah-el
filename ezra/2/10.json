@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Οι γιοι του Βανί, εξακόσιοι σαράντα δύο.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "בני",
+      "gloss": "του Βανί"
+    },
+    {
+      "surface": "שש",
+      "gloss": "έξι"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εκατοντάδες"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "σαράντα"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "και δύο"
+    }
+  ],
+  "timestamp": "2026-09-03T10:01:55.859224498Z",
+  "model": "glm-5.3"
+}

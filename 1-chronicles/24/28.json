@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Από τον Μαχλί ⟨ήταν⟩ ο Ελεαζάρ, και δεν είχε γιους.",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "Από τον Μαχλί"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ο Ελεαζάρ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "היה",
+      "gloss": "είχε"
+    },
+    {
+      "surface": "לו",
+      "gloss": "αυτός"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "γιους"
+    }
+  ],
+  "timestamp": "2026-09-03T10:45:17.900090838Z",
+  "model": "glm-5.3"
+}

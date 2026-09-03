@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 114,
+  "translation": "Τι σε απασχολεί, η θάλασσα, ότι τρέπεις σε φυγή; ο Ιαρδάν, ότι γυρίζεις πίσω;",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Τι"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σε"
+    },
+    {
+      "surface": "הים",
+      "gloss": "η θάλασσα"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ότι"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "τρέπεις σε φυγή"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ο Ιαρδάν"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "γυρίζεις"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "πίσω"
+    }
+  ],
+  "timestamp": "2026-09-03T08:30:53.884798035Z",
+  "model": "glm-5.3"
+}

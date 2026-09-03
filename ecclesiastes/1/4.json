@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Γενιά πάει και γενιά έρχεται, και η γη στέκεται για πάντα.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Γενιά"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "πάει"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "και γενιά"
+    },
+    {
+      "surface": "בא",
+      "gloss": "έρχεται"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "και η γη"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "για πάντα"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "στέκεται"
+    }
+  ],
+  "timestamp": "2026-09-03T09:37:41.272559905Z",
+  "model": "glm-5.3"
+}

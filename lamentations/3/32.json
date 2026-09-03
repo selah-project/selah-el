@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Γιατί αν και πίκρανε, θα σπλαχνιστεί, κατά το πλήθος του χέσεδ του.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "אם",
+      "gloss": "αν και"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "πίκρανε"
+    },
+    {
+      "surface": "וירחם",
+      "gloss": "θα σπλαχνιστεί"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "κατά το πλήθος"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "του χέσεδ του"
+    }
+  ],
+  "timestamp": "2026-09-03T09:33:12.235711544Z",
+  "model": "glm-5.3"
+}

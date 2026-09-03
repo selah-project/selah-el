@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Τότε είπε ο Σελομό: Ο Γιαχβέ είπε να κατοικεί σε πυκνό σκοτάδι.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Τότε"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ο Σελομό"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "να κατοικεί"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "σε πυκνό σκοτάδι"
+    }
+  ],
+  "timestamp": "2026-09-03T10:53:37.686758627Z",
+  "model": "glm-5.3"
+}

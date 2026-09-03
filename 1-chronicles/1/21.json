@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "και ⟨את⟩ Αντοράμ και ⟨את⟩ Ουζάλ και ⟨את⟩ Δικλά.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Αντοράμ"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Αντοράμ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Ουζάλ"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Ουζάλ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Δικλά"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Δικλά"
+    }
+  ],
+  "timestamp": "2026-09-03T11:36:38.208516144Z",
+  "model": "glm-5.3"
+}

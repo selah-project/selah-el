@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Το δέρμα μας σαν φούρνος κάηκε, εξαιτίας των φλογών της πείνας.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "Το δέρμα μας"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "σαν φούρνος"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "κάηκε"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "εξαιτίας"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "των φλογών"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "της πείνας"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:23.680515583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 27,
+  "translation": "Καταραμένος όποιος κοιμάται με οποιοδήποτε κτήνος· και θα πει όλος ο λαός: Αμήν.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Καταραμένος"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "κοιμάται"
+    },
+    {
+      "surface": "עם",
+      "gloss": "με"
+    },
+    {
+      "surface": "כל",
+      "gloss": "οποιοδήποτε"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "κτήνος"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "και θα πει"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλος"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ο λαός"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Αμήν"
+    }
+  ],
+  "timestamp": "2026-09-03T00:55:19.900561343Z",
+  "model": "glm-5.3"
+}

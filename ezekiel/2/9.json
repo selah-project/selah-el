@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 2:9",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Και είδα, και να, χέρι σταλμένο προς εμένα, και να, σε αυτό κύλινδρος βιβλίου.",
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "Και είδα"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "και να"
+    },
+    {
+      "surface": "יד",
+      "gloss": "χέρι"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "σταλμένο"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "προς εμένα"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "και να"
+    },
+    {
+      "surface": "בו",
+      "gloss": "σε αυτό"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "κύλινδρος"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "βιβλίου"
+    }
+  ],
+  "timestamp": "2026-09-03T05:18:17.837669921Z",
+  "model": "glm-5.3"
+}

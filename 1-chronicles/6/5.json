@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Στον Γκερσόμ: Λιβνί γιος του, Γιαχάτ γιος του, Ζιμά γιος του.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "Στον Γκερσόμ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Λιβνί"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "γιος του"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Γιαχάτ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "γιος του"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Ζιμά"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "γιος του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:00.667938822Z",
+  "model": "glm-5.3"
+}

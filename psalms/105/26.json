@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 105,
+  "translation": "Έστειλε τον Μοσέ, τον δούλο του, τον Αχαρόν που διάλεξε.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Έστειλε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "τον Μοσέ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "τον δούλο του"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "τον Αχαρόν"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "διάλεξε"
+    },
+    {
+      "surface": "בו",
+      "gloss": "σε αυτόν"
+    }
+  ],
+  "timestamp": "2026-09-03T08:26:49.960037405Z",
+  "model": "glm-5.3"
+}

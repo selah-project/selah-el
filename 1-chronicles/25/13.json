@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 25:13",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 25,
+  "translation": "Ο έκτος στον Βουκιαχού, οι γιοι του και οι αδελφοί του — δώδεκα.",
+  "tokens": [
+    {
+      "surface": "הששי",
+      "gloss": "Ο έκτος"
+    },
+    {
+      "surface": "בקיהו",
+      "gloss": "στον Βουκιαχού"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "οι γιοι του"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "και οι αδελφοί του"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "δώδεκα"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "δώδεκα"
+    }
+  ],
+  "timestamp": "2026-09-03T10:45:29.153533448Z",
+  "model": "glm-5.3"
+}

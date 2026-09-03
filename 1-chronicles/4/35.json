@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "και Γιοέλ και Γιεχού γιος του Γιοσιβιάχ γιος του Σεραιάχ γιος του Ασιέλ.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "και Γιοέλ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "και Γιεχού"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "του Γιοσιβιάχ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "του Σεραιάχ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "του Ασιέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:28:27.629780501Z",
+  "model": "glm-5.3"
+}

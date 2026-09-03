@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 81,
+  "translation": "Άκουσε, λαέ μου, και θα μαρτυρήσω σε σένα· Ισραέλ, αν ακούσεις σε μένα —",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Άκουσε"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "λαέ μου"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "και θα μαρτυρήσω"
+    },
+    {
+      "surface": "בך",
+      "gloss": "σε σένα"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ισραέλ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "αν"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ακούσεις"
+    },
+    {
+      "surface": "לי",
+      "gloss": "σε μένα"
+    }
+  ],
+  "timestamp": "2026-09-03T08:15:49.624813820Z",
+  "model": "glm-5.3"
+}

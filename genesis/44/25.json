@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 44,
+  "translation": "Και είπε ο πατέρας μας: Γυρίστε πίσω, αγοράστε μας λίγο φαγητό.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ο πατέρας μας"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Γυρίστε πίσω"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "αγοράστε"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "μας"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "λίγο"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "φαγητό"
+    }
+  ],
+  "timestamp": "2026-09-02T23:40:47.852179483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 26:7",
+  "book": "job",
+  "lang": "el",
+  "chapter": 26,
+  "translation": "Απλώνει τον βορρά πάνω στο χάος· κρεμά τη γη πάνω σε τίποτα.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "απλώνει"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "τον βορρά"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "το χάος"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "κρεμά"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "τη γη"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "χωρίς"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τίποτα"
+    }
+  ],
+  "timestamp": "2026-09-03T09:15:09.034170229Z",
+  "model": "glm-5.3"
+}

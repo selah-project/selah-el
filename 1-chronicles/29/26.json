@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 29,
+  "translation": "Και ο Δαβίδ, γιος του Ισάι, βασίλεψε πάνω σε όλο τον Ισραέλ.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Και ο Δαβίδ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "του Ισάι"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "βασίλεψε"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλο"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "τον Ισραέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:50:05.867874515Z",
+  "model": "glm-5.3"
+}

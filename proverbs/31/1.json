@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 31,
+  "translation": "Λόγια του Λεμουέλ, βασιλιά· βάρος που τον δίδαξε η μητέρα του.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Λόγια"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "του Λεμουέλ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "βασιλιά"
+    },
+    {
+      "surface": "משא",
+      "gloss": "βάρος"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "τον δίδαξε"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "η μητέρα του"
+    }
+  ],
+  "timestamp": "2026-09-03T09:01:14.231826631Z",
+  "model": "glm-5.3"
+}

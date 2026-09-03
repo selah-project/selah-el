@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Στους Γερσωνίτες: ο Λαδάν και ο Σιμεΐ.",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "Στους Γερσωνίτες"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ο Λαδάν"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "και ο Σιμεΐ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:44:48.317988633Z",
+  "model": "glm-5.3"
+}

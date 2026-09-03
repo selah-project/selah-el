@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Και πέθανε ο Γιαΐρ και θάφτηκε στο Καμών.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Και πέθανε"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ο Γιαΐρ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "και θάφτηκε"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "στο Καμών"
+    }
+  ],
+  "timestamp": "2026-09-03T01:28:27.471218383Z",
+  "model": "glm-5.3"
+}

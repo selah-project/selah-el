@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Και είπα σε εσάς τότε τον καιρό εκείνο λέγοντας: δεν μπορώ μόνος μου να σηκώσω ⟨את⟩ εσάς·",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Και είπα"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "σε εσάς"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "τότε τον καιρό"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "εκείνο"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "μπορώ"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "μόνος μου"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "να σηκώσω"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ εσάς",
+      "marks": "εσάς"
+    }
+  ],
+  "timestamp": "2026-09-03T00:41:26.014528009Z",
+  "model": "glm-5.3"
+}

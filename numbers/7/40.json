@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Ένας τράγος από τις αίγες, για αμαρτία.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "Ένας τράγος"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "από τις αίγες"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "για αμαρτία"
+    }
+  ],
+  "timestamp": "2026-09-03T00:22:10.857246571Z",
+  "model": "glm-5.3"
+}

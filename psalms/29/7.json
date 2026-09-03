@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 29,
+  "translation": "Φωνή του Γιαχβέ κομματιάζει φλόγες φωτιάς.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Φωνή"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "κομματιάζει"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "φλόγες"
+    },
+    {
+      "surface": "אש",
+      "gloss": "φωτιάς"
+    }
+  ],
+  "timestamp": "2026-09-03T12:39:50.592422227Z",
+  "model": "glm-5.3"
+}

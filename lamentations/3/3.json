@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Μόνο εναντίον μου γύρισε πίσω· γυρίζει το χέρι του όλη την ημέρα.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Μόνο"
+    },
+    {
+      "surface": "בי",
+      "gloss": "εναντίον μου"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "γύρισε πίσω"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "γυρίζει"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "το χέρι του"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλη"
+    },
+    {
+      "surface": "היום",
+      "gloss": "την ημέρα"
+    }
+  ],
+  "timestamp": "2026-09-03T09:33:30.057233929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Καλό το λίγο με φόβο Γιαχβέ, από θησαυρός πολύς και ταραχή σε αυτόν.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Καλό"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "το λίγο"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "με φόβο"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "από θησαυρό"
+    },
+    {
+      "surface": "רב",
+      "gloss": "πολύ"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "και ταραχή"
+    },
+    {
+      "surface": "בו",
+      "gloss": "σε αυτόν"
+    }
+  ],
+  "timestamp": "2026-09-03T08:50:28.401149650Z",
+  "model": "glm-5.3"
+}

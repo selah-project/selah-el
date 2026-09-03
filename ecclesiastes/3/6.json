@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Καιρός να ψάχνεις και καιρός να χάνεις· καιρός να φυλάς και καιρός να πετάς μακριά.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Καιρός"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "να ψάχνεις"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "και καιρός"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "να χάνεις"
+    },
+    {
+      "surface": "עת",
+      "gloss": "καιρός"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "να φυλάς"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "και καιρός"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "να πετάς μακριά"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:49.304666643Z",
+  "model": "glm-5.3"
+}

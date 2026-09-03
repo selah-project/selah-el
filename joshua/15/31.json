@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 15:31",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "και Τσικλάγκ και Μαδμάνα και Σανσάνα,",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "και Τσικλάγκ"
+    },
+    {
+      "surface": "ומדמנה",
+      "gloss": "και Μαδμάνα"
+    },
+    {
+      "surface": "וסנסנה",
+      "gloss": "και Σανσάνα"
+    }
+  ],
+  "timestamp": "2026-09-03T01:11:30.930608645Z",
+  "model": "glm-5.3"
+}

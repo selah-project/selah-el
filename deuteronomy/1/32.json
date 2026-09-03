@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Και σε αυτόν τον λόγο δεν είστε πιστοί στον Γιαχβέ Ελοχίμ σας.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "Και στο λόγο"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "αυτόν"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "δεν είστε"
+    },
+    {
+      "surface": "מאמינים",
+      "gloss": "πιστοί"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "στον Γιαχβέ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Ελοχίμ σας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:42:45.043180907Z",
+  "model": "glm-5.3"
+}

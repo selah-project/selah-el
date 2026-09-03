@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Μααζιά, Βιλγάι, Σεμαϊά· αυτές ⟨είναι⟩ οι κοέν.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "Μααζιά"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "Βιλγάι"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Σεμαϊά"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "αυτές"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "οι κοέν"
+    }
+  ],
+  "timestamp": "2026-09-03T11:34:50.401194799Z",
+  "model": "glm-5.3"
+}

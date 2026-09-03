@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Όπως έκανε την ημέρα αυτή, διέταξε ο Γιαχβέ να γίνει, για εξιλέωση πάνω σας.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Όπως"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "έκανε"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "την ημέρα"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "αυτή"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "διέταξε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "να γίνει"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "για εξιλέωση"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "πάνω σας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:07:09.490473356Z",
+  "model": "glm-5.3"
+}

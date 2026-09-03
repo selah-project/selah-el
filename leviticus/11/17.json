@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "και ⟨את⟩ τον κοσ και ⟨את⟩ τον σαλάχ και ⟨את⟩ τον γιανσούφ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "τον κοσ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "τον κοσ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "τον σαλάχ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "τον σαλάχ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "τον γιανσούφ"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "τον γιανσούφ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:07:56.201154288Z",
+  "model": "glm-5.3"
+}

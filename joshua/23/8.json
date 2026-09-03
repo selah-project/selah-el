@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 23:8",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "αλλά στον Γιαχβέ τον Ελοχίμ σας θα κολληθείτε, όπως κάνατε ως τη μέρα αυτή.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "αλλά"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "στον Γιαχβέ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "τον Ελοχίμ σας"
+    },
+    {
+      "surface": "תדבקו",
+      "gloss": "θα κολληθείτε"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "όπως"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "κάνατε"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ως"
+    },
+    {
+      "surface": "היום",
+      "gloss": "τη μέρα"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "αυτή"
+    }
+  ],
+  "timestamp": "2026-09-03T01:18:49.631049213Z",
+  "model": "glm-5.3"
+}

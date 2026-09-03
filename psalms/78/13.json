@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 78,
+  "translation": "Έσχισε τη θάλασσα και τους πέρασε· έστησε νερά σαν σωρό.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "έσχισε"
+    },
+    {
+      "surface": "ים",
+      "gloss": "τη θάλασσα"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "και τους πέρασε"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "έστησε"
+    },
+    {
+      "surface": "מים",
+      "gloss": "νερά"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "σαν"
+    },
+    {
+      "surface": "נד",
+      "gloss": "σωρό"
+    }
+  ],
+  "timestamp": "2026-09-03T08:14:10.859597377Z",
+  "model": "glm-5.3"
+}

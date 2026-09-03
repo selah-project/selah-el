@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Καλό το τέλος του λόγου από την αρχή του· καλό μακρόθυμο πνεύμα από υπερήφανο πνεύμα.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Καλό"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "το τέλος"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "του λόγου"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "από την αρχή του"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "καλό"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "μακρόθυμο"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "πνεύμα"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "από υπερήφανο"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "πνεύμα"
+    }
+  ],
+  "timestamp": "2026-09-03T09:39:40.498210004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 39,
+  "translation": "Και τώρα, τι περίμενα; Αδωνάι, η ελπίδα μου είσαι εσύ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Και τώρα"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "περίμενα"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Αδωνάι"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "η ελπίδα μου"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σε εσένα"
+    },
+    {
+      "surface": "היא",
+      "gloss": "αυτή"
+    }
+  ],
+  "timestamp": "2026-09-03T11:26:53.169804210Z",
+  "model": "glm-5.3"
+}

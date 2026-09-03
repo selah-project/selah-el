@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Και έτριψε σε χαλίκια τα δόντια μου, με πατώντας κάτω με στη στάχτη.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "Και έτριψε"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "σε χαλίκια"
+    },
+    {
+      "surface": "שני",
+      "gloss": "τα δόντια μου"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "με πατώντας κάτω"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "στη στάχτη"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:50.145037494Z",
+  "model": "glm-5.3"
+}

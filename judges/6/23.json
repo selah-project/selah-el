@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και του είπε ο Γιαχβέ: Σαλόμ σε εσένα· μη φοβάσαι, δεν θα πεθάνεις.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "לו",
+      "gloss": "του"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Σαλόμ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σε εσένα"
+    },
+    {
+      "surface": "אל",
+      "gloss": "μη"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "φοβάσαι"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "θα πεθάνεις"
+    }
+  ],
+  "timestamp": "2026-09-03T01:23:39.140935579Z",
+  "model": "glm-5.3"
+}

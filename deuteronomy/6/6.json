@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και θα είναι οι λόγοι αυτοί, που εγώ σε εντέλλομαι σήμερα, πάνω στην καρδιά σου.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "Και θα είναι"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "οι λόγοι"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "αυτοί"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "σε εντέλλομαι"
+    },
+    {
+      "surface": "היום",
+      "gloss": "σήμερα"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "στην καρδιά σου"
+    }
+  ],
+  "timestamp": "2026-09-03T06:45:12.916504301Z",
+  "model": "glm-5.3"
+}

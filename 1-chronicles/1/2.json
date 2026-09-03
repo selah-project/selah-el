@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 1:2",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Καινάν, Μαχαλαλέλ, Ιερέδ,",
+  "tokens": [
+    {
+      "surface": "קינן",
+      "gloss": "Καινάν"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Μαχαλαλέλ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Ιερέδ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:24:10.463978703Z",
+  "model": "glm-5.3"
+}

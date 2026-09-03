@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και έγινε την ημέρα που μίλησε ο Γιαχβέ στον Μοσέ, στη γη του Μιτσράιμ,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και έγινε"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "την ημέρα"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "μίλησε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Μοσέ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "στη γη"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "του Μιτσράιμ"
+    }
+  ],
+  "timestamp": "2026-09-03T12:00:07.500608002Z",
+  "model": "glm-5.3"
+}

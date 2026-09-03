@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "και ⟨את⟩ Αδοράμ και ⟨את⟩ Ουζάλ και ⟨את⟩ Ντικλά.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Αδοράμ"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Αδοράμ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Ουζάλ"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Ουζάλ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Ντικλά"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Ντικλά"
+    }
+  ],
+  "timestamp": "2026-09-03T06:39:51.274877028Z",
+  "model": "glm-5.3"
+}

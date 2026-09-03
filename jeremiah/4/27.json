@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 4:27",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Γιατί έτσι είπε Γιαχβέ: ερήμωση θα γίνει όλη η γη, αλλά τελειωμό δεν θα κάνω.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "כה",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ερήμωση"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "θα γίνει"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "η γη"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "αλλά τελειωμό"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "θα κάνω"
+    }
+  ],
+  "timestamp": "2026-09-03T12:25:16.332509929Z",
+  "model": "glm-5.3"
+}

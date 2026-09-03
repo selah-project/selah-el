@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 20:29",
+  "book": "judges",
+  "lang": "el",
+  "chapter": 20,
+  "translation": "Και έστησε ο Ισραέλ ενέδρες κατά της Γιβεά, κυκλικά.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "και έστησε"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ο Ισραέλ"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "ενέδρες"
+    },
+    {
+      "surface": "אל",
+      "gloss": "κατά"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "της Γιβεά"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "κυκλικά"
+    }
+  ],
+  "timestamp": "2026-09-03T01:40:11.155654973Z",
+  "model": "glm-5.3"
+}

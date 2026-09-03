@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 119,
+  "translation": "Πόσο αγαπώ την Τορά σου! Όλη την ημέρα αυτή είναι η μελέτη μου.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Πόσο"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "αγαπώ"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "την Τορά σου"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Όλη"
+    },
+    {
+      "surface": "היום",
+      "gloss": "την ημέρα"
+    },
+    {
+      "surface": "היא",
+      "gloss": "αυτή"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "η μελέτη μου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:33:43.803989100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Γιρμεγιαχού ο δέκατος, Μαχβανάι εντεκα-ενδέκατος.",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "Γιρμεγιαχού"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ο δέκατος"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "Μαχβανάι"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "εντεκα-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ενδέκατος"
+    }
+  ],
+  "timestamp": "2026-09-03T10:38:52.737678503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "Γιβεόν και τη Ραμά και Βεερώτ.",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "Γιβεόν"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "και τη Ραμά"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "και Βεερώτ"
+    }
+  ],
+  "timestamp": "2026-09-03T01:13:24.488462349Z",
+  "model": "glm-5.3"
+}

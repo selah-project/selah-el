@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και επένδυσε ⟨את⟩ τα κερουβίμ με χρυσάφι.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Και επένδυσε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τα κερουβίμ"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "τα κερουβίμ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "με χρυσάφι"
+    }
+  ],
+  "timestamp": "2026-09-03T02:47:07.438858061Z",
+  "model": "glm-5.3"
+}

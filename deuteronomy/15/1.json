@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 15:1",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Στο τέλος επτά χρόνων θα κάνεις Σαμίτα (διαγραφή χρέους).",
+  "tokens": [
+    {
+      "surface": "מקץ",
+      "gloss": "Στο τέλος"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "επτά"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "χρόνων"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "θα κάνεις"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "Σαμίτα (διαγραφή χρέους)"
+    }
+  ],
+  "timestamp": "2026-09-03T00:50:13.891618293Z",
+  "model": "glm-5.3"
+}

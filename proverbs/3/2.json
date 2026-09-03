@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Γιατί μήκος ημερών και χρόνια ζωής και ειρήνη θα προσθέσουν σε εσένα.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "μήκος"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ημερών"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "και χρόνια"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ζωής"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "και ειρήνη"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "θα προσθέσουν"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σε εσένα"
+    }
+  ],
+  "timestamp": "2026-09-03T08:43:42.537243788Z",
+  "model": "glm-5.3"
+}

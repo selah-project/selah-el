@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 49,
+  "translation": "Σιμεών και Λεβί, αδέλφια· σκεύη βίας ⟨είναι⟩ τα μαχαίρια τους.",
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "Σιμεών"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "και Λεβί"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "αδέλφια"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "σκεύη"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "βίας"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "τα μαχαίρια τους"
+    }
+  ],
+  "timestamp": "2026-09-02T23:43:06.930420079Z",
+  "model": "glm-5.3"
+}

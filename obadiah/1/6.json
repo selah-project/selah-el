@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "obadiah 1:6",
+  "book": "obadiah",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Πώς εξετάστηκε ο Εσαύ, ξεχειλίσαν τα κρυμμένα του!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Πώς"
+    },
+    {
+      "surface": "נחפשו",
+      "gloss": "εξετάστηκε"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ο Εσαύ"
+    },
+    {
+      "surface": "נבעו",
+      "gloss": "ξεχείλισαν"
+    },
+    {
+      "surface": "מצפניו",
+      "gloss": "τα κρυμμένα του"
+    }
+  ],
+  "timestamp": "2026-09-03T07:17:34.080986455Z",
+  "model": "glm-5.3"
+}

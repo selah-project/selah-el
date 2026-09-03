@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 33:33",
+  "book": "job",
+  "lang": "el",
+  "chapter": 33,
+  "translation": "Αν όχι, εσύ άκουσέ με· σώπα, και θα σε διδάξω σοφία.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Αν"
+    },
+    {
+      "surface": "אין",
+      "gloss": "όχι"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "άκουσέ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "με"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "σώπα"
+    },
+    {
+      "surface": "ואאלפך",
+      "gloss": "και θα σε διδάξω"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "σοφία"
+    }
+  ],
+  "timestamp": "2026-09-03T09:18:25.619540589Z",
+  "model": "glm-5.3"
+}

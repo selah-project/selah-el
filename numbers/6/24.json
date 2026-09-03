@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Ας σε ευλογεί ο Γιαχβέ και ας σε φυλάει.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "Ας σε ευλογεί"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "και ας σε φυλάει"
+    }
+  ],
+  "timestamp": "2026-09-03T00:21:58.247636743Z",
+  "model": "glm-5.3"
+}

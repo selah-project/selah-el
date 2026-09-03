@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Άνοιξαν πλατιά εναντίον μας το στόμα τους όλοι οι εχθροί μας.",
+  "tokens": [
+    {
+      "surface": "פָּצוּ",
+      "gloss": "άνοιξαν πλατιά"
+    },
+    {
+      "surface": "עָלֵינוּ",
+      "gloss": "εναντίον μας"
+    },
+    {
+      "surface": "פִּיהֶם",
+      "gloss": "το στόμα τους"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "όλοι"
+    },
+    {
+      "surface": "אֹיְבֵינוּ",
+      "gloss": "οι εχθροί μας"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:38.328113357Z",
+  "model": "glm-5.3"
+}

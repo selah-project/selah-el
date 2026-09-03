@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 38:1",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 38,
+  "translation": "Και έγινε λόγος του Γιαχβέ σε μένα, να πει:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και έγινε"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "σε μένα"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "να πει"
+    }
+  ],
+  "timestamp": "2026-09-03T12:34:14.761792626Z",
+  "model": "glm-5.3"
+}

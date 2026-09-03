@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 7:45",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "έναν ταύρο, γιο βοδιού, έναν κριό, ένα αρνί, γιο ενός χρόνου, για ολοκαύτωμα.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "έναν ταύρο"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "έναν"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιο"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "βοδιού"
+    },
+    {
+      "surface": "איל",
+      "gloss": "έναν κριό"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "έναν"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ένα αρνί"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιο"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ενός χρόνου"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "για ολοκαύτωμα"
+    }
+  ],
+  "timestamp": "2026-09-03T00:23:39.266469992Z",
+  "model": "glm-5.3"
+}

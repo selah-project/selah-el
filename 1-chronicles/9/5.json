@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "και από τους Σιλωνίτες: Ασαγιά ο πρωτότοκος και οι γιοι του.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "και από"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "τους Σιλωνίτες"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Ασαγιά"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ο πρωτότοκος"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "και οι γιοι του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:35:02.740502264Z",
+  "model": "glm-5.3"
+}

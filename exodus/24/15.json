@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Και ανέβηκε ο Μοσέ στο βουνό, και κάλυψε η νεφέλη ⟨את⟩ το βουνό.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Και ανέβηκε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στο"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "βουνό"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "και κάλυψε"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "η νεφέλη"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "το βουνό"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "το βουνό"
+    }
+  ],
+  "timestamp": "2026-09-02T23:52:50.728121012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 43,
+  "translation": "Και η πείνα βάρυνε στη γη.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "Και η πείνα"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "βάρυνε"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "στη γη"
+    }
+  ],
+  "timestamp": "2026-09-02T23:40:08.556429654Z",
+  "model": "glm-5.3"
+}

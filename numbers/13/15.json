@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Για τη φυλή του Γκαντ, Γκεουέλ γιος του Μακί.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "Για τη φυλή"
+    },
+    {
+      "surface": "גד",
+      "gloss": "του Γκαντ"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "Γκεουέλ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "του Μακί"
+    }
+  ],
+  "timestamp": "2026-09-03T00:26:26.819693115Z",
+  "model": "glm-5.3"
+}

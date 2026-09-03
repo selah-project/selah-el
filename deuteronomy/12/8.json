@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Δεν θα κάνετε όπως όλα όσα εμείς κάνουμε εδώ σήμερα, καθένας ό,τι είναι σωστό στα μάτια του.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "θα κάνετε"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "όπως όλα"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "όσα"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "εμείς"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "κάνουμε"
+    },
+    {
+      "surface": "פה",
+      "gloss": "εδώ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "σήμερα"
+    },
+    {
+      "surface": "איש",
+      "gloss": "καθένας"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ό,τι"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "είναι σωστό"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "στα μάτια του"
+    }
+  ],
+  "timestamp": "2026-09-03T00:48:42.639435907Z",
+  "model": "glm-5.3"
+}

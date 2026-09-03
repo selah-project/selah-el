@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Χαλχούλ, Βεθ-Τσουρ και Γεδώρ.",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "Χαλχούλ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Βεθ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Τσουρ"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "και Γεδώρ"
+    }
+  ],
+  "timestamp": "2026-09-03T06:45:20.645621290Z",
+  "model": "glm-5.3"
+}

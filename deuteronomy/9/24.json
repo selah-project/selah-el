@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Απειθείς ήσασταν με τον Γιαχβέ από την ημέρα που έγνωρα ⟨את⟩ εσάς.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "Απειθείς"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ήσασταν"
+    },
+    {
+      "surface": "עם",
+      "gloss": "με"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "τον Γιαχβέ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "από την ημέρα"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "που έγνωρα"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ εσάς"
+    }
+  ],
+  "timestamp": "2026-09-03T00:46:32.888191241Z",
+  "model": "glm-5.3"
+}

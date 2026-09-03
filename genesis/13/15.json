@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Γιατί ⟨את⟩ όλη τη γη που εσύ βλέπης, σένα θα τη δώσω, και στο σπέρμα σου, για πάντα.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "όλη τη γη"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "τη γη"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "βλέπης"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σένα"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "θα τη δώσω"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "και στο σπέρμα σου"
+    },
+    {
+      "surface": "עד",
+      "gloss": "για"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "πάντα"
+    }
+  ],
+  "timestamp": "2026-09-02T23:23:26.844699515Z",
+  "model": "glm-5.3"
+}

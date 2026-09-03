@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 7:56",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "ένα χρυσό κύπελλο δέκα σέκελ, γεμάτο λιβάνι.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "κύπελλο"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "δέκα"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "χρυσό"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "γεμάτο"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "λιβάνι"
+    }
+  ],
+  "timestamp": "2026-09-03T00:23:13.862566821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 33,
+  "translation": "Γιατί αυτός είπε και έγινε· αυτός διέταξε και στάθηκε.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "αυτός"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "και έγινε"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "αυτός"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "διέταξε"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "και στάθηκε"
+    }
+  ],
+  "timestamp": "2026-09-03T07:52:46.036553320Z",
+  "model": "glm-5.3"
+}

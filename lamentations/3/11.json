@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Τους δρόμους μου απόκλισε και με ξεκομμάτιασε, με έκανε ερείπιο.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "Τους δρόμους μου"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "απόκλισε"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "και με ξεκομμάτιασε"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "με έκανε"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ερείπιο"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:28.522392363Z",
+  "model": "glm-5.3"
+}

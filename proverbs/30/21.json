@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "Για τρία τρέμει η γη, και για τέσσερα δεν μπορεί να σηκώσει:",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Για"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "τρία"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "τρέμει"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "η γη"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "και για"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "τέσσερα"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "μπορεί"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "να σηκώσει"
+    }
+  ],
+  "timestamp": "2026-09-03T09:00:32.428215328Z",
+  "model": "glm-5.3"
+}

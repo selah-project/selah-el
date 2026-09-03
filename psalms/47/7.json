@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 47,
+  "translation": "Ψάλτε τον Ελοχίμ, ψάλτε· ψάλτε στον βασιλιά μας, ψάλτε.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Ψάλτε"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "τον Ελοχίμ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ψάλτε"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ψάλτε"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "στον βασιλιά μας"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ψάλτε"
+    }
+  ],
+  "timestamp": "2026-09-03T11:26:21.594927474Z",
+  "model": "glm-5.3"
+}

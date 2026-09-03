@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "και τον Αβισούα, και τον Νααμάν, και τον Αχοάχ.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "και τον Αβισούα"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "και τον Νααμάν"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "και τον Αχοάχ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:32:57.484453207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "και Γεδώρ, και Αχιώ, και Ζαχέρ.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "και Γεδώρ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "και Αχιώ"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "και Ζαχέρ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:33:24.701120850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Και απάντησε σ’ εμένα λέγοντας: Δεν ξέρεις τι είναι αυτά; Κι εγώ είπα: Όχι, κύριέ μου.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "απάντησε"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "σ’ εμένα"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "μη"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ξέρεις"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "αυτά"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "κι είπα"
+    },
+    {
+      "surface": "לא",
+      "gloss": "όχι"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "κύριέ μου"
+    }
+  ],
+  "timestamp": "2026-09-03T07:30:14.473507245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 31,
+  "translation": "και γαϊδούρια τριάντα χιλιάδες και πεντακόσια·",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "και γαϊδούρια"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "τριάντα"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "χιλιάδες"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "και πεντακόσια"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-03T00:37:23.111227451Z",
+  "model": "glm-5.3"
+}

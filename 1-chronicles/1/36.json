@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Γιοι του Ελιφάζ: Τεμάν, Ομάρ, Τσεφί, Γαατάμ, Κενάζ, Τιμνά και Αμαλέκ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "του Ελιφάζ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Τεμάν"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "και Ομάρ"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "Τσεφί"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "και Γαατάμ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Κενάζ"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "και Τιμνά"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "και Αμαλέκ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:24:55.278330316Z",
+  "model": "glm-5.3"
+}

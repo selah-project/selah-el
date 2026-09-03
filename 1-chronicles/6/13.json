@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και οι γιοι του Σεμουέλ: ο πρωτότοκος Βασνί και Αβιά.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και οι γιοι"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "του Σεμουέλ"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "ο πρωτότοκος"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "Βασνί"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "και Αβιά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:05.110608971Z",
+  "model": "glm-5.3"
+}

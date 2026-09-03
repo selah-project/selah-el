@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 16,
+  "translation": "Να τρέμει από μπροστά του όλη η γη· ναι, στάθηκε η οικουμένη, δεν θα σαλευτεί.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "Να τρέμει"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "από μπροστά του"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "η γη"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ναι"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "στάθηκε"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "η οικουμένη"
+    },
+    {
+      "surface": "בל",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "θα σαλευτεί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:40:54.239668008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "ο βασιλιάς του Μακεντά, ένας· ο βασιλιάς του Βετ-Ελ, ένας·",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ο βασιλιάς"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "του Μακεντά"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ο βασιλιάς"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Βετ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ελ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    }
+  ],
+  "timestamp": "2026-09-03T01:07:55.285998218Z",
+  "model": "glm-5.3"
+}

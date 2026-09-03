@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Έκανα για μένα λακκούβες νερού, για να ποτίζω από αυτές δάσος που φυτρώνει δέντρα.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Έκανα"
+    },
+    {
+      "surface": "לי",
+      "gloss": "για μένα"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "λακκούβες"
+    },
+    {
+      "surface": "מים",
+      "gloss": "νερού"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "για να ποτίζω"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "από αυτές"
+    },
+    {
+      "surface": "יער",
+      "gloss": "δάσος"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "που φυτρώνει"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "δέντρα"
+    }
+  ],
+  "timestamp": "2026-09-03T09:37:46.711225602Z",
+  "model": "glm-5.3"
+}

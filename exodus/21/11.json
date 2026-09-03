@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Και αν αυτά τα τρία δεν της κάνει, θα βγει δωρεάν, χωρίς ασήμι.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Και αν"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "τρία"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "αυτά"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "κάνει"
+    },
+    {
+      "surface": "לה",
+      "gloss": "της"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "θα βγει"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "δωρεάν"
+    },
+    {
+      "surface": "אין",
+      "gloss": "χωρίς"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ασήμι"
+    }
+  ],
+  "timestamp": "2026-09-02T23:52:29.579074722Z",
+  "model": "glm-5.3"
+}

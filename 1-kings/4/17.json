@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Ο Γιοσαφάτ, γιος του Παρού, ⟨ἦταν⟩ στη Γισασχάρ·",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "Γιοσαφάτ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "του Παρού"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "στη Γισασχάρ"
+    }
+  ],
+  "timestamp": "2026-09-03T02:46:02.082678751Z",
+  "model": "glm-5.3"
+}

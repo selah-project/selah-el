@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Άνοιξε, Λεβανόν, τις πόρτες σου, και θα φάει φωτιά στα κέδρα σου.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Άνοιξε"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Λεβανόν"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "τις πόρτες σου"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "και θα φάει"
+    },
+    {
+      "surface": "אש",
+      "gloss": "φωτιά"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "στα κέδρα σου"
+    }
+  ],
+  "timestamp": "2026-09-03T07:36:52.047450394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 34:12",
+  "book": "job",
+  "lang": "el",
+  "chapter": 34,
+  "translation": "Ναι, αλήθεια, ο Ελ δεν αδικεί, και ο Σαδδάι δεν στρεβλώνει κρίση.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ναι"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "αλήθεια"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ο Ελ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "αδικεί"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "και ο Σαδδάι"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "στρεβλώνει"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "κρίση"
+    }
+  ],
+  "timestamp": "2026-09-03T09:19:45.058943717Z",
+  "model": "glm-5.3"
+}

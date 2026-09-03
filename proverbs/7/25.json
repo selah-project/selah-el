@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Μην κλίνει στις οδούς της η καρδιά σου, μην πλανηθείς στα μονοπάτια της.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Μην"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "κλίνει"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στις"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "οδούς της"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "η καρδιά σου"
+    },
+    {
+      "surface": "אל",
+      "gloss": "μην"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "πλανηθείς"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "στα μονοπάτια της"
+    }
+  ],
+  "timestamp": "2026-09-03T08:44:57.164948366Z",
+  "model": "glm-5.3"
+}

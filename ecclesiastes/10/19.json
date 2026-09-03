@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Για γέλιο φτιάχνουν φαγητό, και το κρασί ευφραίνει τη ζωή, και το ασήμι απαντά ⟨את⟩ σε όλα.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Για γέλιο"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "φτιάχνουν"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "φαγητό"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "και το κρασί"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ευφραίνει"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "τη ζωή"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "και το ασήμι"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "απαντά"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "σε όλα"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "όλα"
+    }
+  ],
+  "timestamp": "2026-09-03T09:42:48.413201028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Χέτσρο ο Καρμελίτης, Νααράι γιος του Εζβάι.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "Χέτσρο"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ο Καρμελίτης"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "Νααράι"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "του Εζβάι"
+    }
+  ],
+  "timestamp": "2026-09-03T10:33:41.243814345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 42,
+  "translation": "Στον μαέστρο. Μασκίλ για τους γιους του Κοράχ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον μαέστρο"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Μασκίλ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "για τους γιους"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "του Κοράχ"
+    }
+  ],
+  "timestamp": "2026-09-03T12:40:35.493392812Z",
+  "model": "glm-5.3"
+}

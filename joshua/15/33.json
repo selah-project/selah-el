@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "στη Σεφέλα: Εσταιόλ, και Τσορά, και Ασνά",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "στη Σεφέλα"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "Εσταιόλ"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "και Τσορά"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "και Ασνά"
+    }
+  ],
+  "timestamp": "2026-09-03T01:12:13.665600534Z",
+  "model": "glm-5.3"
+}

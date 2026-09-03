@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Γιατι μεμψιμοιρει ανθρωπος ζωντανος, ανδρας, για την αμαρτια του;",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "μεμψιμοιρεί"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "άνθρωπος"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ζωντανός"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "άνδρας"
+    },
+    {
+      "surface": "על",
+      "gloss": "για"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "την αμαρτία του"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:58.930420864Z",
+  "model": "glm-5.3"
+}

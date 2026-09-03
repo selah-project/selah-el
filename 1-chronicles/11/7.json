@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Και κάθισε να κατοικήσει ο Δαβίδ στο οχυρό· γι' αυτό το ονόμασαν Πόλη του Δαβίδ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "και κάθισε να κατοικήσει"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ο Δαβίδ"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "στο οχυρό"
+    },
+    {
+      "surface": "על",
+      "gloss": "γι'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "το ονόμασαν"
+    },
+    {
+      "surface": "לו",
+      "gloss": "{το}"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Πόλη"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "του Δαβίδ"
+    }
+  ],
+  "timestamp": "2026-09-03T12:45:55.116617090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "γιατί αν εσύ αρνείσαι να τους αφήσεις, και ακόμα τους κρατάς γερά,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "אם",
+      "gloss": "αν"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "αρνείσαι"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "να τους αφήσεις"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "και ακόμα"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "κρατάς γερά"
+    },
+    {
+      "surface": "בם",
+      "gloss": "σε αυτά"
+    }
+  ],
+  "timestamp": "2026-09-02T23:47:40.032303646Z",
+  "model": "glm-5.3"
+}

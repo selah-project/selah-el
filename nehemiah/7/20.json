@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 7:20",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι γιοι του Αδίν: έξι εκατοντάδες πενήντα και πέντε.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "του Αδίν"
+    },
+    {
+      "surface": "שש",
+      "gloss": "έξι"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εκατοντάδες"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "πενήντα"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "και πέντε"
+    }
+  ],
+  "timestamp": "2026-09-03T10:17:49.619682052Z",
+  "model": "glm-5.3"
+}

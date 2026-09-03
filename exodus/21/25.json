@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "καύσμα αντί καύσμα, τραύμα αντί τραύμα, μώλωπας αντί μώλωπα.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "καύσμα"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "αντί"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "καύσμα"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "τραύμα"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "αντί"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "τραύμα"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "μώλωπας"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "αντί"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "μώλωπα"
+    }
+  ],
+  "timestamp": "2026-09-02T23:52:50.972559631Z",
+  "model": "glm-5.3"
+}

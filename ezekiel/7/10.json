@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Ιδού η μέρα, ιδού έρχεται· βγήκε η αυγή, άνθισε η ράβδος, βλάστησε η αλαζονεία.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ιδού"
+    },
+    {
+      "surface": "היום",
+      "gloss": "η μέρα"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ιδού"
+    },
+    {
+      "surface": "באה",
+      "gloss": "έρχεται"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "βγήκε"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "η αυγή"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "άνθισε"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "η ράβδος"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "βλάστησε"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "η αλαζονεία"
+    }
+  ],
+  "timestamp": "2026-09-03T05:19:20.549293036Z",
+  "model": "glm-5.3"
+}

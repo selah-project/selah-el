@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 29,
+  "translation": "Γνωρίζει ο δίκαιος τη δίκη των φτωχών· ο άδικος δεν καταλαβαίνει γνώση.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "Γνωρίζει"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ο δίκαιος"
+    },
+    {
+      "surface": "דין",
+      "gloss": "τη δίκη"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "των φτωχών"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ο άδικος"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "καταλαβαίνει"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "γνώση"
+    }
+  ],
+  "timestamp": "2026-09-03T08:59:38.162615980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Και ο Αρφαχσάντ γέννησε ⟨את⟩ τον Σαλάχ, και ο Σαλάχ γέννησε ⟨את⟩ τον Εβέρ.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Και ο Αρφαχσάντ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "γέννησε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Σαλάχ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "τον Σαλάχ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "και ο Σαλάχ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "γέννησε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Εβέρ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "τον Εβέρ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:24:44.397096990Z",
+  "model": "glm-5.3"
+}

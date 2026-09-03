@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 115,
+  "translation": "Αυτιά έχουν και δεν ακούν· μύτη έχουν και δεν μυρίζουν.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "αυτιά"
+    },
+    {
+      "surface": "להם",
+      "gloss": "έχουν"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ακούν"
+    },
+    {
+      "surface": "אף",
+      "gloss": "μύτη"
+    },
+    {
+      "surface": "להם",
+      "gloss": "έχουν"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "μυρίζουν"
+    }
+  ],
+  "timestamp": "2026-09-03T08:31:04.941648134Z",
+  "model": "glm-5.3"
+}

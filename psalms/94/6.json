@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 94,
+  "translation": "Χήρα και ξένο σκοτώνουν, και ορφανούς δολοφονούν.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "χήρα"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "και ξένο"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "σκοτώνουν"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "και ορφανούς"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "δολοφονούν"
+    }
+  ],
+  "timestamp": "2026-09-03T08:20:48.077163728Z",
+  "model": "glm-5.3"
+}

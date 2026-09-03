@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 75,
+  "translation": "«Όταν πάρω τον ορισμένο καιρό, εγώ με ίσότητα θα κρίνω.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "όταν"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "πάρω"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "τον ορισμένο καιρό"
+    },
+    {
+      "surface": "אני",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "με ίσότητα"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "θα κρίνω"
+    }
+  ],
+  "timestamp": "2026-09-03T08:13:29.278485904Z",
+  "model": "glm-5.3"
+}

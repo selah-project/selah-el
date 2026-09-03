@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Και άντρας αν δώσει ελάττωμα στον συνάνθρωπό του — όπως έκανε, έτσι θα γίνει σε αυτόν:",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Και άντρας"
+    },
+    {
+      "surface": "כי",
+      "gloss": "αν"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "δώσει"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ελάττωμα"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "στον συνάνθρωπό του"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "όπως"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "έκανε"
+    },
+    {
+      "surface": "כן",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "θα γίνει"
+    },
+    {
+      "surface": "לו",
+      "gloss": "σε αυτόν"
+    }
+  ],
+  "timestamp": "2026-09-03T00:15:48.320698303Z",
+  "model": "glm-5.3"
+}

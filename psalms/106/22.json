@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 106,
+  "translation": "θαύματα στη γη του Χαμ, φοβερές ενέργειες πάνω στη θάλασσα Σουφ.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "θαύματα"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "στη γη"
+    },
+    {
+      "surface": "חם",
+      "gloss": "του Χαμ"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "φοβερές"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "ים",
+      "gloss": "τη θάλασσα"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Σουφ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:26:43.380565066Z",
+  "model": "glm-5.3"
+}

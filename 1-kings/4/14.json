@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Αχιναδάβ γιος Ιδδώ, στο Μαχαναΐμ.",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "Αχιναδάβ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "Ιδδώ"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "Μαχαναΐμ"
+    }
+  ],
+  "timestamp": "2026-09-03T12:18:08.385657714Z",
+  "model": "glm-5.3"
+}

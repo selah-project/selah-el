@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Και μίλησα στη γολά ⟨את⟩ όλα τα λόγια του Γιαχβέ που μου έδειξε.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "Και μίλησα"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στη"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "γολά"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "όλα τα λόγια του Γιαχβέ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "τα λόγια"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "μου έδειξε"
+    }
+  ],
+  "timestamp": "2026-09-03T05:22:16.191597914Z",
+  "model": "glm-5.3"
+}

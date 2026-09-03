@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 128,
+  "translation": "και ας δεις γιους των γιων σου· ειρήνη πάνω στον Ισραέλ.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "και ας δεις"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "γιους"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "των γιων σου"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ειρήνη"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "τον Ισραέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:34:31.431572117Z",
+  "model": "glm-5.3"
+}

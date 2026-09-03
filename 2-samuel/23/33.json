@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Σαμμά ο Χαραρί, Αχιάμ γιος Σαράρ ο Αραρί,",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Σαμμά"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ο Χαραρί"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "Αχιάμ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "Σαράρ"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "ο Αραρί"
+    }
+  ],
+  "timestamp": "2026-09-03T02:36:26.066566991Z",
+  "model": "glm-5.3"
+}

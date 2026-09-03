@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 14:7",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "Αναπαύτηκε, ησύχασε όλη η γη· ξέσπασαν σε αγαλλίαση",
+  "tokens": [
+    {
+      "surface": "נחה",
+      "gloss": "Αναπαύτηκε"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ησύχασε"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "η γη"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "ξέσπασαν"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "σε αγαλλίαση"
+    }
+  ],
+  "timestamp": "2026-09-03T03:53:49.222147434Z",
+  "model": "glm-5.3"
+}

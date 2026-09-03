@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Γι' αυτό όλα τα χέρια θα μαλακίσουν και κάθε καρδιά θνητού θα λιώσει.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Γι'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "τα χέρια"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "θα μαλακίσουν"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "και κάθε"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "καρδιά"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "θνητού"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "θα λιώσει"
+    }
+  ],
+  "timestamp": "2026-09-03T03:52:33.268961718Z",
+  "model": "glm-5.3"
+}

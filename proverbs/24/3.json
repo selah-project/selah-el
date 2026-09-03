@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Με σοφία χτίζεται σπίτι, και με σύνεση σταθεροποιείται.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "με σοφία"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "χτίζεται"
+    },
+    {
+      "surface": "בית",
+      "gloss": "σπίτι"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "και με σύνεση"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "σταθεροποιείται"
+    }
+  ],
+  "timestamp": "2026-09-03T08:56:32.154030910Z",
+  "model": "glm-5.3"
+}

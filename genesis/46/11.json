@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 46,
+  "translation": "Και οι γιοι του Λεβί: Γερσόν, Κεχάτ και Μεραρί.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και οι γιοι"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "του Λεβί"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Γερσόν"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Κεχάτ"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "και Μεραρί"
+    }
+  ],
+  "timestamp": "2026-09-02T23:41:06.752454008Z",
+  "model": "glm-5.3"
+}

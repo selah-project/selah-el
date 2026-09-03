@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 5:19",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Γιατί δεν θα θυμάται πολύ ⟨את⟩ τις μέρες της ζωής του, γιατί ο Ελοχίμ απαντά στη χαρά της καρδιάς του.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "πολύ"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "θα θυμάται"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τις μέρες"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "τις μέρες"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "της ζωής του"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ο Ελοχίμ"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "απαντά"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "στη χαρά"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "της καρδιάς του"
+    }
+  ],
+  "timestamp": "2026-09-03T09:39:43.351259346Z",
+  "model": "glm-5.3"
+}

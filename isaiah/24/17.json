@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Τρόμος και λάκκος και παγίδα πάνω σου, κάτοικε της γης.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "Τρόμος"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "και λάκκος"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "και παγίδα"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "πάνω σου"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "κάτοικε"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "της γης"
+    }
+  ],
+  "timestamp": "2026-09-03T04:01:41.325745086Z",
+  "model": "glm-5.3"
+}

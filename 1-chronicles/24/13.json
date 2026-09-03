@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 24:13",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Στον Χουφφά τον δέκατο τρίτο, στον Γεσεβεάβ τον δέκατο τέταρτο.",
+  "tokens": [
+    {
+      "surface": "לחפה",
+      "gloss": "Στον Χουφφά"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "τρίτος"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "δέκατος"
+    },
+    {
+      "surface": "לישבאב",
+      "gloss": "στον Γεσεβεάβ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "τέταρτος"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "δέκατος"
+    }
+  ],
+  "timestamp": "2026-09-03T10:44:55.611800052Z",
+  "model": "glm-5.3"
+}

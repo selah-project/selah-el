@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Αλίμονό σου, γη, όταν βασιλιάς σου είναι νεαρός, και οι άρχοντές σου το πρωί τρώνε!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Αλίμονο"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σου"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "γη"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "όταν βασιλιάς σου"
+    },
+    {
+      "surface": "נער",
+      "gloss": "νεαρός"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "και οι άρχοντές σου"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "το πρωί"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "τρώνε"
+    }
+  ],
+  "timestamp": "2026-09-03T09:40:23.057292912Z",
+  "model": "glm-5.3"
+}

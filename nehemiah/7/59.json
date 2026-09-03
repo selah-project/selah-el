@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "nehemiah 7:59",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Γιοι Σεφατγιά, γιοι Χατίλ, γιοι Φόκερεθ του Ατσεβαΐμ, γιοι Αμόν.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Σεφατγιά"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "חטיל",
+      "gloss": "Χατίλ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "פכרת",
+      "gloss": "Φόκερεθ"
+    },
+    {
+      "surface": "הצביים",
+      "gloss": "του Ατσεβαΐμ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Αμόν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:18:18.209245967Z",
+  "model": "glm-5.3"
+}

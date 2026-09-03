@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "γιος του Σαλλούμ, γιος του Τσαντόκ, γιος του Αχιτουβ",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "του Σαλλούμ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "του Τσαντόκ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "του Αχιτουβ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:11:00.686992617Z",
+  "model": "glm-5.3"
+}

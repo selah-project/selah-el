@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 27,
+  "translation": "Και είπε: εσύ είσαι αυτός, ο γιος μου ο Εσαύ; Και είπε: εγώ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "αυτός"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ο γιος μου"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ο Εσαύ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "אני",
+      "gloss": "εγώ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:30:47.121139403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 45,
+  "translation": "Ζυγοί δίκαιοι, και εφα δίκαιη, και βατ δίκαιη να είναι για σας.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "Ζυγοί"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "δίκαιοι"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "και εφα δίκαιη"
+    },
+    {
+      "surface": "צדק",
+      "gloss": ""
+    },
+    {
+      "surface": "ובת",
+      "gloss": "και βατ δίκαιη"
+    },
+    {
+      "surface": "צדק",
+      "gloss": ""
+    },
+    {
+      "surface": "יהי",
+      "gloss": "να είναι"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "για σας"
+    }
+  ],
+  "timestamp": "2026-09-03T05:56:31.741543165Z",
+  "model": "glm-5.3"
+}

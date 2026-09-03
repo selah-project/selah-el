@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Έτσι είπε ο Γιαχβέ Ελοχίμ μου: Βόσκε ⟨את⟩ το ποίμνιο της σφαγής.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Έτσι"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ελοχίμ μου"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Βόσκε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "το ποίμνιο της σφαγής"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "το ποίμνιο"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "της σφαγής"
+    }
+  ],
+  "timestamp": "2026-09-03T07:36:52.048075527Z",
+  "model": "glm-5.3"
+}

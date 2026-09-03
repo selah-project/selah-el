@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 37,
+  "translation": "Γύρνα από το κακό, και κάνε καλό, και κατοίκησε για πάντα.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Γύρνα"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "από το κακό"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "και κάνε"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "καλό"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "και κατοίκησε"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "για πάντα"
+    }
+  ],
+  "timestamp": "2026-09-03T07:56:47.711779319Z",
+  "model": "glm-5.3"
+}

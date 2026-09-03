@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "Και χωρίς γνώση η ψυχή δεν είναι καλά· και βιαστικός στα πόδια αμαρτάνει.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Και"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "χωρίς"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "γνώση"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "η ψυχή"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "είναι καλά"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "και βιαστικός"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "στα πόδια"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "αμαρτάνει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:53:59.748092591Z",
+  "model": "glm-5.3"
+}

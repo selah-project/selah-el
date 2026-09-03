@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Χαντίτ, Τσεβοΐμ, Νεβαλάτ.",
+  "tokens": [
+    {
+      "surface": "חדיד",
+      "gloss": "Χαντίτ"
+    },
+    {
+      "surface": "צבעים",
+      "gloss": "Τσεβοΐμ"
+    },
+    {
+      "surface": "נבלט",
+      "gloss": "Νεβαλάτ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:21:36.440450954Z",
+  "model": "glm-5.3"
+}

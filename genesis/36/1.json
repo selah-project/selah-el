@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 36,
+  "translation": "Και αυτές ⟨είναι⟩ οι γενιές του Εσαύ — αυτός ⟨είναι⟩ Εδωμ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "και αυτές"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "γενιές"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "του Εσαύ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "αυτός"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Εδωμ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:35:26.136187604Z",
+  "model": "glm-5.3"
+}

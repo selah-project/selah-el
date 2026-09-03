@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 35,
+  "translation": "Άδραξε ασπίδα και θυρεό, και ανασήκω στη βοήθειά μου.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Άδραξε"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ασπίδα"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "και θυρεό"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "και ανασήκω"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "στη βοήθειά μου"
+    }
+  ],
+  "timestamp": "2026-09-03T07:54:26.728876796Z",
+  "model": "glm-5.3"
+}

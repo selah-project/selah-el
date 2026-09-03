@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Δεν μπορώ εγώ μόνος μου να σηκώσω ⟨את⟩ όλο αυτόν τον λαό, γιατί είναι βαρύ για μένα.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "μπορώ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "μόνος μου"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "να σηκώσω"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "όλο αυτόν τον λαό"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλο"
+    },
+    {
+      "surface": "העם",
+      "gloss": "τον λαό"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "αυτόν"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "βαρύ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "για μένα"
+    }
+  ],
+  "timestamp": "2026-09-03T00:27:38.134698330Z",
+  "model": "glm-5.3"
+}

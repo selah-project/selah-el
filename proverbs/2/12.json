@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Για να σε σώσει από δρόμο κακό, από άνθρωπο που μιλάει στρεβλά.",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "Για να σε σώσει"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "από δρόμο"
+    },
+    {
+      "surface": "רע",
+      "gloss": "κακό"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "από άνθρωπο"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "που μιλάει"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "στρεβλά"
+    }
+  ],
+  "timestamp": "2026-09-03T08:42:16.660230490Z",
+  "model": "glm-5.3"
+}

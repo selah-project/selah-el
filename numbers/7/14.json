@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "μία παλάμη δέκα χρυσού, γεμάτη λιβάνι.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "παλάμη"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "μία"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "δέκα"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "χρυσού"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "γεμάτη"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "λιβάνι"
+    }
+  ],
+  "timestamp": "2026-09-03T00:22:02.889202131Z",
+  "model": "glm-5.3"
+}

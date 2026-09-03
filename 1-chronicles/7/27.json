@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Νουν ο γιος του, Γιεχοσούα ο γιος του.",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "Νουν"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Γιεχοσούα"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    }
+  ],
+  "timestamp": "2026-09-03T11:37:15.487586088Z",
+  "model": "glm-5.3"
+}

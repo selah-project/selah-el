@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Έξι ⟨αυτά⟩ μισεί ο Γιαχβέ, και επτά βδελυγμάτια στην ψυχή του:",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "έξι"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "αυτά"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "μισεί"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "και επτά"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "βδελυγμάτια"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "στην ψυχή του"
+    }
+  ],
+  "timestamp": "2026-09-03T08:45:08.030195457Z",
+  "model": "glm-5.3"
+}

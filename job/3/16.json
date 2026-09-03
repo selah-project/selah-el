@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 3:16",
+  "book": "job",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "ή σαν βρέφος θαμμένο δεν θα υπήρχα· σαν βρέφη που δεν είδαν φως.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "כנפל",
+      "gloss": "σαν βρέφος"
+    },
+    {
+      "surface": "טמון",
+      "gloss": "θαμμένο"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "θα υπήρχα"
+    },
+    {
+      "surface": "כעללים",
+      "gloss": "σαν βρέφη"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "είδαν"
+    },
+    {
+      "surface": "אור",
+      "gloss": "φως"
+    }
+  ],
+  "timestamp": "2026-09-03T09:01:36.438661190Z",
+  "model": "glm-5.3"
+}

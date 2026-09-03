@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Εμείς παρανομήσαμε και στασιαστήκαμε· εσύ δεν συγχώρησες.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "Εμείς"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "παρανομήσαμε"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "και στασιαστήκαμε"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "συγχώρησες"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:16.024148743Z",
+  "model": "glm-5.3"
+}

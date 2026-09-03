@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Κι αν γίνει καταστροφή, τότε θα δώσεις ψυχή αντί για ψυχή.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Κι αν"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "καταστροφή"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "γίνει"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "τότε θα δώσεις"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ψυχή"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "αντί για"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ψυχή"
+    }
+  ],
+  "timestamp": "2026-09-02T23:52:31.503281965Z",
+  "model": "glm-5.3"
+}

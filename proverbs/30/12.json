@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "Γενιά καθαρή στα μάτια της, και από τη βρωμιά της δεν πλύθηκε.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "γενιά"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "καθαρή"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "στα μάτια του"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "και από τη βρωμιά του"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "πλύθηκε"
+    }
+  ],
+  "timestamp": "2026-09-03T08:59:03.128903435Z",
+  "model": "glm-5.3"
+}

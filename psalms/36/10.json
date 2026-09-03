@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 36,
+  "translation": "Γιατί μαζί σου ⟨είναι⟩ η πηγή της ζωής· στο φως σου θα δούμε φως.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "μαζί σου"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "η πηγή"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "της ζωής"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "στο φως σου"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "θα δούμε"
+    },
+    {
+      "surface": "אור",
+      "gloss": "φως"
+    }
+  ],
+  "timestamp": "2026-09-03T07:53:35.171022669Z",
+  "model": "glm-5.3"
+}

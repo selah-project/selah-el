@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Και πίκρανε στον Γιονά κακό μεγάλο, και θύμωσε γι' αυτόν.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "Και πίκρανε"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Γιονά"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "κακό"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "μεγάλο"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "και θύμωσε"
+    },
+    {
+      "surface": "לו",
+      "gloss": "γι' αυτόν"
+    }
+  ],
+  "timestamp": "2026-09-03T07:18:42.669601437Z",
+  "model": "glm-5.3"
+}

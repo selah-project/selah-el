@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Γιαχβέ Αδωνάι μας, τι μεγαλειώδες ⟨είναι⟩ το όνομά σου σε όλη τη γη!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Αδωνάι μας"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "μεγαλειώδες"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "το όνομά σου"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "σε όλη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "τη γη"
+    }
+  ],
+  "timestamp": "2026-09-03T07:43:13.951683642Z",
+  "model": "glm-5.3"
+}

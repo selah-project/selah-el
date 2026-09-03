@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι γιοι του Βιννούι: εξακόσιοι σαράντα και οκτώ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "του Βιννούι"
+    },
+    {
+      "surface": "שש",
+      "gloss": "εξακόσιοι"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εκατό"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "σαράντα"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "και οκτώ"
+    }
+  ],
+  "timestamp": "2026-09-03T12:45:31.136094900Z",
+  "model": "glm-5.3"
+}

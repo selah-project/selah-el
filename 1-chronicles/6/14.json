@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Γιοι του Μεράρι: Μαχλί· Λιβνί ο γιος του, Σιμεί ο γιος του, Ουζά ο γιος του·",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "του Μεράρι"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Μαχλί"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Λιβνί"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Σιμεί"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Ουζά"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:05.110844355Z",
+  "model": "glm-5.3"
+}

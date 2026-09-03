@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 16,
+  "translation": "Τραγουδήστε στον Γιαχβέ, όλη η γη· αναγγείλετε από μέρα σε μέρα τη σωτηρία του.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Τραγουδήστε"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "στον Γιαχβέ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "η γη"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "αναγγείλετε"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "από μέρα"
+    },
+    {
+      "surface": "אל",
+      "gloss": "σε"
+    },
+    {
+      "surface": "יום",
+      "gloss": "μέρα"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "τη σωτηρία του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:40:38.374529230Z",
+  "model": "glm-5.3"
+}

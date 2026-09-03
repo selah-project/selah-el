@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "γιοι του Κερός, γιοι του Σιάχα, γιοι του Παδόν·",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "του Κερός"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "του Σιάχα"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "του Παδόν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:04:05.660276240Z",
+  "model": "glm-5.3"
+}

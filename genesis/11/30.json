@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Και ⟨ηταν⟩ η Σαράι στείρα· δεν είχε παιδί.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Και ⟨ηταν⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "η Σαράι"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "στείρα"
+    },
+    {
+      "surface": "אין",
+      "gloss": "δεν είχε"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "ולד",
+      "gloss": "παιδί"
+    }
+  ],
+  "timestamp": "2026-09-03T11:59:03.818076324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι γιοι του Βιγκβαί: δύο χιλιάδες εξήντα και επτά.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "του Βιγκβαί"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "δύο χιλιάδες"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "εξήντα"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "και επτά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:17:49.619582730Z",
+  "model": "glm-5.3"
+}

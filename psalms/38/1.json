@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 38,
+  "translation": "Ψαλμός του Δαβίδ, για ανάμνηση.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Ψαλμός"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "του Δαβίδ"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "για ανάμνηση"
+    }
+  ],
+  "timestamp": "2026-09-03T07:57:00.340504346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Μετανόησε ο Γιαχβέ γι' αυτό· κι αυτό δεν θα γίνει, είπε ο Αδωνάι Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "Μετανόησε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "על",
+      "gloss": "γι'"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "גם",
+      "gloss": "κι"
+    },
+    {
+      "surface": "היא",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "θα γίνει"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ο Αδωνάι"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T07:16:05.721290545Z",
+  "model": "glm-5.3"
+}

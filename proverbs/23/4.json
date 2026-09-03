@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Μη κοπιάσεις να πλουτίσεις· με τη σύνεσή σου — σταμάτα.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Μη"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "κοπιάσεις"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "να πλουτίσεις"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "με τη σύνεσή σου"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "σταμάτα"
+    }
+  ],
+  "timestamp": "2026-09-03T08:56:09.647189400Z",
+  "model": "glm-5.3"
+}

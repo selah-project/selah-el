@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "και ⟨את⟩ τον Αροδί και ⟨את⟩ τον Τσεμαρί και ⟨את⟩ τον Χαματί.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "τον Αροδί"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "τον Αροδί"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "τον Τσεμαρί"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "τον Τσεμαρί"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "τον Χαματί"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "τον Χαματί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:24:20.146805205Z",
+  "model": "glm-5.3"
+}

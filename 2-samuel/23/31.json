@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 23:31",
+  "book": "2-samuel",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Αβί-Αλβόν ο Αραβαθίτης, Αζμαβέτ ο Βαρχουμίτης,",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Αβί"
+    },
+    {
+      "surface": "עלבון",
+      "gloss": "Αλβόν"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "ο Αραβαθίτης"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Αζμαβέτ"
+    },
+    {
+      "surface": "הברחמי",
+      "gloss": "ο Βαρχουμίτης"
+    }
+  ],
+  "timestamp": "2026-09-03T02:36:18.501993312Z",
+  "model": "glm-5.3"
+}

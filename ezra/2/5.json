@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Οι γιοι του Αραχ: επτακόσιοι εβδομήντα πέντε.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "του Αραχ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "επτά"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εκατοντάδες"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "πέντε"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "και εβδομήντα"
+    }
+  ],
+  "timestamp": "2026-09-03T10:00:31.961422513Z",
+  "model": "glm-5.3"
+}

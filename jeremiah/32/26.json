@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 32:26",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 32,
+  "translation": "Και έγινε λόγος του Γιαχβέ προς τον Ιρμιγιάου, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και έγινε"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "τον Ιρμιγιάου"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T05:00:06.984537990Z",
+  "model": "glm-5.3"
+}

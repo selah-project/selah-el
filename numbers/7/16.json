@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "ένας τράγος, των αϊγών, ένας, για αμαρτία.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ένας τράγος"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "των αϊγών"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "για αμαρτία"
+    }
+  ],
+  "timestamp": "2026-09-03T00:22:02.889533904Z",
+  "model": "glm-5.3"
+}

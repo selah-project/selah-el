@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 17,
+  "translation": "Και μπήκε ο Μοσέ και ο Αχαρόν μπροστά στη σκηνή του μαρτυρίου.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Και μπήκε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "και ο Αχαρόν"
+    },
+    {
+      "surface": "אל",
+      "gloss": "μπροστά στη"
+    },
+    {
+      "surface": "פני",
+      "gloss": "μπροστά στη"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "σκηνή"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "του μαρτυρίου"
+    }
+  ],
+  "timestamp": "2026-09-03T00:29:23.190783636Z",
+  "model": "glm-5.3"
+}

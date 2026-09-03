@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Ψυχή ασεβούς πόθησε το κακό· δεν χαρίζεται στα μάτια του ο σύντροφός του.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Ψυχή"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ασεβούς"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "πόθησε"
+    },
+    {
+      "surface": "רע",
+      "gloss": "το κακό"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "χαρίζεται"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "στα μάτια του"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ο σύντροφός του"
+    }
+  ],
+  "timestamp": "2026-09-03T08:53:16.410188343Z",
+  "model": "glm-5.3"
+}

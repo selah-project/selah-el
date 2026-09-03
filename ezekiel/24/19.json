@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 24:19",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Και ο λαός είπε σε μένα: Δεν θα μας πεις τι σημαίνουν αυτά για εμάς, ότι εσύ τα κάνεις;",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Και είπαν"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "σε μένα"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ο λαός"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "θα πεις"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "μας"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "αυτά"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "για εμάς"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ότι"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "τα κάνεις"
+    }
+  ],
+  "timestamp": "2026-09-03T05:35:53.566651760Z",
+  "model": "glm-5.3"
+}

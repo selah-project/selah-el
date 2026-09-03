@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 33,
+  "translation": "Γιατί ίσιος είναι ο λόγος του Γιαχβέ και κάθε του έργο με πίστη.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ίσιος"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "και κάθε"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "έργο του"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "με πίστη"
+    }
+  ],
+  "timestamp": "2026-09-03T07:55:14.627445931Z",
+  "model": "glm-5.3"
+}

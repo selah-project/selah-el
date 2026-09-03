@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "Προς εσένα, Γιαχβέ, φωνάζω, και προς τον Αδωνάι ικετεύω.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Προς εσένα"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "φωνάζω"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "και προς"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "τον Αδωνάι"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ικετεύω"
+    }
+  ],
+  "timestamp": "2026-09-03T07:50:48.018930562Z",
+  "model": "glm-5.3"
+}

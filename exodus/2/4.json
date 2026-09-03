@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Και στάθηκε η αδελφή του μακριά, για να μάθει τι θα γίνει σε αυτόν.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "Και στάθηκε"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "η αδελφή του"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "μακριά"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "για να μάθει"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "θα γίνει"
+    },
+    {
+      "surface": "לו",
+      "gloss": "σε αυτόν"
+    }
+  ],
+  "timestamp": "2026-09-02T23:44:16.489702597Z",
+  "model": "glm-5.3"
+}

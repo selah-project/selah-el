@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Στην αγανάκτηση πατάς τη γη, με θυμό αλωνίζεις τα έθνη.",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "Στην αγανάκτηση"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "πατάς"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "τη γη"
+    },
+    {
+      "surface": "באף",
+      "gloss": "με θυμό"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "αλωνίζεις"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "τα έθνη"
+    }
+  ],
+  "timestamp": "2026-09-03T07:27:31.559347422Z",
+  "model": "glm-5.3"
+}

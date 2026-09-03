@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Και είπε η Μπατ Σέβα· καλώς, εγώ θα μιλήσω για σένα στον βασιλιά.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "בת",
+      "gloss": "η Μπατ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Σέβα"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "καλώς"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "θα μιλήσω"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "για σένα"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "βασιλιά"
+    }
+  ],
+  "timestamp": "2026-09-03T02:42:37.815956087Z",
+  "model": "glm-5.3"
+}

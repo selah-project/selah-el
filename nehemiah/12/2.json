@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Αμαργιά, Μαλούχ, Χατούς.",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "Αμαργιά"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "Μαλούχ"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "Χατούς"
+    }
+  ],
+  "timestamp": "2026-09-03T10:21:34.840669789Z",
+  "model": "glm-5.3"
+}

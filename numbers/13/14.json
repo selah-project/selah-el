@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Για τη φυλή του Ναφταλί, Ναχβί γιος του Βοφσί.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "Για τη φυλή"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "του Ναφταλί"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "Ναχβί"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "του Βοφσί"
+    }
+  ],
+  "timestamp": "2026-09-03T00:26:26.819555377Z",
+  "model": "glm-5.3"
+}

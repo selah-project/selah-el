@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Θυμήσου για μένα, ο Ελοχίμ μου, για καλό, όλο ό,τι έκανα για τον λαό αυτόν.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "Θυμήσου"
+    },
+    {
+      "surface": "לי",
+      "gloss": "για μένα"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ο Ελοχίμ μου"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "για καλό"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλο"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ό,τι"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "έκανα"
+    },
+    {
+      "surface": "על",
+      "gloss": "για"
+    },
+    {
+      "surface": "העם",
+      "gloss": "τον λαό"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "αυτόν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:13:00.504113290Z",
+  "model": "glm-5.3"
+}

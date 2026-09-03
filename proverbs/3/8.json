@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Θα είναι γιατίρα στο σώμα σου και δροσιά στα κόκαλά σου·",
+  "tokens": [
+    {
+      "surface": "רפאות",
+      "gloss": "γιατίρα"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "Θα είναι"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "στο σώμα σου"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "και δροσιά"
+    },
+    {
+      "surface": "לעצמותיך",
+      "gloss": "στα κόκαλά σου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:42:19.726234956Z",
+  "model": "glm-5.3"
+}

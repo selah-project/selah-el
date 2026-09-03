@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Και κάθε ερπετό του ιπτάμενου που έχει τέσσερα πόδια — βδέλυγμα ⟨αυτό⟩ για εσάς.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Και κάθε"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ερπετό"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "του ιπτάμενου"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "לו",
+      "gloss": "έχει"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "τέσσερα"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "πόδια"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "βδέλυγμα"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "για εσάς"
+    }
+  ],
+  "timestamp": "2026-09-03T00:07:17.743390565Z",
+  "model": "glm-5.3"
+}

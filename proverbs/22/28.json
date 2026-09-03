@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Μην μετακινείς σύνορο αιώνιο, που έκαναν οι πατέρες σου.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Μην"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "μετακινείς"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "σύνορο"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "αιώνιο"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "έκαναν"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "οι πατέρες σου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:55:08.866204808Z",
+  "model": "glm-5.3"
+}

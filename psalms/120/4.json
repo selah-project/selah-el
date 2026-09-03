@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 120,
+  "translation": "Βέλη ισχυρού, ακονισμένα, μαζί με κάρβουνα από ρετέμια.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Βέλη"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ισχυρού"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ακονισμένα"
+    },
+    {
+      "surface": "עם",
+      "gloss": "μαζί με"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "κάρβουνα"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "από ρετέμια"
+    }
+  ],
+  "timestamp": "2026-09-03T08:35:19.124777243Z",
+  "model": "glm-5.3"
+}

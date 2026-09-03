@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 35,
+  "translation": "Σηκώνονται μάρτυρες βίας· ό,τι δεν γνώρισα με ρωτούν.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "σηκώνονται"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "μάρτυρες"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "βίας"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ό,τι"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "γνώρισα"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "με ρωτούν"
+    }
+  ],
+  "timestamp": "2026-09-03T07:53:42.278370862Z",
+  "model": "glm-5.3"
+}

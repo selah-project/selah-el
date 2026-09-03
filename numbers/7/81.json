@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "numbers 7:81",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Ένας ταύρος, γιος βοδινού, ένα κριάρι, ένα αρνί, γιος ενός χρόνου, για ολοκαύτωμα·",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ταύρος"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "βοδινού"
+    },
+    {
+      "surface": "איל",
+      "gloss": "κριάρι"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "αρνί"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ενός χρόνου"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "για ολοκαύτωμα"
+    }
+  ],
+  "timestamp": "2026-09-03T00:24:50.347644800Z",
+  "model": "glm-5.3"
+}

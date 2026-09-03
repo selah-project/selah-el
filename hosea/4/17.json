@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Συνδεμένος με τα είδωλα ⟨είναι⟩ ο Εφραΐμ· άφησέ τον.",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "Συνδεμένος"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "με τα είδωλα"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ο Εφραΐμ"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "άφησε"
+    },
+    {
+      "surface": "לו",
+      "gloss": "τον"
+    }
+  ],
+  "timestamp": "2026-09-03T06:00:21.745548596Z",
+  "model": "glm-5.3"
+}

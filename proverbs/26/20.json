@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 26,
+  "translation": "Χωρίς ξύλα σβήνει η φωτιά, και χωρίς συκοφάντη σωπαίνει η φιλονικία.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "Χωρίς"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ξύλα"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "σβήνει"
+    },
+    {
+      "surface": "אש",
+      "gloss": "φωτιά"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "και χωρίς"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "συκοφάντη"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "σωπαίνει"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "φιλονικία"
+    }
+  ],
+  "timestamp": "2026-09-03T08:57:40.116399739Z",
+  "model": "glm-5.3"
+}

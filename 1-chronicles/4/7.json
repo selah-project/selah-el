@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Και οι γιοι της Χελά: ο Τσερέτ, ο Γιτσχάρ και ο Ετνάν.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και οι γιοι"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "της Χελά"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "ο Τσερέτ"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "ο Γιτσχάρ"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "και ο Ετνάν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:27:44.121091581Z",
+  "model": "glm-5.3"
+}

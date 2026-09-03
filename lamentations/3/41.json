@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Ας υψώσουμε την καρδιά μας πάνω στα χέρια, προς Ελ στους ουρανούς.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Ας υψώσουμε"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "την καρδιά μας"
+    },
+    {
+      "surface": "אל",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "τα χέρια"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ελ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "στους ουρανούς"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:16.023929702Z",
+  "model": "glm-5.3"
+}

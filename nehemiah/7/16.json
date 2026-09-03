@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 7:16",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι γιοί του Βεβαΐ: εξακόσιοι είκοσι οκτώ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοί"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "του Βεβαΐ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "εξακόσιοι"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εξακόσιοι"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "είκοσι"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "οκτώ"
+    }
+  ],
+  "timestamp": "2026-09-03T12:45:32.318088739Z",
+  "model": "glm-5.3"
+}

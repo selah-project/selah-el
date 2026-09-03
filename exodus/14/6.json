@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "Και έζεψε ⟨את⟩ το άρμα του, και ⟨את⟩ τον λαό του πήρε μαζί του.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "και έζεψε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "το άρμα του"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "το άρμα του"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "τον λαό του"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "τον λαό του"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "πήρε"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "μαζί του"
+    }
+  ],
+  "timestamp": "2026-09-02T23:48:58.545197179Z",
+  "model": "glm-5.3"
+}

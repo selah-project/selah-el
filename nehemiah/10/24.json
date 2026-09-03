@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 10:24",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Χοσέα, Χανανία, Χασούβ",
+  "tokens": [
+    {
+      "surface": "הושע",
+      "gloss": "Χοσέα"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Χανανία"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "Χασούβ"
+    }
+  ],
+  "timestamp": "2026-09-03T12:45:30.236571444Z",
+  "model": "glm-5.3"
+}

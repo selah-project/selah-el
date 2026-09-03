@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Και πήγε ο Βιλάμ με τον Βαλάκ, και ήρθαν στην Κιριάτ Χουτσόθ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Και πήγε"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ο Βιλάμ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "με"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "τον Βαλάκ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "και ήρθαν"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "στην Κιριάτ"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "Χουτσόθ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:33:24.559414426Z",
+  "model": "glm-5.3"
+}

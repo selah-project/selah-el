@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Αρκούδα ενεδρεύει — αυτός μού είναι — λιοντάρι σε κρυφά μέρη.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "αρκούδα"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ενεδρεύει"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "αυτός"
+    },
+    {
+      "surface": "לי",
+      "gloss": "μου"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "λιοντάρι"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "σε κρυφά μέρη"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:28.522259165Z",
+  "model": "glm-5.3"
+}

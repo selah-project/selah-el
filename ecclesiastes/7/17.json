@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Μη αδικείς πολύ και μη γίνεσαι άφρων· γιατί να πεθάνεις χωρίς τον καιρό σου;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Μη"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "αδικείς"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "πολύ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "και μη"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "γίνεσαι"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "άφρων"
+    },
+    {
+      "surface": "למה",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "να πεθάνεις"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "χωρίς"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "τον καιρό σου"
+    }
+  ],
+  "timestamp": "2026-09-03T09:40:23.258985751Z",
+  "model": "glm-5.3"
+}

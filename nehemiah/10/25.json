@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 10:25",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Χαλοχές, Πιλχά, Σοβέκ,",
+  "tokens": [
+    {
+      "surface": "הלוחש",
+      "gloss": "Χαλοχές"
+    },
+    {
+      "surface": "פלחא",
+      "gloss": "Πιλχά"
+    },
+    {
+      "surface": "שובק",
+      "gloss": "Σοβέκ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:20:39.515655865Z",
+  "model": "glm-5.3"
+}

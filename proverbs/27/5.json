@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 27,
+  "translation": "Καλύτερη είναι η φανερή επίκριση από την κρυμμένη αγάπη.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Καλύτερη"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "επίκριση"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "φανερή"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "από αγάπη"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "κρυμμένη"
+    }
+  ],
+  "timestamp": "2026-09-03T08:59:25.438176682Z",
+  "model": "glm-5.3"
+}

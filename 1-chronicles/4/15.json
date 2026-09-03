@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Και οι γιοι του Κάλεβ, γιου του Ιεφούνε: Ιρού, Ελά και Ναάμ· και οι γιοι του Ελά: ο Κενάζ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και οι γιοι"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "του Κάλεβ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιου"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "του Ιεφούνε"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Ιρού"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ελά"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "και Ναάμ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "και οι γιοι"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "του Ελά"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "ο Κενάζ"
+    }
+  ],
+  "timestamp": "2026-09-03T11:36:53.772995004Z",
+  "model": "glm-5.3"
+}

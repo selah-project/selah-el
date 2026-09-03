@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Πηγή κήπων, πηγάδι νερά ζωντανά, και ρεύματα που κυλούν από τον Λεβανόν.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "Πηγή"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "κήπων"
+    },
+    {
+      "surface": "באר",
+      "gloss": "πηγάδι"
+    },
+    {
+      "surface": "מים",
+      "gloss": "νερά"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ζωντανά"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "και ρεύματα που κυλούν"
+    },
+    {
+      "surface": "מן",
+      "gloss": "από"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "τον Λεβανόν"
+    }
+  ],
+  "timestamp": "2026-09-03T09:25:19.156496546Z",
+  "model": "glm-5.3"
+}

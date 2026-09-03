@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "και η Ραβίτ, και το Κισιόν, και το Αβές.",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "και η Ραβίτ"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "και το Κισιόν"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "και το Αβές"
+    }
+  ],
+  "timestamp": "2026-09-03T01:13:56.024174071Z",
+  "model": "glm-5.3"
+}

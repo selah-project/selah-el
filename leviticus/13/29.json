@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Και άντρας ή γυναίκα, όταν βρίσκεται σε αυτόν πληγή στο κεφάλι ή στη γενειάδα —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Και άντρας"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "γυναίκα"
+    },
+    {
+      "surface": "כי",
+      "gloss": "όταν"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "βρίσκεται"
+    },
+    {
+      "surface": "בו",
+      "gloss": "σε αυτόν"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "πληγή"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "στο κεφάλι"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "στη γενειάδα"
+    }
+  ],
+  "timestamp": "2026-09-03T00:10:20.807201625Z",
+  "model": "glm-5.3"
+}

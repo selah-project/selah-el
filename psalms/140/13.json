@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 140,
+  "translation": "Ξέρω ότι θα κάνει Γιαχβέ κρίση του ταπεινού, δίκη των απόρων.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Ξέρω"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ότι"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "θα κάνει"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "κρίση"
+    },
+    {
+      "surface": "עני",
+      "gloss": "του ταπεινού"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "δίκη"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "των απόρων"
+    }
+  ],
+  "timestamp": "2026-09-03T08:37:18.627139250Z",
+  "model": "glm-5.3"
+}

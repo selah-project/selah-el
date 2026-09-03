@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 5:25",
+  "book": "judges",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Νερό ζήτησε — γάλα έδωσε· σε μεγαλοπρεπές μπολ πρόσφερε βούτυρο.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "νερό"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ζήτησε"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "γάλα"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "έδωσε"
+    },
+    {
+      "surface": "בספל",
+      "gloss": "σε μπολ"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "μεγαλοπρεπές"
+    },
+    {
+      "surface": "הקריבה",
+      "gloss": "πρόσφερε"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "βούτυρο"
+    }
+  ],
+  "timestamp": "2026-09-03T01:22:05.282284398Z",
+  "model": "glm-5.3"
+}

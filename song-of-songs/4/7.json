@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Όλη εσύ είσαι όμορφη, συντρόφισσά μου, και ψεγάδι δεν υπάρχει σε σένα.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "Όλη εσύ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "είσαι όμορφη"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "συντρόφισσά μου"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "και ψεγάδι"
+    },
+    {
+      "surface": "אין",
+      "gloss": "δεν υπάρχει"
+    },
+    {
+      "surface": "בך",
+      "gloss": "σε σένα"
+    }
+  ],
+  "timestamp": "2026-09-03T09:26:37.027292706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Για τον Κις: γιοι του Κις: ο Γιαχαμαέλ.",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "Για τον Κις"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "του Κις"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "ο Γιαχαμαέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:46:26.859339062Z",
+  "model": "glm-5.3"
+}

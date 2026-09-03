@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 11:4",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Γι' αυτό προφήτεψε εναντίον τους· προφήτεψε, γιο ανθρώπου.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Γι' αυτό"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "προφήτεψε"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "εναντίον τους"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "προφήτεψε"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιο"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ανθρώπου"
+    }
+  ],
+  "timestamp": "2026-09-03T05:25:09.730168637Z",
+  "model": "glm-5.3"
+}

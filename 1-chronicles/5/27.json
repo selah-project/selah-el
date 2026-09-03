@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Γιοι του Λεβί: Γκερσόν, Κεχάτ και Μεραρί.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "του Λεβί"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Γκερσόν"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Κεχάτ"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "και Μεραρί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:29:07.407436796Z",
+  "model": "glm-5.3"
+}

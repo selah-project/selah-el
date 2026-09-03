@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Λοντ και Ονό, Γκέι-Χαρασίμ (το φαράγγι των τεχνιτών).",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "Λοντ"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "και Ονό"
+    },
+    {
+      "surface": "גי",
+      "gloss": "Γκέι"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "Χαρασίμ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:21:36.440583384Z",
+  "model": "glm-5.3"
+}

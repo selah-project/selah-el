@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 25,
+  "translation": "Χαδάν, και Τεμά, Γιετούρ, Ναφίς, και Κεντέμα.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "Χαδάν"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "και Τεμά"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "Γιετούρ"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Ναφίς"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "και Κεντέμα"
+    }
+  ],
+  "timestamp": "2026-09-03T06:38:10.312794054Z",
+  "model": "glm-5.3"
+}

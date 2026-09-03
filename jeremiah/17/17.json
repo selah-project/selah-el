@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 17,
+  "translation": "Μην είσαι εσύ για μένα φρίκη· το καταφύγιό μου εσύ είσαι στην ημέρα του κακού.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Μην"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "είσαι"
+    },
+    {
+      "surface": "לי",
+      "gloss": "για μένα"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "φρίκη"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "το καταφύγιό μου"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "στην ημέρα"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "του κακού"
+    }
+  ],
+  "timestamp": "2026-09-03T04:46:53.629708038Z",
+  "model": "glm-5.3"
+}

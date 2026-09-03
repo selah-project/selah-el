@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 82,
+  "translation": "Σήκω, Ελοχίμ, κρίνε τη γη, γιατί εσύ θα κληρονομήσεις όλα τα έθνη.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Σήκω"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Ελοχίμ"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "κρίνε"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "τη γη"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "θα κληρονομήσεις"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "τα έθνη"
+    }
+  ],
+  "timestamp": "2026-09-03T11:27:54.067568477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Από τους γιους του Βανί: Μααδάι, Αμράμ και Ουέλ.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "Από τους γιους"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Βανί"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "Μααδάι"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Αμράμ"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "και Ουέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:08:43.169176112Z",
+  "model": "glm-5.3"
+}

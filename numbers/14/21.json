@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "Αλλά, ζω εγώ, και θα γεμίσει η δόξα του Γιαχβέ ⟨את⟩ όλη τη γη.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Αλλά"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ζω"
+    },
+    {
+      "surface": "אני",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "και θα γεμίσει"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "η δόξα"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "όλη τη γη"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "τη γη"
+    }
+  ],
+  "timestamp": "2026-09-03T00:28:11.761544381Z",
+  "model": "glm-5.3"
+}

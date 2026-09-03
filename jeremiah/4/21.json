@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Έως πότε θα βλέπω σημαία, θα ακούω φωνή σοφάρ;",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Έως"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "πότε"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "θα βλέπω"
+    },
+    {
+      "surface": "נס",
+      "gloss": "σημαία"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "θα ακούω"
+    },
+    {
+      "surface": "קול",
+      "gloss": "φωνή"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "σοφάρ"
+    }
+  ],
+  "timestamp": "2026-09-03T04:34:14.631655093Z",
+  "model": "glm-5.3"
+}

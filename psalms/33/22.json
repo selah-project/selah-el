@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 33,
+  "translation": "Ας είναι το χέσεδ σου, Γιαχβέ, πάνω μας, όπως ελπίσαμε σε σένα.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ας είναι"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "το χέσεδ σου"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "πάνω μας"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "όπως"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "ελπίσαμε"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σε σένα"
+    }
+  ],
+  "timestamp": "2026-09-03T07:52:21.170873210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Ορφανοί γίναμε, χωρίς πατέρα· οι μητέρες μας σαν χήρες.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "Ορφανοί"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "γίναμε"
+    },
+    {
+      "surface": "אין",
+      "gloss": "χωρίς"
+    },
+    {
+      "surface": "אב",
+      "gloss": "πατέρα"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "οι μητέρες μας"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "σαν χήρες"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:22.183669724Z",
+  "model": "glm-5.3"
+}

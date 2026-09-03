@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Κουτάλι ένα, δέκα σέκελ χρυσού, γεμάτο θυμίαμα.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "Κουτάλι"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "δέκα"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "χρυσού"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "γεμάτο"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "θυμίαμα"
+    }
+  ],
+  "timestamp": "2026-09-03T00:22:29.241683822Z",
+  "model": "glm-5.3"
+}

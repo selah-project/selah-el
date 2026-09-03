@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Μάτια υψηλά, γλώσσα ψεύτικη, και χέρια χύνοντα αίμα αθώο,",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "Μάτια"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "υψηλά"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "γλώσσα"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ψεύτικη"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "και χέρια"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "χύνοντα"
+    },
+    {
+      "surface": "דם",
+      "gloss": "αίμα"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "αθώο"
+    }
+  ],
+  "timestamp": "2026-09-03T08:46:10.513353392Z",
+  "model": "glm-5.3"
+}

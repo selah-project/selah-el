@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 20,
+  "translation": "Δεν θα κλέψεις.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "θα κλέψεις"
+    }
+  ],
+  "timestamp": "2026-09-02T23:50:32.530701551Z",
+  "model": "glm-5.3"
+}

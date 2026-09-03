@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 28,
+  "translation": "Άνθρωπος βαρυμένος με αίμα ψυχής θα φύγει ως το λάκκο· ας μην τον στηρίξουν.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "άνθρωπος"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "βαρυμένος"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "με αίμα"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ψυχής"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ως"
+    },
+    {
+      "surface": "בור",
+      "gloss": "το λάκκο"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "θα φύγει"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ας μην"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "στηρίξουν"
+    },
+    {
+      "surface": "בו",
+      "gloss": "τον"
+    }
+  ],
+  "timestamp": "2026-09-03T08:59:43.412326423Z",
+  "model": "glm-5.3"
+}

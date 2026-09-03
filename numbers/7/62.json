@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "numbers 7:62",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Μία χρυσή καφ, μία, δέκα ⟨σήκελ⟩, γεμάτη κτορέτ.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "καφ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "μία"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "δέκα"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "χρυσή"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "γεμάτη"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "κτορέτ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:24:27.986088340Z",
+  "model": "glm-5.3"
+}

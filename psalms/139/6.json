@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 139,
+  "translation": "Θαυμαστή ⟨είναι⟩ η γνώση από εμένα, υψωμένη· δεν μπορώ γι' αυτήν.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "Θαυμαστή"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "η γνώση"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "από εμένα"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "υψωμένη"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "μπορώ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "γι' αυτήν"
+    }
+  ],
+  "timestamp": "2026-09-03T08:38:09.923669645Z",
+  "model": "glm-5.3"
+}

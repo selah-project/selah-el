@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 13:3",
+  "book": "job",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Μα εγώ στον Σαδδάι θα μιλήσω, και να ελέγξω με τον Ελ ποθώ.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "Μα"
+    },
+    {
+      "surface": "אני",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Σαδδάι"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "θα μιλήσω"
+    },
+    {
+      "surface": "והוכח",
+      "gloss": "και να ελέγξω"
+    },
+    {
+      "surface": "אל",
+      "gloss": "με"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ελ"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "ποθώ"
+    }
+  ],
+  "timestamp": "2026-09-03T09:07:58.211145358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Το ρούχο σου δεν παλιώσε πάνω σου και το πόδι σου δεν φούσκωσε — αυτό τα σαράντα χρόνια.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "Το ρούχο σου"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "παλιώσε"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "πάνω σου"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "και το πόδι σου"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "φούσκωσε"
+    },
+    {
+      "surface": "זה",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "σαράντα"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "χρόνια"
+    }
+  ],
+  "timestamp": "2026-09-03T00:47:44.320815581Z",
+  "model": "glm-5.3"
+}

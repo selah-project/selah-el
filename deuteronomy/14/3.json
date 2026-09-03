@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "Δεν θα φάτε κανένα βδέλυγμα.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "θα φάτε"
+    },
+    {
+      "surface": "כל",
+      "gloss": "κανένα"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "βδέλυγμα"
+    }
+  ],
+  "timestamp": "2026-09-03T00:48:07.322413764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 48,
+  "translation": "Δεν υπάρχει ειρήνη, είπε ο Γιαχβέ, για τους ασεβείς.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "δεν υπάρχει"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ειρήνη"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "για τους ασεβείς"
+    }
+  ],
+  "timestamp": "2026-09-03T04:18:36.350506555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 16,
+  "translation": "Μαντεία στα χείλη του βασιλιά· στη δίκη το στόμα του δεν θα προδώσει.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "Μαντεία"
+    },
+    {
+      "surface": "על",
+      "gloss": "σε"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "τα χείλη"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "του βασιλιά"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "στη δίκη"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "θα προδώσει"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "το στόμα του"
+    }
+  ],
+  "timestamp": "2026-09-03T08:50:55.244631806Z",
+  "model": "glm-5.3"
+}

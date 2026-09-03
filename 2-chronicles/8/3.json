@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Και πήγε ο Σελομό στη Χαμάτ Τσοβά, και την κατέστησε ισχυρή επάνω της.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Και πήγε"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ο Σελομό"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "στη Χαμάτ"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Τσοβά"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "και κατέστησε ισχυρή"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "επάνω της"
+    }
+  ],
+  "timestamp": "2026-09-03T12:50:07.292262308Z",
+  "model": "glm-5.3"
+}

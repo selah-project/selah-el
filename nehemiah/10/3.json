@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 10:3",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Σεραιά, Αζαριά, Ιρμειά.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "Σεραιά"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Αζαριά"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Ιρμειά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:20:39.556651005Z",
+  "model": "glm-5.3"
+}

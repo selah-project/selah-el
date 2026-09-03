@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "και Τσικλάγ, και Βεθ-Χαμαρκαβότ, και Χατσάρ-Σουσά",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "και Τσικλάγ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "και Βεθ-"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "Χαμαρκαβότ"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "και Χατσάρ-"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "Σουσά"
+    }
+  ],
+  "timestamp": "2026-09-03T01:14:02.764875542Z",
+  "model": "glm-5.3"
+}

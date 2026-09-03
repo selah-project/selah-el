@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "και τον μιλβό, και ⟨את⟩ τον ίκτινο, και τον γύπα κατά το είδος του",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "και τον μιλβό"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "τον ίκτινο"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "τον ίκτινο"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "και τον γύπα"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "κατά το είδος του"
+    }
+  ],
+  "timestamp": "2026-09-03T00:48:13.559244223Z",
+  "model": "glm-5.3"
+}

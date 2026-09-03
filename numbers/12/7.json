@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Όχι έτσι ο δούλος μου ο Μοσέ· σε όλο τον οίκο μου πιστός είναι αυτός.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Όχι"
+    },
+    {
+      "surface": "כן",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ο δούλος μου"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "σε όλο"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "τον οίκο μου"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "πιστός"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "είναι αυτός"
+    }
+  ],
+  "timestamp": "2026-09-03T00:27:32.639878238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Ακόμα και σε μένα οργίστηκε ο Γιαχβέ εξαιτίας σας, λέγοντας: κι εσύ δεν θα μπεις εκεί.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ακόμα και"
+    },
+    {
+      "surface": "בי",
+      "gloss": "σε μένα"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "οργίστηκε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "εξαιτίας σας"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    },
+    {
+      "surface": "גם",
+      "gloss": "κι"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "θα μπεις"
+    },
+    {
+      "surface": "שם",
+      "gloss": "εκεί"
+    }
+  ],
+  "timestamp": "2026-09-03T00:41:42.696214455Z",
+  "model": "glm-5.3"
+}

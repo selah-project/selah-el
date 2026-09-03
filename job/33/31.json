@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 33:31",
+  "book": "job",
+  "lang": "el",
+  "chapter": 33,
+  "translation": "Πρόσεξε, Ιγιόβ, άκουσέ με· σώπα, κι εγώ θα μιλήσω.",
+  "tokens": [
+    {
+      "surface": "הקשב",
+      "gloss": "Πρόσεξε"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ιγιόβ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "άκουσέ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "με"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "σώπα"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "κι εγώ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "θα μιλήσω"
+    }
+  ],
+  "timestamp": "2026-09-03T09:19:03.617666331Z",
+  "model": "glm-5.3"
+}

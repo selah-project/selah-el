@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 2:13",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Οι γιοι του Αδονικάμ: εξακόσιοι εξήντα έξι.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "του Αδονικάμ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "εξακόσιοι"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(εκατοστά)"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "εξήντα"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "και έξι"
+    }
+  ],
+  "timestamp": "2026-09-03T10:02:14.562429439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Καιρός να σκίζεις και καιρός να ράβεις· καιρός να σωπαίνεις και καιρός να μιλάς.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Καιρός"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "να σκίζεις"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "και καιρός"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "να ράβεις"
+    },
+    {
+      "surface": "עת",
+      "gloss": "καιρός"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "να σωπαίνεις"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "και καιρός"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "να μιλάς"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:49.304801727Z",
+  "model": "glm-5.3"
+}

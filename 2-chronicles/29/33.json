@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "el",
+  "chapter": 29,
+  "translation": "Και τα αφιερωμένα: βόδια εξακόσια, και πρόβατα τρεις χιλιάδες.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "Και τα αφιερωμένα"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "βόδια"
+    },
+    {
+      "surface": "שש",
+      "gloss": "εξακόσια"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εξακόσια"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "και πρόβατα"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "τρισ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "χιλιάδες"
+    }
+  ],
+  "timestamp": "2026-09-03T11:14:42.422877890Z",
+  "model": "glm-5.3"
+}

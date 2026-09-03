@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Σήμερα βγαίνετε, στον μήνα Αβίβ.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Σήμερα"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "εσείς"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "βγαίνετε"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "στον μήνα"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Αβίβ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:49:54.761452728Z",
+  "model": "glm-5.3"
+}

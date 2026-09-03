@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 81,
+  "translation": "Δεν θα υπάρξει μέσα σου θεός ξένος, και δεν θα προσκυνήσεις σε θεό ξένο.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "θα υπάρξει"
+    },
+    {
+      "surface": "בך",
+      "gloss": "μέσα σου"
+    },
+    {
+      "surface": "אל",
+      "gloss": "θεός"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ξένος"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "θα προσκυνήσεις"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "σε θεό"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ξένο"
+    }
+  ],
+  "timestamp": "2026-09-03T08:15:49.625266080Z",
+  "model": "glm-5.3"
+}

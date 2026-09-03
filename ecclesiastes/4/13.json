@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Καλύτερο ένα παιδί φτωχό και σοφό από έναν βασιλιά γέρο και ανόητο, που δεν έμαθε πια να προσέχει.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Καλύτερο"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "παιδί"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "φτωχό"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "και σοφό"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "από έναν βασιλιά"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "γέρο"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "και ανόητο"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "לא",
+      "gloss": "όχι"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "έμαθε"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "να προσέχει"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "πια"
+    }
+  ],
+  "timestamp": "2026-09-03T09:39:20.148388184Z",
+  "model": "glm-5.3"
+}

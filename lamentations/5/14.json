@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Πρεσβύτεροι από την πύλη σταμάτησαν, νεαροί από τη μουσική τους.",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "Πρεσβύτεροι"
+    },
+    {
+      "surface": "משער",
+      "gloss": "από την πύλη"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "σταμάτησαν"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "νεαροί"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "από τη μουσική τους"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:09.033833668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Λαδάν ο γιος του, Αμιχούδ ο γιος του, Ελισαμά ο γιος του.",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "Λαδάν"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Αμιχούδ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Ελισαμά"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    }
+  ],
+  "timestamp": "2026-09-03T11:36:49.802349075Z",
+  "model": "glm-5.3"
+}

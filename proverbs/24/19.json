@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 24:19",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Μην φλεγείς εξαιτίας των κακών, μη ζηλεύεις τους ασεβείς.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "μη"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "φλεγείς"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "εξαιτίας των κακών"
+    },
+    {
+      "surface": "אל",
+      "gloss": "μη"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ζηλεύεις"
+    },
+    {
+      "surface": "ברשעים",
+      "gloss": "τους ασεβείς"
+    }
+  ],
+  "timestamp": "2026-09-03T08:56:30.708075727Z",
+  "model": "glm-5.3"
+}

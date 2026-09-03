@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "ο Σεόλ και η στείρα μήτρα· η γη που δεν χορταίνει νερό, και η φωτιά που δεν είπε: «Αρκετά».",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "ο Σεόλ"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "και η στείρα"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "μήτρα"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "η γη"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "χορταίνει"
+    },
+    {
+      "surface": "מים",
+      "gloss": "νερό"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "και η φωτιά"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "הון",
+      "gloss": "Αρκετά"
+    }
+  ],
+  "timestamp": "2026-09-03T08:59:57.163679526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Έγινα γέλιο για όλο τον λαό μου, το τραγούδι τους όλη την ημέρα.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "Έγινα"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "γέλιο"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "για όλο"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "τον λαό μου"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "το τραγούδι τους"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλη"
+    },
+    {
+      "surface": "היום",
+      "gloss": "την ημέρα"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:50.144765509Z",
+  "model": "glm-5.3"
+}

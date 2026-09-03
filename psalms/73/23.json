@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 73,
+  "translation": "Κι εγώ πάντα μαζί σου· έπιασες στο χέρι το δεξί μου.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Κι εγώ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "πάντα"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "μαζί σου"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "έπιασες"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "στο χέρι"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "το δεξί μου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:12:46.175777075Z",
+  "model": "glm-5.3"
+}

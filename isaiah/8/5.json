@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Και πρόσθεσε ο Γιαχβέ να μιλήσει σε μένα ακόμη, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "Και πρόσθεσε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "να μιλήσει"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "σε μένα"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ακόμη"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T03:49:24.222515996Z",
+  "model": "glm-5.3"
+}

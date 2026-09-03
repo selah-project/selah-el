@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "el",
+  "chapter": 20,
+  "translation": "Αυτό το ξέρεις από τότε που ο άνθρωπος τέθηκε πάνω στη γη;",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "Αυτό"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "το ξέρεις"
+    },
+    {
+      "surface": "מני",
+      "gloss": "από"
+    },
+    {
+      "surface": "עד",
+      "gloss": "τόσο"
+    },
+    {
+      "surface": "מני",
+      "gloss": "από"
+    },
+    {
+      "surface": "שים",
+      "gloss": "τέθηκε"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ο άνθρωπος"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "στη γη"
+    }
+  ],
+  "timestamp": "2026-09-03T09:13:03.047132905Z",
+  "model": "glm-5.3"
+}

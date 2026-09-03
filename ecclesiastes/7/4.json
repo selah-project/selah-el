@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Η καρδιά των σοφών ⟨είναι⟩ σε σπίτι πένθους, και η καρδιά των ανόητων ⟨είναι⟩ σε σπίτι χαράς.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Η καρδιά"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "των σοφών"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "σε σπίτι"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "πένθους"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "και η καρδιά"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "των ανόητων"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "σε σπίτι"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "χαράς"
+    }
+  ],
+  "timestamp": "2026-09-03T09:40:57.373023644Z",
+  "model": "glm-5.3"
+}

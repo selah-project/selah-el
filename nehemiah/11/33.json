@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Χατσόρ, Ραμά, Γιταΐμ.",
+  "tokens": [
+    {
+      "surface": "חצור",
+      "gloss": "Χατσόρ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "Ραμά"
+    },
+    {
+      "surface": "גתים",
+      "gloss": "Γιταΐμ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:21:36.440232751Z",
+  "model": "glm-5.3"
+}

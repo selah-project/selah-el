@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "και Γιααρεσγιά, και Ελιά, και Ζιχρί, γιοι του Γεροχάμ.",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "και Γιααρεσγιά"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "και Ελιά"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "και Ζιχρί"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "του Γεροχάμ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:33:28.170391644Z",
+  "model": "glm-5.3"
+}

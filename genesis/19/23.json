@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "Ο ήλιος βγήκε πάνω στη γη, και ο Λοτ μπήκε στο Τσοάρ.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "Ο ήλιος"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "βγήκε"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "στη γη"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "και ο Λοτ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "μπήκε"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "στο Τσοάρ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:25:22.265252009Z",
+  "model": "glm-5.3"
+}

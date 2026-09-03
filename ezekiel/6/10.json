@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και θα γνωρίσουν ότι εγώ Γιαχβέ δεν για τίποτα μίλησα, να κάνω σε αυτούς το κακό αυτό.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Και θα γνωρίσουν"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ότι"
+    },
+    {
+      "surface": "אני",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אל",
+      "gloss": "για"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "τίποτα"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "μίλησα"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "να κάνω"
+    },
+    {
+      "surface": "להם",
+      "gloss": "σε αυτούς"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "το κακό"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "αυτό"
+    }
+  ],
+  "timestamp": "2026-09-03T05:19:42.656801034Z",
+  "model": "glm-5.3"
+}

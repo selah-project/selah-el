@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Εσύ, Γιαχβέ, στον αιώνα κάθεσαι· ο θρόνος σου σε γενιά και γενιά.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Εσύ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "στον αιώνα"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "κάθεσαι"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ο θρόνος σου"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "σε γενιά"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "και γενιά"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:04.860083969Z",
+  "model": "glm-5.3"
+}

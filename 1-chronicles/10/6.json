@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Και πέθανε ο Σαούλ και οι τρεις γιοι του και όλο το σπίτι του — μαζί πέθαναν.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Και πέθανε"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ο Σαούλ"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "και οι τρεις"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "γιοι του"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "και όλο"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "το σπίτι του"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "μαζί"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "πέθαναν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:36:18.283831731Z",
+  "model": "glm-5.3"
+}

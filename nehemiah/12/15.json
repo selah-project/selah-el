@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "του Χαρίμ, Αδνά· του Μεραγιότ, Χελκάι",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "του Χαρίμ"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "Αδνά"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "του Μεραγιότ"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "Χελκάι"
+    }
+  ],
+  "timestamp": "2026-09-03T10:21:14.495949293Z",
+  "model": "glm-5.3"
+}

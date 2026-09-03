@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "el",
+  "chapter": 38,
+  "translation": "Ποιος είναι αυτός που σκοτίζει τη βουλή με λόγια χωρίς γνώση;",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ποιος"
+    },
+    {
+      "surface": "זה",
+      "gloss": "αυτός"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "σκοτίζει"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "τη βουλή"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "με λόγια"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "χωρίς"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "γνώση"
+    }
+  ],
+  "timestamp": "2026-09-03T09:23:14.192819547Z",
+  "model": "glm-5.3"
+}

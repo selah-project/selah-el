@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Αχιάμ γιος Σαχάρ ο Χαραρίτης, Ελιφάλ γιος Ουρ,",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "Αχιάμ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "Σαχάρ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ο Χαραρίτης"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "Ελιφάλ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Ουρ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:34:39.689343714Z",
+  "model": "glm-5.3"
+}

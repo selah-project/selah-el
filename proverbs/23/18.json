@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Γιατί σίγουρα υπάρχει ⟨ένα⟩ μέλλον, και η ελπίδα σου δεν θα κοπεί.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "אם",
+      "gloss": "σίγουρα"
+    },
+    {
+      "surface": "יש",
+      "gloss": "υπάρχει"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "μέλλον"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "και η ελπίδα σου"
+    },
+    {
+      "surface": "לא",
+      "gloss": "όχι"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "θα κοπεί"
+    }
+  ],
+  "timestamp": "2026-09-03T08:55:53.824808846Z",
+  "model": "glm-5.3"
+}

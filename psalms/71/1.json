@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 71,
+  "translation": "Σε σέ, Γιαχβέ, κατέφυγα· ας μη ντραπώ στον αιώνα.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "σε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "κατέφυγα"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ας μη"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ντραπώ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "στον αιώνα"
+    }
+  ],
+  "timestamp": "2026-09-03T08:10:05.511547070Z",
+  "model": "glm-5.3"
+}

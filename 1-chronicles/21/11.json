@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Και ήρθε ο Γαδ στον Δαβίδ και του είπε: Έτσι είπε ο Γιαχβέ: Δέξου για σένα—",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Και ήρθε"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ο Γαδ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Δαβίδ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "και είπε"
+    },
+    {
+      "surface": "לו",
+      "gloss": "του"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Έτσι"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "Δέξου"
+    },
+    {
+      "surface": "לך",
+      "gloss": "για σένα"
+    }
+  ],
+  "timestamp": "2026-09-03T10:42:55.869957713Z",
+  "model": "glm-5.3"
+}

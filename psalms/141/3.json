@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 141,
+  "translation": "Θες, Γιαχβέ, φρουρά στο στόμα μου· φύλαξε την πόρτα των χειλιών μου.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Θες"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "φρουρά"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "στο στόμα μου"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "φύλαξε"
+    },
+    {
+      "surface": "על",
+      "gloss": "την"
+    },
+    {
+      "surface": "דל",
+      "gloss": "πόρτα"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "των χειλιών μου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:38:55.087753536Z",
+  "model": "glm-5.3"
+}

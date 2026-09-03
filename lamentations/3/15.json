@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Με χόρτασε με πικράδια, με μέθυσε με αψιθιά.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "Με χόρτασε"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "με πικράδια"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "με μέθυσε"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "με αψιθιά"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:50.144872934Z",
+  "model": "glm-5.3"
+}

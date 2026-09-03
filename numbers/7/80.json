@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "ένα χρυσό σκεύος δέκα σέκελ, γεμάτο θυμίαμα.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "σκεύος"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "δέκα"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "χρυσό"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "γεμάτο"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "θυμίαμα"
+    }
+  ],
+  "timestamp": "2026-09-03T00:24:43.714333727Z",
+  "model": "glm-5.3"
+}

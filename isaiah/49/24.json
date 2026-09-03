@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 49,
+  "translation": "Θα αρπαχτεί λεία από ισχυρό; και αιχμάλωτο δίκαιο θα σωθεί;",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "Θα αρπαχτεί"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "από ισχυρό"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "λεία"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "και"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "αιχμάλωτο"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "δίκαιο"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "θα σωθεί"
+    }
+  ],
+  "timestamp": "2026-09-03T04:20:40.325831546Z",
+  "model": "glm-5.3"
+}

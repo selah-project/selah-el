@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Βαναγιά, Μερεμότ, Ελιασίβ.",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "Βαναγιά"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "Μερεμότ"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Ελιασίβ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:08:43.169413312Z",
+  "model": "glm-5.3"
+}

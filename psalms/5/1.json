@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Στον μαέστρο, πάνω στα Νεχιλότ· μίζμορ του Δαβίδ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον μαέστρο"
+    },
+    {
+      "surface": "אל",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "τα Νεχιλότ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "μίζμορ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "του Δαβίδ"
+    }
+  ],
+  "timestamp": "2026-09-03T07:41:23.835167434Z",
+  "model": "glm-5.3"
+}

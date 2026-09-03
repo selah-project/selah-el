@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 33,
+  "translation": "Τορά μας ενέλαλλε ο Μοσέ, κληρονομιά της κοινότητας του Γιαακόβ.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Τορά"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ενέλαλλε"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "μας"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "κληρονομιά"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "της κοινότητας"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "του Γιαακόβ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:58:49.260966747Z",
+  "model": "glm-5.3"
+}

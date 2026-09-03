@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και μίλησε ο Ελοχίμ στον Μοσέ και του είπε: εγώ ⟨είμαι⟩ ο Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Και μίλησε"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ο Ελοχίμ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Μοσέ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "και του είπε"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "του"
+    },
+    {
+      "surface": "אני",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:46:08.681645467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Έφερε στα νεφρά μου τους γιους της φαρέτρας του.",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "Έφερε"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "στα νεφρά μου"
+    },
+    {
+      "surface": "בני",
+      "gloss": "τους γιους"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "της φαρέτρας του"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:50.144539344Z",
+  "model": "glm-5.3"
+}

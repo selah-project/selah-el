@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Και οι γιοι του Ναδάβ: Σελέντ και Απαΐμ· και πέθανε ο Σελέντ χωρίς γιους.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "και οι γιοι"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "του Ναδάβ"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Σελέντ"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "και Απαΐμ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "και πέθανε"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "ο Σελέντ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "όχι"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "γιους"
+    }
+  ],
+  "timestamp": "2026-09-03T10:25:42.390223794Z",
+  "model": "glm-5.3"
+}

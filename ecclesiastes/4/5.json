@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Ο άφρων αγκαλιάζει ⟨את⟩ τα χέρια του και τρώει ⟨את⟩ την σάρκα του.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Ο άφρων"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "αγκαλιάζει"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τα χέρια του"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "τα χέρια του"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "και τρώει"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "την σάρκα του"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "την σάρκα του"
+    }
+  ],
+  "timestamp": "2026-09-03T09:38:30.846469496Z",
+  "model": "glm-5.3"
+}

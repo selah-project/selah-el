@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 29,
+  "translation": "Φωνή Γιαχβέ με δύναμη· φωνή Γιαχβέ με μεγαλοπρέπεια.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Φωνή"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "με δύναμη"
+    },
+    {
+      "surface": "קול",
+      "gloss": "φωνή"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "με μεγαλοπρέπεια"
+    }
+  ],
+  "timestamp": "2026-09-03T07:50:46.321288767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 12:17",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "του Αβιγιά, Ζιχρί· του Μινιαμίν, του Μοαδιά, Πιλτάι.",
+  "tokens": [
+    {
+      "surface": "לאביה",
+      "gloss": "του Αβιγιά"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Ζιχρί"
+    },
+    {
+      "surface": "למנימין",
+      "gloss": "του Μινιαμίν"
+    },
+    {
+      "surface": "למועדיה",
+      "gloss": "του Μοαδιά"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "Πιλτάι"
+    }
+  ],
+  "timestamp": "2026-09-03T10:22:16.102495888Z",
+  "model": "glm-5.3"
+}

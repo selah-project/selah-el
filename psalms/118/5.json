@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 118,
+  "translation": "Από το στενό φώναξα Γιαχ· Γιαχ με απάντησε σε πλατύ τόπο.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Από"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "το στενό"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "φώναξα"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Γιαχ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "με απάντησε"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "σε πλατύ τόπο"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Γιαχ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:30:49.926642264Z",
+  "model": "glm-5.3"
+}

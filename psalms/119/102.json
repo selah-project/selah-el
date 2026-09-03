@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 119,
+  "translation": "Από τις κρίσεις σου δεν ξέφυγα, γιατί εσύ με δίδαξες.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "Από τις κρίσεις σου"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "ξέφυγα"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "με δίδαξες"
+    }
+  ],
+  "timestamp": "2026-09-03T08:33:20.698679719Z",
+  "model": "glm-5.3"
+}

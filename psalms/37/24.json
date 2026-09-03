@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 37,
+  "translation": "Όταν πέσει, δεν θα ριχτεί κάτω· γιατί ο Γιαχβέ στηρίζει το χέρι του.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Όταν"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "πέσει"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "θα ριχτεί κάτω"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "στηρίζει"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "το χέρι του"
+    }
+  ],
+  "timestamp": "2026-09-03T07:55:49.005619090Z",
+  "model": "glm-5.3"
+}

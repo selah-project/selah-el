@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 17,
+  "translation": "Γιέ ανθρώπου, πόσε ένα αίνιγμα και βάλε μια παροιμία στον οίκο του Ισραέλ·",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Γιέ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ανθρώπου"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "πόσε"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "ένα αίνιγμα"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "και βάλε"
+    },
+    {
+      "surface": "משל",
+      "gloss": "μια παροιμία"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "בית",
+      "gloss": "οίκο"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "του Ισραέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T05:30:06.321693427Z",
+  "model": "glm-5.3"
+}

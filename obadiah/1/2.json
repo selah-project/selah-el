@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Δες, μικρό σε έκανα στα έθνη, περιφρονημένος ⟨είσαι⟩ πολύ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Δες"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "μικρό"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "σε έκανα"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "στα έθνη"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "περιφρονημένος"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "πολύ"
+    }
+  ],
+  "timestamp": "2026-09-03T07:17:14.789417474Z",
+  "model": "glm-5.3"
+}

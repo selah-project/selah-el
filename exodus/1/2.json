@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Ρεουβέν, Σιμεόν, Λευί και Ιεχούδα.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Ρεουβέν"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Σιμεόν"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Λευί"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "και Ιεχούδα"
+    }
+  ],
+  "timestamp": "2026-09-02T23:44:14.468637759Z",
+  "model": "glm-5.3"
+}

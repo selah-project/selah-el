@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 135,
+  "translation": "Στόμα έχουν κι δεν μιλούν· μάτια έχουν κι δεν βλέπουν.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Στόμα"
+    },
+    {
+      "surface": "להם",
+      "gloss": "έχουν"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "κι δεν"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "μιλούν"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "μάτια"
+    },
+    {
+      "surface": "להם",
+      "gloss": "έχουν"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "κι δεν"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "βλέπουν"
+    }
+  ],
+  "timestamp": "2026-09-03T08:37:20.287599672Z",
+  "model": "glm-5.3"
+}

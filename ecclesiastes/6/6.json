@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Κι αν ζούσε χίλια χρόνια δυο φορές, και καλό δεν είδε — δεν πηγαίνουν όλοι σε ένα μόνο τόπο;",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "Κι αν"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ζούσε"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "χίλια"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "χρόνια"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "δυο φορές"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "και καλό"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "είδε"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אל",
+      "gloss": "σε"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "τόπο"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένα μόνο"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "όλοι"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "πηγαίνουν"
+    }
+  ],
+  "timestamp": "2026-09-03T09:40:25.178239436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Και μιλησε ο Γιαχβέ στον Μοσέ λεγοντας·",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Και μιλησε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Μοσέ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λεγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:17:54.211324025Z",
+  "model": "glm-5.3"
+}

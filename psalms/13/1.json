@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Για τον μαέστρο· ψαλμός του Δαβίδ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Για τον μαέστρο"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ψαλμός"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "του Δαβίδ"
+    }
+  ],
+  "timestamp": "2026-09-03T07:45:34.320200403Z",
+  "model": "glm-5.3"
+}

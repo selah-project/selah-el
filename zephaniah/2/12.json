@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Και εσείς, Κουσίτες — τραυματίες του σπαθιού μου ⟨είναι⟩ αυτοί.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Και"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "εσείς"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "Κουσίτες"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "τραυματίες"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "του σπαθιού μου"
+    },
+    {
+      "surface": "המה",
+      "gloss": "αυτοί"
+    }
+  ],
+  "timestamp": "2026-09-03T07:28:27.486988358Z",
+  "model": "glm-5.3"
+}

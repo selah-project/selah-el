@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "και Ισμεράι, και Ιζλιά, και Γιοβάβ, γιοι του Ελπαάλ·",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "και Ισμεράι"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "και Ιζλιά"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "και Γιοβάβ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "του Ελπαάλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:32:49.777019030Z",
+  "model": "glm-5.3"
+}

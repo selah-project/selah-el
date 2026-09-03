@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Μη λοξοδρομείς δεξιά και αριστερά· απόστρεψε το πόδι σου από το κακό.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Μη"
+    },
+    {
+      "surface": "תט",
+      "gloss": "λοξοδρομείς"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "δεξιά"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "και αριστερά"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "απόστρεψε"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "το πόδι σου"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "από το κακό"
+    }
+  ],
+  "timestamp": "2026-09-03T08:42:54.781424260Z",
+  "model": "glm-5.3"
+}

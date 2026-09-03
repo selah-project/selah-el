@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Τα νερά μας με ασήπι τα είπαμε—",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "Τα νερά μας"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "με ασήπι"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "τα είπαμε"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "τα ξύλα μας"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "με τιμή"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "έρχονται"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:22.183784273Z",
+  "model": "glm-5.3"
+}

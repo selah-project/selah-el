@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Δείτε, εγώ δίνω μπροστά σας σήμερα ευλογία και κατάρα.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Δείτε"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "δίνω"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "μπροστά σας"
+    },
+    {
+      "surface": "היום",
+      "gloss": "σήμερα"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ευλογία"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "και κατάρα"
+    }
+  ],
+  "timestamp": "2026-09-03T00:46:54.894449059Z",
+  "model": "glm-5.3"
+}

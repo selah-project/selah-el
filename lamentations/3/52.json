@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Κυνηγώντας με κυνηγήσανε σαν πουλί οι εχθροί μου, χωρίς αιτία.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "Κυνηγώντας"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "με κυνηγήσανε"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "σαν πουλί"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "οι εχθροί μου"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "χωρίς αιτία"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:11.790461725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "γιατί δεν θα υπάρξει μέλλον για τον κακό· ο λύχνος των ασεβών θα σβήσει.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "θα υπάρξει"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "μέλλον"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "για τον κακό"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ο λύχνος"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "των ασεβών"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "θα σβήσει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:56:30.708204036Z",
+  "model": "glm-5.3"
+}

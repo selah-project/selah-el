@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 36,
+  "translation": "όπως εντόπισε ο Γιαχβέ ⟨את⟩ τον Μοσέ, έτσι έκαναν οι κόρες του Τσελφχάντ.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "όπως"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "εντόπισε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Μοσέ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "τον Μοσέ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "έκαναν"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "οι κόρες"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "του Τσελφχάντ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:41:11.559677504Z",
+  "model": "glm-5.3"
+}

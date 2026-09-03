@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 110,
+  "translation": "Από χείμαρρο στον δρόμο θα πιει· γι' αυτό θα υψώσει κεφάλι.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "Από χείμαρρο"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "στον δρόμο"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "θα πιει"
+    },
+    {
+      "surface": "על",
+      "gloss": "γι'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "θα υψώσει"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "κεφάλι"
+    }
+  ],
+  "timestamp": "2026-09-03T08:28:52.821694369Z",
+  "model": "glm-5.3"
+}

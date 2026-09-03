@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Κάθε αρσενικό στους κοέν θα φάει ⟨את⟩ την προσφορά· άγιο αγίων είναι.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "κάθε"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "αρσενικό"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "στους κοέν"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "θα φάει"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "την προσφορά"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "άγιο"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "αγίων"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "είναι"
+    }
+  ],
+  "timestamp": "2026-09-03T00:04:33.688721612Z",
+  "model": "glm-5.3"
+}

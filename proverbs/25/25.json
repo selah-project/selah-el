@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 25,
+  "translation": "Νερά δροσερά πάνω σε ψυχή εξαντλημένη — και είδηση καλή από γη μακρινή.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "Νερά"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "δροσερά"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ψυχή"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "εξαντλημένη"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "και είδηση"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "καλή"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "από γη"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "μακρινή"
+    }
+  ],
+  "timestamp": "2026-09-03T08:57:09.562659201Z",
+  "model": "glm-5.3"
+}

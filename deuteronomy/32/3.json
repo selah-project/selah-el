@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 32,
+  "translation": "Γιατί το όνομα του Γιαχβέ θα διακηρύξω· δώστε μεγαλείο στον Ελοχίμ μας.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "שם",
+      "gloss": "όνομα"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "θα διακηρύξω"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "δώστε"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "μεγαλείο"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "στον Ελοχίμ μας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:59:12.749050528Z",
+  "model": "glm-5.3"
+}

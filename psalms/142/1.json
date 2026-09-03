@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 142,
+  "translation": "Μασκίλ του Δαβίδ, όταν ήταν στο σπήλαιο· προσευχή.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Μασκίλ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "του Δαβίδ"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "όταν ήταν"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "στο σπήλαιο"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "προσευχή"
+    }
+  ],
+  "timestamp": "2026-09-03T08:38:52.910864581Z",
+  "model": "glm-5.3"
+}

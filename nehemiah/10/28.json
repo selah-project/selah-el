@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Μαλούκ, Χαρίμ, Βαανά.",
+  "tokens": [
+    {
+      "surface": "מלוך",
+      "gloss": "Μαλούκ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Χαρίμ"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "Βαανά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:20:39.516194456Z",
+  "model": "glm-5.3"
+}

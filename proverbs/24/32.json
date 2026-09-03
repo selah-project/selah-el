@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "και το είδα εγώ, έβαλα την καρδιά μου· είδα, πήρα διδασκαλία.",
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "και το είδα"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "έβαλα"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "την καρδιά μου"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "είδα"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "πήρα"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "διδασκαλία"
+    }
+  ],
+  "timestamp": "2026-09-03T08:56:50.710940464Z",
+  "model": "glm-5.3"
+}

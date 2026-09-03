@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Πλούσιος και φτωχός συναντιούνται· όλους τους έκανε ο Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "πλούσιος"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "και φτωχός"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "συναντιούνται"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "έκανε"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "όλους τους"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:54:40.724233838Z",
+  "model": "glm-5.3"
+}

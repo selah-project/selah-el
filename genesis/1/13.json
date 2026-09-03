@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Και έγινε βράδυ και έγινε πρωί· ημέρα τρίτη.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και έγινε"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "βράδυ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "και έγινε"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "πρωί"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ημέρα"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "τρίτη"
+    }
+  ],
+  "timestamp": "2026-09-02T23:19:31.835311738Z",
+  "model": "glm-5.3"
+}

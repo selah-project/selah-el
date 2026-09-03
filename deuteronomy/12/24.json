@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Δεν θα το φας· πάνω στη γη θα το χύσεις σαν νερό.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "θα το φας"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "στη γη"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "θα το χύσεις"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "σαν νερό"
+    }
+  ],
+  "timestamp": "2026-09-03T00:48:55.222373502Z",
+  "model": "glm-5.3"
+}

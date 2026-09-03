@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "el",
+  "chapter": 17,
+  "translation": "Και έγινε λόγος του Γιαχβέ σ' αυτόν, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και έγινε"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "σ' αυτόν"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας:"
+    }
+  ],
+  "timestamp": "2026-09-03T02:59:57.592427076Z",
+  "model": "glm-5.3"
+}

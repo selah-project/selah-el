@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Και είπα σε αυτούς: Λόγος του Γιαχβέ ήταν σε μένα, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Και είπα"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "σε αυτούς"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ήταν"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "σε μένα"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T05:35:53.566757298Z",
+  "model": "glm-5.3"
+}

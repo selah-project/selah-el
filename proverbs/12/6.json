@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Λόγια ασεβών — ενέδρα αίματος· και το στόμα των ευθίων θα τους σώσει.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "λόγια"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ασεβών"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ενέδρα"
+    },
+    {
+      "surface": "דם",
+      "gloss": "αίματος"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "και το στόμα"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "των ευθίων"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "θα τους σώσει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:48:17.558239784Z",
+  "model": "glm-5.3"
+}

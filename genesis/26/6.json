@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 26,
+  "translation": "Και έμεινε ο Γιτσχάκ στη Γκεράρ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Και έμεινε"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ο Γιτσχάκ"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "στη Γκεράρ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:30:41.698559177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Υπερασπίστηκες, Αδωνάι, τις ρίβες της νεφές μου· λύτρωσες τη ζωή μου.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Υπερασπίστηκες"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Αδωνάι"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "τις ρίβες"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "της νεφές μου"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "λύτρωσες"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "τη ζωή μου"
+    }
+  ],
+  "timestamp": "2026-09-03T09:33:06.431262986Z",
+  "model": "glm-5.3"
+}

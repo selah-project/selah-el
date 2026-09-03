@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "Και τα πτώματά σας — εσείς — θα πέσουν σε αυτή την έρημο.",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "και τα πτώματά σας"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "εσείς"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "θα πέσουν"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "σε αυτή την έρημο"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "αυτή"
+    }
+  ],
+  "timestamp": "2026-09-03T00:27:11.045971939Z",
+  "model": "glm-5.3"
+}

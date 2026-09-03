@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 119,
+  "translation": "Κοντά ⟨είσαι⟩ εσύ, Γιαχβέ, και όλες οι εντολές σου αλήθεια.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Κοντά"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "και όλες"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "οι εντολές σου"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "αλήθεια"
+    }
+  ],
+  "timestamp": "2026-09-03T11:28:28.477956540Z",
+  "model": "glm-5.3"
+}

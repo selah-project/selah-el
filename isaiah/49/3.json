@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 49,
+  "translation": "Και είπε σε μένα: ο δούλος μου εσύ, Ισραέλ, που σε σένα θα δοξαστώ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "לי",
+      "gloss": "σε μένα"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ο δούλος μου"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ισραέλ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "בך",
+      "gloss": "σε σένα"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "θα δοξαστώ"
+    }
+  ],
+  "timestamp": "2026-09-03T04:21:24.748019641Z",
+  "model": "glm-5.3"
+}

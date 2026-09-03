@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Οι γιοι του Μούσι: Μαχλί και Εδέρ και Ιεριμώθ, τρεις.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "του Μούσι"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Μαχλί"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "και Εδέρ"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "και Ιεριμώθ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "τρεις"
+    }
+  ],
+  "timestamp": "2026-09-03T10:46:01.274746412Z",
+  "model": "glm-5.3"
+}

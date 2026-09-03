@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Ας είναι για σένα, μόνο για σένα, και όχι για ξένους με ⟨את⟩ εσένα.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ας είναι"
+    },
+    {
+      "surface": "לך",
+      "gloss": "για σένα"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "μόνο για σένα"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "και όχι"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "για ξένους"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "με ⟨את⟩ εσένα",
+      "marks": "σε εσένα"
+    }
+  ],
+  "timestamp": "2026-09-03T08:44:47.734286248Z",
+  "model": "glm-5.3"
+}

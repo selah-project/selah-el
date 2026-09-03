@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "Άκουσε, Γιαχβέ, και δείξε μου χάρη· Γιαχβέ, γίνε βοηθός μου.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Άκουσε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "και δείξε μου χάρη"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "γίνε"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "βοηθός"
+    },
+    {
+      "surface": "לי",
+      "gloss": "μου"
+    }
+  ],
+  "timestamp": "2026-09-03T12:39:51.742719335Z",
+  "model": "glm-5.3"
+}

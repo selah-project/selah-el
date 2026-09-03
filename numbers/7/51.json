@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "ένα μοσχάρι, γιο βοδιού, έναν κριό, ένα αρνί, γιο ενός χρόνου, για ολά.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "μοσχάρι"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιο"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "βοδιού"
+    },
+    {
+      "surface": "איל",
+      "gloss": "κριό"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "έναν"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "αρνί"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιο"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ενός χρόνου"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "για ολά"
+    }
+  ],
+  "timestamp": "2026-09-03T00:23:22.550038412Z",
+  "model": "glm-5.3"
+}

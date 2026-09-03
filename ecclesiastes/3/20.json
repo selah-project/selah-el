@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Το σύνολο πηγαίνει σε έναν τόπο· το σύνολο έγινε από τη σκόνη και το σύνολο γυρίζει πίσω στη σκόνη.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "το σύνολο"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "πηγαίνει"
+    },
+    {
+      "surface": "אל",
+      "gloss": "σε"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "έναν τόπο"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "έναν"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "το σύνολο"
+    },
+    {
+      "surface": "היה",
+      "gloss": "έγινε"
+    },
+    {
+      "surface": "מן",
+      "gloss": "από"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "τη σκόνη"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "και το σύνολο"
+    },
+    {
+      "surface": "שב",
+      "gloss": "γυρίζει πίσω"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στη"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "σκόνη"
+    }
+  ],
+  "timestamp": "2026-09-03T09:37:31.454850012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 89,
+  "translation": "Ως πότε, Γιαχβέ, θα κρυφτείς για πάντα; Θα ανάβει σαν φωτιά η οργή σου;",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ως"
+    },
+    {
+      "surface": "מה",
+      "gloss": "πότε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "θα κρυφτείς"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "για πάντα"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "θα ανάβει"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "σαν"
+    },
+    {
+      "surface": "אש",
+      "gloss": "φωτιά"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "η οργή σου"
+    }
+  ],
+  "timestamp": "2026-09-03T11:28:50.339620082Z",
+  "model": "glm-5.3"
+}

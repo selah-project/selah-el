@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Τα χείλη των σοφών σκορπίζουν γνώση, και η καρδιά των ανόητων όχι έτσι.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "Τα χείλη"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "των σοφών"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "σκορπίζουν"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "γνώση"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "και η καρδιά"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "των ανόητων"
+    },
+    {
+      "surface": "לא",
+      "gloss": "όχι"
+    },
+    {
+      "surface": "כן",
+      "gloss": "έτσι"
+    }
+  ],
+  "timestamp": "2026-09-03T08:50:48.758506195Z",
+  "model": "glm-5.3"
+}

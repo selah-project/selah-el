@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Λόγο έστειλε ο Αδωνάι στον Γιαακόβ, και έπεσε στον Ισραέλ.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Λόγο"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "έστειλε"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ο Αδωνάι"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "στον Γιαακόβ"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "και έπεσε"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "στον Ισραέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T03:54:36.769443332Z",
+  "model": "glm-5.3"
+}

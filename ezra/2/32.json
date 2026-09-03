@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Οι γιοι του Χαρίμ, τριακόσιοι είκοσι.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "του Χαρίμ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "τριακόσιοι"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εκατοντάδες"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "είκοσι"
+    }
+  ],
+  "timestamp": "2026-09-03T10:03:56.301480539Z",
+  "model": "glm-5.3"
+}

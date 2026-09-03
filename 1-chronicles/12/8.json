@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "και Γιοελά, και Ζβαδγιά, γιοι του Γεροχάμ, από το Γκεντόρ.",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "και Γιοελά"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "και Ζβαδγιά"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "του Γεροχάμ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "από"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "το Γκεντόρ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:37:09.302029342Z",
+  "model": "glm-5.3"
+}

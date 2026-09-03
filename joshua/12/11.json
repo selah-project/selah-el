@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 12:11",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "ο βασιλιάς της Γιαρμούτ, ένας· ο βασιλιάς της Λακίς, ένας·",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ο βασιλιάς"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "της Γιαρμούτ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ο βασιλιάς"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "της Λακίς"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    }
+  ],
+  "timestamp": "2026-09-03T01:07:31.800643639Z",
+  "model": "glm-5.3"
+}

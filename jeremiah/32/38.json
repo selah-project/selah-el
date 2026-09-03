@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 32,
+  "translation": "Και θα είναι σε μένα για λαό, και εγώ θα είμαι σε αυτούς για Ελοχίμ.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "και θα είναι"
+    },
+    {
+      "surface": "לי",
+      "gloss": "σε μένα"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "για λαό"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "και εγώ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "θα είμαι"
+    },
+    {
+      "surface": "להם",
+      "gloss": "σε αυτούς"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "για Ελοχίμ"
+    }
+  ],
+  "timestamp": "2026-09-03T04:59:49.720762077Z",
+  "model": "glm-5.3"
+}

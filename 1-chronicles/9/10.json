@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Και από τους κοέν: Γιδαγιά, Γιεχογιαρίβ και Γιάχιν.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "και από"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "τους κοέν"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Γιδαγιά"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "Γιεχογιαρίβ"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "Γιάχιν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:33:45.667609885Z",
+  "model": "glm-5.3"
+}

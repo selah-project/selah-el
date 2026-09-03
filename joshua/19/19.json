@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "και Χαφαραΐμ, και Σιόν, και Αναχαράτ.",
+  "tokens": [
+    {
+      "surface": "וחפרים",
+      "gloss": "και Χαφαραΐμ"
+    },
+    {
+      "surface": "ושיאן",
+      "gloss": "και Σιόν"
+    },
+    {
+      "surface": "ואנחרת",
+      "gloss": "και Αναχαράτ"
+    }
+  ],
+  "timestamp": "2026-09-03T01:13:56.024011327Z",
+  "model": "glm-5.3"
+}

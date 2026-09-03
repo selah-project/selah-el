@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "Δύο ζήτησα από ⟨את⟩ εσένα· μην μου τα αρνηθείς πριν πεθάνω.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Δύο"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ζήτησα"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "από ⟨את⟩ εσένα"
+    },
+    {
+      "surface": "אל",
+      "gloss": "μην"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "αρνηθείς"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "μου"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "πριν"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "πεθάνω"
+    }
+  ],
+  "timestamp": "2026-09-03T09:00:22.192509436Z",
+  "model": "glm-5.3"
+}

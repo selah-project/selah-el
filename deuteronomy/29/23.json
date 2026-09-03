@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 29,
+  "translation": "και θα πουν όλα τα έθνη: γιατί έκανε έτσι ο Γιαχβέ σε αυτή τη γη; τι ⟨είναι⟩ το κάψιμο του μεγάλου αυτού θυμού;",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "και θα πουν"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "τα έθνη"
+    },
+    {
+      "surface": "על",
+      "gloss": "για"
+    },
+    {
+      "surface": "מה",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "έκανε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "σε αυτή τη γη"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "αυτή"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "το κάψιμο"
+    },
+    {
+      "surface": "האף",
+      "gloss": "του θυμού"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "του μεγάλου"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "αυτού"
+    }
+  ],
+  "timestamp": "2026-09-03T00:57:25.181151008Z",
+  "model": "glm-5.3"
+}

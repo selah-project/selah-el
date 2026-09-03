@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Γιατί λάκκος βαθύς ⟨είναι⟩ η πόρνη, και πηγάδι στενό ⟨είναι⟩ η ξένη.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "λάκκος"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "βαθύς"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "η πόρνη"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "και πηγάδι"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "στενό"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "η ξένη"
+    }
+  ],
+  "timestamp": "2026-09-03T08:55:31.160808194Z",
+  "model": "glm-5.3"
+}

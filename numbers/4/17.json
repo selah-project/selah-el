@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Και μίλησε ο Γιαχβέ στον Μοσέ και στον Αχαρόν, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Και μίλησε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Μοσέ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "και στον"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Αχαρόν"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T12:05:39.046071586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 20:14",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 20,
+  "translation": "«Κακό, κακό», λέει ο αγοραστής· και όταν φεύγει ⟨ο ίδιος⟩, τότε καυχιέται.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "Κακό"
+    },
+    {
+      "surface": "רע",
+      "gloss": "κακό"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "λέει"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "ο αγοραστής"
+    },
+    {
+      "surface": "ואזל",
+      "gloss": "και φεύγει"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ο ίδιος⟩"
+    },
+    {
+      "surface": "אז",
+      "gloss": "τότε"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "καυχιέται"
+    }
+  ],
+  "timestamp": "2026-09-03T08:53:26.950411837Z",
+  "model": "glm-5.3"
+}

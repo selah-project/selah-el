@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 105,
+  "translation": "όταν ήταν άντρες αριθμού, σχεδόν λίγοι, και ξένοι σε αυτή.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "όταν ήταν"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "άντρες"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "αριθμού"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "σχεδόν"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "και ξένοι"
+    },
+    {
+      "surface": "בה",
+      "gloss": "σε αυτή"
+    }
+  ],
+  "timestamp": "2026-09-03T08:25:47.636437729Z",
+  "model": "glm-5.3"
+}

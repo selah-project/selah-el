@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 66,
+  "translation": "Ψάλτε τη δόξα του ονόματός του· δώστε δόξα στην αίνεσή του.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Ψάλτε"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "τη δόξα"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "του ονόματός του"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "δώστε"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "δόξα"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "στην αίνεσή του"
+    }
+  ],
+  "timestamp": "2026-09-03T08:07:22.206765986Z",
+  "model": "glm-5.3"
+}

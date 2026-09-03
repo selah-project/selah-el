@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 34,
+  "translation": "Γι' αυτό, οι ποιμένες, ακούστε τον λόγο του Γιαχβέ:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "γι' αυτό"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "οι ποιμένες"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ακούστε"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "τον λόγο"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T05:43:34.644409091Z",
+  "model": "glm-5.3"
+}

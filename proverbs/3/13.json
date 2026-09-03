@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Μακάριος ο άνθρωπος που βρήκε σοφία, και ο άνθρωπος που αποκτά σύνεση.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Μακάριος"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ο άνθρωπος"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "που βρήκε"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "σοφία"
+    },
+    {
+      "surface": "ויאדם",
+      "gloss": ""
+    },
+    {
+      "surface": "",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-03T08:43:17.289695762Z",
+  "model": "glm-5.3"
+}

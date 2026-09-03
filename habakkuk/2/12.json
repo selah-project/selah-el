@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Αί σε αυτόν που χτίζει πόλη με αίματα, και θεμελιώνει πόλη με αδικία.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Αί"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "χτίζει"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "πόλη"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "με αίματα"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "και θεμελιώνει"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "πόλη"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "με αδικία"
+    }
+  ],
+  "timestamp": "2026-09-03T07:27:05.399823838Z",
+  "model": "glm-5.3"
+}

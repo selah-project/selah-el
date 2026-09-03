@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "Αγιάλ, και τσεβί, και Γιαχμούρ, και Ακκό, και Ντισόν, και Τεό, και Ζεμέρ.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "Αγιάλ"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "και τσεβί"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "και Γιαχμούρ"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "και Ακκό"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "και Ντισόν"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "και Τεό"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "και Ζεμέρ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:50:29.659460142Z",
+  "model": "glm-5.3"
+}

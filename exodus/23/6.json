@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Δεν θα στρέψεις τη δίκη του φτωχού σου στη δίκη του.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "θα στρέψεις"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "τη δίκη"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "του φτωχού σου"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "στη δίκη του"
+    }
+  ],
+  "timestamp": "2026-09-02T23:52:27.631573331Z",
+  "model": "glm-5.3"
+}

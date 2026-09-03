@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Γιατί άνθρωπος δίκαιος δεν υπάρχει στη γη, που να κάνει το καλό και να μην αμαρτήσει.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "άνθρωπος"
+    },
+    {
+      "surface": "אין",
+      "gloss": "δεν υπάρχει"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "δίκαιος"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "στη γη"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "να κάνει"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "το καλό"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και να μην"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "αμαρτήσει"
+    }
+  ],
+  "timestamp": "2026-09-03T09:40:23.259533003Z",
+  "model": "glm-5.3"
+}

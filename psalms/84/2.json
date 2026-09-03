@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 84,
+  "translation": "Πόσο αγαπητές οι κατοικίες σου, Γιαχβέ Τσεβαότ!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Πόσο"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "αγαπητές"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "οι κατοικίες σου"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Τσεβαότ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:19:04.309089699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Και αν μινχά από μαρχέσετ είναι το κορβάν σου, σόλετ με λάδι θα γίνεται.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Και αν"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "μινχά"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "μαρχέσετ"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "το κορβάν σου"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "σόλετ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "με λάδι"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "θα γίνεται"
+    }
+  ],
+  "timestamp": "2026-09-03T00:03:29.303916087Z",
+  "model": "glm-5.3"
+}

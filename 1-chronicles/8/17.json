@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "και Ζαβαντία, και Μεσουλάμ, και Χιζκί, και Χαβέρ·",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "και Ζαβαντία"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "και Μεσουλάμ"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "και Χιζκί"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "και Χαβέρ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:32:49.776761853Z",
+  "model": "glm-5.3"
+}

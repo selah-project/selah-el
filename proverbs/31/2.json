@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 31,
+  "translation": "Τι, γιε μου· και τι, γιε της κοιλιάς μου· και τι, γιε των τάματών μου;",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Τι"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "γιε μου"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "και τι"
+    },
+    {
+      "surface": "בר",
+      "gloss": "γιε"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "της κοιλιάς μου"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "και τι"
+    },
+    {
+      "surface": "בר",
+      "gloss": "γιε"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "των τάματών μου"
+    }
+  ],
+  "timestamp": "2026-09-03T09:01:14.232046649Z",
+  "model": "glm-5.3"
+}

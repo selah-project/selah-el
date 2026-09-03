@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και ο Νοέ βρήκε χάρη στα μάτια του Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Και ο Νοέ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "βρήκε"
+    },
+    {
+      "surface": "חן",
+      "gloss": "χάρη"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "στα μάτια"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:21:29.805295654Z",
+  "model": "glm-5.3"
+}

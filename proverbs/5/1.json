@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Γιε μου, στη σοφία μου πρόσεχε, στη σύνεσή μου γέρνε τ' αυτί σου.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιε μου"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "στη σοφία μου"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "πρόσεχε"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "στη σύνεσή μου"
+    },
+    {
+      "surface": "הט",
+      "gloss": "γέρνε"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "τ' αυτί σου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:44:18.905540008Z",
+  "model": "glm-5.3"
+}

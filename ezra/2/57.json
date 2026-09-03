@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "ezra 2:57",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Γιοι Σεφατγιά, γιοι Χατίλ, γιοι Ποχέρετ-Χατσεβαΐμ, γιοι Αμί.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Σεφατγιά"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "חטיל",
+      "gloss": "Χατίλ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "פכרת",
+      "gloss": "Ποχέρετ"
+    },
+    {
+      "surface": "הצביים",
+      "gloss": "Χατσεβαΐμ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "Αμί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:04:31.055935808Z",
+  "model": "glm-5.3"
+}

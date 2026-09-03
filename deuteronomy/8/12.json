@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "μήπως φας και χορτάσεις, και καλά σπίτια χτίσεις και κατοικήσεις.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "μήπως"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "φας"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "και χορτάσεις"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "και σπίτια"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "καλά"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "χτίσεις"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "και κατοικήσεις"
+    }
+  ],
+  "timestamp": "2026-09-03T00:45:44.868187633Z",
+  "model": "glm-5.3"
+}

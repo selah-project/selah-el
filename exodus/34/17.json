@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 34,
+  "translation": "θεούς χυτούς δεν θα φτιάξεις για σένα.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "θεούς"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "χυτούς"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "θα φτιάξεις"
+    },
+    {
+      "surface": "לך",
+      "gloss": "για σένα"
+    }
+  ],
+  "timestamp": "2026-09-02T23:59:10.165864710Z",
+  "model": "glm-5.3"
+}

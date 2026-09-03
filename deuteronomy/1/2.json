@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Έντεκα μέρες από το Χορέβ, με δρόμο το βουνό Σεΐρ, ως το Καντές Βαρνέα.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "έν"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "τεκα"
+    },
+    {
+      "surface": "יום",
+      "gloss": "μέρες"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "από το Χορέβ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "με δρόμο"
+    },
+    {
+      "surface": "הר",
+      "gloss": "το βουνό"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Σεΐρ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ως"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "το Καντές"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Βαρνέα"
+    }
+  ],
+  "timestamp": "2026-09-03T00:43:16.838016873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "φύλαρχος Οχολιβάμα, φύλαρχος Ελά, φύλαρχος Πινόν.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "φύλαρχος"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Οχολιβάμα"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "φύλαρχος"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ελά"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "φύλαρχος"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "Πινόν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:24:15.989689016Z",
+  "model": "glm-5.3"
+}

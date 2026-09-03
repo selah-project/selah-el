@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "από το Αροέρ, που είναι πάνω στο χείλος του χειμάρρου Αρνόν, ως το βουνό Σιόν — αυτός είναι ο Χερμών.",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "από το Αροέρ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "στο χείλος"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "του χειμάρρου"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Αρνόν"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ως"
+    },
+    {
+      "surface": "הר",
+      "gloss": "το βουνό"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "Σιόν"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "αυτός"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ο Χερμών"
+    }
+  ],
+  "timestamp": "2026-09-03T00:44:42.494164009Z",
+  "model": "glm-5.3"
+}

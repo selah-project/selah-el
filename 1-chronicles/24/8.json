@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "για τον Χαρίμ ο τρίτος, για τον Σεαρίμ ο τέταρτος.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "για τον Χαρίμ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ο τρίτος"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "για τον Σεαρίμ"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "ο τέταρτος"
+    }
+  ],
+  "timestamp": "2026-09-03T10:45:47.900384603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 27,
+  "translation": "Γιατί ο πλούτος δεν ⟨είναι⟩ για πάντα, και αν το διάδημα σε γενιά και γενιά;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "για πάντα"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "ο πλούτος"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "και αν"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "το διάδημα"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "σε γενιά"
+    },
+    {
+      "surface": "דור",
+      "gloss": "γενιά"
+    }
+  ],
+  "timestamp": "2026-09-03T08:58:55.792943034Z",
+  "model": "glm-5.3"
+}

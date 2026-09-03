@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Ιδού, όμορφη είσαι, αγαπημένη μου· ιδού, όμορφη είσαι· τα μάτια σου περιστέρια.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "Ιδού"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "όμορφη"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "αγαπημένη μου"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "Ιδού"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "όμορφη"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "τα μάτια σου"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "περιστέρια"
+    }
+  ],
+  "timestamp": "2026-09-03T09:25:07.400273017Z",
+  "model": "glm-5.3"
+}

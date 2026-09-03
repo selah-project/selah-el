@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Έσβησαν σε λάκκο τη ζωή μου, και έρριξαν πέτρα πάνω μου.",
+  "tokens": [
+    {
+      "surface": "צָֽמְת֤וּ",
+      "gloss": "Έσβησαν"
+    },
+    {
+      "surface": "בַבּ֣וֹר",
+      "gloss": "σε λάκκο"
+    },
+    {
+      "surface": "חַיָּ֔י",
+      "gloss": "τη ζωή μου"
+    },
+    {
+      "surface": "וַיַּדּ֖וּ",
+      "gloss": "και έρριξαν"
+    },
+    {
+      "surface": "אֶ֥בֶן",
+      "gloss": "πέτρα"
+    },
+    {
+      "surface": "בִּֽי",
+      "gloss": "πάνω μου"
+    }
+  ],
+  "timestamp": "2026-09-03T09:33:27.578591362Z",
+  "model": "glm-5.3"
+}

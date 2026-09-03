@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 29,
+  "translation": "Την όγδοη μέρα θα έχετε συνέλευση· κανένα έργο δουλειάς δεν θα κάνετε",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "την ημέρα"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "την όγδοη"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "συνέλευση"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "θα είναι"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "σε εσάς"
+    },
+    {
+      "surface": "כל",
+      "gloss": "κανένα"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "έργο"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "δουλειάς"
+    },
+    {
+      "surface": "לא",
+      "gloss": "όχι"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "θα κάνετε"
+    }
+  ],
+  "timestamp": "2026-09-03T00:36:50.232034443Z",
+  "model": "glm-5.3"
+}

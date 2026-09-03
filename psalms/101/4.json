@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 101,
+  "translation": "Καρδιά στρεβλή θα φύγει μακριά μου· το κακό δεν θα το γνωρίσω.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "Καρδιά"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "στρεβλή"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "θα φύγει"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "μακριά μου"
+    },
+    {
+      "surface": "רע",
+      "gloss": "το κακό"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "θα γνωρίσω"
+    }
+  ],
+  "timestamp": "2026-09-03T08:22:59.625303115Z",
+  "model": "glm-5.3"
+}

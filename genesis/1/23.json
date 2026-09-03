@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Και ήταν βράδυ και ήταν πρωί, ημέρα πέμπτη.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και ήταν"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "βράδυ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "και ήταν"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "πρωί"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ημέρα"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "πέμπτη"
+    }
+  ],
+  "timestamp": "2026-09-02T23:19:35.040814962Z",
+  "model": "glm-5.3"
+}

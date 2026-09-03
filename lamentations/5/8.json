@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Δούλοι μας κυβέρνησαν· λυτρωτή δεν υπάρχει από το χέρι τους.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "Δούλοι"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "κυβέρνησαν"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "μας"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "λυτρωτή"
+    },
+    {
+      "surface": "אין",
+      "gloss": "δεν υπάρχει"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "από το χέρι τους"
+    }
+  ],
+  "timestamp": "2026-09-03T11:32:37.863560852Z",
+  "model": "glm-5.3"
+}

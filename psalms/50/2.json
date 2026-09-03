@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 50,
+  "translation": "Από την Τσιόν, τελειότητα ομορφιάς, ο Ελοχίμ έλαμψε.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "Από την Τσιόν"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "τελειότητα"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "ομορφιάς"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ο Ελοχίμ"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "έλαμψε"
+    }
+  ],
+  "timestamp": "2026-09-03T11:27:24.027158125Z",
+  "model": "glm-5.3"
+}

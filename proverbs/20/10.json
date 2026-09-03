@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 20,
+  "translation": "Πέτρα και πέτρα, έφα και έφα — βδέλυγμα του Γιαχβέ ⟨είναι⟩ και οι δύο τους.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "Πέτρα"
+    },
+    {
+      "surface": "וָאבן",
+      "gloss": "και πέτρα"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "έφα"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "και έφα"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "βδέλυγμα"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "και"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "οι δύο τους"
+    }
+  ],
+  "timestamp": "2026-09-03T08:52:36.705513968Z",
+  "model": "glm-5.3"
+}

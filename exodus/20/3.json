@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 20,
+  "translation": "Όχι θα υπάρξουν για σένα θεοί άλλοι πάνω από το πρόσωπό μου.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Όχι"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "θα υπάρξουν"
+    },
+    {
+      "surface": "לך",
+      "gloss": "για σένα"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "θεοί"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "άλλοι"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω από"
+    },
+    {
+      "surface": "פני",
+      "gloss": "το πρόσωπό μου"
+    }
+  ],
+  "timestamp": "2026-09-02T23:51:26.590517727Z",
+  "model": "glm-5.3"
+}

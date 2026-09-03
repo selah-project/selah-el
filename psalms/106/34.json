@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 106,
+  "translation": "Δεν εξόντωσαν ⟨את⟩ τους λαούς που είπε ο Γιαχβέ για εκείνους,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "εξόντωσαν"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τους λαούς"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "τους λαούς"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "για εκείνους"
+    }
+  ],
+  "timestamp": "2026-09-03T08:26:26.728539229Z",
+  "model": "glm-5.3"
+}

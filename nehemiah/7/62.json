@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "nehemiah 7:62",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Γιοι Ντελάγια, γιοι Τουβίγια, γιοι Νεκοδά — εξακόσιοι σαράντα και δύο.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "Ντελάγια"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Τουβίγια"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "Νεκοδά"
+    },
+    {
+      "surface": "שש",
+      "gloss": "εξι"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εκατοστάδες"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "σαράντα"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "και δύο"
+    }
+  ],
+  "timestamp": "2026-09-03T11:35:28.130275945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 7:38",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Μία χρυσή κούπα, δέκα σίκλων, γεμάτη θυμιατό.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "κούπα"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "Μία"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "δέκα σίκλων"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "χρυσή"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "γεμάτη"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "θυμιατό"
+    }
+  ],
+  "timestamp": "2026-09-03T00:22:10.857018871Z",
+  "model": "glm-5.3"
+}

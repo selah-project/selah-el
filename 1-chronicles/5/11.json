@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Και οι γιοι του Γαδ απέναντί τους κάθισαν στη γη το Βασάν, ως τη Σαλχά.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και οι γιοι"
+    },
+    {
+      "surface": "גד",
+      "gloss": "του Γαδ"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "απέναντί τους"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "κάθισαν"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "στη γη"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "το Βασάν"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ως"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "τη Σαλχά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:28:59.963633054Z",
+  "model": "glm-5.3"
+}

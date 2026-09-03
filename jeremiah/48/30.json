@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 48:30",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 48,
+  "translation": "Εγώ ξέρω, λόγος του Γιαχβέ, την οργή του — και όχι έτσι· τα ψεύδη του — όχι έτσι τα έκαναν.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Εγώ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ξέρω"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "την οργή του"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και όχι"
+    },
+    {
+      "surface": "כן",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "τα ψεύδη του"
+    },
+    {
+      "surface": "לא",
+      "gloss": "όχι"
+    },
+    {
+      "surface": "כן",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "τα έκαναν"
+    }
+  ],
+  "timestamp": "2026-09-03T05:12:43.069683850Z",
+  "model": "glm-5.3"
+}

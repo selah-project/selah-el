@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Για όλα καιρός, και ώρα για κάθε θέλημα κάτω από τους ουρανούς:",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "για όλα"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "καιρός"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "και ώρα"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "για κάθε"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "θέλημα"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "κάτω από"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "τους ουρανούς"
+    }
+  ],
+  "timestamp": "2026-09-03T09:37:57.216266353Z",
+  "model": "glm-5.3"
+}

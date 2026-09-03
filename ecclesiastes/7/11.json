@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Καλή ⟨είναι⟩ η σοφία μαζί με κληρονομιά, και όφελος για όσους βλέπουν τον ήλιο.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "καλή"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "η σοφία"
+    },
+    {
+      "surface": "עם",
+      "gloss": "μαζί με"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "κληρονομιά"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "και όφελος"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "για όσους βλέπουν"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "τον ήλιο"
+    }
+  ],
+  "timestamp": "2026-09-03T11:33:30.541466969Z",
+  "model": "glm-5.3"
+}

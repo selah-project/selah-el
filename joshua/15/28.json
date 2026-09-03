@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 15:28",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "και Χατσάρ-Σουάλ, και Βεέρ-Σεβά, και Βιζιότγια,",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "και Χατσάρ"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Σουάλ"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "και Βεέρ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Σεβά"
+    },
+    {
+      "surface": "ובזיותיה",
+      "gloss": "και Βιζιότγια"
+    }
+  ],
+  "timestamp": "2026-09-03T01:11:56.730072244Z",
+  "model": "glm-5.3"
+}

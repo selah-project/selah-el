@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 28,
+  "translation": "ένας τράγος από τις αίγες, για εξιλέωση για εσάς.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "τράγος"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "από τις αίγες"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "για εξιλέωση"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "για εσάς"
+    }
+  ],
+  "timestamp": "2026-09-03T00:35:59.106047868Z",
+  "model": "glm-5.3"
+}

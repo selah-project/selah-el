@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Είδα δούλους πάνω σε άλογα, και άρχοντες να περπατούν σαν δούλοι πάνω στη γη.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Είδα"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "δούλους"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "άλογα"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "και άρχοντες"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "να περπατούν"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "σαν δούλοι"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "στη γη"
+    }
+  ],
+  "timestamp": "2026-09-03T09:39:55.629379068Z",
+  "model": "glm-5.3"
+}

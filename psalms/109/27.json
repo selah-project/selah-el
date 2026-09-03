@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 109,
+  "translation": "Και να ξέρουν ότι το χέρι σου είναι αυτό· εσύ, Γιαχβέ, το έκανες.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Και να ξέρουν"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ότι"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "το χέρι σου"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "το έκανες"
+    }
+  ],
+  "timestamp": "2026-09-03T11:28:51.471296922Z",
+  "model": "glm-5.3"
+}

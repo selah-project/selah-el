@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Γιατί τρώνε ψωμί αδικίας και κρασί βίας πίνουν.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "τρώνε"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ψωμί"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "αδικίας"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "και κρασί"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "βίας"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "πίνουν"
+    }
+  ],
+  "timestamp": "2026-09-03T08:43:58.845418928Z",
+  "model": "glm-5.3"
+}

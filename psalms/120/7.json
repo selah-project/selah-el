@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 120,
+  "translation": "Εγώ, ειρήνη· κι όταν μιλήσω, αυτοί είναι για πόλεμο.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Εγώ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ειρήνη"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "κι όταν"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "μιλήσω"
+    },
+    {
+      "surface": "המה",
+      "gloss": "αυτοί"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "για πόλεμο"
+    }
+  ],
+  "timestamp": "2026-09-03T08:35:09.017041786Z",
+  "model": "glm-5.3"
+}

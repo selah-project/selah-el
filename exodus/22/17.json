@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Μάγισσα δεν θα αφήσεις να ζει.",
+  "tokens": [
+    {
+      "surface": "מְכַשְׁפָ֖ה",
+      "gloss": "Μάγισσα"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תְחַיֶּֽה",
+      "gloss": "θα αφήσεις να ζει"
+    }
+  ],
+  "timestamp": "2026-09-02T23:53:26.917191247Z",
+  "model": "glm-5.3"
+}

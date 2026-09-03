@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Και έσκυψε ο άντρας και προσεκύννησε στον Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "και έσκυψε"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ο άντρας"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "και προσεκύννησε"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "στον Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:29:32.317277307Z",
+  "model": "glm-5.3"
+}

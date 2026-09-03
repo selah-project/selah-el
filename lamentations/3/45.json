@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Σάχι και μαούς μας έκανες μέσα στους λαούς.",
+  "tokens": [
+    {
+      "surface": "סְחִי",
+      "gloss": "Σάχι"
+    },
+    {
+      "surface": "וּמָאוֹס",
+      "gloss": "και μαούς"
+    },
+    {
+      "surface": "תְּשִׂימֵנוּ",
+      "gloss": "μας έκανες"
+    },
+    {
+      "surface": "בְּקֶרֶב",
+      "gloss": "μέσα σε"
+    },
+    {
+      "surface": "הָעַמִּים",
+      "gloss": "τους λαούς"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:38.327861349Z",
+  "model": "glm-5.3"
+}

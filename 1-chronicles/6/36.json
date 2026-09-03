@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "ο Μπουκί γιος του, ο Ουζί γιος του, ο Ζεραχιά γιος του.",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "ο Μπουκί"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "γιος του"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ο Ουζί"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "γιος του"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ο Ζεραχιά"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "γιος του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:30:53.068871300Z",
+  "model": "glm-5.3"
+}

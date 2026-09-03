@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 12:4",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Ιδδώ, Γινετόι, Αβιγιά.",
+  "tokens": [
+    {
+      "surface": "עדוא",
+      "gloss": "Ιδδώ"
+    },
+    {
+      "surface": "גנתוי",
+      "gloss": "Γινετόι"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Αβιγιά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:21:34.840906990Z",
+  "model": "glm-5.3"
+}

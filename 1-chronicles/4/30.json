@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "και στο Μπεθ-Ελ και στη Χορμά και στο Τσικλάγ,",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "και στο Μπεθ-Ελ"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "και στη Χορμά"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "και στο Τσικλάγ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:29:25.294660639Z",
+  "model": "glm-5.3"
+}

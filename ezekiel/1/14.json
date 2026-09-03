@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 1:14",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Και τα ζώα έτρεχαν και γύριζαν σαν την όψη της αστραπής.",
+  "tokens": [
+    {
+      "surface": "והחיות",
+      "gloss": "Και τα ζώα"
+    },
+    {
+      "surface": "רצוא",
+      "gloss": "έτρεχαν"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "και γύριζαν"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "σαν την όψη"
+    },
+    {
+      "surface": "הבזק",
+      "gloss": "της αστραπής"
+    }
+  ],
+  "timestamp": "2026-09-03T05:17:35.587411139Z",
+  "model": "glm-5.3"
+}

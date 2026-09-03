@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Για τη φυλή του Δαν, ο Αμμίελ γιος του Γεμαλλί.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "για τη φυλή"
+    },
+    {
+      "surface": "דן",
+      "gloss": "του Δαν"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "ο Αμμίελ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "του Γεμαλλί"
+    }
+  ],
+  "timestamp": "2026-09-03T00:26:32.724699246Z",
+  "model": "glm-5.3"
+}

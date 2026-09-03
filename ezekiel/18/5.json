@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "Και αν κάποιος είναι δίκαιος και έκανε κρίση και δικαιοσύνη,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Και κάποιος"
+    },
+    {
+      "surface": "כי",
+      "gloss": "αν"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "είναι"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "δίκαιος"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "και έκανε"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "κρίση"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "και δικαιοσύνη"
+    }
+  ],
+  "timestamp": "2026-09-03T05:30:11.514297140Z",
+  "model": "glm-5.3"
+}

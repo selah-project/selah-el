@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 4:18",
+  "book": "1-kings",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Ο Σιμεί, γιος του Ελά, ⟨ἦταν⟩ στο Βινιαμίν·",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Σιμεί"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "אלא",
+      "gloss": "του Ελά"
+    },
+    {
+      "surface": "בבנימן",
+      "gloss": "στο Βινιαμίν"
+    }
+  ],
+  "timestamp": "2026-09-03T02:46:02.082871040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Σιμεά ο γιος του, Χαγγιά ο γιος του, Ασαγιά ο γιος του.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "Σιμεά"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "Χαγγιά"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Ασαγιά"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:05.110998787Z",
+  "model": "glm-5.3"
+}

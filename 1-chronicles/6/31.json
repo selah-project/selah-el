@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "γιος του Αμτσί, γιος του Μπανί, γιος του Χέμερ,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "του Αμτσί"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "בני",
+      "gloss": "του Μπανί"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "του Χέμερ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:15.155033072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 36:31",
+  "book": "job",
+  "lang": "el",
+  "chapter": 36,
+  "translation": "Γιατί μ' αυτά κρίνει λαούς· δίνει τροφή σε αφθονία.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "בם",
+      "gloss": "μ' αυτά"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "κρίνει"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "λαούς"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "δίνει"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "τροφή"
+    },
+    {
+      "surface": "למכביר",
+      "gloss": "σε αφθονία"
+    }
+  ],
+  "timestamp": "2026-09-03T11:32:09.726856524Z",
+  "model": "glm-5.3"
+}

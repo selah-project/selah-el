@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Πρόσωπο με πρόσωπο μίλησε Γιαχβέ μαζί σας στο βουνό, από μέσα από τη φωτιά.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "πρόσωπο"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "με πρόσωπο"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "μίλησε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "μαζί σας"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "στο βουνό"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "από μέσα από"
+    },
+    {
+      "surface": "האש",
+      "gloss": "τη φωτιά"
+    }
+  ],
+  "timestamp": "2026-09-03T12:08:44.435691680Z",
+  "model": "glm-5.3"
+}

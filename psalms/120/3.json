@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 120,
+  "translation": "Τι θα σου δώσει, και τι θα σου προσθέσει, γλώσσα δολιότητας;",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Τι"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "θα δώσει"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σου"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "και τι"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "θα προσθέσει"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σου"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "γλώσσα"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "δολιότητας"
+    }
+  ],
+  "timestamp": "2026-09-03T08:35:19.124664301Z",
+  "model": "glm-5.3"
+}

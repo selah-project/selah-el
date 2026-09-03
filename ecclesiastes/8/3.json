@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Μην βιαστείς από το πρόσωπό του να φύγεις· μην σταθείς σε λόγο κακό, γιατί όλα όσα θέλει τα κάνει.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Μην"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "βιαστείς"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "από το πρόσωπό του"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "να φύγεις"
+    },
+    {
+      "surface": "אל",
+      "gloss": "μην"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "σταθείς"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "σε λόγο"
+    },
+    {
+      "surface": "רע",
+      "gloss": "κακό"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "όσα"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "θέλει"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "τα κάνει"
+    }
+  ],
+  "timestamp": "2026-09-03T09:40:34.987071592Z",
+  "model": "glm-5.3"
+}

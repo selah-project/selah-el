@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 41,
+  "translation": "Και δύο πόρτες για τον ναό και για το Άγιο.",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "και δύο"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "πόρτες"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "για τον ναό"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "και για το Άγιο"
+    }
+  ],
+  "timestamp": "2026-09-03T05:52:37.072287425Z",
+  "model": "glm-5.3"
+}

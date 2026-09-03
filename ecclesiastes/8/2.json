@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "Εγώ ⟨λέω⟩: το στόμα του βασιλιά φύλαξε, και ⟨πρόσεχε⟩ εξ αιτίας του όρκου του Ελοχίμ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Εγώ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "το στόμα"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "του βασιλιά"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "φύλαξε"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "και εξ αιτίας"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "του λόγου"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "του όρκου"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "του Ελοχίμ"
+    }
+  ],
+  "timestamp": "2026-09-03T09:40:34.986911642Z",
+  "model": "glm-5.3"
+}

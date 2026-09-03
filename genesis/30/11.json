@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "Και είπε η Λέα: «Τύχη!» και κάλεσε ⟨את⟩ το όνομά του Γκαντ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "η Λέα"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Τύχη"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "και κάλεσε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "το όνομά του"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "το όνομά του"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Γκαντ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:30:47.397441509Z",
+  "model": "glm-5.3"
+}

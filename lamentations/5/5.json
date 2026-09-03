@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Στον τράχηλό μας καταδιωκόμαστε· κοπιάσαμε, δεν ⟨μας⟩ δόθηκε ανάπαυση.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Στον"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "τράχηλό μας"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "καταδιωκόμαστε"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "κοπιάσαμε"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "δόθηκε ανάπαυση"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "μας"
+    }
+  ],
+  "timestamp": "2026-09-03T12:44:19.010589312Z",
+  "model": "glm-5.3"
+}

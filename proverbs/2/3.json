@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "ναι, αν καλείς τη φρόνηση και δίνεις τη φωνή σου στη σύνεση,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ναι"
+    },
+    {
+      "surface": "אם",
+      "gloss": "αν"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "τη φρόνηση"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "καλείς"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "στη σύνεση"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "δίνεις"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "τη φωνή σου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:44:06.129953762Z",
+  "model": "glm-5.3"
+}

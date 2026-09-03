@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 79,
+  "translation": "Έως πότε, Γιαχβέ; θα θυμώσεις για πάντα; Θα κάψει σαν φωτιά η ζήλη σου;",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Έως"
+    },
+    {
+      "surface": "מה",
+      "gloss": "πότε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "θα θυμώσεις"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "για πάντα"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "θα κάψει"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "σαν"
+    },
+    {
+      "surface": "אש",
+      "gloss": "φωτιά"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "η ζήλη σου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:16:46.799873967Z",
+  "model": "glm-5.3"
+}

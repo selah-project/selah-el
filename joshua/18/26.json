@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "και τη Μιτσφέ και τη Κφιρά και τη Μοτσά.",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "και τη Μιτσφέ"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "και τη Κφιρά"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "και τη Μοτσά"
+    }
+  ],
+  "timestamp": "2026-09-03T01:13:24.488715195Z",
+  "model": "glm-5.3"
+}

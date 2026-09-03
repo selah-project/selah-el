@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "γιατί τα μάτια σας ⟨είναι⟩ αυτά που είδαν ⟨את⟩ όλο το έργο του Γιαχβέ το μεγάλο που έκανε.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "τα μάτια σας"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "αυτά που είδαν"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "όλο το έργο"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλο"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "το έργο"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "το μεγάλο"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "έκανε"
+    }
+  ],
+  "timestamp": "2026-09-03T00:47:33.981372182Z",
+  "model": "glm-5.3"
+}

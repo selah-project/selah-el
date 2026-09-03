@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Γιοι του Εσάβ: Ελιφάζ, Ρεουέλ, Γιούς, Γιααλάμ και Κοράχ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "του Εσάβ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Ελιφάζ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Ρεουέλ"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "Γιούς"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "και Γιααλάμ"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "και Κοράχ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:24:55.278195930Z",
+  "model": "glm-5.3"
+}

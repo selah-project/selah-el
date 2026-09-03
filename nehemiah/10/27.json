@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "και Αχιγιά, Χανάν, Αναν.",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "και Αχιγιά"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Χανάν"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "Αναν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:20:39.516081513Z",
+  "model": "glm-5.3"
+}

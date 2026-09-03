@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 28:40",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 28,
+  "translation": "Ελιές θα έχεις σε όλο το όριό σου, αλλά με λάδι δεν θα αλείφεις, γιατί θα πέσουν οι ελιές σου.",
+  "tokens": [
+    {
+      "surface": "זיתים",
+      "gloss": "Ελιές"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "θα έχεις"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σε"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "σε όλο"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "το όριό σου"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "αλλά με λάδι"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "θα αλείφεις"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "θα πέσουν"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "οι ελιές σου"
+    }
+  ],
+  "timestamp": "2026-09-03T12:10:50.661241708Z",
+  "model": "glm-5.3"
+}

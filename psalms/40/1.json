@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 40,
+  "translation": "Στον μαέστρο· του Δαβίδ· μίζμορ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον μαέστρο"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "του Δαβίδ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "μίζμορ"
+    }
+  ],
+  "timestamp": "2026-09-03T07:58:11.331674335Z",
+  "model": "glm-5.3"
+}

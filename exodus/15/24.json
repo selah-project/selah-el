@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Και γόγγυσαν οι λαοί ενάντια στον Μοσέ, λέγοντας: Τι θα πιούμε;",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "Και γόγγυσαν"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ο λαός"
+    },
+    {
+      "surface": "על",
+      "gloss": "ενάντια στον"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Μοσέ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Τι"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "θα πιούμε"
+    }
+  ],
+  "timestamp": "2026-09-02T23:49:08.847766077Z",
+  "model": "glm-5.3"
+}

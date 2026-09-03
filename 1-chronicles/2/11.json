@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Και ο Ναχσόν γέννησε ⟨את⟩ τον Σαλμά, και ο Σαλμά γέννησε ⟨את⟩ τον Βοάζ.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Και ο Ναχσόν"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "γέννησε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Σαλμά"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "τον Σαλμά"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "και ο Σαλμά"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "γέννησε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Βοάζ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "τον Βοάζ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:25:22.771076903Z",
+  "model": "glm-5.3"
+}

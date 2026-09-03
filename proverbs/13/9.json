@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Το φως των δικαίων χαίρει, και η λυχνία των ασεβών θα σβήσει.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "Το φως"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "των δικαίων"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "χαίρει"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "και η λυχνία"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "των ασεβών"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "θα σβήσει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:48:08.511662183Z",
+  "model": "glm-5.3"
+}

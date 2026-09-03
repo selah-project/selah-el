@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 4:19",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Ο δρόμος των ασεβών σαν πυκνό σκοτάδι· δεν ξέρουν σε τι σκορπίζουν.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ο δρόμος"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "των ασεβών"
+    },
+    {
+      "surface": "כאפלה",
+      "gloss": "σαν πυκνό σκοτάδι"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ξέρουν"
+    },
+    {
+      "surface": "במה",
+      "gloss": "σε τι"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "σκορπίζουν"
+    }
+  ],
+  "timestamp": "2026-09-03T08:43:58.845870978Z",
+  "model": "glm-5.3"
+}

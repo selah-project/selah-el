@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 10:16",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Βουννί, Αζγκάντ, Βεβαΐ·",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Βουννί"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Αζγκάντ"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "Βεβαΐ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:20:50.632384556Z",
+  "model": "glm-5.3"
+}

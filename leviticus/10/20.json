@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Και άκουσε ο Μοσέ, και φάνηκε καλό στα μάτια του.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Και άκουσε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "και φάνηκε καλό"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "στα μάτια του"
+    }
+  ],
+  "timestamp": "2026-09-03T00:08:51.436263437Z",
+  "model": "glm-5.3"
+}

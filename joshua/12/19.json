@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 12:19",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "βασιλιάς του Μαδόν, ένας· βασιλιάς του Χατσόρ, ένας·",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "βασιλιάς"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "Μαδόν"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "βασιλιάς"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Χατσόρ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    }
+  ],
+  "timestamp": "2026-09-03T01:07:53.186997926Z",
+  "model": "glm-5.3"
+}

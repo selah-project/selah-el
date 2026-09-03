@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 28,
+  "translation": "Γιους και κόρες θα γεννήσεις, και δεν θα είναι δικά σου, γιατί θα πάνε σε αιχμαλωσία.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "Γιους"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "και κόρες"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "θα γεννήσεις"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "θα είναι"
+    },
+    {
+      "surface": "לך",
+      "gloss": "δικά σου"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "θα πάνε"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "σε αιχμαλωσία"
+    }
+  ],
+  "timestamp": "2026-09-03T00:55:58.253945135Z",
+  "model": "glm-5.3"
+}

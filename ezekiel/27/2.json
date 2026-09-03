@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 27,
+  "translation": "Και εσύ, γιε ανθρώπου, σήκωσε για τον Τσορ θρήνο,",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Και εσύ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιε"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ανθρώπου"
+    },
+    {
+      "surface": "שא",
+      "gloss": "σήκωσε"
+    },
+    {
+      "surface": "על",
+      "gloss": "για"
+    },
+    {
+      "surface": "צר",
+      "gloss": "τον Τσορ"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "θρήνο"
+    }
+  ],
+  "timestamp": "2026-09-03T05:40:10.493363770Z",
+  "model": "glm-5.3"
+}

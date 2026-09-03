@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 26:17",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 26,
+  "translation": "Πιάνει σκύλο από τα αυτιά, όποιος περνάει και θυμώνει για καβγά που δεν είναι δικός του.",
+  "tokens": [
+    {
+      "surface": "מחזיק",
+      "gloss": "πιάνει"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "από τα αυτιά"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "σκύλο"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "περνάει"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "θυμώνει"
+    },
+    {
+      "surface": "על",
+      "gloss": "σε"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "καβγά"
+    },
+    {
+      "surface": "לא",
+      "gloss": "όχι"
+    },
+    {
+      "surface": "לו",
+      "gloss": "δικός του"
+    }
+  ],
+  "timestamp": "2026-09-03T08:57:40.115754004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 42,
+  "translation": "Είδες πολλά και δεν φυλάς· αυτιά ανοιγμένα και δεν ακούει.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "είδες"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "πολλά"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "φυλάς"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "ανοιγμένα"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "αυτιά"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ακούει"
+    }
+  ],
+  "timestamp": "2026-09-03T04:17:59.023763087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 29,
+  "translation": "Γιατί είπατε: «Ανέστησε ο Γιαχβέ για εμάς ναβίμ στη Βαβέλ» —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "είπατε"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "Ανέστησε"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "για εμάς"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "ναβίμ"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "στη Βαβέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T04:57:09.974404550Z",
+  "model": "glm-5.3"
+}

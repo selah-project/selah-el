@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Με έφερε στο σπίτι του κρασιού, και το λάβαρό του πάνω μου ⟨ήταν⟩ αγάπη.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "Με έφερε"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στο"
+    },
+    {
+      "surface": "בית",
+      "gloss": "σπίτι"
+    },
+    {
+      "surface": "היין",
+      "gloss": "του κρασιού"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "και το λάβαρό του"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "πάνω μου"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "αγάπη"
+    }
+  ],
+  "timestamp": "2026-09-03T09:25:45.981627556Z",
+  "model": "glm-5.3"
+}

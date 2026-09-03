@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Χατούς, Σεβανιά, Μαλούκ,",
+  "tokens": [
+    {
+      "surface": "חטוש",
+      "gloss": "Χατούς"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "Σεβανιά"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "Μαλούκ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:19:50.013859723Z",
+  "model": "glm-5.3"
+}

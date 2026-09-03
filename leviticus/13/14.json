@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Και την ημέρα που φανεί σε αυτόν ζωντανή σάρκα, ακάθαρτος θα είναι.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "και την ημέρα"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "που φανεί"
+    },
+    {
+      "surface": "בו",
+      "gloss": "σε αυτόν"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "σάρκα"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ζωντανή"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ακάθαρτος θα είναι"
+    }
+  ],
+  "timestamp": "2026-09-03T00:09:10.690829592Z",
+  "model": "glm-5.3"
+}

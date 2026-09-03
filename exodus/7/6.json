@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Και έκανε ο Μοσέ και ο Αχαρόν όπως διέταξε ο Γιαχβέ ⟨את⟩ τους· έτσι έκαναν.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Και έκανε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "και ο Αχαρόν"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "όπως"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "διέταξε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ τους"
+    },
+    {
+      "surface": "כן",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "έκαναν"
+    }
+  ],
+  "timestamp": "2026-09-02T23:44:50.119871617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 34,
+  "translation": "Φυλάει όλα τα κόκαλά του· όχι ένα από αυτά θα σπάσει.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Φυλάει"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "τα κόκαλά του"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "από αυτά"
+    },
+    {
+      "surface": "לא",
+      "gloss": "όχι"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "θα σπάσει"
+    }
+  ],
+  "timestamp": "2026-09-03T07:52:10.142384347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 40,
+  "translation": "Και έκανε ο Μοσέ σύμφωνα με όλα όσα διέταξε ο Γιαχβέ ⟨את⟩ τον — έτσι έκανε.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "και έκανε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "σύμφωνα με όλα"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "όσα"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "διέταξε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ τον",
+      "marks": "τον Μοσέ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "έκανε"
+    }
+  ],
+  "timestamp": "2026-09-03T00:03:40.787569304Z",
+  "model": "glm-5.3"
+}

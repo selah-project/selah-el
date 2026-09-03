@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Είναι καινούργια στα πρωιά· μεγάλη είναι η πιστότητά σου.",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "Είναι καινούργια"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "στα πρωιά"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "μεγάλη"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "η πιστότητά σου"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:45.034102139Z",
+  "model": "glm-5.3"
+}

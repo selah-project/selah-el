@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 28,
+  "translation": "Ευλογημένο το καλάθι σου και η λεκάνη του ζυμαριού σου.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ευλογημένο"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "το καλάθι σου"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "και η λεκάνη του ζυμαριού σου"
+    }
+  ],
+  "timestamp": "2026-09-03T00:55:51.178164851Z",
+  "model": "glm-5.3"
+}

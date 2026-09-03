@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Δεν θα κάνετε έτσι στον Γιαχβέ Ελοχίμ σας.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "θα κάνετε"
+    },
+    {
+      "surface": "כן",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "στον Γιαχβέ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Ελοχίμ σας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:49:33.892498264Z",
+  "model": "glm-5.3"
+}

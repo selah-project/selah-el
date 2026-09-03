@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Κάθε τι που έχει σε αυτό ελάττωμα δεν θα φέρετε, γιατί όχι για ευαρέσκεια θα είναι για εσάς.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "κάθε"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "τι που"
+    },
+    {
+      "surface": "בו",
+      "gloss": "σε αυτό"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ελάττωμα"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "θα φέρετε"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "לא",
+      "gloss": "όχι"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "για ευαρέσκεια"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "θα είναι"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "για εσάς"
+    }
+  ],
+  "timestamp": "2026-09-03T00:15:25.469816191Z",
+  "model": "glm-5.3"
+}

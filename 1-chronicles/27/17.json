@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 27,
+  "translation": "Για τον Λεβί, Χασαβιά γιος του Κεμουέλ· για τον Αχαρόν, Τσαντόκ.",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "Για τον Λεβί"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Χασαβιά"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "του Κεμουέλ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "για τον Αχαρόν"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Τσαντόκ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:48:46.163614902Z",
+  "model": "glm-5.3"
+}

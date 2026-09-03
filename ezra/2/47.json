@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezra 2:47",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "οι γιοι του Γιντελ, οι γιοι του Γαχάρ, οι γιοι του Ρεαγιά,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "του Γιντελ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "του Γαχάρ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "του Ρεαγιά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:04:41.427080161Z",
+  "model": "glm-5.3"
+}

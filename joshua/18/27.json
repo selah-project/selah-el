@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "και Ρεκέμ και Γιρπεέλ και Ταρελά.",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "και Ρεκέμ"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "και Γιρπεέλ"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "και Ταρελά"
+    }
+  ],
+  "timestamp": "2026-09-03T01:13:24.488896867Z",
+  "model": "glm-5.3"
+}

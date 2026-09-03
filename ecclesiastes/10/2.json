@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Καρδιά σοφού προς τα δεξιά του, και καρδιά ανόητου προς τα αριστερά του.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Καρδιά"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "σοφού"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "προς τα δεξιά του"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "και καρδιά"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ανόητου"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "προς τα αριστερά του"
+    }
+  ],
+  "timestamp": "2026-09-03T09:42:26.737306166Z",
+  "model": "glm-5.3"
+}

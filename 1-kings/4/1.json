@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Και έγινε ο βασιλιάς Σελομό βασιλιάς πάνω σε όλο τον Ισραέλ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και έγινε"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ο βασιλιάς"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Σελομό"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "βασιλιάς"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλο"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "τον Ισραέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T02:42:35.931981556Z",
+  "model": "glm-5.3"
+}

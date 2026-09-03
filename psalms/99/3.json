@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 99,
+  "translation": "Ας υμνούν το όνομά σου — το μεγάλο και το φοβερό· άγιος ⟨είναι⟩.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ας υμνούν"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "το όνομά σου"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "μεγάλο"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "και φοβερό"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "άγιος"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "αυτός"
+    }
+  ],
+  "timestamp": "2026-09-03T08:24:22.776393951Z",
+  "model": "glm-5.3"
+}

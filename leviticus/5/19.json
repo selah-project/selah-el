@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Ασαμ είναι· ασάμ ασάμ για τον Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "Ασαμ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "είναι"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ασάμ"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ασάμ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "για τον Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:05:28.205250341Z",
+  "model": "glm-5.3"
+}

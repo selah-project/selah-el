@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Οι βλαστοί σου ⟨είναι⟩ παράδεισος από ρόδια, με καρπούς εκλεκτούς, κνίκος με νάρδο.",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "Οι βλαστοί σου"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "παράδεισος"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "από ρόδια"
+    },
+    {
+      "surface": "עם",
+      "gloss": "με"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "καρπούς"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "εκλεκτούς"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "κνίκος"
+    },
+    {
+      "surface": "עם",
+      "gloss": "με"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "νάρδο"
+    }
+  ],
+  "timestamp": "2026-09-03T09:25:19.155906268Z",
+  "model": "glm-5.3"
+}

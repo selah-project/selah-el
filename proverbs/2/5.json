@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Τότε θα καταλάβεις τον φόβο του Γιαχβέ, και γνώση του Ελοχίμ θα βρεις.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Τότε"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "θα καταλάβεις"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "τον φόβο"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "και γνώση"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "του Ελοχίμ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "θα βρεις"
+    }
+  ],
+  "timestamp": "2026-09-03T08:42:13.860260372Z",
+  "model": "glm-5.3"
+}

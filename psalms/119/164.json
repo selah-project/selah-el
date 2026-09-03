@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 164,
+  "ref": "psalms 119:164",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 119,
+  "translation": "Επτά φορές τη μέρα σε υμνώ για τις δίκαιες κρίσεις σου.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "Επτά φορές"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "τη μέρα"
+    },
+    {
+      "surface": "הללתיך",
+      "gloss": "σε υμνώ"
+    },
+    {
+      "surface": "על",
+      "gloss": "για"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "τις κρίσεις σου"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "δίκαιες"
+    }
+  ],
+  "timestamp": "2026-09-03T08:33:26.287536760Z",
+  "model": "glm-5.3"
+}

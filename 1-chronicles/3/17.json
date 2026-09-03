@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Και οι γιοι του Γεκονγιά: Ασίρ, Σεαλτιέλ ο γιος του.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και οι γιοι"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Γεκονγιά"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "Ασίρ"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "Σεαλτιέλ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:30:23.431618102Z",
+  "model": "glm-5.3"
+}

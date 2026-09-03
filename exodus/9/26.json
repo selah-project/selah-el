@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Μόνο στη γη Γοσέν, όπου εκεί ήταν οι γιοι του Ισραέλ, δεν υπήρχε χαλάζι.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Μόνο"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "στη γη"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Γοσέν"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "όπου"
+    },
+    {
+      "surface": "שם",
+      "gloss": "εκεί"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "του Ισραέλ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "היה",
+      "gloss": "υπήρχε"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "χαλάζι"
+    }
+  ],
+  "timestamp": "2026-09-02T23:47:06.438155956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 52,
+  "translation": "Τι καυχάσαι στην κακία, ισχυρέ; Το χέσεδ του Ελ όλη την ημέρα.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Τι"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "καυχάσαι"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "στην κακία"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "ισχυρέ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "χέσεδ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ελ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλη"
+    },
+    {
+      "surface": "היום",
+      "gloss": "την ημέρα"
+    }
+  ],
+  "timestamp": "2026-09-03T11:26:12.104110855Z",
+  "model": "glm-5.3"
+}

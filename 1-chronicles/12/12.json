@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Ατάι ο έκτος, Ελιέλ ο έβδομος.",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "Ατάι"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ο έκτος"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "Ελιέλ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ο έβδομος"
+    }
+  ],
+  "timestamp": "2026-09-03T10:36:48.638616233Z",
+  "model": "glm-5.3"
+}

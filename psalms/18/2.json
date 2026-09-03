@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "Και είπε: Σέ αγαπώ τρυφερά, Γιαχβέ, ισχύς μου.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "Σέ αγαπώ τρυφερά"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "ισχύς μου"
+    }
+  ],
+  "timestamp": "2026-09-03T07:48:37.138441773Z",
+  "model": "glm-5.3"
+}

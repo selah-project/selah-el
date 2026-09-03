@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "και Ελισαμά και Ελιαδά και Ελιφαλέτ.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "και Ελισαμά"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "και Ελιαδά"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "και Ελιφαλέτ"
+    }
+  ],
+  "timestamp": "2026-09-03T02:14:58.365871504Z",
+  "model": "glm-5.3"
+}

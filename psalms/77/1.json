@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 77,
+  "translation": "Στον μαέστρο, για τον Γεντουύν· του Ασάφ· μίζμορ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον μαέστρο"
+    },
+    {
+      "surface": "על",
+      "gloss": "για"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "τον Γεντουύν"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "του Ασάφ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "μίζμορ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:13:54.554724358Z",
+  "model": "glm-5.3"
+}

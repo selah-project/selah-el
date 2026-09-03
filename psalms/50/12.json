@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 50,
+  "translation": "Αν πεινάσω, δεν θα σου πω· γιατί δική μου είναι η γη και ό,τι τη γεμίζει.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Αν"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "πεινάσω"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "θα πω"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σου"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "לי",
+      "gloss": "δική μου είναι"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "η γη"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "και ό,τι τη γεμίζει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:01:34.187746215Z",
+  "model": "glm-5.3"
+}

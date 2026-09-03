@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Στον Γιαχίν ένας και είκοσι, στον Γαμούλ δύο και είκοσι.",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "Στον Γιαχίν"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "και είκοσι"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "στον Γαμούλ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "δύο"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "και είκοσι"
+    }
+  ],
+  "timestamp": "2026-09-03T10:45:32.016077834Z",
+  "model": "glm-5.3"
+}

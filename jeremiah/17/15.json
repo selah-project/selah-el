@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 17,
+  "translation": "Να, αυτοί λένε σε μένα: «Πού είναι ο λόγος του Γιαχβέ; Ας έρθει, λοιπόν».",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Να"
+    },
+    {
+      "surface": "המה",
+      "gloss": "αυτοί"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "λένε"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "σε μένα"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Πού"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ο λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ας έρθει"
+    },
+    {
+      "surface": "נא",
+      "gloss": "λοιπόν"
+    }
+  ],
+  "timestamp": "2026-09-03T04:46:34.194957673Z",
+  "model": "glm-5.3"
+}

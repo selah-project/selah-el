@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Οι γιοι του Ρεουέλ: Ναχάτ, Ζεράχ, Σαμά και Μιζά.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "του Ρεουéλ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "Ναχάτ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Ζεράχ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Σαμά"
+    },
+    {
+      "surface": "וומזה",
+      "gloss": "και Μιζά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:24:14.021189490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 31,
+  "translation": "Και πήγε ο Μοσέ και μίλησε ⟨את⟩ τα λόγια αυτά σε όλο τον Ισραέλ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Και πήγε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "και μίλησε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τα λόγια αυτά"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "τα λόγια"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "αυτά"
+    },
+    {
+      "surface": "אל",
+      "gloss": "σε"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλο"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "τον Ισραέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:59:39.445371836Z",
+  "model": "glm-5.3"
+}

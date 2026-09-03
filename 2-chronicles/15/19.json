@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Και πόλεμος δεν υπήρξε μέχρι το έτος των τριάντα πέντε της βασιλείας του Ασά.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Και πόλεμος"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "υπήρξε"
+    },
+    {
+      "surface": "עד",
+      "gloss": "μέχρι"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "το έτος"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "των τριάντα"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "πέντε"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "της βασιλείας"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "του Ασά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:59:31.547518351Z",
+  "model": "glm-5.3"
+}

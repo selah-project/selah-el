@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Δεν σου έγραψα πριν από χθες, με συμβουλές και γνώση;",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Δεν... ;"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "έγραψα"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σου"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "πριν από χθες"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "με συμβουλές"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "και γνώση"
+    }
+  ],
+  "timestamp": "2026-09-03T08:55:18.302567990Z",
+  "model": "glm-5.3"
+}

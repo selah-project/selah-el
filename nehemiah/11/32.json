@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Ανατώτ, Νωβ, Ανανιά.",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "Ανατώτ"
+    },
+    {
+      "surface": "נב",
+      "gloss": "Νωβ"
+    },
+    {
+      "surface": "ענניה",
+      "gloss": "Ανανιά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:21:50.105827691Z",
+  "model": "glm-5.3"
+}

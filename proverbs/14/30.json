@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "Ζωή της σάρκας — καρδιά θεραπείας, και σάπισμα των οστών — η ζήλια.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "ζωή"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "της σάρκας"
+    },
+    {
+      "surface": "לב",
+      "gloss": "καρδιά"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "θεραπείας"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "και σάπισμα"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "των οστών"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "η ζήλια"
+    }
+  ],
+  "timestamp": "2026-09-03T08:50:05.330753115Z",
+  "model": "glm-5.3"
+}

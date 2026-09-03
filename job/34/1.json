@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 34:1",
+  "book": "job",
+  "lang": "el",
+  "chapter": 34,
+  "translation": "Και απάντησε ο Ελιχού και είπε:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Και απάντησε"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "ο Ελιχού"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "και είπε"
+    }
+  ],
+  "timestamp": "2026-09-03T09:20:10.640015115Z",
+  "model": "glm-5.3"
+}

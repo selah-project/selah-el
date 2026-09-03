@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 20,
+  "translation": "Και είπε ο Αβιμελέχ στον Αβραχάμ: Τι είδες, που έκανες ⟨את⟩ το πράγμα αυτό;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "και είπε"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ο Αβιμελέχ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Αβραχάμ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "είδες"
+    },
+    {
+      "surface": "כי",
+      "gloss": "που"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "έκανες"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "το πράγμα αυτό"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "το πράγμα"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "αυτό"
+    }
+  ],
+  "timestamp": "2026-09-02T23:27:41.723604280Z",
+  "model": "glm-5.3"
+}

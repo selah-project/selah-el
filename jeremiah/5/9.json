@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 5:9",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Σε αυτά να μην επιθερμήσω; λόγος του Γιαχβέ· και σε έθνος σαν τούτο η νεφές μου να μην εκδικηθεί;",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "σε αυτά"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "αυτά"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "να μην"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "επιθερμήσω"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "και σε"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "έθνος"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "σαν"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "τούτο"
+    },
+    {
+      "surface": "לא",
+      "gloss": "να μην"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "εκδικηθεί"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "η νεφές μου"
+    }
+  ],
+  "timestamp": "2026-09-03T04:35:26.021336824Z",
+  "model": "glm-5.3"
+}

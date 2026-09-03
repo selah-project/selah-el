@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 31:15",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 31,
+  "translation": "Και είπε σε αυτούς ο Μοσέ: Κρατήσατε ζωντανό κάθε θηλυκό;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "σε αυτούς"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "Κρατήσατε ζωντανό"
+    },
+    {
+      "surface": "כל",
+      "gloss": "κάθε"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "θηλυκό"
+    }
+  ],
+  "timestamp": "2026-09-03T00:38:00.428132730Z",
+  "model": "glm-5.3"
+}

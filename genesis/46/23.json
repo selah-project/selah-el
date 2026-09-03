@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 46,
+  "translation": "Και οι γιοι του Δαν: Χουσίμ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και οι γιοι"
+    },
+    {
+      "surface": "דן",
+      "gloss": "του Δαν"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "Χουσίμ"
+    }
+  ],
+  "timestamp": "2026-09-03T06:37:39.133484925Z",
+  "model": "glm-5.3"
+}

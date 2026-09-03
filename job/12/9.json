@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Ποιος δεν γνώρισε σε όλα αυτά ότι χέρι του Γιαχβέ έκανε αυτό;",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ποιος"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "γνώρισε"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "σε όλα"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "αυτά"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ότι"
+    },
+    {
+      "surface": "יד",
+      "gloss": "χέρι"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "έκανε"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "αυτό"
+    }
+  ],
+  "timestamp": "2026-09-03T09:06:18.362997662Z",
+  "model": "glm-5.3"
+}

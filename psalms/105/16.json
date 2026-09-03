@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 105,
+  "translation": "και κάλεσε πείνα πάνω στη γη· κάθε ραβδί άρτου έσπασε.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "και κάλεσε"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "πείνα"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "האררץ",
+      "gloss": "στη γη"
+    },
+    {
+      "surface": "כל",
+      "gloss": "κάθε"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ραβδί"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "άρτου"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "έσπασε"
+    }
+  ],
+  "timestamp": "2026-09-03T08:26:29.104949430Z",
+  "model": "glm-5.3"
+}

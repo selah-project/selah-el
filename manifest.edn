@@ -1,0 +1,91 @@
+#:rendering{:label "Ελληνικά",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305482},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role
+              :process
+              :checks
+              :people
+              :adjudication
+              :open-questions]},
+            :role :served,
+            :produced {:from "2026-09-02", :to "2026-09-03"},
+            :id "el.v1",
+            :catalog {:ui "resources/i18n/ui/el.edn"},
+            :license "CC BY-SA 4.0 (The Selah Greek Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23192, "fable-5-hand" 21},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/el.md",
+             :rails-commit "d72d51ee",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Αδωνάι",
+              "אל" "Ελ",
+              "אלהים" "Ελοχίμ",
+              "אלוה" "Ελοά",
+              "ג" "γ",
+              "ד" "δ",
+              "ה" "χ",
+              "ו" "β",
+              "ז" "ζ",
+              "ח" "χ",
+              "ט" "τ",
+              "י" "γι-",
+              "יה" "Γιαχ",
+              "יהוה" "Γιαχβέ",
+              "ל" "λ",
+              "מ" "μ",
+              "נ" "ν",
+              "ס" "σ / ς",
+              "צ" "τσ",
+              "צבאות" "Τσεβαότ",
+              "ק" "κ",
+              "ר" "ρ",
+              "שדי" "Σαδδάι",
+              "ת" "τ"},
+             :open-questions
+             [:monotonic-vs-polytonic
+              :chesed-transliteration-register
+              :vamvas-row-framing]},
+            :status :rendering,
+            :version "v1",
+            :lineage
+            {:git
+             {:repo nil,
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches []},
+             :parents []},
+            :lang :el}

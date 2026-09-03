@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Και είπε Γιαχβέ στον Κάιν: «Γιατί θύμωσε σε σένα, και γιατί έπεσαν τα πρόσωπά σου;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Κάιν"
+    },
+    {
+      "surface": "למה",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "θύμωσε"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σε σένα"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "και γιατί"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "έπεσαν"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "τα πρόσωπά σου"
+    }
+  ],
+  "timestamp": "2026-09-02T23:20:19.580311812Z",
+  "model": "glm-5.3"
+}

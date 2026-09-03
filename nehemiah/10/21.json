@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 10:21",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Μαγπιασ, Μεσουλάμ, Χεζίρ,",
+  "tokens": [
+    {
+      "surface": "מגפיעש",
+      "gloss": "Μαγπιασ"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Μεσουλάμ"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "Χεζίρ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:19:40.100411461Z",
+  "model": "glm-5.3"
+}

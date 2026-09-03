@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 29,
+  "translation": "Ψωμί δεν φάγατε, και κρασί και σίκερα δεν πιήκατε, για να ξέρετε ότι εγώ είμαι Γιαχβέ ο Ελοχίμ σας.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Ψωμί"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "φάγατε"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "και κρασί"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "και σίκερα"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "πιήκατε"
+    },
+    {
+      "surface": "למען",
+      "gloss": "για να"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "ξέρετε"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ότι"
+    },
+    {
+      "surface": "אני",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ο Ελοχίμ σας"
+    }
+  ],
+  "timestamp": "2026-09-03T12:10:48.167484476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 121,
+  "translation": "Να, δεν νυστάζει και δεν κοιμάται αυτός που φυλάει τον Ισραέλ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Να"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "νυστάζει"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "κοιμάται"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "αυτός που φυλάει"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "τον Ισραέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:34:51.028781098Z",
+  "model": "glm-5.3"
+}

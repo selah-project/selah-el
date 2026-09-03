@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Χοντιά, Βανί, Βενινού·",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "Χοντιά"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Βανί"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "Βενινού"
+    }
+  ],
+  "timestamp": "2026-09-03T10:20:50.632108730Z",
+  "model": "glm-5.3"
+}

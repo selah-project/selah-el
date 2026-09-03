@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Και αποκρίθηκε ο Ιγιόβ και είπε·",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Και αποκρίθηκε"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ο Ιγιόβ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "και είπε"
+    }
+  ],
+  "timestamp": "2026-09-03T09:01:47.303122199Z",
+  "model": "glm-5.3"
+}

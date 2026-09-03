@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 5:4",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Γιοι του Γιοέλ: Σεμαγιά ο γιος του, Γωγ ο γιος του, Σιμί ο γιος του.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "του Γιοέλ"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Σεμαγιά"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "Γωγ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Σιμί"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:29:23.843839088Z",
+  "model": "glm-5.3"
+}

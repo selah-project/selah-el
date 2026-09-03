@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Και υπερίσχυσαν τα νερά πάνω στη γη εκατόν πενήντα ημέρες.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "Και υπερίσχυσαν"
+    },
+    {
+      "surface": "המים",
+      "gloss": "τα νερά"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω στη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "γη"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "πενήντα"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "και εκατόν"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ημέρες"
+    }
+  ],
+  "timestamp": "2026-09-02T23:21:57.586282247Z",
+  "model": "glm-5.3"
+}

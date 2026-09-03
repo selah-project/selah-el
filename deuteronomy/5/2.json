@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Γιαχβέ, ο Ελοχίμ μας, έκοψε διαθήκη μαζί μας στο Χορέβ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ο Ελοχίμ μας"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "έκοψε"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "μαζί μας"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "διαθήκη"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "στο Χορέβ"
+    }
+  ],
+  "timestamp": "2026-09-03T06:47:35.004718252Z",
+  "model": "glm-5.3"
+}

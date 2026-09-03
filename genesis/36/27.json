@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 36,
+  "translation": "Αυτοί είναι οι γιοι του Ετσέρ: ο Βιλχάν και ο Ζαάν και ο Ακάν.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Αυτοί"
+    },
+    {
+      "surface": "בני",
+      "gloss": "είναι οι γιοι"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "του Ετσέρ"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "ο Βιλχάν"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "και ο Ζαάν"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "και ο Ακάν"
+    }
+  ],
+  "timestamp": "2026-09-02T23:34:52.725464463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "Ο λόγος που ήρθε στον Ιρμιγιαχού από ⟨את⟩ τον Γιαχβέ, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Ο λόγος"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ήρθε"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ιρμιγιαχού"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "από ⟨את⟩",
+      "marks": "τον Γιαχβέ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T04:56:33.218416326Z",
+  "model": "glm-5.3"
+}

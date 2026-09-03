@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 27,
+  "translation": "Και διέταξε ο Μοσέ ⟨את⟩ τον λαό εκείνη την ημέρα, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Και διέταξε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον λαό"
+    },
+    {
+      "surface": "העם",
+      "gloss": "τον λαό"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "την ημέρα"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "εκείνη"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:54:26.927518343Z",
+  "model": "glm-5.3"
+}

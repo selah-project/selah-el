@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Τσεναν και Χαντάσα και Μιγκντάλ Γκαντ",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "Τσεναν"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "και Χαντάσα"
+    },
+    {
+      "surface": "ומגדל גד",
+      "gloss": "και Μιγκντάλ Γκαντ"
+    }
+  ],
+  "timestamp": "2026-09-03T01:11:25.640491656Z",
+  "model": "glm-5.3"
+}

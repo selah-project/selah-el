@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 15:24",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Ζιφ και Τέλεμ και Βεαλώτ.",
+  "tokens": [
+    {
+      "surface": "זיף",
+      "gloss": "Ζιφ"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "και Τέλεμ"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "και Βεαλώτ"
+    }
+  ],
+  "timestamp": "2026-09-03T01:11:40.861124499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 26,
+  "translation": "Όπως δένει κανείς πέτρα σε σφενδόνα, έτσι δίνει κανείς τιμή σε άφρονα.",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "Όπως δένει"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "πέτρα"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "σε σφενδόνα"
+    },
+    {
+      "surface": "כן",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "δίνει"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "σε άφρονα"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "τιμή"
+    }
+  ],
+  "timestamp": "2026-09-03T08:57:53.168847028Z",
+  "model": "glm-5.3"
+}

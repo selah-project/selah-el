@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Και είπε ο Βαράκ προς αυτήν: Αν πας μαζί μου, θα πάω· και αν δεν πας μαζί μου, δεν θα πάω.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "προς αυτήν"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ο Βαράκ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Αν"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "πας"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "μαζί μου"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "θα πάω"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "και αν"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "πας"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "μαζί μου"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "θα πάω"
+    }
+  ],
+  "timestamp": "2026-09-03T01:25:01.342150818Z",
+  "model": "glm-5.3"
+}

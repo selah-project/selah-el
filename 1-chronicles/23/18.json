@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Οι γιοι του Γιτσχάρ: Σελομίτ ο επικεφαλής.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "του Γιτσχάρ"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Σελομίτ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ο επικεφαλής"
+    }
+  ],
+  "timestamp": "2026-09-03T10:46:08.498835345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Και είπε ο Γιαχβέ προς τον Μοσέ και προς τον Αχαρόν, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "משה",
+      "gloss": "τον Μοσέ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "και προς"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "τον Αχαρόν"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:10:41.293115523Z",
+  "model": "glm-5.3"
+}

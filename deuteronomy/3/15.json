@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Και στον Μαχίρ έδωσα ⟨את⟩ το Γιλάντ.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Και στον Μαχίρ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "έδωσα"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "το Γιλάντ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "το Γιλάντ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:42:14.976422642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 95,
+  "translation": "όπου ορκίστηκα στην οργή μου: αν μπουν στην ανάπαυσή μου!",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "όπου"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ορκίστηκα"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "στην οργή μου"
+    },
+    {
+      "surface": "אם",
+      "gloss": "αν"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "μπουν"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στην"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "αναπαυσή μου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:20:50.974142702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Και είπαν τα δέντρα στην αμπελιά: Έλα, εσύ, βασίλεψε πάνω μας.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Και είπαν"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "τα δέντρα"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "στην αμπελιά"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Έλα"
+    },
+    {
+      "surface": "את",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "βασίλεψε"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "πάνω μας"
+    }
+  ],
+  "timestamp": "2026-09-03T01:26:11.374756308Z",
+  "model": "glm-5.3"
+}

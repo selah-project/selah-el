@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "Κάθε καθαρό πτηνό μπορείτε να το φάτε.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Κάθε"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "πτηνό"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "καθαρό"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "μπορείτε να το φάτε"
+    }
+  ],
+  "timestamp": "2026-09-03T00:48:14.550565095Z",
+  "model": "glm-5.3"
+}

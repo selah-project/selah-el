@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 12:19",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "και του Γιογιαρίβ, Ματενάι· του Γιεντάι, Οζζί.",
+  "tokens": [
+    {
+      "surface": "וליויריב",
+      "gloss": "και του Γιογιαρίβ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "Ματενάι"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "του Γιεντάι"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Οζζί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:22:16.102796999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "και Αχιό και Σασάκ και Ιερεμώθ.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "και Αχιό"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "Σασάκ"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "και Ιερεμώθ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:32:35.553678782Z",
+  "model": "glm-5.3"
+}

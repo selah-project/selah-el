@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 44,
+  "translation": "Και τους έφτασε, και τους μίλησε ⟨את⟩ τα λόγια αυτά.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "και τους έφτασε"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "και μίλησε"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "προς αυτούς"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τα λόγια αυτά"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "τα λόγια"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "αυτά"
+    }
+  ],
+  "timestamp": "2026-09-02T23:39:49.639747120Z",
+  "model": "glm-5.3"
+}

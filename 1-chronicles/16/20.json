@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 16,
+  "translation": "και περιπλανήθηκαν από έθνος σε έθνος και από βασίλειο σε άλλο λαό.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "και περιπλανήθηκαν"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "από έθνος"
+    },
+    {
+      "surface": "אל",
+      "gloss": "σε"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "έθνος"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "και από βασίλειο"
+    },
+    {
+      "surface": "אל",
+      "gloss": "σε"
+    },
+    {
+      "surface": "עם",
+      "gloss": "λαό"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "άλλο"
+    }
+  ],
+  "timestamp": "2026-09-03T10:40:53.903252306Z",
+  "model": "glm-5.3"
+}

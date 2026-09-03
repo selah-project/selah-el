@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 102,
+  "translation": "Αγρυπνώ και έμεινα σαν πουλί μοναχικό πάνω στη στέγη.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "Αγρυπνώ"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "και έμεινα"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "σαν πουλί"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "μοναχικό"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "גג",
+      "gloss": "στη στέγη"
+    }
+  ],
+  "timestamp": "2026-09-03T08:23:08.292666979Z",
+  "model": "glm-5.3"
+}

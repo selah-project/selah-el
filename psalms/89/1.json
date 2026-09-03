@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 89,
+  "translation": "Διδακτικό ποίημα του Εταν του Εζραχί.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Διδακτικό ποίημα"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "του Εταν"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "του Εζραχί"
+    }
+  ],
+  "timestamp": "2026-09-03T08:19:41.011220629Z",
+  "model": "glm-5.3"
+}

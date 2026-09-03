@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 18:10",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "Και απέκτησε γιο βίαιο, που χύνει αίμα, και έκανε σε αδελφό ένα από αυτά.",
+  "tokens": [
+    {
+      "surface": "והוליד",
+      "gloss": "και απέκτησε"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιο"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "βίαιο"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "χύνει"
+    },
+    {
+      "surface": "דם",
+      "gloss": "αίμα"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "και έκανε"
+    },
+    {
+      "surface": "אח",
+      "gloss": "αδελφό"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "από αυτά"
+    }
+  ],
+  "timestamp": "2026-09-03T06:59:45.083366370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 34,
+  "translation": "Ελάτε, παιδιά, ακούστε με· τον φόβο του Γιαχβέ θα σας διδάξω.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Ελάτε"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "παιδιά"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ακούστε"
+    },
+    {
+      "surface": "לי",
+      "gloss": "με"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "τον φόβο"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "θα σας διδάξω"
+    }
+  ],
+  "timestamp": "2026-09-03T07:52:57.097048353Z",
+  "model": "glm-5.3"
+}

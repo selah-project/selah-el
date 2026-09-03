@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Άρχοντες με το χέρι τους κρεμάστηκαν· πρόσωπα γέρων δεν τιμήθηκαν.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "Άρχοντες"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "με το χέρι τους"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "κρεμάστηκαν"
+    },
+    {
+      "surface": "פני",
+      "gloss": "πρόσωπα"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "γέρων"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "τιμήθηκαν"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:23.680746916Z",
+  "model": "glm-5.3"
+}

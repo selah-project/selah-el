@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "και στη Βιλά και στο Ετσέμ και στο Τολάδ,",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "και στη Βιλά"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "και στο Ετσέμ"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "και στο Τολάδ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:29:25.294428747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 48,
+  "translation": "Με άνεμο ανατολικό συντρίβεις καράβια του Ταρσίς.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "Με άνεμο"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ανατολικό"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "συντρίβεις"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "καράβια"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "του Ταρσίς"
+    }
+  ],
+  "timestamp": "2026-09-03T08:00:33.681332303Z",
+  "model": "glm-5.3"
+}

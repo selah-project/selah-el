@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 116,
+  "translation": "Εγώ είπα στη βιασύνη μου: κάθε άνθρωπος ⟨είναι⟩ ψεύτης.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Εγώ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "είπα"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "στη βιασύνη μου"
+    },
+    {
+      "surface": "כל",
+      "gloss": "κάθε"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "άνθρωπος"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ψεύτης"
+    }
+  ],
+  "timestamp": "2026-09-03T08:30:40.158342399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Μόνο αν σταθεί μία μέρα ή δύο μέρες, δεν θα τιμωρηθεί, γιατί είναι το ασήμι του.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Μόνο"
+    },
+    {
+      "surface": "אם",
+      "gloss": "αν"
+    },
+    {
+      "surface": "יום",
+      "gloss": "μία μέρα"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "δύο μέρες"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "σταθεί"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "θα τιμωρηθεί"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "το ασήμι του"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "είναι"
+    }
+  ],
+  "timestamp": "2026-09-02T23:52:31.502813778Z",
+  "model": "glm-5.3"
+}

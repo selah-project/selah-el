@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 39,
+  "translation": "Και η σειρά η τρίτη: λυγκούρι, αχάτης και αμέθυστος.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "Και η σειρά"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "η τρίτη"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "λυγκούρι"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "αχάτης"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "και αμέθυστος"
+    }
+  ],
+  "timestamp": "2026-09-03T00:01:58.209165344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 34:26",
+  "book": "job",
+  "lang": "el",
+  "chapter": 34,
+  "translation": "Σαν ασεβείς το χτύπησέ τους, σε τόπο ορατών.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Σαν"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ασεβείς"
+    },
+    {
+      "surface": "ספקם",
+      "gloss": "το χτύπησέ τους"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "σε τόπο"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "ορατών"
+    }
+  ],
+  "timestamp": "2026-09-03T09:19:37.020535406Z",
+  "model": "glm-5.3"
+}

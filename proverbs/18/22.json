@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "Βρήκε γυναίκα — βρήκε καλό, και απέσπασε εύνοια από τον Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "Βρήκε"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "γυναίκα"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "βρήκε"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "καλό"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "και απέσπασε"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "εύνοια"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "από τον Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:52:11.063849755Z",
+  "model": "glm-5.3"
+}

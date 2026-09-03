@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "και ⟨את⟩ τον Χιβί και ⟨את⟩ τον Αρκί και ⟨את⟩ τον Σινί.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "τον Χιβί"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "τον Χιβί"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "τον Αρκί"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "τον Αρκί"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "τον Σινί"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "τον Σινί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:24:20.146670889Z",
+  "model": "glm-5.3"
+}

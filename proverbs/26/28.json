@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 26:28",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 26,
+  "translation": "Γλώσσα ψεύτικη μισεί όσους συνέτριψε, και στόμα λείο κάνει ανατροπή.",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "Γλώσσα"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ψεύτικη"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "μισεί"
+    },
+    {
+      "surface": "דכיו",
+      "gloss": "όσους συνέτριψε"
+    },
+    {
+      "surface": "ופה",
+      "gloss": "και στόμα"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "λειό"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "κάνει"
+    },
+    {
+      "surface": "מדחה",
+      "gloss": "ανατροπή"
+    }
+  ],
+  "timestamp": "2026-09-03T08:57:45.941332250Z",
+  "model": "glm-5.3"
+}

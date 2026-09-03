@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Και κατέμετρησε ο Μοσέ ⟨את⟩ αυτούς με το στόμα του Γιαχβέ, όπως διατάχτηκε.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Και κατέμετρησε"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "αυτούς"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Μοσέ"
+    },
+    {
+      "surface": "על",
+      "gloss": "με"
+    },
+    {
+      "surface": "פי",
+      "gloss": "το στόμα"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "όπως"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "διατάχτηκε"
+    }
+  ],
+  "timestamp": "2026-09-03T00:20:54.864729814Z",
+  "model": "glm-5.3"
+}

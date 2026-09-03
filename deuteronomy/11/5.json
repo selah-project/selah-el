@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "και όσα έκανε για εσάς στην έρημο, ως το να έρθετε ως τον τόπο αυτόν",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "και όσα"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "έκανε"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "για εσάς"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "στην έρημο"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ως"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "το να έρθετε"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ως"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "τον τόπο"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "αυτόν"
+    }
+  ],
+  "timestamp": "2026-09-03T00:47:33.980818364Z",
+  "model": "glm-5.3"
+}

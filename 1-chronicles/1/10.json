@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Και ο Κους γέννησε ⟨את⟩ τον Νιμρόδ· αυτός άρχισε να γίνεται δυνατός στη γη.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Και ο Κους"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "γέννησε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Νιμρόδ"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Νιμρόδ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "αυτός"
+    },
+    {
+      "surface": "החל",
+      "gloss": "άρχισε"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "να γίνεται"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "δυνατός"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "στη γη"
+    }
+  ],
+  "timestamp": "2026-09-03T10:24:35.291517888Z",
+  "model": "glm-5.3"
+}

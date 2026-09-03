@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 55,
+  "translation": "Εγώ στον Ελοχίμ θα φωνάξω, και ο Γιαχβέ θα με σώσει.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Εγώ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Ελοχίμ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "θα φωνάξω"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "και ο Γιαχβέ"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "θα με σώσει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:04:50.299729825Z",
+  "model": "glm-5.3"
+}

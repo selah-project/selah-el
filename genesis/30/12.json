@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "Και γέννησε η Ζιλπά, η σκλάβα της Λέα, δεύτερο γιο στον Γιαακόβ.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Και γέννησε"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "η Ζιλπά"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "η σκλάβα"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "της Λέα"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιο"
+    },
+    {
+      "surface": "שני",
+      "gloss": "δεύτερο"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "στον Γιαακόβ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:30:47.397546070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 136,
+  "translation": "Δίνει ψωμί σε κάθε σάρκα, γιατί για πάντα ⟨είναι⟩ το χέσεδ του.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Δίνει"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ψωμί"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "σε κάθε"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "σάρκα"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "για πάντα"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "το χέσεδ του"
+    }
+  ],
+  "timestamp": "2026-09-03T08:37:00.396324218Z",
+  "model": "glm-5.3"
+}

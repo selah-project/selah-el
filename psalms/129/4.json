@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 129,
+  "translation": "Γιαχβέ ⟨είναι⟩ δίκαιος· έκοψε τα σκοινιά των ασεβών.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "δίκαιος"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "έκοψε"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "τα σκοινιά"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "των ασεβών"
+    }
+  ],
+  "timestamp": "2026-09-03T08:35:08.303449287Z",
+  "model": "glm-5.3"
+}

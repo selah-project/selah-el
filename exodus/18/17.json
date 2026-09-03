@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "Και είπε ο πεθερός του Μοσέ σε αυτόν: όχι καλό ⟨είναι⟩ το πράγμα που εσύ κάνεις.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ο πεθερός"
+    },
+    {
+      "surface": "משה",
+      "gloss": "του Μοσέ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "σε αυτόν"
+    },
+    {
+      "surface": "לא",
+      "gloss": "όχι"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "καλό"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "το πράγμα"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "κάνεις"
+    }
+  ],
+  "timestamp": "2026-09-02T23:51:38.878940781Z",
+  "model": "glm-5.3"
+}

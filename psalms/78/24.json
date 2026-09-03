@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 78,
+  "translation": "Και έβρεξε πάνω τους μαν να φάνε, και σιτάρι ουρανού έδωσε σε αυτά.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "Και έβρεξε"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "πάνω τους"
+    },
+    {
+      "surface": "מן",
+      "gloss": "μαν"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "να φάνε"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "και σιτάρι"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ουρανού"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "έδωσε"
+    },
+    {
+      "surface": "למו",
+      "gloss": "σε αυτά"
+    }
+  ],
+  "timestamp": "2026-09-03T08:14:37.454897324Z",
+  "model": "glm-5.3"
+}

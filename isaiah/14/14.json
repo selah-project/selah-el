@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 14:14",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "Θα ανέβω πάνω στα ύψη της νεφώσης, θα μοιάσω με τον Ελιόν.»",
+  "tokens": [
+    {
+      "surface": "אעלה",
+      "gloss": "Θα ανέβω"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "στα ύψη"
+    },
+    {
+      "surface": "עב",
+      "gloss": "της νεφώσης"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "θα μοιάσω"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "με τον Ελιόν"
+    }
+  ],
+  "timestamp": "2026-09-03T03:53:22.493650225Z",
+  "model": "glm-5.3"
+}

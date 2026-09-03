@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "βασιλιάς του Σιμρόν-Μερόν, ένας· βασιλιάς του Ακσάφ, ένας·",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "βασιλιάς"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Σιμρόν"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "-Μερόν"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "βασιλιάς"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Ακσάφ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    }
+  ],
+  "timestamp": "2026-09-03T01:07:53.187146490Z",
+  "model": "glm-5.3"
+}

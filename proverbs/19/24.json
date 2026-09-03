@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "Βουτάει ο οκνηρός το χέρι του στο πιάτο· και στο στόμα του δεν το επιστρέφει.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "Βουτάει"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ο οκνηρός"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "το χέρι του"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "στο πιάτο"
+    },
+    {
+      "surface": "גם",
+      "gloss": "και"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στο"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "στόμα του"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "το επιστρέφει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:52:34.571753218Z",
+  "model": "glm-5.3"
+}

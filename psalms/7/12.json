@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Ο Ελοχίμ ⟨είναι⟩ κριτής δίκαιος, κι ο Ελ οργίζεται κάθε μέρα.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Ο Ελοχίμ"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "κριτής"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "δίκαιος"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "κι ο Ελ"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "οργίζεται"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "σε κάθε"
+    },
+    {
+      "surface": "יום",
+      "gloss": "μέρα"
+    }
+  ],
+  "timestamp": "2026-09-03T07:41:40.714695225Z",
+  "model": "glm-5.3"
+}

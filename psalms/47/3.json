@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 47,
+  "translation": "Ότι Γιαχβέ, ο Ελιόν, είναι φοβερός — βασιλιάς μεγάλος πάνω σε όλη τη γη.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ότι"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ο Ελιόν"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "φοβερός"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "βασιλιάς"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "μεγάλος"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "τη γη"
+    }
+  ],
+  "timestamp": "2026-09-03T08:01:26.291027929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Στον αρχιμουσικό, για την Αιελέτ Χασαχάρ· μιζμόρ του Δαβίδ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον αρχιμουσικό"
+    },
+    {
+      "surface": "על",
+      "gloss": "για"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Αιελέτ"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "Χασαχάρ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "μιζμόρ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "του Δαβίδ"
+    }
+  ],
+  "timestamp": "2026-09-03T07:48:51.273290254Z",
+  "model": "glm-5.3"
+}

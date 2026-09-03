@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι γιοι του Πασχούρ: χίλιοι διακόσιοι σαράντα και επτά.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "του Πασχούρ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "χίλιοι"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "διακόσιοι"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "σαράντα"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "και επτά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:17:52.979314349Z",
+  "model": "glm-5.3"
+}

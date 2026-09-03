@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Ο Σαλμά, πατέρας του Βετ-Λέχεμ· ο Χαρέφ, πατέρας του Βετ-Γαδέρ.",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "Ο Σαλμά"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "πατέρας"
+    },
+    {
+      "surface": "בית",
+      "gloss": "του Βετ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Λέχεμ"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ο Χαρέφ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "πατέρας"
+    },
+    {
+      "surface": "בית",
+      "gloss": "του Βετ"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "Γαδέρ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:27:41.175108560Z",
+  "model": "glm-5.3"
+}

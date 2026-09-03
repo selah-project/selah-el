@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 26,
+  "translation": "Και ανέβηκε από εκεί στο Μπεέρ Σεβά.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Και ανέβηκε"
+    },
+    {
+      "surface": "משם",
+      "gloss": "από εκεί"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Μπεέρ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Σεβά"
+    }
+  ],
+  "timestamp": "2026-09-02T23:30:26.775905192Z",
+  "model": "glm-5.3"
+}

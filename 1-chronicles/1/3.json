@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 1:3",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Χανός, Μετουσέλαχ, Λέμεχ,",
+  "tokens": [
+    {
+      "surface": "חנוך",
+      "gloss": "Χανός"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Μετουσέλαχ"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Λέμεχ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:24:10.464080820Z",
+  "model": "glm-5.3"
+}

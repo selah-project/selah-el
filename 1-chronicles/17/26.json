@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 17,
+  "translation": "Και τώρα, Γιαχβέ, εσύ είσαι ο Ελοχίμ, και μίλησες για τον δούλο σου το καλό αυτό.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Και τώρα"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "είσαι"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ο Ελοχίμ"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "και μίλησες"
+    },
+    {
+      "surface": "על",
+      "gloss": "για"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "τον δούλο σου"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "το καλό"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "αυτό"
+    }
+  ],
+  "timestamp": "2026-09-03T10:41:47.800674733Z",
+  "model": "glm-5.3"
+}

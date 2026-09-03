@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Νετανέλ ο τέταρτος, Ραδάι ο πέμπτος.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "Νετανέλ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ο τέταρτος"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "Ραδάι"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ο πέμπτος"
+    }
+  ],
+  "timestamp": "2026-09-03T10:26:02.097523652Z",
+  "model": "glm-5.3"
+}

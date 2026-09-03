@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Σε κάθε καιρό ας είναι τα ρούχα σου λευκά, και λάδι πάνω στο κεφάλι σου ας μην λείπει.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Σε κάθε"
+    },
+    {
+      "surface": "עת",
+      "gloss": "καιρό"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ας είναι"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "τα ρούχα σου"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "λευκά"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "και λάδι"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "το κεφάλι σου"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ας μην"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "λείπει"
+    }
+  ],
+  "timestamp": "2026-09-03T09:41:22.029979415Z",
+  "model": "glm-5.3"
+}

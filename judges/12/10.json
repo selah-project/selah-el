@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Και πέθανε ο Αβτσάν και θάφτηκε στο Βετ-Λεχέμ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Και πέθανε"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "ο Αβτσάν"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "και θάφτηκε"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "στο Βετ-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Λεχέμ"
+    }
+  ],
+  "timestamp": "2026-09-03T01:31:12.699981078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 1:24",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Σεμ, Αρπακσάντ, Σελάχ.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Σεμ"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Αρπακσάντ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Σελάχ"
+    }
+  ],
+  "timestamp": "2026-09-03T11:35:56.405932084Z",
+  "model": "glm-5.3"
+}

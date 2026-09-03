@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 32,
+  "translation": "Δεν είναι αυτό φυλαγμένο μαζί μου, σφραγισμένο στους θησαυρούς μου;",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "כמס",
+      "gloss": "φυλαγμένο"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "μαζί μου"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "σφραγισμένο"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "στους θησαυρούς μου"
+    }
+  ],
+  "timestamp": "2026-09-03T00:59:16.242422501Z",
+  "model": "glm-5.3"
+}

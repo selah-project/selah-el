@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 6:23",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "γιος Γιτσάρ, γιος Κεχάτ, γιος Λεβί, γιος Ισραέλ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Γιτσάρ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Κεχάτ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Λεβί"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ισραέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:43.441993530Z",
+  "model": "glm-5.3"
+}

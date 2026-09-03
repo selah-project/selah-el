@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "και ο Ζαβάδ γέννησε ⟨את⟩ τον Εφλάλ, και ο Εφλάλ γέννησε ⟨את⟩ τον Οβέδ.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "και ο Ζαβάδ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "γέννησε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Εφλάλ"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "τον Εφλάλ"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "και ο Εφλάλ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "γέννησε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Οβέδ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "τον Οβέδ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:25:50.002747563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Ουριά ο Χιττί, Ζαβάδ γιος του Αχλάι.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "Ουριά"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ο Χιττί"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Ζαβάδ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "του Αχλάι"
+    }
+  ],
+  "timestamp": "2026-09-03T10:34:15.704401362Z",
+  "model": "glm-5.3"
+}

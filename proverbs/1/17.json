@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Γιατί μάταια σκορπίζεται το δίχτυ μπροστά στα μάτια κάθε φτερωτού·",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "μάταια"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "σκορπίζεται"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "το δίχτυ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "στα μάτια"
+    },
+    {
+      "surface": "כל",
+      "gloss": "κάθε"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "μου"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "φτερωτού"
+    }
+  ],
+  "timestamp": "2026-09-03T08:42:28.157453404Z",
+  "model": "glm-5.3"
+}

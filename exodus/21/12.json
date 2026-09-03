@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Χτυπήσεων άντρα και πέθανε — θάνατος θα θανατωθεί.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Χτυπήσεων"
+    },
+    {
+      "surface": "איש",
+      "gloss": "άντρα"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "και πέθανε"
+    },
+    {
+      "surface": "מות",
+      "gloss": "θάνατος"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "θα θανατωθεί"
+    }
+  ],
+  "timestamp": "2026-09-02T23:52:29.579190808Z",
+  "model": "glm-5.3"
+}

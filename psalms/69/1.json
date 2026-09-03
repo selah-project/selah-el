@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 69,
+  "translation": "Στον μαέστρο, πάνω στα Σοσάνιμ (τα κρίνα)· του Δαβίδ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον μαέστρο"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "στα Σοσάνιμ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "του Δαβίδ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:10:31.556177587Z",
+  "model": "glm-5.3"
+}

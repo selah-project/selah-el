@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Υιέ ανθρώπου, δεν είπαν σε εσένα ο οίκος του Ισραέλ, ο οίκος της στασίασης: τι εσύ κάνεις;",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Υιέ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ανθρώπου"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "είπαν"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "σε εσένα"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ο οίκος"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "του Ισραέλ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ο οίκος"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "της στασίασης"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "κάνεις"
+    }
+  ],
+  "timestamp": "2026-09-03T05:23:13.627016066Z",
+  "model": "glm-5.3"
+}

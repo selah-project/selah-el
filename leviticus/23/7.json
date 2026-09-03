@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Στην ημέρα την πρώτη ιερή σύναξη θα είναι για εσάς· κάθε έργο δουλείας δεν θα κάνετε.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Στην ημέρα"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "την πρώτη"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "σύναξη"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ιερή"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "θα είναι"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "για εσάς"
+    },
+    {
+      "surface": "כל",
+      "gloss": "κάθε"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "έργο"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "δουλείας"
+    },
+    {
+      "surface": "לא",
+      "gloss": "όχι"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "θα κάνετε"
+    }
+  ],
+  "timestamp": "2026-09-03T00:15:18.630320964Z",
+  "model": "glm-5.3"
+}

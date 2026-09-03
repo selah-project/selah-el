@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 23:1",
+  "book": "job",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Και απάντησε ο Ιωβ και είπε:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Και απάντησε"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ο Ιωβ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "και είπε"
+    }
+  ],
+  "timestamp": "2026-09-03T09:14:48.565980354Z",
+  "model": "glm-5.3"
+}

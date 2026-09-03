@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Όλες τις μέρες της αφιέρωσής του στον Γιαχβέ, για ψυχή νεκρή δεν θα μπει.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Όλες"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "τις μέρες"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "της αφιέρωσής του"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "στον Γιαχβέ"
+    },
+    {
+      "surface": "על",
+      "gloss": "για"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ψυχή"
+    },
+    {
+      "surface": "מת",
+      "gloss": "νεκρή"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "θα μπει"
+    }
+  ],
+  "timestamp": "2026-09-03T00:22:29.108227867Z",
+  "model": "glm-5.3"
+}

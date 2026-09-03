@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "το να διαστρέψει το δίκαιο ενός ανθρώπου απέναντι από το πρόσωπο του Ελιόν,",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "το να διαστρέψει"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "το δίκαιο"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ενός ανθρώπου"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "απέναντι από"
+    },
+    {
+      "surface": "פני",
+      "gloss": "το πρόσωπο"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "του Ελιόν"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:39.355272521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 44,
+  "translation": "Και τώρα άκουσε, Γιαακόβ, δούλε μου, και Ισραέλ, που τον διάλεξα.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Και τώρα"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "άκουσε"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Γιαακόβ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "δούλε μου"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "και Ισραέλ"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "διάλεξα"
+    },
+    {
+      "surface": "בו",
+      "gloss": "τον"
+    }
+  ],
+  "timestamp": "2026-09-03T04:18:42.347259983Z",
+  "model": "glm-5.3"
+}

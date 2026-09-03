@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Γι' αυτό ονόμασε τον τόπο εκείνο Βερ-Σεβέ, γιατί εκεί ορκίστηκαν και οι δύο.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Γι'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ονόμασε"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "τον τόπο"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "εκείνο"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Βερ-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Σεβέ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "שם",
+      "gloss": "εκεί"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "ορκίστηκαν"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "και οι δύο"
+    }
+  ],
+  "timestamp": "2026-09-02T23:27:47.840456422Z",
+  "model": "glm-5.3"
+}

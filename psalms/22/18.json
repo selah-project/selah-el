@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Μετρώ όλα μου τα κόκαλα· αυτοί κοιτάζουν, αγριοκοιτάζουν με.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "Μετρώ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "μου τα κόκαλα"
+    },
+    {
+      "surface": "המה",
+      "gloss": "αυτοί"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "κοιτάζουν"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "αγριοκοιτάζουν"
+    },
+    {
+      "surface": "בי",
+      "gloss": "με"
+    }
+  ],
+  "timestamp": "2026-09-03T07:49:16.641397108Z",
+  "model": "glm-5.3"
+}

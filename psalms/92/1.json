@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 92,
+  "translation": "Ψαλμός, τραγούδι, για την ημέρα του Σαμπάτ.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Ψαλμός"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "τραγούδι"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "για την ημέρα"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "του Σαμπάτ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:20:42.118675612Z",
+  "model": "glm-5.3"
+}

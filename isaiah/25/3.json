@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 25,
+  "translation": "Γι' αυτό θα σε δοξάσει λαός ισχυρός, πόλη εθνών ωμών θα σε φοβηθεί.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "γι'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "θα σε δοξάσει"
+    },
+    {
+      "surface": "עם",
+      "gloss": "λαός"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ισχυρός"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "πόλη"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "εθνών"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "ωμών"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "θα σε φοβηθεί"
+    }
+  ],
+  "timestamp": "2026-09-03T04:02:13.735745264Z",
+  "model": "glm-5.3"
+}

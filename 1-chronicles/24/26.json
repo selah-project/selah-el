@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Γιοι του Μεραρί: ο Μαχλί και ο Μουσί· γιοι του Γιααζίαχου, ο γιος του.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "του Μεραρί"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "ο Μαχλί"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "και ο Μουσί"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "του Γιααζίαχου"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ο γιος του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:45:17.899848748Z",
+  "model": "glm-5.3"
+}

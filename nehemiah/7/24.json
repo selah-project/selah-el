@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι γιοι του Χαρίφ: εκατόν δώδεκα.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "του Χαρίφ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "εκατό"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "δώδεκα — δύο"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "δώδεκα — δέκα"
+    }
+  ],
+  "timestamp": "2026-09-03T10:16:56.799493312Z",
+  "model": "glm-5.3"
+}

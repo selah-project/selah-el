@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Μέχρι να σκύψει και να δει ο Γιαχβέ από τους ουρανούς",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Μέχρι"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "να σκύψει"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "και να δει"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "από τους ουρανούς"
+    }
+  ],
+  "timestamp": "2026-09-03T12:44:05.013007032Z",
+  "model": "glm-5.3"
+}

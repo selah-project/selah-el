@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Γιοι του Βακβούκ, γιοι του Χακουφά, γιοι του Χαρχούρ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι του"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "Βακβούκ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι του"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "Χακουφά"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι του"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "Χαρχούρ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:18:04.601961771Z",
+  "model": "glm-5.3"
+}

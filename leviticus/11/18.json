@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "και ⟨את⟩ την τινσεμέτ και ⟨את⟩ την καάτ και ⟨את⟩ τον ραχάμ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "την τινσεμέτ"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "την τινσεμέτ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "την καάτ"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "την καάτ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "τον ραχάμ"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "τον ραχάμ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:07:56.201378707Z",
+  "model": "glm-5.3"
+}

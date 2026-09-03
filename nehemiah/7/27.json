@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι άντρες του Ανατότ: εκατό είκοσι οκτώ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Οι άντρες"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "του Ανατότ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "εκατό"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "είκοσι"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "οκτώ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:16:54.791136151Z",
+  "model": "glm-5.3"
+}

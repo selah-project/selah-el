@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 114,
+  "translation": "τα βουνά, που πηδάτε σαν κριάρια, οι λόφοι, σαν αρνιά;",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "τα βουνά"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "πηδάτε"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "σαν κριάρια"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "οι λόφοι"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "σαν"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "αρνιά"
+    }
+  ],
+  "timestamp": "2026-09-03T08:30:53.885045573Z",
+  "model": "glm-5.3"
+}

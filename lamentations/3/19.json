@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Θυμήσου τη θλίψη μου και την ταλαιπωρία μου, το αψίνθιο και τη χολή.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Θυμήσου"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "τη θλίψη μου"
+    },
+    {
+      "surface": "ומרודי",
+      "gloss": "και την ταλαιπωρία μου"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "το αψίνθιο"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "και τη χολή"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:49.122056879Z",
+  "model": "glm-5.3"
+}

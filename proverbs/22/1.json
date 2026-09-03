@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Εκλέγεται ένα όνομα παρά πολύ πλούτο· από ασήμι και από χρυσάφι, χάρη καλή.",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "εκλέγεται"
+    },
+    {
+      "surface": "שם",
+      "gloss": "όνομα"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "παρά πλούτο"
+    },
+    {
+      "surface": "רב",
+      "gloss": "πολύ"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "από ασήμι"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "και από χρυσάφι"
+    },
+    {
+      "surface": "חן",
+      "gloss": "χάρη"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "καλή"
+    }
+  ],
+  "timestamp": "2026-09-03T08:54:40.723909748Z",
+  "model": "glm-5.3"
+}

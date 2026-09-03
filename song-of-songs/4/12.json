@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Κλειστός κήπος η αδελφή μου, η νύφη· κλειστή πηγή, σφραγισμένη κρήνη.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "κήπος"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "κλειστός"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "η αδελφή μου"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "η νύφη"
+    },
+    {
+      "surface": "גל",
+      "gloss": "πηγή"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "κλειστή"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "κρήνη"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "σφραγισμένη"
+    }
+  ],
+  "timestamp": "2026-09-03T09:25:38.234447861Z",
+  "model": "glm-5.3"
+}

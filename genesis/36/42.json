@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 36,
+  "translation": "Αλούφ ⟨ο⟩ Κενάζ, Αλούφ ⟨ο⟩ Τεμάν, Αλούφ ⟨ο⟩ Μιβτσάρ.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "Αλούφ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Κενάζ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "Αλούφ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Τεμάν"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "Αλούφ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Μιβτσάρ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:34:52.444874125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Φύλαρχος Μαγντιέλ, φύλαρχος Ιράμ. Αυτοί είναι οι φύλαρχοι του Εδόμ.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "Φύλαρχος"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "Μαγντιέλ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "φύλαρχος"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "Ιράμ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Αυτοί"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "οι φύλαρχοι"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "του Εδόμ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:23:53.930368893Z",
+  "model": "glm-5.3"
+}

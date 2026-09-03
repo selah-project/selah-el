@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 108,
+  "translation": "Ξύπνα, νάβελ και κιθάρα· εγώ θα ξυπνήσω την αυγή.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Ξύπνα"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "νάβελ"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "και κιθάρα"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "θα ξυπνήσω"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "την αυγή"
+    }
+  ],
+  "timestamp": "2026-09-03T08:28:24.491194665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 16,
+  "translation": "Ψάλλετε του, κιθαρίστε του, συλλογιστείτε όλα τα θαυμάσματά του.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Ψάλλετε"
+    },
+    {
+      "surface": "לו",
+      "gloss": "του"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "κιθαρίστε"
+    },
+    {
+      "surface": "לו",
+      "gloss": "του"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "συλλογιστείτε"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "τα θαυμάσματά του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:37:48.225835032Z",
+  "model": "glm-5.3"
+}

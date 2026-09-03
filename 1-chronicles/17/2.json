@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 17,
+  "translation": "Και είπε ο Ναταν στον Δαβίδ: Ό,τι ⟨είναι⟩ στην καρδιά σου, κάνε, γιατί ο Ελοχίμ ⟨είναι⟩ μαζί σου.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ο Ναταν"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Δαβίδ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Ό,τι"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "στην καρδιά σου"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "κάνε"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ο Ελοχίμ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "μαζί σου"
+    }
+  ],
+  "timestamp": "2026-09-03T10:42:23.754705683Z",
+  "model": "glm-5.3"
+}

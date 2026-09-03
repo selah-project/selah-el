@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "Και είπε ο Γιαχβέ: να κρύψω εγώ από τον Αβραχάμ αυτό που εγώ κάνω;",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Και ο Γιαχβέ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "να κρύψω"
+    },
+    {
+      "surface": "אני",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "από τον Αβραχάμ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "αυτό που"
+    },
+    {
+      "surface": "אני",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "κάνω"
+    }
+  ],
+  "timestamp": "2026-09-02T23:26:19.698091020Z",
+  "model": "glm-5.3"
+}

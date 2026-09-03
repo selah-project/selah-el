@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 132,
+  "translation": "Αν μπω στη σκηνή του σπιτιού μου, αν ανέβω στο κρεβάτι της κλίνης μου —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Αν"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "μπω"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "στη σκηνή"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "του σπιτιού μου"
+    },
+    {
+      "surface": "אם",
+      "gloss": "αν"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ανέβω"
+    },
+    {
+      "surface": "על",
+      "gloss": "στο"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "κρεβάτι"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "της κλίνης μου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:35:20.890428558Z",
+  "model": "glm-5.3"
+}

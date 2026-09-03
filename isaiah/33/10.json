@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 33,
+  "translation": "Τώρα θα σηκωθώ, λέει ο Γιαχβέ· τώρα θα υψωθώ· τώρα θα ανασηκωθώ.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Τώρα"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "θα σηκωθώ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "λέει"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "τώρα"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "θα υψωθώ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "τώρα"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "θα ανασηκωθώ"
+    }
+  ],
+  "timestamp": "2026-09-03T04:07:52.080025142Z",
+  "model": "glm-5.3"
+}

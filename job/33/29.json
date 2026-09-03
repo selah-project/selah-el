@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "el",
+  "chapter": 33,
+  "translation": "Να, όλα αυτά τα ενεργεί ο Ελ: δύο φορές — τρεις, με έναν άνθρωπο.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Να"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "αυτά"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "τα ενεργεί"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ο Ελ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "δύο φορές"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "τρεις"
+    },
+    {
+      "surface": "עם",
+      "gloss": "με"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "έναν άνθρωπο"
+    }
+  ],
+  "timestamp": "2026-09-03T09:19:03.617353904Z",
+  "model": "glm-5.3"
+}

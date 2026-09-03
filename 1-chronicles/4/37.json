@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "και ο Ζιζά γιος του Σιφί γιος του Αλόν γιος του Γιδαγιά γιος του Σιμρί γιος του Σεμαγιά.",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "και ο Ζιζά"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "του Σιφί"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "του Αλόν"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "του Γιδαγιά"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "του Σιμρί"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "του Σεμαγιά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:28:25.473057274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Ο πλούσιος είχε πρόβατα και βόδια υπερβολικά πολλά.",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "Ο πλούσιος"
+    },
+    {
+      "surface": "היה",
+      "gloss": "είχε"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "πρόβατα"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "και βόδια"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "πολλά"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "υπερβολικά"
+    }
+  ],
+  "timestamp": "2026-09-03T02:23:37.756509343Z",
+  "model": "glm-5.3"
+}

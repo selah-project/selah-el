@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 10:26",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Ρεχούμ, Χασαβνά, Μαασεγιά,",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Ρεχούμ"
+    },
+    {
+      "surface": "חשבנה",
+      "gloss": "Χασαβνά"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "Μαασεγιά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:20:39.515900959Z",
+  "model": "glm-5.3"
+}

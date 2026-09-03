@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 75,
+  "translation": "Μη υψώνετε στο ύψος το κέρας σας, μη μιλάτε με σκληρό σβέρκο.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "μη"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "υψώνετε"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "στο ύψος"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "το κέρας σας"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "μιλάτε"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "με τον σβέρκο"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "σκληρό"
+    }
+  ],
+  "timestamp": "2026-09-03T08:13:23.595503948Z",
+  "model": "glm-5.3"
+}

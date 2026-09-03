@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 25,
+  "translation": "Και έγινε μετά από την πληγή.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και έγινε"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "μετά από"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "την πληγή"
+    }
+  ],
+  "timestamp": "2026-09-03T00:33:01.892595095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "και Αβδόν και Ζιχρί και Χανάν.",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "και Αβδόν"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "και Ζιχρί"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "και Χανάν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:33:06.214066677Z",
+  "model": "glm-5.3"
+}

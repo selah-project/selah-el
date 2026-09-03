@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 32:23",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 32,
+  "translation": "Θα συνάξω εναντίον τους κακά, τα βέλη μου θα εξαντλήσω πάνω τους.",
+  "tokens": [
+    {
+      "surface": "אספה",
+      "gloss": "Θα συνάξω"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "εναντίον τους"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "κακά"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "τα βέλη μου"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "θα εξαντλήσω"
+    },
+    {
+      "surface": "בם",
+      "gloss": "πάνω τους"
+    }
+  ],
+  "timestamp": "2026-09-03T00:58:23.458247288Z",
+  "model": "glm-5.3"
+}

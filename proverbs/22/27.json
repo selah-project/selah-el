@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 22:27",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Αν δεν έχεις να πληρώσεις, γιατί να πάρει το κρεβάτι σου κάτω από σένα;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Αν"
+    },
+    {
+      "surface": "אין",
+      "gloss": "δεν έχεις"
+    },
+    {
+      "surface": "לך",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "να πληρώσεις"
+    },
+    {
+      "surface": "למה",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "να πάρει"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "το κρεβάτι σου"
+    },
+    {
+      "surface": "מתחתיך",
+      "gloss": "κάτω από σένα"
+    }
+  ],
+  "timestamp": "2026-09-03T08:55:08.866096126Z",
+  "model": "glm-5.3"
+}

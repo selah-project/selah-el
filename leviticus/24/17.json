@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Και άντρας αν χτυπήσει κάθε ψυχή ανθρώπου — θάνατος θα θανατωθεί.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Και άντρας"
+    },
+    {
+      "surface": "כי",
+      "gloss": "αν"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "χτυπήσει"
+    },
+    {
+      "surface": "כל",
+      "gloss": "κάθε"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ψυχή"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ανθρώπου"
+    },
+    {
+      "surface": "מות",
+      "gloss": "θάνατος"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "θα θανατωθεί"
+    }
+  ],
+  "timestamp": "2026-09-03T00:15:48.319836607Z",
+  "model": "glm-5.3"
+}

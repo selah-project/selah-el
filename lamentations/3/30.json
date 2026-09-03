@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Ας δώσει το μάγουλό του σε αυτόν που τον χτυπά, ας χορτάσει με ονειδισμό.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Ας δώσει"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "σε αυτόν που τον χτυπά"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "το μάγουλό του"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ας χορτάσει"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "με ονειδισμό"
+    }
+  ],
+  "timestamp": "2026-09-03T09:33:12.235417418Z",
+  "model": "glm-5.3"
+}

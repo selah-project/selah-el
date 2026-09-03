@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Δεν θα μολυνθεί ως αφέντης μέσα στον λαό του, για να βεβηλωθεί.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "θα μολυνθεί"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ως αφέντης"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "μέσα στον λαό του"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "για να βεβηλωθεί"
+    }
+  ],
+  "timestamp": "2026-09-03T00:13:45.852001386Z",
+  "model": "glm-5.3"
+}

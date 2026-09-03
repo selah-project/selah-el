@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Και ήρθε λόγος του Γιαχβέ προς εμένα δεύτερη φορά, για να πει:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και ήρθε"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "προς εμένα"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "δεύτερη φορά"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "για να πει"
+    }
+  ],
+  "timestamp": "2026-09-03T04:44:05.022050126Z",
+  "model": "glm-5.3"
+}

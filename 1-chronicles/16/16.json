@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 16,
+  "translation": "που έκοψε ⟨את⟩ με τον Αβραχάμ, και τον όρκο του στον Γιτσχάκ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "έκοψε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "με τον Αβραχάμ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "με τον Αβραχάμ"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "και τον όρκο του"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "στον Γιτσχάκ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:39:27.389728780Z",
+  "model": "glm-5.3"
+}

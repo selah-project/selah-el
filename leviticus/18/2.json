@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "Μίλησε προς τους γιους του Ισραέλ και πες τους: εγώ Γιαχβέ, ο Ελοχίμ σας.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Μίλησε"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "בני",
+      "gloss": "τους γιους"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "του Ισραέλ"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "και πες"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "τους"
+    },
+    {
+      "surface": "אני",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ο Ελοχίμ σας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:11:57.868173333Z",
+  "model": "glm-5.3"
+}

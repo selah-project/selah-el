@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 47,
+  "translation": "γιατί βασιλιάς όλης της γης ⟨είναι⟩ ο Ελοχίμ· ψάλτε, μασκίλ (σοφό άσμα).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "βασιλιάς"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλης"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "της γης"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ο Ελοχίμ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ψάλτε"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "μασκίλ"
+    }
+  ],
+  "timestamp": "2026-09-03T11:26:21.595168585Z",
+  "model": "glm-5.3"
+}

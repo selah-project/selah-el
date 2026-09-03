@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "γιος του Ζραχιά, γιος του Ζί, γιος του Βουκί",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "του Ζραχιά"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "του Ζί"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "του Βουκί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:11:00.687251889Z",
+  "model": "glm-5.3"
+}

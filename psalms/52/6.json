@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 52,
+  "translation": "Αγάπησες κάθε λόγιο που καταβροχθίζει, γλώσσα απάτης.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Αγάπησες"
+    },
+    {
+      "surface": "כל",
+      "gloss": "κάθε"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "λόγιο"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "που καταβροχθίζει"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "γλώσσα"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "απάτης"
+    }
+  ],
+  "timestamp": "2026-09-03T08:04:16.960531745Z",
+  "model": "glm-5.3"
+}

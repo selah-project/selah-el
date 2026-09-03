@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 11:8",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Σπαθί φοβηθήκατε, και σπαθί θα φέρω πάνω σας, χρησμός Αδωνάι Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "Σπαθί"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "φοβηθήκατε"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "και σπαθί"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "θα φέρω"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "πάνω σας"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "χρησμός"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Αδωνάι"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T05:24:18.689124017Z",
+  "model": "glm-5.3"
+}

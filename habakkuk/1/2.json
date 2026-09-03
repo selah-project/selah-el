@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Μέχρι πότε, Γιαχβέ, φώναξα και δεν ακούς; κράζω προς εσένα «βία» και δεν σώζεις.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Μέχρι"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "πότε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "φώναξα"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ακούς"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "κράζω"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "προς εσένα"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "«βία»"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "σώζεις"
+    }
+  ],
+  "timestamp": "2026-09-03T07:25:49.410075954Z",
+  "model": "glm-5.3"
+}

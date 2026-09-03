@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Καλό να ακούς έλεγχο σοφού, παρά άνθρωπος να ακούει τραγούδι ηλιθίων.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Καλό"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "να ακούς"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "έλεγχο"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "σοφού"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "παρά"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "να ακούει"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "τραγούδι"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ηλιθίων"
+    }
+  ],
+  "timestamp": "2026-09-03T09:39:40.497707524Z",
+  "model": "glm-5.3"
+}

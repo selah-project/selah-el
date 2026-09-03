@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "και Ελισαμά, και Βεαλιάδα, και Ελιφαλέτ",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "και Ελισαμά"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "και Βεαλιάδα"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "και Ελιφαλέτ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:37:35.975532872Z",
+  "model": "glm-5.3"
+}

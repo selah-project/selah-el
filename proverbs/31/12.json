@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 31,
+  "translation": "Του ανταποδίδει καλό και όχι κακό, όλες τις μέρες της ζωής της.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "Του ανταποδίδει"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "καλό"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και όχι"
+    },
+    {
+      "surface": "רע",
+      "gloss": "κακό"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλες"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "τις μέρες"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "της ζωής της"
+    }
+  ],
+  "timestamp": "2026-09-03T09:00:51.506291171Z",
+  "model": "glm-5.3"
+}

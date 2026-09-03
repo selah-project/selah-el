@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 32,
+  "translation": "Γιαχβέ μόνος τον οδηγούσε, και κανένας ξένος Ελ δεν ήταν μαζί του.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "μόνος"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "τον οδηγούσε"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "μαζί του"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ελ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ξένος"
+    }
+  ],
+  "timestamp": "2026-09-03T00:58:36.423209265Z",
+  "model": "glm-5.3"
+}

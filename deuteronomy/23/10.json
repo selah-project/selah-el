@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Όταν βγει στρατόπεδο εναντίον των εχθρών σου, και θα φυλαχτείς από κάθε κακό πράγμα.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Όταν"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "βγει"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "στρατόπεδο"
+    },
+    {
+      "surface": "על",
+      "gloss": "εναντίον"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "των εχθρών σου"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "και θα φυλαχτείς"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "από κάθε"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "πράγμα"
+    },
+    {
+      "surface": "רע",
+      "gloss": "κακό"
+    }
+  ],
+  "timestamp": "2026-09-03T00:53:31.298874062Z",
+  "model": "glm-5.3"
+}

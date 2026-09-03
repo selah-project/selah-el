@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 44,
+  "translation": "Ξύπνα! Γιατί κοιμάσαι, Αδωνάι; Σήκω, μη μας απορρίψεις για πάντα!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Ξύπνα"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "κοιμάσαι"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Αδωνάι"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Σήκω"
+    },
+    {
+      "surface": "אל",
+      "gloss": "μη"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "απορρίψεις"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "για πάντα"
+    }
+  ],
+  "timestamp": "2026-09-03T07:59:30.648834970Z",
+  "model": "glm-5.3"
+}

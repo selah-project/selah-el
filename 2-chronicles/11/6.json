@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Και έχτισε ⟨את⟩ το Μπαίτ Λεχέμ και ⟨את⟩ το Ειτάμ και ⟨את⟩ το Τεκόα,",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Και έχτισε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "το Μπαίτ Λεχέμ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Μπαίτ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Λεχέμ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "το Ειτάμ"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Ειτάμ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "το Τεκόα"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Τεκόα"
+    }
+  ],
+  "timestamp": "2026-09-03T10:55:26.012117400Z",
+  "model": "glm-5.3"
+}

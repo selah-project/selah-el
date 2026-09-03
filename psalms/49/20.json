@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 49,
+  "translation": "Θα έρθει έως την γενιά των πατέρων του· για πάντα δεν θα δουν φως.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Θα έρθει"
+    },
+    {
+      "surface": "עד",
+      "gloss": "έως"
+    },
+    {
+      "surface": "דור",
+      "gloss": "την γενιά"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "των πατέρων του"
+    },
+    {
+      "surface": "עד",
+      "gloss": "έως"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "για πάντα"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "θα δουν"
+    },
+    {
+      "surface": "אור",
+      "gloss": "φως"
+    }
+  ],
+  "timestamp": "2026-09-03T08:00:57.311537844Z",
+  "model": "glm-5.3"
+}

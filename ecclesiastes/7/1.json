@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Καλύτερο ένα όνομα από λάδι καλό, και η μέρα του θανάτου από τη μέρα της γέννησής του.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Καλύτερο"
+    },
+    {
+      "surface": "שם",
+      "gloss": "όνομα"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "από λάδι"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "καλό"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "και η μέρα"
+    },
+    {
+      "surface": "המות",
+      "gloss": "του θανάτου"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "από τη μέρα"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "της γέννησής του"
+    }
+  ],
+  "timestamp": "2026-09-03T09:40:57.372493715Z",
+  "model": "glm-5.3"
+}

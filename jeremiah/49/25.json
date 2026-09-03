@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 49,
+  "translation": "Πώς δεν εγκαταλείφτηκε η πόλη του εγκωμίου, η πόλη της χαράς μου!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Πώς"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "εγκαταλείφτηκε"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "η πόλη"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "του εγκωμίου"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "η πόλη"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "της χαράς μου"
+    }
+  ],
+  "timestamp": "2026-09-03T05:13:43.316576737Z",
+  "model": "glm-5.3"
+}

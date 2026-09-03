@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 70,
+  "translation": "Στον μαέστρο· του Δαβίδ· για να θυμούνται.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον μαέστρο"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "του Δαβίδ"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "για να θυμούνται"
+    }
+  ],
+  "timestamp": "2026-09-03T11:28:15.194332131Z",
+  "model": "glm-5.3"
+}

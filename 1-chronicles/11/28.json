@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Ιρά γιος του Ικές ο Τεκωί, Αβιέζερ ο Αναθωθί.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "Ιρά"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "του Ικές"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "ο Τεκωί"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Αβιέζερ"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "ο Αναθωθί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:34:23.035253308Z",
+  "model": "glm-5.3"
+}

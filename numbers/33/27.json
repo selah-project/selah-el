@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 33,
+  "translation": "Και σιπήσαν από Ταχάτ και στρατοπέδευσαν στο Ταράχ.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "σιπήσαν"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "από Ταχάτ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "στρατοπέδευσαν"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "στο Ταράχ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:39:13.931614824Z",
+  "model": "glm-5.3"
+}

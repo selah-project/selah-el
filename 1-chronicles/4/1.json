@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Γιοι του Γιεχουντά: Πέρετς, Χετσρόν, και Καρμί, και Χουρ, και Σοβάλ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "του Γιεχουντά"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Πέρετς"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Χετσρόν"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "και Καρμί"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "και Χουρ"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "και Σοβάλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:29:53.823993405Z",
+  "model": "glm-5.3"
+}

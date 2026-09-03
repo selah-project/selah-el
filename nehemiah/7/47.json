@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "οι γιοι Κερός, οι γιοι Σιά, οι γιοι Παντόν.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "Κερός"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "Σιά"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "Παντόν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:17:15.790047299Z",
+  "model": "glm-5.3"
+}

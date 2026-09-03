@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 67,
+  "translation": "Στον μαέστρο, με έγχορδα· μιζμόρ, τραγούδι.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον μαέστρο"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "με έγχορδα"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "μιζμόρ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "τραγούδι"
+    }
+  ],
+  "timestamp": "2026-09-03T08:09:44.804116418Z",
+  "model": "glm-5.3"
+}

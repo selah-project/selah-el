@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Και είπε ο θείος του Σαούλ: Πες μου, σε παρακαλώ, τι σας είπε ο Σμουέλ;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ο θείος"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "του Σαούλ"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Πες"
+    },
+    {
+      "surface": "נא",
+      "gloss": "σε παρακαλώ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "μου"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "σας"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ο Σμουέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T01:48:30.188821254Z",
+  "model": "glm-5.3"
+}

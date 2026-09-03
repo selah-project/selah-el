@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 7:22",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι γιοι του Χασούμ: τριακόσιοι είκοσι και οκτώ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "του Χασούμ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "τρία"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εκατοντάδες"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "είκοσι"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "και οκτώ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:16:56.799282164Z",
+  "model": "glm-5.3"
+}

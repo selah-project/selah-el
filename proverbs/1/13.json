@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Όλος ο πολύτιμος πλούτος θα βρεθεί· θα γεμίσουμε τα σπίτια μας λεία.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Όλος"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ο πλούτος"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "πολύτιμος"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "θα βρεθεί"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "θα γεμίσουμε"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "τα σπίτια μας"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "λεία"
+    }
+  ],
+  "timestamp": "2026-09-03T08:42:35.463020294Z",
+  "model": "glm-5.3"
+}

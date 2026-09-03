@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 31,
+  "translation": "και γάδαροι ένας και εξήντα χιλιάδες",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "και γάδαροι"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "και εξήντα"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "χιλιάδες"
+    }
+  ],
+  "timestamp": "2026-09-03T00:37:41.337413960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 26,
+  "translation": "Και μάς έφερε στον τόπο αυτόν, και μάς έδωσε ⟨את⟩ τη γη αυτή, γη που κυλάει γάλα και μέλι.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "και μάς έφερε"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "τόπο"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "αυτόν"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "και έδωσε"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "σε μάς"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τη γη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "τη γη"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "αυτή"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "γη"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "που κυλάει"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "γάλα"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "και μέλι"
+    }
+  ],
+  "timestamp": "2026-09-03T00:54:46.734438224Z",
+  "model": "glm-5.3"
+}

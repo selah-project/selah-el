@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Η θυσία των ασεβών ⟨είναι⟩ βδέλυγμα· πόσο μάλλον όταν τη φέρνει με δόλο.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Η θυσία"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "των ασεβών"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "βδέλυγμα"
+    },
+    {
+      "surface": "אף",
+      "gloss": "πόσο"
+    },
+    {
+      "surface": "כי",
+      "gloss": "μάλλον"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "με δόλο"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "τη φέρνει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:54:11.724662082Z",
+  "model": "glm-5.3"
+}

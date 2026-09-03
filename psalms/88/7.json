@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 88,
+  "translation": "Με έβαλες σε λάκκο κατώτατο, σε σκοτάδια, στα βάθη.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "Με έβαλες"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "σε λάκκο"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "κατώτατο"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "σε σκοτάδια"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "στα βάθη"
+    }
+  ],
+  "timestamp": "2026-09-03T08:19:13.377721342Z",
+  "model": "glm-5.3"
+}

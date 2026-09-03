@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Εγώ, ο Κοχέλετ, ήμουν βασιλιάς πάνω στον Ισραέλ, στη Γιερουσαλάιμ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ο Κοχέλετ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ήμουν"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "βασιλιάς"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω στον"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ισραέλ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "στη Γιερουσαλάιμ"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:27.803879057Z",
+  "model": "glm-5.3"
+}

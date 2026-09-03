@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Οι γιοί του Ατέρ του Χιζκία: ενενήντα οκτώ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοί"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "του Ατέρ"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "του Χιζκία"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ενενήντα"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "και οκτώ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:02:14.562860047Z",
+  "model": "glm-5.3"
+}

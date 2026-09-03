@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Γιατί βία μελετά η καρδιά τους, και μόχθο λαλούν τα χείλη τους.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "שד",
+      "gloss": "βία"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "μελετά"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "η καρδιά τους"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "και μόχθο"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "τα χείλη τους"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "λαλούν"
+    }
+  ],
+  "timestamp": "2026-09-03T08:56:32.153906791Z",
+  "model": "glm-5.3"
+}

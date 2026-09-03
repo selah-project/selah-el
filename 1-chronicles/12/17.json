@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Ήρθαν από τους γιους του Βενιαμίν και του Ιούδα ως το οχυρό του Δαβίδ.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Ήρθαν"
+    },
+    {
+      "surface": "מן",
+      "gloss": "από"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιους"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Βενιαμίν"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "και Ιούδα"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ως"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "το οχυρό"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "του Δαβίδ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:38:23.946826827Z",
+  "model": "glm-5.3"
+}

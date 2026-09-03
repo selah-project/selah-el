@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Αγαπά καθαρή καρδιά — χάρη στα χείλη του, φίλος του ο βασιλιάς.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Αγαπά"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "καθαρή"
+    },
+    {
+      "surface": "לב",
+      "gloss": "καρδιά"
+    },
+    {
+      "surface": "חן",
+      "gloss": "χάρη"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "στα χείλη του"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "φίλος του"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ο βασιλιάς"
+    }
+  ],
+  "timestamp": "2026-09-03T08:54:56.184610145Z",
+  "model": "glm-5.3"
+}

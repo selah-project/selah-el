@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 25:1",
+  "book": "job",
+  "lang": "el",
+  "chapter": 25,
+  "translation": "Και απάντησε ο Βιλδάδ ο Σουχίτης και είπε:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "και απάντησε"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "ο Βιλδάδ"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "ο Σουχίτης"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "και είπε"
+    }
+  ],
+  "timestamp": "2026-09-03T11:29:41.682389029Z",
+  "model": "glm-5.3"
+}

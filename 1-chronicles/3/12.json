@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Αματσγιάχου γιος του, Αζαργιά γιος του, Γιοτάμ γιος του.",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "Αματσγιάχου"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "γιος του"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Αζαργιά"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "γιος του"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Γιοτάμ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "γιος του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:27:04.956915770Z",
+  "model": "glm-5.3"
+}

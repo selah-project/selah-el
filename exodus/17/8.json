@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 17,
+  "translation": "Και ήρθε ο Αμαλέκ και πολέμησε με τον Ισραέλ στο Ρεφιδίμ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Και ήρθε"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ο Αμαλέκ"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "και πολέμησε"
+    },
+    {
+      "surface": "עם",
+      "gloss": "με"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "τον Ισραέλ"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "στο Ρεφιδίμ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:50:58.565676993Z",
+  "model": "glm-5.3"
+}

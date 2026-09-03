@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Άντρες της Ραμά και Γαβά: εξακόσιοι είκοσι ένας.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "άντρες"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "της Ραμά"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "και Γαβά"
+    },
+    {
+      "surface": "שש",
+      "gloss": "έξι"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εκατοντάδες"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "είκοσι"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "και ένας"
+    }
+  ],
+  "timestamp": "2026-09-03T10:17:14.862554299Z",
+  "model": "glm-5.3"
+}

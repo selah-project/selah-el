@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "μέγεθυνα τα έργα μου· έφτιαξα για μένα σπίτια· φύτεψα για μένα αμπελώνες.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "μέγεθυνα"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "τα έργα μου"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "έφτιαξα"
+    },
+    {
+      "surface": "לי",
+      "gloss": "για μένα"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "σπίτια"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "φύτεψα"
+    },
+    {
+      "surface": "לי",
+      "gloss": "για μένα"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "αμπελώνες"
+    }
+  ],
+  "timestamp": "2026-09-03T11:33:12.725739863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Γιοι Γιααλά, γιοι Δαρκόν, γιοι Γιδέλ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "Γιααλά"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "Δαρκόν"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "Γιδέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:18:18.209091186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Πασχούρ, Αμαριά, Μαλκιά.",
+  "tokens": [
+    {
+      "surface": "פשחור",
+      "gloss": "Πασχούρ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Αμαριά"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "Μαλκιά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:20:39.556761643Z",
+  "model": "glm-5.3"
+}

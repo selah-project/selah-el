@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Σαμώτ ο Χαρωρί, Χέλετ ο Φελωνί.",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "Σαμώτ"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "ο Χαρωρί"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Χέλετ"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "ο Φελωνί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:34:23.035150424Z",
+  "model": "glm-5.3"
+}

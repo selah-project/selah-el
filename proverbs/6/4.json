@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Μη δώσεις ύπνο στα μάτια σου, ούτε νυσταγμό στα βλέφαρά σου.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "μη"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "δώσεις"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ύπνο"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "στα μάτια σου"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "ούτε νυσταγμό"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "στα βλέφαρά σου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:46:06.056074980Z",
+  "model": "glm-5.3"
+}

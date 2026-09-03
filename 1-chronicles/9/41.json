@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Και οι γιοι του Μικά: Πιθόν και Μέλεχ και Ταχρέα.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και οι γιοι"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "του Μικά"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "Πιθόν"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "και Μέλεχ"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "και Ταχρέα"
+    }
+  ],
+  "timestamp": "2026-09-03T10:35:25.469846244Z",
+  "model": "glm-5.3"
+}

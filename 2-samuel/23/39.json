@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Ουριά ο Χετταίος — σύνολο τριάντα και επτά.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "Ουριά"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ο Χετταίος"
+    },
+    {
+      "surface": "כל",
+      "gloss": "σύνολο"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "τριάντα"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "και επτά"
+    }
+  ],
+  "timestamp": "2026-09-03T02:36:08.198770134Z",
+  "model": "glm-5.3"
+}

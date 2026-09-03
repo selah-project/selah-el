@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "nehemiah 7:55",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Γιοι του Βαρκός, γιοι του Σισρά, γιοι του Ταμάχ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι του"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "Βαρκός"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι του"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Σισρά"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι του"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "Ταμάχ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:18:04.602313801Z",
+  "model": "glm-5.3"
+}

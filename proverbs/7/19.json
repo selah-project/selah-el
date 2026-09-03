@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Γιατί ο άντρας δεν είναι στο σπίτι του· ταξίδεψε σε δρόμο μακρινό.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "אין",
+      "gloss": "δεν είναι"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ο άντρας"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "στο σπίτι του"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ταξίδεψε"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "σε δρόμο"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "μακρινό"
+    }
+  ],
+  "timestamp": "2026-09-03T08:45:33.441689060Z",
+  "model": "glm-5.3"
+}

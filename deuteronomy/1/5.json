@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Πέρα από τον Ιαρδέν, στη γη του Μοάβ, ανέλαβε ο Μοσέ να εξηγήσει ⟨את⟩ την Τορά αυτή, λέγοντας:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "Πέρα από"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "τον Ιαρδέν"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "στη γη"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "του Μοάβ"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "ανέλαβε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "να εξηγήσει"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "την Τορά"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "την Τορά"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "αυτή"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    }
+  ],
+  "timestamp": "2026-09-03T00:42:18.935549014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Και θα βάλεις πάνω της λάδι και θα θέσεις πάνω της λιβάνι· μινχά είναι.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Και θα βάλεις"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "πάνω της"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "λάδι"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "και θα θέσεις"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "πάνω της"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "λιβάνι"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "μινχά"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "είναι"
+    }
+  ],
+  "timestamp": "2026-09-03T00:03:47.322622718Z",
+  "model": "glm-5.3"
+}

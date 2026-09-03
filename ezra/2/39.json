@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Γιοι του Χαρίμ: χίλιοι και δεκαεφτά.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "του Χαρίμ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "χίλιοι"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "επτά"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "δεκα-"
+    }
+  ],
+  "timestamp": "2026-09-03T10:03:55.158969480Z",
+  "model": "glm-5.3"
+}

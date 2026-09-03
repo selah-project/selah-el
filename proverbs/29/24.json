@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 29,
+  "translation": "Συμμέτοχος με κλέφτη μισεί την ψυχή του· κατάρα ακούει και δεν τη φανερώνει.",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "συμμέτοχος"
+    },
+    {
+      "surface": "עם",
+      "gloss": "με"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "κλέφτη"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "μισεί"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "την ψυχή του"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "κατάρα"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ακούει"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "τη φανερώνει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:59:03.024667224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 30:24",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "Τέσσερα είναι οι μικροί της γης, και αυτοί σοφοί, γεμάτοι σοφία:",
+  "tokens": [
+    {
+      "surface": "ארבעה",
+      "gloss": "Τέσσερα"
+    },
+    {
+      "surface": "הם",
+      "gloss": "είναι"
+    },
+    {
+      "surface": "קטני",
+      "gloss": "οι μικροί"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "της γης"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "και αυτοί"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "σοφοί"
+    },
+    {
+      "surface": "מחכמים",
+      "gloss": "γεμάτοι σοφία"
+    }
+  ],
+  "timestamp": "2026-09-03T09:00:32.429020175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "του Μελούχι, Γιονάταν· του Σεβανιά, Γιοσέφ",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "του Μελούχι"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Γιονάταν"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "του Σεβανιά"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Γιοσέφ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:21:14.495819657Z",
+  "model": "glm-5.3"
+}

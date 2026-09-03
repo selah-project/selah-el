@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "γιατί τα πόδια τους στο κακό τρέχουν και βιάζονται να χύσουν αίμα.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "τα πόδια τους"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "στο κακό"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "τρέχουν"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "και βιάζονται"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "να χύσουν"
+    },
+    {
+      "surface": "דם",
+      "gloss": "αίμα"
+    }
+  ],
+  "timestamp": "2026-09-03T08:42:35.463559164Z",
+  "model": "glm-5.3"
+}

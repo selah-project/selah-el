@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Εγώ Γιαχβέ ο Ελοχίμ σου, που σε έβγαα από τη γη Μιτσράιμ, από οίκο δούλων.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Εγώ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ο Ελοχίμ σου"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "σε έβγαα"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "από τη γη"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Μιτσράιμ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "από οίκο"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "δούλων"
+    }
+  ],
+  "timestamp": "2026-09-03T00:43:49.488569533Z",
+  "model": "glm-5.3"
+}

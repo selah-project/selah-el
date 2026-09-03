@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "Γι' αυτό εγώ σε εντέλλομαι, λέγοντας: Τρεις πόλεις θα ξεχωρίσεις για σένα.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Γι'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "σε εντέλλομαι"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "λέγοντας"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "Τρεις"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "πόλεις"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "θα ξεχωρίσεις"
+    },
+    {
+      "surface": "לך",
+      "gloss": "για σένα"
+    }
+  ],
+  "timestamp": "2026-09-03T00:52:08.357553816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "Αυτό είναι το ζώο που θα φάτε: βόδι, πρόβατο από τα πρόβατα και πρόβατο από τις αίγες.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Αυτό"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "το ζώο"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "θα φάτε"
+    },
+    {
+      "surface": "שור",
+      "gloss": "βόδι"
+    },
+    {
+      "surface": "שה",
+      "gloss": "πρόβατο"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "από τα πρόβατα"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "και πρόβατο"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "από τις αίγες"
+    }
+  ],
+  "timestamp": "2026-09-03T00:48:07.322590408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Λόγο ψεύτικο μισεί ο δίκαιος, και ο κακός βρωμάει και ντρέπεται.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Λόγο"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ψεύτικο"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "μισεί"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ο δίκαιος"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "και ο κακός"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "βρωμάει"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "και ντρέπεται"
+    }
+  ],
+  "timestamp": "2026-09-03T08:48:57.556613536Z",
+  "model": "glm-5.3"
+}

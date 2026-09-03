@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 10:19",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Οντιγιά, Χασούμ, Βετσάι,",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "Οντιγιά"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Χασούμ"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "Βετσάι"
+    }
+  ],
+  "timestamp": "2026-09-03T10:20:18.021590758Z",
+  "model": "glm-5.3"
+}

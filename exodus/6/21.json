@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και οι γιοι του Γιτσχάρ: ο Κοράχ, ο Νεφέγ και ο Ζιχρί.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και οι γιοι"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "του Γιτσχάρ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ο Κοράχ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "και ο Νεφέγ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "και ο Ζιχρί"
+    }
+  ],
+  "timestamp": "2026-09-02T23:44:48.591299635Z",
+  "model": "glm-5.3"
+}

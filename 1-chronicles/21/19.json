@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Και ανέβηκε ο Δαβίδ με τον λόγο του Γαντ, που μίλησε στο όνομα του Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Και ανέβηκε"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ο Δαβίδ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "με τον λόγο"
+    },
+    {
+      "surface": "גד",
+      "gloss": "του Γαντ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "μίλησε"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "στο όνομα"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:43:11.541364536Z",
+  "model": "glm-5.3"
+}

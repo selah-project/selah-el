@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 119,
+  "translation": "Ναι, δεν έπραξαν αδικία· στους δρόμους του περπάτησαν.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ναι"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "έπραξαν"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "αδικία"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "στους δρόμους του"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "περπάτησαν"
+    }
+  ],
+  "timestamp": "2026-09-03T08:32:25.866712107Z",
+  "model": "glm-5.3"
+}

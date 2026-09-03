@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 15:23",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "και Βερεκγιάχου και Ελκανά θυρωροί για την κιβωτό.",
+  "tokens": [
+    {
+      "surface": "וברכיה",
+      "gloss": "και Βερεκγιάχου"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "και Ελκανά"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "θυρωροί"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "για την κιβωτό"
+    }
+  ],
+  "timestamp": "2026-09-03T10:37:46.461977163Z",
+  "model": "glm-5.3"
+}

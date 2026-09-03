@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 119,
+  "translation": "Ξένος εγώ είμαι στη γη· μην κρύψεις από εμένα τις εντολές σου.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Ξένος"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "στη γη"
+    },
+    {
+      "surface": "אל",
+      "gloss": "μην"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "κρύψεις"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "από εμένα"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "τις εντολές σου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:32:03.541708340Z",
+  "model": "glm-5.3"
+}

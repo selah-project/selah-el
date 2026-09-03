@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Και είδε ο Ελοχίμ ⟨את⟩ όλα όσα έκανε, και να — καλό πολύ· και έγινε βράδυ και έγινε πρωί, μέρα η έκτη.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "και είδε"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ο Ελοχίμ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "όλα όσα έκανε"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "όσα"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "έκανε"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "και να"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "καλό"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "πολύ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "και έγινε"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "βράδυ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "και έγινε"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "πρωί"
+    },
+    {
+      "surface": "יום",
+      "gloss": "μέρα"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "η έκτη"
+    }
+  ],
+  "timestamp": "2026-09-02T23:19:24.569902533Z",
+  "model": "glm-5.3"
+}

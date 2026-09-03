@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "el",
+  "chapter": 14,
+  "translation": "Ποιος θα δώσει καθαρό από ακάθαρτο; όχι ένας.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ποιος"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "θα δώσει"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "καθαρό"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "από ακάθαρτο"
+    },
+    {
+      "surface": "לא",
+      "gloss": "όχι"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    }
+  ],
+  "timestamp": "2026-09-03T09:10:45.691908756Z",
+  "model": "glm-5.3"
+}

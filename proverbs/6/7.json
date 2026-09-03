@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "που δεν έχει αρχηγό, επιστάτη ούτε κυβερνήτη.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "אין",
+      "gloss": "δεν έχει"
+    },
+    {
+      "surface": "לה",
+      "gloss": "αυτή"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "αρχηγό"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "επιστάτη"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ούτε κυβερνήτη"
+    }
+  ],
+  "timestamp": "2026-09-03T08:45:35.818740141Z",
+  "model": "glm-5.3"
+}

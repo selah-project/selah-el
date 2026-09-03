@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "και Νογκά και Νεφέγκ και Γιαφιά,",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "και Νογκά"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "και Νεφέγκ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "και Γιαφιά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:27:20.961322301Z",
+  "model": "glm-5.3"
+}

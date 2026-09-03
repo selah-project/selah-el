@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 83,
+  "translation": "Ο Ελοχίμ, ας μην είναι σιωπή σε σένα· μη σωπαίνεις και μην μένεις ήσυχος, Ελ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ο Ελοχίμ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ας μην"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "σιωπή"
+    },
+    {
+      "surface": "לך",
+      "gloss": "σε σένα"
+    },
+    {
+      "surface": "אל",
+      "gloss": "μη"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "σωπαίνεις"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "και μη"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "μένεις ήσυχος"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ελ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:17:06.399947945Z",
+  "model": "glm-5.3"
+}

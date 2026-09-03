@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Αζμαβέτ ο Βαχαρουμίτης, Ελιαχβά ο Σααλβονίτης,",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "Αζμαβέτ"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "ο Βαχαρουμίτης"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "Ελιαχβά"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "ο Σααλβονίτης"
+    }
+  ],
+  "timestamp": "2026-09-03T10:34:39.688995527Z",
+  "model": "glm-5.3"
+}

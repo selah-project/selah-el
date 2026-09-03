@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Μην δοκιμάζετε ⟨את⟩ τον Γιαχβέ τον Ελοχίμ σας, όπως τον δοκιμάσατε στο Μασά.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Μην"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "δοκιμάζετε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Γιαχβέ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "τον Γιαχβέ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "τον Ελοχίμ σας"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "όπως"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "τον δοκιμάσατε"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "στο Μασά"
+    }
+  ],
+  "timestamp": "2026-09-03T12:08:30.895339898Z",
+  "model": "glm-5.3"
+}

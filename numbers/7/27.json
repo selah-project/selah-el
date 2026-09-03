@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Ταύρος ένας, γιος βοδινού· κριός ένας· αρνί ένα, γιο ενός χρόνου, για ολοκαύτωμα.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "Ταύρος"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "βοδινού"
+    },
+    {
+      "surface": "איל",
+      "gloss": "κριός"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένας"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "αρνί"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιο"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ενός χρόνου"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "για ολοκαύτωμα"
+    }
+  ],
+  "timestamp": "2026-09-03T00:22:29.241806892Z",
+  "model": "glm-5.3"
+}

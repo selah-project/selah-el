@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Πώς να καταράσω; Δεν καταράστηκε ο Ελ· και πώς να οργιστώ; Δεν οργίστηκε ο Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "πώς"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "να καταράσω"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "καταράστηκε"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ο Ελ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "και πώς"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "να οργιστώ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "οργίστηκε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:34:04.807622281Z",
+  "model": "glm-5.3"
+}

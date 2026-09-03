@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Γιατί η καταδυνάστευση τρελαίνει τον σοφό, και το δώρο χάνει ⟨את⟩ την καρδιά.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "η καταδυνάστευση"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "τρελαίνει"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "τον σοφό"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "και χάνει"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "την καρδιά"
+    },
+    {
+      "surface": "לב",
+      "gloss": "καρδιά"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "δώρο"
+    }
+  ],
+  "timestamp": "2026-09-03T09:39:40.498095525Z",
+  "model": "glm-5.3"
+}

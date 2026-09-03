@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 49:16",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 49,
+  "translation": "Ο Νταν θα κρίνει τον λαό του, ως μία από τις φυλές του Ισραέλ.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Ο Νταν"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "θα κρίνει"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "τον λαό του"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ως μία"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "από τις φυλές"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "του Ισραέλ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:42:48.753187944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "el",
+  "chapter": 17,
+  "translation": "Και είπε ο βασιλιάς: Ρώτα εσύ γιος τίνος είναι αυτός ο νέος.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ο βασιλιάς"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ρώτα"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "מי",
+      "gloss": "τίνος"
+    },
+    {
+      "surface": "זה",
+      "gloss": "είναι αυτός"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "ο νέος"
+    }
+  ],
+  "timestamp": "2026-09-03T01:56:31.086024964Z",
+  "model": "glm-5.3"
+}

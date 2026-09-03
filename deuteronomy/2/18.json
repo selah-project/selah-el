@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Εσύ διαβαίνεις σήμερα ⟨את⟩ το σύνορο του Μοάβ, ⟨את⟩ την Αρ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Εσύ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "διαβαίνεις"
+    },
+    {
+      "surface": "היום",
+      "gloss": "σήμερα"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "το σύνορο του Μοάβ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "το σύνορο"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "του Μοάβ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "την Αρ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "την Αρ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:41:46.470954439Z",
+  "model": "glm-5.3"
+}

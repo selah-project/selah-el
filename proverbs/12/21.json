@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Δεν θα συναντήσει τον δίκαιο καμία αδικία, και οι ασεβείς γέμισαν κακό.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "יאנה",
+      "gloss": "θα συναντήσει"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "τον δίκαιο"
+    },
+    {
+      "surface": "כל",
+      "gloss": "καμία"
+    },
+    {
+      "surface": "און",
+      "gloss": "αδικία"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "και οι ασεβείς"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "γέμισαν"
+    },
+    {
+      "surface": "רע",
+      "gloss": "κακό"
+    }
+  ],
+  "timestamp": "2026-09-03T08:47:24.781537541Z",
+  "model": "glm-5.3"
+}

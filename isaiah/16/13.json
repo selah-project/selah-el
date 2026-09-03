@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 16,
+  "translation": "Αυτός ο λόγος είναι που μίλησε ο Γιαχβέ για τον Μοάβ από τότε.",
+  "tokens": [
+    {
+      "surface": "זֶה",
+      "gloss": "Αυτός"
+    },
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "ο λόγος"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "που"
+    },
+    {
+      "surface": "דִּבֶּר",
+      "gloss": "μίλησε"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "για"
+    },
+    {
+      "surface": "מוֹאָב",
+      "gloss": "τον Μοάβ"
+    },
+    {
+      "surface": "מֵאָז",
+      "gloss": "από τότε"
+    }
+  ],
+  "timestamp": "2026-09-03T03:55:16.687685904Z",
+  "model": "glm-5.3"
+}

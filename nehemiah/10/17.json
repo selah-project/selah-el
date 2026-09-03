@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Αδονιγιά, Βιγβάι, Αδίν,",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "Αδονιγιά"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "Βιγβάι"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "Αδίν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:20:18.021266808Z",
+  "model": "glm-5.3"
+}

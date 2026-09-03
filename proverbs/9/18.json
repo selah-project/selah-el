@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 9:18",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Και δεν ξέρει ότι Ρεφαΐμ είναι εκεί, στα βάθη του Σεόλ οι καλεσμένοι της.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Και δεν"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ξέρει"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ότι"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Ρεφαΐμ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "εκεί"
+    },
+    {
+      "surface": "בעמקי",
+      "gloss": "στα βάθη"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Σεόλ"
+    },
+    {
+      "surface": "קראיה",
+      "gloss": "οι καλεσμένοι της"
+    }
+  ],
+  "timestamp": "2026-09-03T08:44:32.296072087Z",
+  "model": "glm-5.3"
+}

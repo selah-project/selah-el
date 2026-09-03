@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "Και θα είστε εσείς για μένα λαός, και εγώ θα είμαι για εσάς Ελοχίμ.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "Και θα είστε εσείς"
+    },
+    {
+      "surface": "לי",
+      "gloss": "για μένα"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "λαός"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "και εγώ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "θα είμαι"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "για εσάς"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Ελοχίμ"
+    }
+  ],
+  "timestamp": "2026-09-03T04:54:52.132036741Z",
+  "model": "glm-5.3"
+}

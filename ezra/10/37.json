@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Ματτανιάχ, Ματτενάι και Γιαασάυ,",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "Ματτανιάχ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "Ματτενάι"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "και Γιαασάυ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:08:33.244271667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 15:27",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Ταράζει το σπίτι του ο αρπάζων κέρδος, και όποιος μισεί δώρα θα ζει.",
+  "tokens": [
+    {
+      "surface": "עכר",
+      "gloss": "ταράζει"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "το σπίτι του"
+    },
+    {
+      "surface": "בוצע",
+      "gloss": "ο αρπάζων"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "κέρδος"
+    },
+    {
+      "surface": "ושונא",
+      "gloss": "και όποιος μισεί"
+    },
+    {
+      "surface": "מתנת",
+      "gloss": "δώρα"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "θα ζει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:51:14.532613880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 118,
+  "translation": "Δεν θα πεθάνω — θα ζήσω και θα αφηγηθώ τα έργα του Γιαχ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "θα πεθάνω"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "θα ζήσω"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "και θα αφηγηθώ"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "τα έργα"
+    },
+    {
+      "surface": "יה",
+      "gloss": "του Γιαχ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:31:19.717109724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Και θα δει όλη η σάρκα ότι εγώ, ο Γιαχβέ, την άναψα· δεν θα σβήσει.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "Και θα δουν"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλη"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "η σάρκα"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ότι"
+    },
+    {
+      "surface": "אני",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "την άναψα"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "θα σβήσει"
+    }
+  ],
+  "timestamp": "2026-09-03T07:00:56.939052037Z",
+  "model": "glm-5.3"
+}

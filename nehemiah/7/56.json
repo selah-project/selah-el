@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Γιοι του Νετσιάχ, γιοι της Χατιφά.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι του"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "Νετσιάχ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι της"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "Χατιφά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:18:04.602432611Z",
+  "model": "glm-5.3"
+}

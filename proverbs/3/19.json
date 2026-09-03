@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 3:19",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Γιαχβέ με σοφία θεμελίωσε τη γη, στήριξε τους ουρανούς με συνέσει.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "με σοφία"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "θεμελίωσε"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "τη γη"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "στήριξε"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "τους ουρανούς"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "με συνέσει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:43:17.570557800Z",
+  "model": "glm-5.3"
+}

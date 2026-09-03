@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Δες, αυτό βρήκα, λέει ο Κοχελέτ· ένα προς ένα, για να βρει υπολογισμό.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Δες"
+    },
+    {
+      "surface": "זה",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "βρήκα"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "λέει"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ο Κοχελέτ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "προς ένα"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "για να βρει"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "υπολογισμό"
+    }
+  ],
+  "timestamp": "2026-09-03T09:40:24.697448610Z",
+  "model": "glm-5.3"
+}

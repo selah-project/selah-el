@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Και ο Σελομό της είπε ⟨את⟩ όλα τα λόγια της, και δεν κρύφτηκε λόγος από τον Σελομό που να μην της είπε.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "לה",
+      "gloss": "της"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ο Σελομό"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "όλα τα λόγια της"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "τα λόγια της"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "κρύφτηκε"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "από τον Σελομό"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "לא",
+      "gloss": "να μην"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "לה",
+      "gloss": "της"
+    }
+  ],
+  "timestamp": "2026-09-03T10:59:02.253229562Z",
+  "model": "glm-5.3"
+}

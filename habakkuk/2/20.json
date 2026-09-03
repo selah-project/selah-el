@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Και ο Γιαχβέ στον ναό του αγιάσματός του — σώπα! μπροστά του όλη η γη.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Και ο Γιαχβέ"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "στον ναό"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "του αγιάσματός του"
+    },
+    {
+      "surface": "הס",
+      "gloss": "σώπα"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "μπροστά του"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλη"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "η γη"
+    }
+  ],
+  "timestamp": "2026-09-03T07:27:38.417277149Z",
+  "model": "glm-5.3"
+}

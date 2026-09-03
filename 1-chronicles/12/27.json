@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Από τους γιους του Λεβί, τέσσερις χιλιάδες και εξακόσιοι.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "από"
+    },
+    {
+      "surface": "בני",
+      "gloss": "τους γιους"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "του Λεβί"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "τέσσερις"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "χιλιάδες"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "και έξι"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εκατοντάδες"
+    }
+  ],
+  "timestamp": "2026-09-03T10:38:14.181198136Z",
+  "model": "glm-5.3"
+}

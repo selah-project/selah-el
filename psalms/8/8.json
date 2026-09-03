@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "πρόβατα και βόδια, όλα τους, και επίσης θηρία των αγρών.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "πρόβατα"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "και βόδια"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "όλα τους"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "και επίσης"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "θηρία"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "των αγρών"
+    }
+  ],
+  "timestamp": "2026-09-03T07:43:57.538502202Z",
+  "model": "glm-5.3"
+}

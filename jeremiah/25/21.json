@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 25,
+  "translation": "⟨את⟩ Αδόμ και ⟨את⟩ Μοάβ και ⟨את⟩ τους γιους Αμμόν·",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Αδόμ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Αδόμ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Μοάβ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Μοάβ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "τους γιους Αμμόν"
+    },
+    {
+      "surface": "בני",
+      "gloss": "τους γιους"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Αμμόν"
+    }
+  ],
+  "timestamp": "2026-09-03T04:51:23.675125120Z",
+  "model": "glm-5.3"
+}

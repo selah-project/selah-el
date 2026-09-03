@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 50,
+  "translation": "Ο Αδωνάι Γιαχβέ άνοιξε ⟨μοι⟩ αυτί, και εγώ δεν απείθησα· πίσω δεν υποχώρησα.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Ο Αδωνάι"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "άνοιξε"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨μοι⟩"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "αυτί"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "και εγώ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "απείθησα"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "πίσω"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "υποχώρησα"
+    }
+  ],
+  "timestamp": "2026-09-03T04:24:43.749504135Z",
+  "model": "glm-5.3"
+}

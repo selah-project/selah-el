@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezra 2:53",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "γιοι του Βαρκός, γιοι του Σισερά, γιοι του Τεμάχ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "του Βαρκός"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "του Σισερά"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "του Τεμάχ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:04:37.167428497Z",
+  "model": "glm-5.3"
+}

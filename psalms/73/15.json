@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 73,
+  "translation": "Αν έλεγα: Θα αφηγηθώ έτσι — ιδού, τη γενιά των γιων σου θα πρόδιδα.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Αν"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "έλεγα"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "Θα αφηγηθώ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ιδού"
+    },
+    {
+      "surface": "דור",
+      "gloss": "τη γενιά"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "των γιων σου"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "θα πρόδιδα"
+    }
+  ],
+  "timestamp": "2026-09-03T08:11:50.158556059Z",
+  "model": "glm-5.3"
+}

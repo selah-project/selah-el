@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Βενιαμίν: Βελα, και Βεχέρ, και Γιδιαέλ — τρεις.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "Βενιαμίν"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Βελα"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "και Βεχέρ"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "και Γιδιαέλ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "τρεις"
+    }
+  ],
+  "timestamp": "2026-09-03T10:32:55.373137790Z",
+  "model": "glm-5.3"
+}

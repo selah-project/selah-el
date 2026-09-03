@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 39,
+  "translation": "Ώμους έκαναν γι' αυτό, ενωμένους· πάνω στα δύο άκρα του ενώθηκε.",
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "Ώμους"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "έκαναν"
+    },
+    {
+      "surface": "לו",
+      "gloss": "γι' αυτό"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "ενωμένους"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω στα"
+    },
+    {
+      "surface": "שני",
+      "gloss": "δύο"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "άκρα του"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ενώθηκε"
+    }
+  ],
+  "timestamp": "2026-09-03T00:02:35.802358630Z",
+  "model": "glm-5.3"
+}

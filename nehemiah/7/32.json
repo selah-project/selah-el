@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Άντρες Βεθ-Ελ και Αΐ: εκατό είκοσι τρεις.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "άντρες"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Βεθ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ελ"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "και το Αΐ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "εκατό"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "είκοσι"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "και τρεις"
+    }
+  ],
+  "timestamp": "2026-09-03T10:17:14.862817553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Τοποθετήθηκε ο ανόητος στα ύψη τα πολλά, και πλούσιοι στο χαμηλό κάθονται.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Τοποθετήθηκε"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "ο ανόητος"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "στα ύψη"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "τα πολλά"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "και πλούσιοι"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "στο χαμηλό"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "κάθονται"
+    }
+  ],
+  "timestamp": "2026-09-03T09:39:55.629263471Z",
+  "model": "glm-5.3"
+}

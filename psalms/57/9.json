@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 57,
+  "translation": "Ξύπνα, δόξα μου· ξύπνα, άρπα και λύρα· εγώ θα ξυπνήσω την αυγή.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Ξύπνα"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "δόξα μου"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "ξύπνα"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "η άρπα"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "και η λύρα"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "θα ξυπνήσω"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "την αυγή"
+    }
+  ],
+  "timestamp": "2026-09-03T08:04:12.437545975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Και βόδι ή πρόβατο — αυτό και ⟨את⟩ τον γιο του — δεν θα σφάξετε σε μία ημέρα.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Και βόδι"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "שה",
+      "gloss": "πρόβατο"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "αυτό ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "τον γιο του"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "τον γιο του"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "θα σφάξετε"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "σε ημέρα"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "μία"
+    }
+  ],
+  "timestamp": "2026-09-03T00:14:39.764480193Z",
+  "model": "glm-5.3"
+}

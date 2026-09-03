@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "και το σιτάρι και η ζέα δεν χτυπήθηκαν, γιατί όψιμα ⟨είναι⟩.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "και το σιτάρι"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "και η ζέα"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "χτυπήθηκαν"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "όψιμα"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨είναι⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T23:46:50.520907855Z",
+  "model": "glm-5.3"
+}

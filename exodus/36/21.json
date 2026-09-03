@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 36,
+  "translation": "δέκα πήχεις μήκος είχε το δοκό· και μια πήχη και μισή πήχη πλάτος το ένα δοκό.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "δέκα"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "πήχεις"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "μήκος"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "το δοκό"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "και μια πήχη"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "και μισή"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "πήχη"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "πλάτος"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "το δοκό"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "το ένα"
+    }
+  ],
+  "timestamp": "2026-09-03T00:01:19.380077075Z",
+  "model": "glm-5.3"
+}

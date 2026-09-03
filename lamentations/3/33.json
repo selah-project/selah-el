@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Γιατί δεν ταλαιπώρησε από την καρδιά του, ούτε πίκρανε τους γιους του ανθρώπου.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ταλαιπώρησε"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "από την καρδιά του"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "και πίκρανε"
+    },
+    {
+      "surface": "בני",
+      "gloss": "τους γιους"
+    },
+    {
+      "surface": "איש",
+      "gloss": "του ανθρώπου"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:39.354760123Z",
+  "model": "glm-5.3"
+}

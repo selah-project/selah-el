@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "δεν δέχτηκαν τη συμβουλή μου, καταφρόνησαν κάθε έλεγχό μου·",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "δέχτηκαν"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "τη συμβουλή μου"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "καταφρόνησαν"
+    },
+    {
+      "surface": "כל",
+      "gloss": "κάθε"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "τον έλεγχό μου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:42:24.125688390Z",
+  "model": "glm-5.3"
+}

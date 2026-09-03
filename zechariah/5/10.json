@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Και είπα προς τον άγγελο που μιλούσε σε μένα: Πού αυτές οδηγούν ⟨את⟩ το εϊφά;",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Και είπα"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "τον άγγελο"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "που μιλούσε"
+    },
+    {
+      "surface": "בי",
+      "gloss": "σε μένα"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Πού"
+    },
+    {
+      "surface": "המה",
+      "gloss": "αυτές"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "οδηγούν"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "το εϊφά"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "το εϊφά"
+    }
+  ],
+  "timestamp": "2026-09-03T07:31:08.655454660Z",
+  "model": "glm-5.3"
+}

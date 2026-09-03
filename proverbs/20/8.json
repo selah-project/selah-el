@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 20,
+  "translation": "Βασιλιάς κάθεται πάνω σε θρόνο κρίσης· διασκορπίζει με τα μάτια του κάθε κακό.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Βασιλιάς"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "κάθεται"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω σε"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "θρόνο"
+    },
+    {
+      "surface": "דין",
+      "gloss": "κρίσης"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "διασκορπίζει"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "με τα μάτια του"
+    },
+    {
+      "surface": "כל",
+      "gloss": "κάθε"
+    },
+    {
+      "surface": "רע",
+      "gloss": "κακό"
+    }
+  ],
+  "timestamp": "2026-09-03T08:52:45.760330564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 39,
+  "translation": "Και έκανε ⟨את⟩ τον μανδύα του εφόδ, έργο υφαντή, ολόκληρο μπλε.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "έκανε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον μανδύα"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "τον μανδύα"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "του εφόδ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "έργο"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "υφαντή"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ολόκληρο"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "μπλε"
+    }
+  ],
+  "timestamp": "2026-09-03T00:03:08.648123425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 119,
+  "translation": "Αυτό έγινε για μένα, επειδή φύλαξα τις διατάξεις σου.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Αυτό"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "έγινε"
+    },
+    {
+      "surface": "לי",
+      "gloss": "για μένα"
+    },
+    {
+      "surface": "כי",
+      "gloss": "επειδή"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "τις διατάξεις σου"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "φύλαξα"
+    }
+  ],
+  "timestamp": "2026-09-03T08:33:28.909291270Z",
+  "model": "glm-5.3"
+}

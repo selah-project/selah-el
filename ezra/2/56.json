@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezra 2:56",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "γιοι της Γιααλά, γιοι του Νταρκόν, γιοι του Γιντέλ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "της Γιααλά"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "του Νταρκόν"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "του Γιντέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:04:37.167872097Z",
+  "model": "glm-5.3"
+}

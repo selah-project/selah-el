@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Νταν και Ναφταλί, Γκαντ και Ασέρ.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Νταν"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "και Ναφταλί"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Γκαντ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "και Ασέρ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:44:14.468877126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Στον μαέστρο, επί της Σεμινίτ· μίζμορ του Δαβίδ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Στον μαέστρο"
+    },
+    {
+      "surface": "על",
+      "gloss": "επί"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "της Σεμινίτ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "μίζμορ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "του Δαβίδ"
+    }
+  ],
+  "timestamp": "2026-09-03T07:44:04.490194380Z",
+  "model": "glm-5.3"
+}

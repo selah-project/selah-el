@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και απέκτησε ο Νόαχ τρεις γιους: ⟨את⟩ τον Σεμ, ⟨את⟩ τον Χαμ και ⟨את⟩ τον Γιεφέτ.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Και απέκτησε"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ο Νόαχ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "τρεις"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "γιους"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Σεμ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "τον Σεμ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Χαμ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "τον Χαμ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "τον Γιεφέτ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "τον Γιεφέτ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:21:21.086695380Z",
+  "model": "glm-5.3"
+}

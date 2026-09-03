@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Γιαχβέ άντρας πολέμου· Γιαχβέ το όνομά του.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "άντρας"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "πολέμου"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "το όνομά του"
+    }
+  ],
+  "timestamp": "2026-09-02T23:50:00.665241733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "Για τον μαέστρο. Μεζμόρ του Δαβίδ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Για τον μαέστρο"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "μεζμόρ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "του Δαβίδ"
+    }
+  ],
+  "timestamp": "2026-09-03T07:48:53.715408723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 131,
+  "translation": "Ας ελπίζει ο Ισραέλ στον Γιαχβέ, από τώρα και ως τον ντεΐς τον αιώνα",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Ας ελπίζει"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ο Ισραέλ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "από τώρα"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "και ως"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "για πάντα"
+    }
+  ],
+  "timestamp": "2026-09-03T12:42:32.968634078Z",
+  "model": "glm-5.3"
+}

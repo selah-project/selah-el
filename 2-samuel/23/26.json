@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Χελετς ο Φαλτί, Ιρα γιος Ικες ο Τεκοΐ,",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "Χελετς"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "ο Φαλτί"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "Ιρα"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "Ικες"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "ο Τεκοΐ"
+    }
+  ],
+  "timestamp": "2026-09-03T02:36:09.071786588Z",
+  "model": "glm-5.3"
+}

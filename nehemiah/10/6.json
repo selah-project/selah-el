@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Χαράμ, Μερέμοτ, Οβαδιά,",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "Χαράμ"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "Μερέμοτ"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Οβαδιά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:19:50.014074503Z",
+  "model": "glm-5.3"
+}

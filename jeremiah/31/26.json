@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 31,
+  "translation": "Γι' αυτό ξύπνησα και είδα, και ο ύπνος μου ⟨ήταν⟩ γλυκός σε μένα.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Γι'"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "ξύπνησα"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "και είδα"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "και ο ύπνος μου"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "γλυκός"
+    },
+    {
+      "surface": "לי",
+      "gloss": "σε μένα"
+    }
+  ],
+  "timestamp": "2026-09-03T06:59:39.027764183Z",
+  "model": "glm-5.3"
+}

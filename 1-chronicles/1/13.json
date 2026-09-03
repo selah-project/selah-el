@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Και ο Χαναάν γέννησε ⟨את⟩ Τσιδών τον πρωτότοκό του και ⟨את⟩ Χετ.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Και ο Χαναάν"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "γέννησε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Τσιδών"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Τσιδών"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "τον πρωτότοκό του"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Χετ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Χετ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:24:20.146294902Z",
+  "model": "glm-5.3"
+}

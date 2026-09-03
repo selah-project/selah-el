@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 107,
+  "translation": "Θέτει έρημο σε λίμνη νερού, και γη ξερή σε πηγές νερού.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Θέτει"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "έρημο"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "σε λίμνη"
+    },
+    {
+      "surface": "מים",
+      "gloss": "νερού"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "και γη"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "ξερή"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "σε πηγές"
+    },
+    {
+      "surface": "מים",
+      "gloss": "νερού"
+    }
+  ],
+  "timestamp": "2026-09-03T08:27:50.758506978Z",
+  "model": "glm-5.3"
+}

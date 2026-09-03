@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Χείλη φιλάει όποιος απαντάει λόγια ίσια.",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "χείλη"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "φιλάει"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "όποιος απαντάει"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "λόγια"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "ίσια"
+    }
+  ],
+  "timestamp": "2026-09-03T08:56:08.249722233Z",
+  "model": "glm-5.3"
+}

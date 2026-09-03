@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Ένα κουτάλι χρυσό δέκα ⟨σέκελ⟩, γεμάτο λιβάνι.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "κουτάλι"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "δέκα"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "χρυσό"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "γεμάτο"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "λιβάνι"
+    }
+  ],
+  "timestamp": "2026-09-03T00:24:25.068450989Z",
+  "model": "glm-5.3"
+}

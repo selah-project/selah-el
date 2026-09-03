@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Έπαρση ματιών και πλάτος καρδιάς — όργωμα των ασεβών ⟨είναι⟩ αμαρτία.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "Έπαρση"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ματιών"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "και πλάτος"
+    },
+    {
+      "surface": "לב",
+      "gloss": "καρδιάς"
+    },
+    {
+      "surface": "נר",
+      "gloss": "όργωμα"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "των ασεβών"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "αμαρτία"
+    }
+  ],
+  "timestamp": "2026-09-03T08:54:03.588538142Z",
+  "model": "glm-5.3"
+}

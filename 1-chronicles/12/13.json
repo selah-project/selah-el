@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Γιοχανάν ο όγδοος, Ελζαβάντ ο ένατος·",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "Γιοχανάν"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ο όγδοος"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "Ελζαβάντ"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "ο ένατος"
+    }
+  ],
+  "timestamp": "2026-09-03T10:38:52.737451151Z",
+  "model": "glm-5.3"
+}

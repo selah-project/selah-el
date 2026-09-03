@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 26,
+  "translation": "Του Αζνί η πατριά των Αζνιτών· του Ερί η πατριά των Εριτών.",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "Του Αζνί"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "η πατριά"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "των Αζνιτών"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "του Ερί"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "η πατριά"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "των Εριτών"
+    }
+  ],
+  "timestamp": "2026-09-03T06:43:34.488048654Z",
+  "model": "glm-5.3"
+}

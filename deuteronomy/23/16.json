@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Δεν θα παραδώσεις δούλο στον αφέντη του, που θα σωθεί μαζί σου από τον αφέντη του.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "θα παραδώσεις"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "δούλο"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "αφέντη του"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "θα σωθεί"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "μαζί σου"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "από"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "τον αφέντη του"
+    }
+  ],
+  "timestamp": "2026-09-03T00:53:54.497234419Z",
+  "model": "glm-5.3"
+}

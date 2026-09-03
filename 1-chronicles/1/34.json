@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 1:34",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "γέννησε ο Αβραχάμ ⟨את⟩ Γιτσχάκ· γιοι του Γιτσχάκ: Εσάβ και Ισραέλ.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "γέννησε"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ο Αβραχάμ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Γιτσχάκ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Γιτσχάκ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "του Γιτσχάκ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Εσάβ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "και Ισραέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:24:55.278046527Z",
+  "model": "glm-5.3"
+}

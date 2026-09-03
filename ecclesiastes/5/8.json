@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Και το κέρδος της γης σε όλα ⟨βρίσκεται⟩· βασιλιάς για το χωράφι εργάζεται.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "Και το κέρδος"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "της γης"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "σε όλα"
+    },
+    {
+      "surface": "היא",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "βασιλιάς"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "για το χωράφι"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "εργάζεται"
+    }
+  ],
+  "timestamp": "2026-09-03T09:41:29.656200678Z",
+  "model": "glm-5.3"
+}

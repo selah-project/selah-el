@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Ακούστε ⟨את⟩ τον λόγο που μίλησε ο Γιαχβέ προς εσάς, σπίτι του Ισραέλ.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ακούστε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον λόγο"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "τον λόγο"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "μίλησε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "προς εσάς"
+    },
+    {
+      "surface": "בית",
+      "gloss": "σπίτι"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ισραέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T04:40:51.375534474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Εγώ ⟨είμαι⟩ αγοράνθος του Σαρόν, κρίνος των κοιλάδων.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Εγώ"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "αγοράνθος"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "του Σαρόν"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "κρίνος"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "των κοιλάδων"
+    }
+  ],
+  "timestamp": "2026-09-03T09:25:45.981083446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Ποιος είναι αυτός που είπε και έγινε, και ο Αδωνάι δεν το διέταξε;",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ποιος"
+    },
+    {
+      "surface": "זה",
+      "gloss": "αυτός"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "και έγινε"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ο Αδωνάι"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "διέταξε"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:58.929950304Z",
+  "model": "glm-5.3"
+}

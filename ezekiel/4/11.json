@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 4:11",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Και νερό σε μέτρο θα πιεις, το έκτο του χιν θα πιεις, από καιρό ως καιρό.",
+  "tokens": [
+    {
+      "surface": "ומים",
+      "gloss": "Και νερό"
+    },
+    {
+      "surface": "במשורה",
+      "gloss": "σε μέτρο"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "θα πιεις"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "το έκτο"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "του χιν"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "από καιρού"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ως"
+    },
+    {
+      "surface": "עת",
+      "gloss": "καιρό"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "θα πιεις"
+    }
+  ],
+  "timestamp": "2026-09-03T05:19:30.025995317Z",
+  "model": "glm-5.3"
+}

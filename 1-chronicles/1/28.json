@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Οι γιοι του Αβραχάμ: Γιτσχάκ και Γισμαέλ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "του Αβραχάμ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Γιτσχάκ"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "και Γισμαέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:24:10.743546187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Εζέρ ο πρώτος, Οβαντία ο δεύτερος, Ελιάβ ο τρίτος.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Εζέρ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ο πρώτος"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Οβαντία"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ο δεύτερος"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Ελιάβ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ο τρίτος"
+    }
+  ],
+  "timestamp": "2026-09-03T10:36:48.638411791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 36:41",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 36,
+  "translation": "Αλούφ ⟨η⟩ Οχολιβάμα, Αλούφ ⟨η⟩ Ελά, Αλούφ ⟨ο⟩ Φινόν.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "Αλούφ"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Οχολιβάμα"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "Αλούφ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ελά"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "Αλούφ"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "Φινόν"
+    }
+  ],
+  "timestamp": "2026-09-02T23:34:52.444673035Z",
+  "model": "glm-5.3"
+}

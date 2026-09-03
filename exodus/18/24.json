@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "Κι άκουσε ο Μοσέ τη φωνή του πεθερού του, και έκανε όλα όσα είπε.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Κι άκουσε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "τη φωνή"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "του πεθερού του"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "και έκανε"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "όσα"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    }
+  ],
+  "timestamp": "2026-09-02T23:51:37.187664987Z",
+  "model": "glm-5.3"
+}

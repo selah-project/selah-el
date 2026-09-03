@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Ό,τι δεν έχει πτερύγια και λέπια στα νερά, βδέλυγμα είναι για εσάς.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ό,τι"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "אין",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "לו",
+      "gloss": "σε αυτό"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "πτερύγια"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "και λέπια"
+    },
+    {
+      "surface": "במים",
+      "gloss": "στα νερά"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "βδέλυγμα"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "είναι"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "για εσάς"
+    }
+  ],
+  "timestamp": "2026-09-03T00:07:21.293841220Z",
+  "model": "glm-5.3"
+}

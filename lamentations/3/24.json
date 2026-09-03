@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "«Το μερίδιό μου ⟨είναι⟩ ο Γιαχβέ», είπε η ψυχή μου· γι' αυτό θα ελπίζω σε αυτόν.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "Το μερίδιό μου"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "η ψυχή μου"
+    },
+    {
+      "surface": "על",
+      "gloss": "γι'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "θα ελπίζω"
+    },
+    {
+      "surface": "לו",
+      "gloss": "σε αυτόν"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:45.034230518Z",
+  "model": "glm-5.3"
+}

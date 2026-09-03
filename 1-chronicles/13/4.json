@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Και είπε όλη η συνέλευση να γίνει έτσι, γιατί ήταν σωστό το πράγμα στα μάτια όλου του λαού.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλη"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "η συνέλευση"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "να γίνει"
+    },
+    {
+      "surface": "כן",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ήταν σωστό"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "το πράγμα"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "στα μάτια"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλου"
+    },
+    {
+      "surface": "העם",
+      "gloss": "του λαού"
+    }
+  ],
+  "timestamp": "2026-09-03T10:39:24.261904003Z",
+  "model": "glm-5.3"
+}

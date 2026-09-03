@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 32,
+  "translation": "Γιατί σηκώνω προς τους ουρανούς το χέρι μου και λέω: Ζω εγώ στον αιώνα!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "σηκώνω"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "τους ουρανούς"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "το χέρι μου"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "και λέω"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Ζω"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "στον αιώνα"
+    }
+  ],
+  "timestamp": "2026-09-03T00:58:02.111597686Z",
+  "model": "glm-5.3"
+}

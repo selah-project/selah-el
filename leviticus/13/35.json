@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "και αν απλωθεί ο νετέκ στο δέρμα μετά τον καθαρισμό του,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "και αν"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "απλωθεί"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "θα απλωθεί"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ο νετέκ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "στο δέρμα"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "μετά"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "τον καθαρισμό του"
+    }
+  ],
+  "timestamp": "2026-09-03T00:09:20.220200392Z",
+  "model": "glm-5.3"
+}

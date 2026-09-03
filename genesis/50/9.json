@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 50,
+  "translation": "Και ανέβη μαζί του και άρματα και ιππείς, και έγινε το στρατόπεδο βαρύ πολύ.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Και ανέβη"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "μαζί του"
+    },
+    {
+      "surface": "גם",
+      "gloss": "και"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "άρματα"
+    },
+    {
+      "surface": "גם",
+      "gloss": "και"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ιππείς"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "και έγινε"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "το στρατόπεδο"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "βαρύ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "πολύ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:43:43.663511905Z",
+  "model": "glm-5.3"
+}

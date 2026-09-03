@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Έτσι είπε ο Αδωνάι Γιαχβέ: Κακό, ένα κακό — να, έρχεται.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Έτσι"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Αδωνάι"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Κακό"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "κακό"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "να"
+    },
+    {
+      "surface": "באה",
+      "gloss": "έρχεται"
+    }
+  ],
+  "timestamp": "2026-09-03T05:20:05.351165125Z",
+  "model": "glm-5.3"
+}

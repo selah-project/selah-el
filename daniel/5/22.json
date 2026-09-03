@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Και εσύ, γιε του, Βελσατσάρ, δεν ταπείνωσες την καρδιά σου, αν και ήξερες όλα αυτά.",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "Και εσύ"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "γιε"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "Βελσατσάρ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "ταπείνωσες"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "την καρδιά σου"
+    },
+    {
+      "surface": "כל",
+      "gloss": "αν"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "και"
+    },
+    {
+      "surface": "די",
+      "gloss": "ότι"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "αυτά"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ήξερες"
+    }
+  ],
+  "timestamp": "2026-09-03T09:56:41.705576749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Γυναίκες στην Τσιόν ταπείνωσαν· παρθένες στις πόλεις του Γιαχούντα.",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "Γυναίκες"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "στην Τσιόν"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ταπείνωσαν"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "παρθένες"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "στις πόλεις"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "του Γιαχούντα"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:23.680631738Z",
+  "model": "glm-5.3"
+}

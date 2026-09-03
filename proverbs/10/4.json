@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Φτωχός κάνει χέρι χαλαρότητας, και χέρι εργατικών πλουτίζει.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Φτωχός"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "κάνει"
+    },
+    {
+      "surface": "כף",
+      "gloss": "χέρι"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "χαλαρότητας"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "και χέρι"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "εργατικών"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "πλουτίζει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:49:01.868750844Z",
+  "model": "glm-5.3"
+}

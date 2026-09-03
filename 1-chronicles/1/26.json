@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Σερουγ, Ναχωρ, Ταραχ.",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "Σερουγ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Ναχωρ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Ταραχ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:24:10.743308846Z",
+  "model": "glm-5.3"
+}

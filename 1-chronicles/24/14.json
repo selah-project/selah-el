@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Στον Βιλγά τον δέκατο πέμπτο, στον Ιμμέρ τον δέκατο έκτο.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "Στον Βιλγά"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "πέμπτος"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "δέκατος"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "στον Ιμμέρ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "έκτος"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "δέκατος"
+    }
+  ],
+  "timestamp": "2026-09-03T10:44:55.612082094Z",
+  "model": "glm-5.3"
+}

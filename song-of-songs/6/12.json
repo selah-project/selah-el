@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Δεν ήξερα — η ψυχή μου με έκανε ⟨σαν⟩ άρματα λαού μου ευγενούς.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ήξερα"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "η ψυχή μου"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "με έκανε"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "άρματα"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "λαού μου"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ευγενούς"
+    }
+  ],
+  "timestamp": "2026-09-03T09:28:36.144008346Z",
+  "model": "glm-5.3"
+}

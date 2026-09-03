@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Και είπα προς εσάς: Ήρθατε ως το βουνό του Εμορί, που ο Γιαχβέ ο Ελοχίμ μας δίνει σε εμάς.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Και είπα"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "προς εσάς"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Ήρθατε"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ως"
+    },
+    {
+      "surface": "הר",
+      "gloss": "το βουνό"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "του Εμορί"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ο Ελοχίμ μας"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "δίνει"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "σε εμάς"
+    }
+  ],
+  "timestamp": "2026-09-03T00:43:00.782010085Z",
+  "model": "glm-5.3"
+}

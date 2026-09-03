@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 6:19",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "γιος του Ελκανα, γιος του Γιαροχάμ, γιος του Ελιέλ, γιος του Τοαχ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "του Ελκανα"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "του Γιαροχάμ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "του Ελιέλ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "תוח",
+      "gloss": "του Τοαχ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:21.356173658Z",
+  "model": "glm-5.3"
+}

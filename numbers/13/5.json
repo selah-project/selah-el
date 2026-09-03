@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Από τη φυλή του Σιμεόν, Σαφάτ γιος του Χορί.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "Από τη φυλή"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "του Σιμεόν"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Σαφάτ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "του Χορί"
+    }
+  ],
+  "timestamp": "2026-09-03T00:26:14.245311636Z",
+  "model": "glm-5.3"
+}

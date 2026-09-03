@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 34,
+  "translation": "Ποιος είναι ο άνθρωπος που επιθυμεί ζωή, αγαπάει μέρες, να δει καλό;",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ποιος"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ο άνθρωπος"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "που επιθυμεί"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ζωή"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "αγαπάει"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "μέρες"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "να δει"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "καλό"
+    }
+  ],
+  "timestamp": "2026-09-03T07:52:56.718522855Z",
+  "model": "glm-5.3"
+}

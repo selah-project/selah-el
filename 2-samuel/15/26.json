@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 15:26",
+  "book": "2-samuel",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Κι αν πει έτσι: Δεν θέλω εσένα — ιδού εγώ· ας μου κάνει όπως καλό στα μάτια του.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Κι αν"
+    },
+    {
+      "surface": "כה",
+      "gloss": "έτσι"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "πει"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "θέλω"
+    },
+    {
+      "surface": "בך",
+      "gloss": "εσένα"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ιδού εγώ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ας κάνει"
+    },
+    {
+      "surface": "לי",
+      "gloss": "μου"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "όπως"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "καλό"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "στα μάτια του"
+    }
+  ],
+  "timestamp": "2026-09-03T02:28:36.881154259Z",
+  "model": "glm-5.3"
+}

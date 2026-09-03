@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι γιοι του Ασέρ: Γιμνά, Γισβά, Γισβί, Βερία και Σεράχ η αδελφή τους.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ασέρ"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "Γιμνά"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "Γισβά"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "Γισβί"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "Βερία"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "Σεράχ"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "η αδελφή τους"
+    }
+  ],
+  "timestamp": "2026-09-03T10:33:07.628617711Z",
+  "model": "glm-5.3"
+}

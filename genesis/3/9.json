@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Και φώναξε ο Γιαχβέ Ελοχίμ προς τον άνθρωπο και του είπε: Πού είσαι;",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Και φώναξε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Ελοχίμ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "τον άνθρωπο"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "και είπε"
+    },
+    {
+      "surface": "לו",
+      "gloss": "του"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Πού"
+    }
+  ],
+  "timestamp": "2026-09-02T23:20:01.740853196Z",
+  "model": "glm-5.3"
+}

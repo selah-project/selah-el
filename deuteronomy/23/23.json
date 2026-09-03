@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Κι αν απέχεις από το να κάνεις τάμα, δεν θα υπάρχει σε εσένα αμάρτημα.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Κι αν"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "απέχεις"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "να κάνεις τάμα"
+    },
+    {
+      "surface": "לא",
+      "gloss": "όχι"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "θα υπάρχει"
+    },
+    {
+      "surface": "בך",
+      "gloss": "σε εσένα"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "αμάρτημα"
+    }
+  ],
+  "timestamp": "2026-09-03T00:53:37.310981750Z",
+  "model": "glm-5.3"
+}

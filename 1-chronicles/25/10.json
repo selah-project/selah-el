@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 25:10",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 25,
+  "translation": "Ο τρίτος στον Ζακούρ, οι γιοι του και οι αδελφοί του δώδεκα.",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "Ο τρίτος"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "στον Ζακούρ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "οι γιοι του"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "και οι αδελφοί του"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "δώδεκα"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(δέκα)"
+    }
+  ],
+  "timestamp": "2026-09-03T10:44:51.626015447Z",
+  "model": "glm-5.3"
+}

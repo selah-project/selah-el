@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "el",
+  "chapter": 38,
+  "translation": "Ποιος έθεσε τα μέτρα της, αφού ξέρεις; ή ποιος τέντωσε πάνω της το σχοινί;",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ποιος"
+    },
+    {
+      "surface": "שם",
+      "gloss": "έθεσε"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "τα μέτρα της"
+    },
+    {
+      "surface": "כי",
+      "gloss": "αφού"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ξέρεις"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ποιος"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "τέντωσε"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "πάνω της"
+    },
+    {
+      "surface": "קו",
+      "gloss": "το σχοινί"
+    }
+  ],
+  "timestamp": "2026-09-03T09:22:28.096625829Z",
+  "model": "glm-5.3"
+}

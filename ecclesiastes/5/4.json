@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Καλύτερα να μην ταμάζεις, παρά να ταμάζεις και να μην εκπληρώνεις.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Καλύτερα"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "να"
+    },
+    {
+      "surface": "לא",
+      "gloss": "μην"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ταμάζεις"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "παρά να ταμάζεις"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και να μην"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "εκπληρώνεις"
+    }
+  ],
+  "timestamp": "2026-09-03T09:41:43.472572091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Αβιεζερ ο Ανατωτί, Μεβουννάι ο Χουσσί,",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "Αβιεζερ"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "ο Ανατωτί"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "Μεβουννάι"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "ο Χουσσί"
+    }
+  ],
+  "timestamp": "2026-09-03T02:36:09.072437072Z",
+  "model": "glm-5.3"
+}

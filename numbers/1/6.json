@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Του Σιμεών, Σελουμιέλ γιος Τσουρισαντάι.",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "Του Σιμεών"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Σελουμιέλ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "Τσουρισαντάι"
+    }
+  ],
+  "timestamp": "2026-09-03T00:17:59.046100019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 34,
+  "translation": "Γι' αυτό, ποιμένες, ακούστε ⟨את⟩ τον λόγο του Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Γι' αυτό"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ποιμένες"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ακούστε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον λόγο"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "τον λόγο"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T05:44:53.622071440Z",
+  "model": "glm-5.3"
+}

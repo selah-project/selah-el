@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 44,
+  "translation": "Ποιος έπλασε θεό και χυτό είδωλο, που δεν ωφελεί σε τίποτα;",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ποιος"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "έπλασε"
+    },
+    {
+      "surface": "אל",
+      "gloss": "θεό"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "και είδωλο"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "χυτό"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "που δεν"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "ωφελεί"
+    }
+  ],
+  "timestamp": "2026-09-03T04:20:19.256782071Z",
+  "model": "glm-5.3"
+}

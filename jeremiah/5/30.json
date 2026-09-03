@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Ερήμωση και φρίκη έγινε στη χώρα·",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Ερήμωση"
+    },
+    {
+      "surface": "וושערורה",
+      "gloss": "και φρίκη"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "έγινε"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "στη χώρα"
+    }
+  ],
+  "timestamp": "2026-09-03T06:54:20.417774577Z",
+  "model": "glm-5.3"
+}

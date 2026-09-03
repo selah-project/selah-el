@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Πληγή τσαράατ όταν βρεθεί σε άνθρωπο, θα φερθεί προς τον κοέν.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "Πληγή"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "τσαράατ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "όταν"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "βρεθεί"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "σε άνθρωπο"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "και θα φερθεί"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "τον κοέν"
+    }
+  ],
+  "timestamp": "2026-09-03T00:09:31.467858193Z",
+  "model": "glm-5.3"
+}

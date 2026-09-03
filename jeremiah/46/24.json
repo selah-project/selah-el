@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 46:24",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 46,
+  "translation": "Ντράπηκε η κόρη του Μιτσράιμ, δόθηκε στο χέρι λαού βόρειου.",
+  "tokens": [
+    {
+      "surface": "הבישה",
+      "gloss": "Ντράπηκε"
+    },
+    {
+      "surface": "בת",
+      "gloss": "η κόρη"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "του Μιτσράιμ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "δόθηκε"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "στο χέρι"
+    },
+    {
+      "surface": "עם",
+      "gloss": "λαού"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "βόρειου"
+    }
+  ],
+  "timestamp": "2026-09-03T05:07:59.333677069Z",
+  "model": "glm-5.3"
+}

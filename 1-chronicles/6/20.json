@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "γιος του Τσουφ, γιος του Ελκανα, γιος του Μαχάτ, γιος του Αμασάι.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "του Τσουφ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "του Ελκανα"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "του Μαχάτ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "του Αμασάι"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:21.356282340Z",
+  "model": "glm-5.3"
+}

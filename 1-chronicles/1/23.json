@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "και ⟨את⟩ Οφίρ, και ⟨את⟩ Χαβιλά, και ⟨את⟩ Γιοβάβ· όλοι αυτοί ήταν γιοι του Γιακτάν.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Οφίρ"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Οφίρ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Χαβιλά"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Χαβιλά"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "και ⟨את⟩",
+      "marks": "Γιοβάβ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Γιοβάβ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλοι"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "αυτοί"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Γιακτάν"
+    }
+  ],
+  "timestamp": "2026-09-03T11:35:56.405687199Z",
+  "model": "glm-5.3"
+}

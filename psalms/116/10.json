@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 116,
+  "translation": "Πίστεψα, γιατί μιλάω· εγώ ταλαιπωρήθηκα πολύ.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "Πίστεψα"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "μιλάω"
+    },
+    {
+      "surface": "אני",
+      "gloss": "εγώ"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ταλαιπωρήθηκα"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "πολύ"
+    }
+  ],
+  "timestamp": "2026-09-03T08:30:40.158208712Z",
+  "model": "glm-5.3"
+}

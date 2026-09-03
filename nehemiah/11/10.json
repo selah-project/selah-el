@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Από τους κοέν: Γιεντάια γιος του Γιοιαρίβ, Γιαχίν.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Από"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "τους κοέν"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Γιεντάια"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "του Γιοιαρίβ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Γιαχίν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:21:58.851718489Z",
+  "model": "glm-5.3"
+}

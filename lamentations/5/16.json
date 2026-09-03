@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Έπεσε το στέμμα του κεφαλιού μας· αλίμονο — ναι — σε μας, γιατί αμαρτήσαμε.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "Έπεσε"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "το στέμμα"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "του κεφαλιού μας"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "αλίμονο"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ναι"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "σε μας"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "αμαρτήσαμε"
+    }
+  ],
+  "timestamp": "2026-09-03T09:36:09.034122766Z",
+  "model": "glm-5.3"
+}

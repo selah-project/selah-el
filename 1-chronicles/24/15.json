@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Στον Χεζίρ τον δέκατο έβδομο, στον Απιτσέτς τον δέκατο όγδοο.",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "Στον Χεζίρ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "έβδομος"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "δέκατος"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "στον Απιτσέτς"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "όγδοος"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "δέκατος"
+    }
+  ],
+  "timestamp": "2026-09-03T10:44:55.612238552Z",
+  "model": "glm-5.3"
+}

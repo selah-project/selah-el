@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Γιοι του Μοσέ: Γκερσόμ και Ελιέζερ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "משה",
+      "gloss": "του Μοσέ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Γκερσόμ"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "και Ελιέζερ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:45:37.479450058Z",
+  "model": "glm-5.3"
+}

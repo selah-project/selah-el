@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 27,
+  "translation": "Στην ημέρα εκείνη· αμπελώνας ποθητός — απαντήστε της.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Στην ημέρα"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "εκείνη"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "αμπελώνας"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "ποθητός"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "απαντήστε"
+    },
+    {
+      "surface": "לה",
+      "gloss": "της"
+    }
+  ],
+  "timestamp": "2026-09-03T04:02:19.620410385Z",
+  "model": "glm-5.3"
+}

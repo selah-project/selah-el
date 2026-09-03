@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "οι γιοι του Χαγάβ, οι γιοι του Σαμλάι, οι γιοι του Χανάν,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "του Χαγάβ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "του Σαμλάι"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "του Χανάν"
+    }
+  ],
+  "timestamp": "2026-09-03T10:04:41.426971758Z",
+  "model": "glm-5.3"
+}

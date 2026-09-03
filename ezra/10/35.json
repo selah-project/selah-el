@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Βεναγιά, Βεδενιά, Κελουχάι.",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "Βεναγιά"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "Βεδενιά"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "Κελουχάι"
+    }
+  ],
+  "timestamp": "2026-09-03T10:08:43.169307284Z",
+  "model": "glm-5.3"
+}

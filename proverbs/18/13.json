@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 18,
+  "translation": "Όποιος απαντά σε λόγο πριν ακούσει — ανοησία είναι γι' αυτόν και ντροπή.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "απαντά"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγο"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "πριν"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ακούσει"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ανοησία"
+    },
+    {
+      "surface": "היא",
+      "gloss": "είναι"
+    },
+    {
+      "surface": "לו",
+      "gloss": "γι' αυτόν"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "και ντροπή"
+    }
+  ],
+  "timestamp": "2026-09-03T08:52:42.686525045Z",
+  "model": "glm-5.3"
+}

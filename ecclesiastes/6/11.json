@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Γιατί υπάρχουν πολλά λόγια που πολλαπλασιάζουν ατμό — τι περισσότερο ⟨έχει⟩ ο άνθρωπος;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Γιατί"
+    },
+    {
+      "surface": "יש",
+      "gloss": "υπάρχουν"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "λόγια"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "πολλά"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "που πολλαπλασιάζουν"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ατμό"
+    },
+    {
+      "surface": "מה",
+      "gloss": "τι"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "περισσότερο"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ο άνθρωπος"
+    }
+  ],
+  "timestamp": "2026-09-03T09:41:37.237452694Z",
+  "model": "glm-5.3"
+}

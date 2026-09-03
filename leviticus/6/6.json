@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Φωτιά συνεχής θα καίει πάνω στο μζβάχ· δεν θα σβήσει.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Φωτιά"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "συνεχής"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "θα καίει"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "στο μζβάχ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "θα σβήσει"
+    }
+  ],
+  "timestamp": "2026-09-03T00:04:50.093555678Z",
+  "model": "glm-5.3"
+}

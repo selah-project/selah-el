@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 7:13",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι γιοι του Ζατού: οκτακόσιοι σαράντα πέντε.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "του Ζατού"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "οκτακόσιοι"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εκατοντάδες"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "σαράντα"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "πέντε"
+    }
+  ],
+  "timestamp": "2026-09-03T12:45:32.777573704Z",
+  "model": "glm-5.3"
+}

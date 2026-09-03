@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 38:26",
+  "book": "job",
+  "lang": "el",
+  "chapter": 38,
+  "translation": "Για να βρέξει σε γη δίχως άνθρωπο, ερημιά δίχως άνθρωπο σε αυτήν.",
+  "tokens": [
+    {
+      "surface": "להמטיר",
+      "gloss": "Για να βρέξει"
+    },
+    {
+      "surface": "על",
+      "gloss": "σε"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "γη"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δίχως"
+    },
+    {
+      "surface": "איש",
+      "gloss": "άνθρωπο"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ερημιά"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δίχως"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "άνθρωπο"
+    },
+    {
+      "surface": "בו",
+      "gloss": "σε αυτήν"
+    }
+  ],
+  "timestamp": "2026-09-03T11:32:24.816254898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "και Ζβαδία και Αράδ και Εδέρ.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "και Ζβαδία"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "και Αράδ"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "και Εδέρ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:32:35.553773984Z",
+  "model": "glm-5.3"
+}

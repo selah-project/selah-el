@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 65,
+  "translation": "Ακροατής προσευχής ⟨είσαι⟩· σε σένα κάθε σάρκα θα έρθει.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Ακροατής"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "προσευχής"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "σε σένα"
+    },
+    {
+      "surface": "כל",
+      "gloss": "κάθε"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "σάρκα"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "θα έρθει"
+    }
+  ],
+  "timestamp": "2026-09-03T08:07:14.559836488Z",
+  "model": "glm-5.3"
+}

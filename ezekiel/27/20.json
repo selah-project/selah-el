@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "el",
+  "chapter": 27,
+  "translation": "Η Δεδάν ήταν έμποράς σου με ρούχα χόφες για ιππασία.",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "Η Δεδάν"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "έμποράς σου"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "με ρούχα"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "χόφες"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "για ιππασία"
+    }
+  ],
+  "timestamp": "2026-09-03T05:40:31.873045339Z",
+  "model": "glm-5.3"
+}

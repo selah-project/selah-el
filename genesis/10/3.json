@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Και γιοι του Γκομέρ: Ασκανάζ και Ριφάτ και Τογάρμα.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και γιοι"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "του Γκομέρ"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ασκανάζ"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "και Ριφάτ"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "και Τογάρμα"
+    }
+  ],
+  "timestamp": "2026-09-02T23:22:26.471679491Z",
+  "model": "glm-5.3"
+}

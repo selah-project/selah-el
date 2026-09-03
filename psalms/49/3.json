@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 49,
+  "translation": "Τόσο οι απλοί άνθρωποι όσο και οι ευγενείς, μαζί πλούσιος και φτωχός.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Τόσο"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι απλοί"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "άνθρωποι"
+    },
+    {
+      "surface": "גם",
+      "gloss": "όσο"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι ευγενείς"
+    },
+    {
+      "surface": "איש",
+      "gloss": "άνδρες"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "μαζί"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "πλούσιος"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "και φτωχός"
+    }
+  ],
+  "timestamp": "2026-09-03T08:00:47.987763182Z",
+  "model": "glm-5.3"
+}

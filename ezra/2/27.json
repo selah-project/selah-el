@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Άντρες του Μιχμάς: εκατόν και είκοσι και δύο.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "άντρες"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "του Μιχμάς"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "εκατόν"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "είκοσι"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "και δύο"
+    }
+  ],
+  "timestamp": "2026-09-03T10:02:53.007027637Z",
+  "model": "glm-5.3"
+}

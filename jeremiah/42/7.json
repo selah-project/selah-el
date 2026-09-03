@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 42,
+  "translation": "Και έγινε στο τέλος δέκα ημερών, και ήρθε λόγος του Γιαχβέ προς τον Ιερεμία.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και έγινε"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "στο τέλος"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "δέκα"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ημερών"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "και ήρθε"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "τον Ιερεμία"
+    }
+  ],
+  "timestamp": "2026-09-03T05:08:27.071024317Z",
+  "model": "glm-5.3"
+}

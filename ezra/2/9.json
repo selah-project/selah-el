@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Οι γιοι του Ζακάι, επτακόσιοι εξήντα.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "του Ζακάι"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "επτά"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εκατοντάδες"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "και εξήντα"
+    }
+  ],
+  "timestamp": "2026-09-03T10:01:55.859026691Z",
+  "model": "glm-5.3"
+}

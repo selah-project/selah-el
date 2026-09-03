@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι γιοι του άλλου Ελαμ, χίλιοι διακόσιοι πενήντα και τέσσερις.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Ελαμ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "άλλου"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "χίλιοι"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "διακόσιοι"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "πενήντα"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "και τέσσερις"
+    }
+  ],
+  "timestamp": "2026-09-03T10:16:58.262246428Z",
+  "model": "glm-5.3"
+}

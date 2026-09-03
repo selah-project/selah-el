@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Και ο Αττάι γέννησε ⟨את⟩ τον Νατάν, και ο Νατάν γέννησε ⟨את⟩ τον Ζαβάντ.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Και ο Αττάι"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "γέννησε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Νατάν"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "τον Νατάν"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "και ο Νατάν"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "γέννησε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Ζαβάντ"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "τον Ζαβάντ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:25:32.804036999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 7:10",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Γιοι του Αραχ: εξακόσιοι πενήντα δύο.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Αραχ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "εξακόσιοι"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εξακόσιοι"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "πενήντα"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "δύο"
+    }
+  ],
+  "timestamp": "2026-09-03T10:17:14.920122060Z",
+  "model": "glm-5.3"
+}

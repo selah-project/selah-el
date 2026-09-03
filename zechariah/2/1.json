@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Και σήκωσα ⟨את⟩ τα μάτια μου και είδα, και ιδού τέσσερα κέρατα.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Και σήκωσα"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τα μάτια μου"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "τα μάτια μου"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "και είδα"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "και ιδού"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "τέσσερα"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "κέρατα"
+    }
+  ],
+  "timestamp": "2026-09-03T07:33:16.438917032Z",
+  "model": "glm-5.3"
+}

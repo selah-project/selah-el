@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Γιοι του Οζιέλ: ο Μιχά· από τους γιους του Μιχά: ο Σαμούρ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "του Οζιέλ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ο Μιχά"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "από τους γιους του"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Μιχά"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ο Σαμούρ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:44:57.379675506Z",
+  "model": "glm-5.3"
+}

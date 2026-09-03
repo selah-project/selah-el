@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Μετακινεί πέτρες — θα πονέσει από αυτές· σχίζει ξύλα — θα κινδυνέψει από αυτά.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "Μετακινεί"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "πέτρες"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "θα πονέσει"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "από αυτές"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "σχίζει"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ξύλα"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "θα κινδυνέψει"
+    },
+    {
+      "surface": "בם",
+      "gloss": "από αυτά"
+    }
+  ],
+  "timestamp": "2026-09-03T09:39:58.688342711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Και είπε ο Γιαχβέ σε μένα: Πάρε ακόμα για σένα σκεύη ποιμένα ανόητου.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "σε μένα"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ακόμα"
+    },
+    {
+      "surface": "קח",
+      "gloss": "πάρε"
+    },
+    {
+      "surface": "לך",
+      "gloss": "για σένα"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "σκεύη"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ποιμένα"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ανόητου"
+    }
+  ],
+  "timestamp": "2026-09-03T07:38:40.150112723Z",
+  "model": "glm-5.3"
+}

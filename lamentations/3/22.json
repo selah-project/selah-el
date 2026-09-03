@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Τα χέσεδ του Γιαχβέ, γιατί δεν τελειώσαμε, γιατί δεν εξαντλήθηκαν τα σπλάγχνα του.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Τα χέσεδ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "του Γιαχβέ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "τελειώσαμε"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "εξαντλήθηκαν"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "τα σπλάγχνα του"
+    }
+  ],
+  "timestamp": "2026-09-03T13:00:52.701006496Z",
+  "model": "glm-5.3"
+}

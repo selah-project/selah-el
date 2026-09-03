@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 130,
+  "translation": "Ότι μαζί σου ⟨είναι⟩ η συγχώρεση, για να φοβηθείς.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ότι"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "μαζί σου"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "η συγχώρεση"
+    },
+    {
+      "surface": "למען",
+      "gloss": "για να"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "φοβηθείς"
+    }
+  ],
+  "timestamp": "2026-09-03T08:36:18.885704246Z",
+  "model": "glm-5.3"
+}

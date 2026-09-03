@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 11:27",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "και στο Χατσάρ Σουάλ, και στη Βεερ Σεβά και στα χωριά της.",
+  "tokens": [
+    {
+      "surface": "ובחצר",
+      "gloss": "και στο Χατσάρ"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Σουάλ"
+    },
+    {
+      "surface": "ובבאר",
+      "gloss": "και στη Βεερ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Σεβά"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "και στα χωριά της"
+    }
+  ],
+  "timestamp": "2026-09-03T10:20:32.638925620Z",
+  "model": "glm-5.3"
+}

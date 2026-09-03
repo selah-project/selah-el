@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 81,
+  "translation": "Σηκώστε τραγούδι και δώστε ντέφι, την ευχάριστη κιθάρα με τη νάβλα.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Σηκώστε"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "τραγούδι"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "και δώστε"
+    },
+    {
+      "surface": "תף",
+      "gloss": "ντέφι"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "κιθάρα"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ευχάριστη"
+    },
+    {
+      "surface": "עם",
+      "gloss": "με"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "τη νάβλα"
+    }
+  ],
+  "timestamp": "2026-09-03T08:16:42.542832132Z",
+  "model": "glm-5.3"
+}

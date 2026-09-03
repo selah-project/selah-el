@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "οι γιοι του Ασέμ ο Γιζονίτης, Ιωνατάν γιος Σαγκέ ο Χαραρίτης,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "השם",
+      "gloss": "του Ασέμ"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "ο Γιζονίτης"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Ιωνατάν"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "Σαγκέ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ο Χαραρίτης"
+    }
+  ],
+  "timestamp": "2026-09-03T10:34:39.689215545Z",
+  "model": "glm-5.3"
+}

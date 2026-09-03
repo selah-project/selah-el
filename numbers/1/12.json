@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Στον Νταν: ο Αχιέζερ, γιος του Αμισαντάι.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "Στον Νταν"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "ο Αχιέζερ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "γιος"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "του Αμισαντάι"
+    }
+  ],
+  "timestamp": "2026-09-03T00:17:45.727056813Z",
+  "model": "glm-5.3"
+}

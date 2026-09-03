@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 13:48",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "ή στο στημόνι ή στο υφάδι, το λινού και το μαλλιού, ή σε δέρμα ή σε κάθε έργο δέρματος.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "στο στημόνι"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "στο υφάδι"
+    },
+    {
+      "surface": "לפשתים",
+      "gloss": "το λινού"
+    },
+    {
+      "surface": "ולצמר",
+      "gloss": "και το μαλλιού"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "σε δέρμα"
+    },
+    {
+      "surface": "או",
+      "gloss": "ή"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "σε κάθε"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "έργο"
+    },
+    {
+      "surface": "עור",
+      "gloss": "δέρματος"
+    }
+  ],
+  "timestamp": "2026-09-03T00:09:45.548195920Z",
+  "model": "glm-5.3"
+}

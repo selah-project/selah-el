@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 17,
+  "translation": "Δεν ταιριάζει στον ανόητο λόγος εκλεκτός· πόσο μάλλον στον ευγενή λόγος ψεύτικος.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ταιριάζει"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "στον ανόητο"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "εκλεκτός"
+    },
+    {
+      "surface": "אף",
+      "gloss": "πόσο"
+    },
+    {
+      "surface": "כי",
+      "gloss": "μάλλον"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "στον ευγενή"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ψεύτικος"
+    }
+  ],
+  "timestamp": "2026-09-03T08:51:52.022287833Z",
+  "model": "glm-5.3"
+}

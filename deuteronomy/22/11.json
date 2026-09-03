@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Δεν θα ντύνεις σαατνέζ, μάλλινο και λινό μαζί.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Δεν"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "θα ντύνεις"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "σαατνέζ"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "μάλλινο"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "και λινό"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "μαζί"
+    }
+  ],
+  "timestamp": "2026-09-03T00:51:17.423103765Z",
+  "model": "glm-5.3"
+}

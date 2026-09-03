@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "el",
+  "chapter": 9,
+  "translation": "Και επίσης η Χαμάθ θα συνορεύει μαζί της· Τσορ και Τσιδών, γιατί πολύ σοφή ⟨είναι⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Και επίσης"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "η Χαμάθ"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "θα συνορεύει"
+    },
+    {
+      "surface": "בה",
+      "gloss": "μαζί της"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Τσορ"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "και Τσιδών"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "σοφή"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "πολύ"
+    }
+  ],
+  "timestamp": "2026-09-03T07:35:43.216908675Z",
+  "model": "glm-5.3"
+}

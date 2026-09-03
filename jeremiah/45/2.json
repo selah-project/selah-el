@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 45,
+  "translation": "Έτσι είπε ο Γιαχβέ, ο Ελοχίμ του Ισραέλ, για σένα, Βαρουχ:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Έτσι"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ο Ελοχίμ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "του Ισραέλ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "για σένα"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Βαρουχ"
+    }
+  ],
+  "timestamp": "2026-09-03T05:09:15.236232878Z",
+  "model": "glm-5.3"
+}

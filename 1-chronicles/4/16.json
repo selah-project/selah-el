@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Και οι γιοι του Ιεχαλελέλ: Ζιφ, Ζιφά, Τιριά και Ασεραέλ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και οι γιοι"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "του Ιεχαλελέλ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Ζιφ"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "και Ζιφά"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "Τιριά"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "και Ασεραέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T11:36:53.773234930Z",
+  "model": "glm-5.3"
+}

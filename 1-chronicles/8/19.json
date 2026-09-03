@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 8,
+  "translation": "και Γιακίμ, και Ζιχρί, και Ζαβντί·",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "και Γιακίμ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "και Ζιχρί"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "και Ζαβντί"
+    }
+  ],
+  "timestamp": "2026-09-03T10:32:49.777148037Z",
+  "model": "glm-5.3"
+}

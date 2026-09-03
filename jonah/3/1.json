@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Και έγινε λόγος του Γιαχβέ προς τον Γιωνά δεύτερη φορά, να πει:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Και έγινε"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "λόγος"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Γιωνά"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "δεύτερη φορά"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "να πει"
+    }
+  ],
+  "timestamp": "2026-09-03T07:18:21.532869120Z",
+  "model": "glm-5.3"
+}

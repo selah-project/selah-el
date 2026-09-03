@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Τα δύο στήθη σου ⟨είναι⟩ σαν δύο ελαφάκια, δίδυμα γαζέλας.",
+  "tokens": [
+    {
+      "surface": "שְׁנֵי",
+      "gloss": "Τα δύο"
+    },
+    {
+      "surface": "שָׁדַיִךְ",
+      "gloss": "στήθη σου"
+    },
+    {
+      "surface": "כִּשְׁנֵי",
+      "gloss": "σαν δύο"
+    },
+    {
+      "surface": "עֳפָרִים",
+      "gloss": "ελαφάκια"
+    },
+    {
+      "surface": "תָּאֳמֵי",
+      "gloss": "δίδυμα"
+    },
+    {
+      "surface": "צְבִיָּה",
+      "gloss": "γαζέλας"
+    }
+  ],
+  "timestamp": "2026-09-03T09:28:49.462603150Z",
+  "model": "glm-5.3"
+}

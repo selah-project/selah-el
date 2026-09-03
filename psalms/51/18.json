@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 51,
+  "translation": "Γιατί θυσία δεν θέλεις — θα την έδινα· ολοκαύτωμα δεν θα δεχτείς.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "θέλεις"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "θυσία"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "θα την έδινα"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ολοκαύτωμα"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "θα δεχτείς"
+    }
+  ],
+  "timestamp": "2026-09-03T08:03:15.316791168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Γιοι του Τσοφάχ: Σουάχ, και Χαρνέφερ, και Σουάλ, και Βερί, και Ιμρά.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "του Τσοφάχ"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "Σουάχ"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "και Χαρνέφερ"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "και Σουάλ"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "και Βερί"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "και Ιμρά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:36.293425097Z",
+  "model": "glm-5.3"
+}

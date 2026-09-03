@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 28:21",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 28,
+  "translation": "Δέκατο, δέκατο θα κάνεις για το ένα αρνί, για τα επτά αρνιά.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "δέκατο"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "δέκατο"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "θα κάνεις"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "για το αρνί"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "το ένα"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "για τα επτά"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "αρνιά"
+    }
+  ],
+  "timestamp": "2026-09-03T00:35:58.965142926Z",
+  "model": "glm-5.3"
+}

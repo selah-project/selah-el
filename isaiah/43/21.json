@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 43,
+  "translation": "Λαό αυτόν διαμόρφωσα για μένα· τον ύμνο μου θα αφηγούνται.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "Λαό"
+    },
+    {
+      "surface": "זו",
+      "gloss": "αυτόν"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "διαμόρφωσα"
+    },
+    {
+      "surface": "לי",
+      "gloss": "για μένα"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "τον ύμνο μου"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "θα αφηγούνται"
+    }
+  ],
+  "timestamp": "2026-09-03T04:18:45.447417685Z",
+  "model": "glm-5.3"
+}

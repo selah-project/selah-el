@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 25,
+  "translation": "Και έδωσε ο Αβραχάμ ⟨את⟩ όλα όσα είχε στον Γιτσχάκ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Και έδωσε"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ο Αβραχάμ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "όλα όσα έχει"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "όσα"
+    },
+    {
+      "surface": "לו",
+      "gloss": "είχε"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "στον Γιτσχάκ"
+    }
+  ],
+  "timestamp": "2026-09-02T23:29:11.840050007Z",
+  "model": "glm-5.3"
+}

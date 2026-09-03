@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Και γιοι του Γομέρ: Ασκενάζ και Ντιφάτ και Τογάρμα.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και γιοι"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Γομέρ"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ασκενάζ"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "και Ντιφάτ"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "και Τογάρμα"
+    }
+  ],
+  "timestamp": "2026-09-03T10:25:04.536423913Z",
+  "model": "glm-5.3"
+}

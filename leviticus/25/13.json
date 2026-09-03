@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 25,
+  "translation": "Στο έτος του Γιοβέλ τούτο θα επιστρέψετε καθένας προς την κτήση του.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Στο έτος"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "του Γιοβέλ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "τούτο"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "θα επιστρέψετε"
+    },
+    {
+      "surface": "איש",
+      "gloss": "καθένας"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "την κτήση του"
+    }
+  ],
+  "timestamp": "2026-09-03T00:16:30.337762557Z",
+  "model": "glm-5.3"
+}

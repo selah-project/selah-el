@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Ράντισα το κρεβάτι μου με μύρο, με αλόη και με κανέλα.",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "ράντισα"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "το κρεβάτι μου"
+    },
+    {
+      "surface": "מר",
+      "gloss": "μύρο"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "αλόη"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "και κανέλα"
+    }
+  ],
+  "timestamp": "2026-09-03T08:45:33.441345274Z",
+  "model": "glm-5.3"
+}

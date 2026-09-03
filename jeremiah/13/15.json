@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 13,
+  "translation": "Ακούστε και δώστε αυτί· μην υψώνεστε, γιατί ο Γιαχβέ μίλησε.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Ακούστε"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "και δώστε αυτί"
+    },
+    {
+      "surface": "אל",
+      "gloss": "μην"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "υψώνεστε"
+    },
+    {
+      "surface": "כי",
+      "gloss": "γιατί"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "μίλησε"
+    }
+  ],
+  "timestamp": "2026-09-03T04:43:13.553521710Z",
+  "model": "glm-5.3"
+}

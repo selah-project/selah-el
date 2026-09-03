@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 25,
+  "translation": "θα κοπεί ⟨את⟩ η παλάμη της· το μάτι σου δεν θα λυπηθεί.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "θα κοπεί"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "την παλάμη της"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "η παλάμη της"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "θα λυπηθεί"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "το μάτι σου"
+    }
+  ],
+  "timestamp": "2026-09-03T00:53:43.995318410Z",
+  "model": "glm-5.3"
+}

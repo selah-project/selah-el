@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Πάρτε για εσάς από τον λαό δώδεκα άντρες, έναν άντρα — έναν άντρα από φυλή:",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Πάρτε"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "για εσάς"
+    },
+    {
+      "surface": "מן",
+      "gloss": "από"
+    },
+    {
+      "surface": "העם",
+      "gloss": "τον λαό"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "δύο"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "δέκα"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "άντρες"
+    },
+    {
+      "surface": "איש",
+      "gloss": "έναν άντρα"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "איש",
+      "gloss": "έναν άντρα"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ένα"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "από φυλή"
+    }
+  ],
+  "timestamp": "2026-09-03T01:02:25.070552196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Φως ματιών χαροποιεί καρδιά, και καλή είδηση παχαίνει κόκαλα.",
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "Φως"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ματιών"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "χαροποιεί"
+    },
+    {
+      "surface": "לב",
+      "gloss": "καρδιά"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "είδηση"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "καλή"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "παχαίνει"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "κόκαλα"
+    }
+  ],
+  "timestamp": "2026-09-03T08:50:43.925945599Z",
+  "model": "glm-5.3"
+}

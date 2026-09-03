@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "Γιχουντά, Βινιαμίν, Σεμαία και Ιρμιία,",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Γιχουντά"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "και Βινιαμίν"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "και Σεμαία"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "και Ιρμιία"
+    }
+  ],
+  "timestamp": "2026-09-03T10:21:18.579100297Z",
+  "model": "glm-5.3"
+}

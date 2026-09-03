@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Οι Τσιδώνιοι αποκαλούν τον Χερμόν Σιριόν, και ο Αμορί τον αποκαλούν Σενίρ.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "Οι Τσιδώνιοι"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "αποκαλούν"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "τον Χερμόν"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "Σιριόν"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "και ο Αμορί"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "αποκαλούν"
+    },
+    {
+      "surface": "לו",
+      "gloss": "τον"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Σενίρ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:42:50.103619692Z",
+  "model": "glm-5.3"
+}

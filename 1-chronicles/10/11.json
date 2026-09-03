@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 10,
+  "translation": "Και άκουσαν όλοι στην Ιαβές της Γιλιάδ ⟨את⟩ όλα όσα έκαναν οι Φιλισταίοι στον Σαούλ.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "άκουσαν"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλοι"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "στην Ιαβές"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "της Γιλιάδ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "όλα"
+    },
+    {
+      "surface": "כל",
+      "gloss": "όλα"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "όσα"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "έκαναν"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "οι Φιλισταίοι"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "στον Σαούλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:35:00.217388371Z",
+  "model": "glm-5.3"
+}

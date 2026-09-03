@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 23:33",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 23,
+  "translation": "Θα δουν τα μάτια σου ξένα, και θα μιλήσει η καρδιά σου στρεβλά.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "τα μάτια σου"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "θα δουν"
+    },
+    {
+      "surface": "זרות",
+      "gloss": "ξένα"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "και η καρδιά σου"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "θα μιλήσει"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "στρεβλά"
+    }
+  ],
+  "timestamp": "2026-09-03T08:55:25.155504345Z",
+  "model": "glm-5.3"
+}

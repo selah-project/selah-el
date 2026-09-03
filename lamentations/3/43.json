@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Σκέπασες με οργή και μας καταδίωξες· σκότωσες, δεν λυπήθηκες.",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "Σκέπασες"
+    },
+    {
+      "surface": "באף",
+      "gloss": "με οργή"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "και μας καταδίωξες"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "σκότωσες"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "λυπήθηκες"
+    }
+  ],
+  "timestamp": "2026-09-03T09:32:16.024264689Z",
+  "model": "glm-5.3"
+}

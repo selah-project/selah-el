@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Και είπα προς εσάς: μη τρομάξετε και μη φοβηθείτε από αυτούς,",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Και είπα"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "προς εσάς"
+    },
+    {
+      "surface": "לא",
+      "gloss": "μη"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "τρομάξετε"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και μη"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "φοβηθείτε"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "από αυτούς"
+    }
+  ],
+  "timestamp": "2026-09-03T00:42:45.042500736Z",
+  "model": "glm-5.3"
+}

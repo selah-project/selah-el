@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 7:23",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι γιοι του Βετσάι: τριακόσιοι είκοσι και τέσσερα.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "του Βετσάι"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "τρία"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "εκατοντάδες"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "είκοσι"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "και τέσσερα"
+    }
+  ],
+  "timestamp": "2026-09-03T10:16:56.799392802Z",
+  "model": "glm-5.3"
+}

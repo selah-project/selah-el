@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "nehemiah 7:49",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι γιοι του Χανάν, οι γιοι του Γιντέλ, οι γιοι του Γαχάρ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Οι γιοι"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "του Χανάν"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "του Γιντέλ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "οι γιοι"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "του Γαχάρ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:17:07.483258011Z",
+  "model": "glm-5.3"
+}

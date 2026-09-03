@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 38,
+  "translation": "Και αν αρνηθείς εσύ να βγεις, αυτό είναι το λόγιο που μου έδειξε ο Γιαχβέ:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Και αν"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "αρνηθείς"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "εσύ"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "να βγεις"
+    },
+    {
+      "surface": "זה",
+      "gloss": "αυτό"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "το λόγιο"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "μου έδειξε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T05:06:37.123776124Z",
+  "model": "glm-5.3"
+}

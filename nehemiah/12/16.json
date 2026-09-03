@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 12,
+  "translation": "του Αδγιά, Ζεχαργιά· του Γινετόν, Μεσουλάμ",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "του Αδγιά"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Ζεχαργιά"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "του Γινετόν"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Μεσουλάμ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:21:14.496043796Z",
+  "model": "glm-5.3"
+}

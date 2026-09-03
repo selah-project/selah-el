@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Και οι γιοι του Γιέτερ: Γιεφούνε και Πισπά και Αρά.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και οι γιοι"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "του Γιέτερ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Γιεφούνε"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "και Πισπά"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "και Αρά"
+    }
+  ],
+  "timestamp": "2026-09-03T10:32:12.026609485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 11,
+  "translation": "Χεφέρ ο Μεχεραθίτης, Αχιά ο Πελωνίτης,",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "Χεφέρ"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "ο Μεχεραθίτης"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Αχιά"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "ο Πελωνίτης"
+    }
+  ],
+  "timestamp": "2026-09-03T10:34:39.689455050Z",
+  "model": "glm-5.3"
+}

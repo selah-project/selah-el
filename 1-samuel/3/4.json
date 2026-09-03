@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Και φώναξε ο Γιαχβέ προς τον Σμουέλ, και είπε: Ορίστε εγώ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Και φώναξε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "τον Σμουέλ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "και είπε"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ορίστε εγώ"
+    }
+  ],
+  "timestamp": "2026-09-03T01:42:24.160579161Z",
+  "model": "glm-5.3"
+}

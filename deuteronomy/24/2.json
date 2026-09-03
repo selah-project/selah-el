@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "el",
+  "chapter": 24,
+  "translation": "Και βγαίνει από το σπίτι του και πάει και γίνεται σε άλλον άντρα γυναίκα.",
+  "tokens": [
+    {
+      "surface": "ותצאה",
+      "gloss": "Και βγαίνει"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "από το σπίτι του"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "και πάει"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "και γίνεται"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "σε άντρα"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "άλλον"
+    }
+  ],
+  "timestamp": "2026-09-03T00:55:06.902062242Z",
+  "model": "glm-5.3"
+}

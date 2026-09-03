@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Και μπήκαν προς τον Νοχ, στην κιβωτό, δύο δύο, από κάθε σάρκα που μέσα του ⟨είναι⟩ πνοή ζωής·",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Και μπήκαν"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "נח",
+      "gloss": "τον Νοχ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στην"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "κιβωτό"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "δύο"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "δύο"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "από κάθε"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "σάρκα"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "בו",
+      "gloss": "μέσα του"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "πνοή"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ζωής"
+    }
+  ],
+  "timestamp": "2026-09-02T23:22:03.789002587Z",
+  "model": "glm-5.3"
+}

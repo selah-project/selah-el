@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 5,
+  "translation": "Και γιοι του Κεχάτ: Αμράμ, Γιτσαχάρ και Γκεβρόν και Ουζιέλ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και γιοι"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "του Κεχάτ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Αμράμ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Γιτσαχάρ"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "και Γκεβρόν"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "και Ουζιέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:29:07.407543522Z",
+  "model": "glm-5.3"
+}

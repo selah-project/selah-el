@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 33:56",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 33,
+  "translation": "Και θα γίνει όπως σκόπευα να κάνω σε αυτούς — θα το κάνω σε εσάς.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "και θα γίνει"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "όπως"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "σκόπευα"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "να κάνω"
+    },
+    {
+      "surface": "להם",
+      "gloss": "σε αυτούς"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "θα το κάνω"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "σε εσάς"
+    }
+  ],
+  "timestamp": "2026-09-03T00:40:45.098526251Z",
+  "model": "glm-5.3"
+}

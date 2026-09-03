@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 51,
+  "translation": "όταν ήρθε προς αυτόν ο Νατάν ο ναβί, όταν μπήκε στη Βατ Σεβά.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "όταν ήρθε"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "προς αυτόν"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ο Νατάν"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ο ναβί"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "όταν"
+    },
+    {
+      "surface": "בא",
+      "gloss": "μπήκε"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "בת",
+      "gloss": "τη Βατ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Σεβά"
+    }
+  ],
+  "timestamp": "2026-09-03T08:02:51.577426158Z",
+  "model": "glm-5.3"
+}

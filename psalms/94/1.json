@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 94,
+  "translation": "Ελ των εκδικησεων Γιαχβέ, Ελ των εκδικησεων, λάμψε!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ελ"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "των εκδικησεων"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ελ"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "των εκδικησεων"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "λάμψε"
+    }
+  ],
+  "timestamp": "2026-09-03T08:22:28.616679940Z",
+  "model": "glm-5.3"
+}

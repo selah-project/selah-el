@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "el",
+  "chapter": 27,
+  "translation": "Και αν είναι θηλυκό, τότε η εκτίμησή σου θα είναι τριάντα σέκελ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Και αν"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "θηλυκό"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "είναι"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "θα είναι"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "η εκτίμησή σου"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "τριάντα"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "σέκελ"
+    }
+  ],
+  "timestamp": "2026-09-03T00:18:31.766743362Z",
+  "model": "glm-5.3"
+}

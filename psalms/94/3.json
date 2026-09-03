@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 94,
+  "translation": "Εως ποτε οι ασεβεις, Γιαχβε, εως ποτε οι ασεβεις θα αγαλλιωνται;",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "εως"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ποτε"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "οι ασεβεις"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβε"
+    },
+    {
+      "surface": "עד",
+      "gloss": "εως"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ποτε"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "οι ασεβεις"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "θα αγαλλιωνται"
+    }
+  ],
+  "timestamp": "2026-09-03T08:22:28.617047615Z",
+  "model": "glm-5.3"
+}

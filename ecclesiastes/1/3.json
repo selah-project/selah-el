@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 1,
+  "translation": "Τι κέρδος έχει ο άνθρωπος από όλο τον κόπο του που κοπιάζει κάτω από τον ήλιο;",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Τι"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "κέρδος"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "για τον άνθρωπο"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "σε όλο"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "τον κόπο του"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "που κοπιάζει"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "κάτω από"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "τον ήλιο"
+    }
+  ],
+  "timestamp": "2026-09-03T09:37:41.272433971Z",
+  "model": "glm-5.3"
+}

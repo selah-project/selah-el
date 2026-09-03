@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "Και αυτά είναι τα λόγια που μίλησε ο Γιαχβέ για τον Ισραέλ και για τον Ιεχούντα.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Και αυτά"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "τα λόγια"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "μίλησε"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ο Γιαχβέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "για τον"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ισραέλ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "και για τον"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Ιεχούντα"
+    }
+  ],
+  "timestamp": "2026-09-03T04:56:33.219399003Z",
+  "model": "glm-5.3"
+}

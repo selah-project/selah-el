@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Και οι γιοι του Ελκανάχ: Αμασάι και Αχιμότ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "και οι γιοι"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "του Ελκανάχ"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "Αμασάι"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "και Αχιμότ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:30:55.707345864Z",
+  "model": "glm-5.3"
+}

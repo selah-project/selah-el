@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Θα πάρει άντρας φωτιά στο κόρφο του, και τα ρούχα του δεν θα καούν;",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "Θα πάρει"
+    },
+    {
+      "surface": "איש",
+      "gloss": "άντρας"
+    },
+    {
+      "surface": "אש",
+      "gloss": "φωτιά"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "στο κόρφο του"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "και τα ρούχα του"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "θα καύν"
+    }
+  ],
+  "timestamp": "2026-09-03T08:46:43.466317114Z",
+  "model": "glm-5.3"
+}

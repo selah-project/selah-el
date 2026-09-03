@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 2,
+  "translation": "Και οι γιοι του Γιονατάν: Πέλεθ και Ζαζά· αυτοί ήταν οι γιοι του Γιεραχμεέλ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Και οι γιοι"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "του Γιονατάν"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "Πέλεθ"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "και Ζαζά"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "αυτοί"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ήταν"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "του Γιεραχμεέλ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:25:32.803468514Z",
+  "model": "glm-5.3"
+}

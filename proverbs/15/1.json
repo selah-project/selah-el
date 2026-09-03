@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Απάντηση ήπια γυρίζει πίσω την οργή, και λόγος επώδυνος ανεβάζει θυμό.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "απάντηση"
+    },
+    {
+      "surface": "רך",
+      "gloss": "ήπια"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "γυρίζει πίσω"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "την οργή"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "και λόγος"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "επώδυνος"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ανεβάζει"
+    },
+    {
+      "surface": "אף",
+      "gloss": "θυμό"
+    }
+  ],
+  "timestamp": "2026-09-03T08:50:38.595670124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "el",
+  "chapter": 21,
+  "translation": "Και σηκώθηκε και έφυγε, και ο Ιωνατάν πήγε στην πόλη.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Και σηκώθηκε"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "και έφυγε"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ο Ιωνατάν"
+    },
+    {
+      "surface": "בא",
+      "gloss": "πήγε"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "στην πόλη"
+    }
+  ],
+  "timestamp": "2026-09-03T02:03:05.880296036Z",
+  "model": "glm-5.3"
+}

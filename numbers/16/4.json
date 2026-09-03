@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "el",
+  "chapter": 16,
+  "translation": "και άκουσε ο Μοσέ και έπεσε στο πρόσωπό του.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "και άκουσε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "και έπεσε"
+    },
+    {
+      "surface": "על",
+      "gloss": "στο"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "πρόσωπό του"
+    }
+  ],
+  "timestamp": "2026-09-03T00:29:47.950318190Z",
+  "model": "glm-5.3"
+}

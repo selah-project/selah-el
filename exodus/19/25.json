@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 19,
+  "translation": "Κατέβηκε ο Μοσέ προς τον λαό και τους είπε:",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Κατέβηκε"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ο Μοσέ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "προς"
+    },
+    {
+      "surface": "העם",
+      "gloss": "τον λαό"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "και είπε"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "σε αυτούς"
+    }
+  ],
+  "timestamp": "2026-09-02T23:49:58.355578328Z",
+  "model": "glm-5.3"
+}

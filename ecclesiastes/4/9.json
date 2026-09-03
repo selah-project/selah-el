@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 4,
+  "translation": "Καλύτεροι ⟨είναι⟩ οι δύο από τον έναν, που έχουν καλό μισθό στον κόπο τους.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "Καλύτεροι"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "οι δύο"
+    },
+    {
+      "surface": "מן",
+      "gloss": "από"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "τον έναν"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "יש",
+      "gloss": "έχουν"
+    },
+    {
+      "surface": "להם",
+      "gloss": "σε αυτούς"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "μισθό"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "καλό"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "στον κόπο τους"
+    }
+  ],
+  "timestamp": "2026-09-03T09:37:47.115360853Z",
+  "model": "glm-5.3"
+}

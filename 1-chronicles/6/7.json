@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Γιοι του Κεχατ: Αμιναντάβ γιος του, Κοράχ γιος του, Ασίρ γιος του.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Γιοι"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "του Κεχατ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Αμιναντάβ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "γιος του"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Κοράχ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "γιος του"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Ασίρ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "γιος του"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:00.668421745Z",
+  "model": "glm-5.3"
+}

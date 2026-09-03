@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "el",
+  "chapter": 6,
+  "translation": "Υπάρχει ένα κακό που είδα κάτω από τον ήλιο, και είναι μεγάλο πάνω στον άνθρωπο.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Υπάρχει"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "κακό"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "είδα"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "κάτω από"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "τον ήλιο"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "και μεγάλο"
+    },
+    {
+      "surface": "היא",
+      "gloss": "είναι"
+    },
+    {
+      "surface": "על",
+      "gloss": "πάνω"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "στον άνθρωπο"
+    }
+  ],
+  "timestamp": "2026-09-03T09:41:32.135082040Z",
+  "model": "glm-5.3"
+}

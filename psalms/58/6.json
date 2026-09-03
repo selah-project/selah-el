@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 58,
+  "translation": "που δεν ακούει τη φωνή των μάγων, του γητευτή γητειών πολύσοφου.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ακούει"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "τη φωνή"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "των μάγων"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "του γητευτή"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "γητειών"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "πολύσοφου"
+    }
+  ],
+  "timestamp": "2026-09-03T08:05:32.807307471Z",
+  "model": "glm-5.3"
+}

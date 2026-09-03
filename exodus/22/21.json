@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 22,
+  "translation": "Κάθε χήρα και ορφανό δεν θα καταπιέσετε.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Κάθε"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "χήρα"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "και ορφανό"
+    },
+    {
+      "surface": "לא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "θα καταπιέσετε"
+    }
+  ],
+  "timestamp": "2026-09-02T23:52:45.976774221Z",
+  "model": "glm-5.3"
+}

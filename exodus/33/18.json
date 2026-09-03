@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "el",
+  "chapter": 33,
+  "translation": "Και είπε: Δείξε μου, σε παρακαλώ, ⟨את⟩ τη δόξα σου.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "είπε"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "Δείξε μου"
+    },
+    {
+      "surface": "נא",
+      "gloss": "σε παρακαλώ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τη δόξα σου"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "τη δόξα σου"
+    }
+  ],
+  "timestamp": "2026-09-03T00:00:11.435810048Z",
+  "model": "glm-5.3"
+}

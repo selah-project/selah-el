@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "el",
+  "chapter": 41,
+  "translation": "Αυτό είναι το πράγμα που μίλησα στον Παρό: ό,τι κάνει ο Ελοχίμ, το έδειξε ⟨את⟩ τον Παρό.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Αυτό"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "το πράγμα"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "που"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "μίλησα"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Παρό"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ό,τι"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ο Ελοχίμ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "κάνει"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "το έδειξε"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Παρό"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "τον Παρό"
+    }
+  ],
+  "timestamp": "2026-09-02T23:37:32.100405253Z",
+  "model": "glm-5.3"
+}

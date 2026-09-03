@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "η αρκάδα δεν έχει βασιλιά, και βγαίνουν όλες τους παραταγμένες·",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "βασιλιά"
+    },
+    {
+      "surface": "אין",
+      "gloss": "δεν έχει"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "η αρκάδα"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "και βγαίνουν"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "παραταγμένες"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "όλες τους"
+    }
+  ],
+  "timestamp": "2026-09-03T09:00:25.594940396Z",
+  "model": "glm-5.3"
+}

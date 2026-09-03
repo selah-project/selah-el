@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Οι άντρες του Βετ-Αζμαβέτ: σαράντα δύο.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Οι άντρες"
+    },
+    {
+      "surface": "בית",
+      "gloss": "του Βετ"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Αζμαβέτ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "σαράντα"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "δύο"
+    }
+  ],
+  "timestamp": "2026-09-03T10:16:54.791235333Z",
+  "model": "glm-5.3"
+}

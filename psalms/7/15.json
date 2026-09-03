@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Ιδού, κυοφορεί αδικία, και συνέλαβε πόνο, και γέννησε ψέμα.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ιδού"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "κυοφορεί"
+    },
+    {
+      "surface": "און",
+      "gloss": "αδικία"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "και συνέλαβε"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "πόνο"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "και γέννησε"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ψέμα"
+    }
+  ],
+  "timestamp": "2026-09-03T07:43:40.444175090Z",
+  "model": "glm-5.3"
+}

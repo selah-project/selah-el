@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Και είπε ο Αχαζ: δεν θα ζητήσω και δεν θα δοκιμάσω ⟨את⟩ τον Γιαχβέ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Και είπε"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ο Αχαζ"
+    },
+    {
+      "surface": "λא",
+      "gloss": "δεν"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "θα ζητήσω"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "και δεν"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "θα δοκιμάσω"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "τον Γιαχβέ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "τον Γιαχβέ"
+    }
+  ],
+  "timestamp": "2026-09-03T03:47:12.430184901Z",
+  "model": "glm-5.3"
+}

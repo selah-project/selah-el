@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 36:22",
+  "book": "job",
+  "lang": "el",
+  "chapter": 36,
+  "translation": "Να, ο Ελ υψώνει με την ισχύ του· ποιος σαν αυτόν διδάσκει;",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Να"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ο Ελ"
+    },
+    {
+      "surface": "ישגיב",
+      "gloss": "υψώνει"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "με την ισχύ του"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ποιος"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "σαν αυτόν"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "διδάσκει"
+    }
+  ],
+  "timestamp": "2026-09-03T09:19:49.388639721Z",
+  "model": "glm-5.3"
+}

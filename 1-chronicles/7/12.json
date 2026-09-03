@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "el",
+  "chapter": 7,
+  "translation": "Και ο Σουπίμ και ο Χουπίμ γιοι του Ιρ· ο Χουσίμ, γιοι του Αχέρ.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "Και ο Σουπίμ"
+    },
+    {
+      "surface": "וחופם",
+      "gloss": "και ο Χουπίμ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "του Ιρ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ο Χουσίμ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "γιοι"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "του Αχέρ"
+    }
+  ],
+  "timestamp": "2026-09-03T10:31:18.116793753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "el",
+  "chapter": 3,
+  "translation": "Είδες, Γιαχβέ, την αδικία μου· κρίνε την κρίση μου.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Είδες"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Γιαχβέ"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "την αδικία μου"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "κρίνε"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "την κρίση μου"
+    }
+  ],
+  "timestamp": "2026-09-03T12:44:06.890197934Z",
+  "model": "glm-5.3"
+}

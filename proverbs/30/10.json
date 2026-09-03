@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "el",
+  "chapter": 30,
+  "translation": "Μη συκοφαντείς δούλον στον κύριό του, μήπως σε καταραστή και φας ένοχος.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "μη"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "συκοφαντείς"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "δούλο"
+    },
+    {
+      "surface": "אל",
+      "gloss": "στον"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "κύριό του"
+    },
+    {
+      "surface": "פן",
+      "gloss": "μήπως"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "σε καταραστή"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "και φας ένοχος"
+    }
+  ],
+  "timestamp": "2026-09-03T08:59:03.128673917Z",
+  "model": "glm-5.3"
+}

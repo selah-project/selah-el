@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "el",
+  "chapter": 15,
+  "translation": "Μαόν, Καρμέλ, και Ζιφ, και Γιουτά",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "Μαόν"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "Καρμέλ"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "και Ζιφ"
+    },
+    {
+      "surface": "ויוטה",
+      "gloss": "και Γιουτά"
+    }
+  ],
+  "timestamp": "2026-09-03T01:11:45.096874334Z",
+  "model": "glm-5.3"
+}
