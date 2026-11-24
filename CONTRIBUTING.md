@@ -7,7 +7,7 @@
 - Αν μια λέξη θέλει συζήτηση, ή αν σηκώνει περισσότερες από μία αναγνώσεις — ανοίξτε ένα **Issue**.
 - Αν το λάθος είναι καθαρό και η διόρθωση επίσης καθαρή — ανοίξτε ένα **Pull request**.
 - Αποθετήριο: <https://github.com/selah-project/selah-el>
-- Για ερωτήσεις λογισμικού ή ασφάλειας — <support@selahproject.com> ή [Selah Support](https://selahproject.com/support).
+- Για ερωτήσεις λογισμικού ή ασφάλειας — <https://s33k3r.com/learn/support> ή [Selah Support](https://s33k3r.com/learn/support).
 
 ## Τι να βάλετε στην αναφορά
 
@@ -61,7 +61,7 @@
 
 Thank you — you are helping this rendering become clearer, more visible, and closer to real Modern Greek. You do not need to be a scholar: say what you saw, give your grounds, and separate what you are sure of from what you are guessing.
 
-- **Issue** for a word that needs discussion or has more than one reading; **Pull request** when both the error and the fix are clear. Repository: <https://github.com/selah-project/selah-el>. Software or security questions: <support@selahproject.com>.
+- **Issue** for a word that needs discussion or has more than one reading; **Pull request** when both the error and the fix are clear. Repository: <https://github.com/selah-project/selah-el>. Software or security questions: <https://s33k3r.com/learn/support>.
 - Files are `<book>/<chapter>/<verse>.json`. Change `translation` and the matching `gloss` together. **Never** change `book`, `chapter`, `verse`, `ref`, the Hebrew `surface`, or the order and count of the tokens — breaking the alignment is the costliest error.
 - **The Name table**: יהוה → **Γιαχβέ**; אלהים → **Ελοχίμ**; אל → **Ελ**; אלוה → **Ελοά**; אדני → **Αδωνάι**; שדי → **Σαδδάι**; צבאות → **Τσεβαότ**; יה → **Γιαχ**; שאול → **Σεόλ**; חסד → **χέσεδ**; משיח → **Μασίαχ**. At the Name seat, *Κύριος* in any case or capitalisation, *Ιεχωβά*, *ο Ων*, and *Θεός* are rejected. Common-noun *θεός / θεοί* (the gods of the nations, idols, the judges of Psalm 82) is lawful and stays **lowercase**; a human אדון takes *κύριος / αφέντης / άρχοντας*.
 - **No honorific prefix** on our forms: **Γιαχβέ**, not *ο Θεός Γιαχβέ*; **Ελοχίμ**, not *ο Θεός Ελοχίμ*; never *Κύριος ο Θεός*.

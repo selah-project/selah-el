@@ -97,7 +97,7 @@
 
 ## Στηρίξτε το Selah
 
-Αυτή η απόδοση είναι ανοιχτή, υπό την άδεια CC BY-SA 4.0. Αν αυτή η δουλειά σας φανεί χρήσιμη και θέλετε να στηρίξετε τη μετάφραση, την αναθεώρηση, την έκδοση και τη συνέχειά της — δείτε: [selahproject.com/support](https://selahproject.com/support)
+Αυτή η απόδοση είναι ανοιχτή, υπό την άδεια CC BY-SA 4.0. Αν αυτή η δουλειά σας φανεί χρήσιμη και θέλετε να στηρίξετε τη μετάφραση, την αναθεώρηση, την έκδοση και τη συνέχειά της — δείτε: [s33k3r.com/learn/support](https://s33k3r.com/learn/support)
 
 ## Ελάτε να ελέγξετε
 
@@ -106,12 +106,12 @@
 Αν δείτε λάθος ή έχετε διόρθωση:
 
 - Ανοίξτε ένα **Issue** ή ένα **Pull request** στο αποθετήριο: <https://github.com/selah-project/selah-el>
-- Ή γράψτε μας: <support@selahproject.com>
+- Ή γράψτε μας: <https://s33k3r.com/learn/support>
 
 Πριν αναφέρετε λάθος ή προτείνετε διόρθωση, διαβάστε πρώτα το [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Selah
 
-- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
-- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
-- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
+- The languages of Selah — every chair, native name and status: https://s33k3r.com/learn/languages/index
+- How the renderings are made — the process, the discipline, the receipts: https://s33k3r.com/learn/data-sources/selah-renderings
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://s33k3r.com/learn/data-sources/oshb-wlc
